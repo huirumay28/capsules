@@ -2,114 +2,93 @@
   "slug": "war-of-resistance",
   "date": "2026-08-16",
   "subject": "history",
-  "title": "1937–1945: when the world war started in China",
-  "dek": "Marco Polo Bridge to surrender — a war already eight years old when many textbooks open in Poland.",
-  "era": "1937–1945 (with 1931 behind it)",
-  "reading_minutes": 16,
+  "related": [],
+  "title": "War of Resistance (1937–45): the war that did not wait for 1939",
+  "dek": "From the Marco Polo Bridge to Chongqing — a world war looked at from China, not as Asia’s footnote to Europe.",
+  "era": "1937–1945",
+  "reading_minutes": 15,
   "thumb": {
-    "src": "lessons/war-of-resistance/shanghai-refugees.jpg",
-    "alt": "A man pulling a cart piled with household goods, Shanghai, 1937."
+    "src": "lessons/war-of-resistance/marco-polo-bridge.jpg",
+    "alt": "Aerial photograph of the Lugou (Marco Polo) Bridge and Wanping fortress."
   },
   "hero": {
     "src": "lessons/war-of-resistance/marco-polo-bridge.jpg",
-    "alt": "Japanese aerial reconnaissance photograph of the Marco Polo Bridge and Wanping, 1937.",
-    "caption": "A Japanese reconnaissance photograph of the Marco Polo Bridge (盧溝橋) and Wanping, from a wartime album covering 1937–1940. The incident of 7 July 1937 is a night of shots and a missing soldier; this is the place, seen from the air by the army that used the night.",
-    "credit": "Shina Jihen Kinen Shashincho via Wikimedia Commons / public domain in Japan",
-    "credit_url": "https://commons.wikimedia.org/wiki/File:Marco_Polo_Bridge_air_view.PNG"
+    "alt": "Aerial view of the Lugou Bridge crossing a wide riverbed beside the walled town of Wanping, with an aircraft nose at the bottom of the frame.",
+    "caption": "The Lugou (Marco Polo) Bridge and Wanping, southwest of Beiping. On 7–8 July 1937 a clash here became the start of full-scale war between the Republic of China and Japan. The photograph is a later aerial; the geography is the fact.",
+    "credit": "Wikimedia Commons / public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/Category:Lugou_Bridge"
   },
-  "honesty": "This capsule is the Second World War from China, not a European war with an Asian chapter. Death-toll figures for Nanjing remain contested; the text says so instead of picking a round number for effect. One photograph of a bombed street is enough. There are no pictures of bodies used as decoration.",
+  "honesty": "This capsule looks out from China. Europe’s 1939 is contemporaneous, not the frame. “World War II” as a 1939–45 European story leaves 1937–39 as a preface. From Chongqing, 1939 is the year the European war caught up. Nanjing is treated with one careful image of a city after bombing — no corpses as illustration. Casualty figures that cannot be sourced here are omitted.",
   "timeline": [
     {
-      "year": "1931",
-      "label": "Mukden",
-      "detail": "18 September: a railway explosion, then the Kwantung Army occupies Manchuria."
-    },
-    {
-      "year": "1932",
-      "label": "Manchukuo",
-      "detail": "A puppet state. The Lytton Commission reports; the League does not stop it."
+      "year": "1931–32",
+      "label": "Mukden / Lytton",
+      "detail": "Japan seizes Manchuria. The League’s Lytton Commission investigates. The full-scale war is still ahead."
     },
     {
       "year": "1937",
-      "label": "7 July",
-      "detail": "Marco Polo Bridge. Full-scale war. Shanghai in August; Nanjing in December."
+      "label": "Lugou / Shanghai",
+      "detail": "7 July at the Marco Polo Bridge; the Battle of Shanghai from August."
     },
     {
-      "year": "1937–38",
+      "year": "1937",
       "label": "Nanjing",
-      "detail": "City falls 13 December 1937. Killings, rape, and looting into January 1938."
+      "detail": "The capital falls in December. Massacre follows. This capsule will not decorate that fact."
+    },
+    {
+      "year": "1938–43",
+      "label": "Chongqing",
+      "detail": "Wartime capital. Years of bombing. A city that had to go underground."
     },
     {
       "year": "1939",
       "label": "Europe",
-      "detail": "Germany invades Poland, 1 September. Many English textbooks still start the world war here."
+      "detail": "Germany invades Poland. A second opening, not the first."
     },
     {
-      "year": "1941",
-      "label": "The wars join",
-      "detail": "Pearl Harbor, 7 December. The China war and the European war become one Allied war."
+      "year": "1945",
+      "label": "Surrender / after",
+      "detail": "Japan surrenders. The civil war does not wait long. Memory becomes a second fight."
     }
   ],
   "watch": [
     {
-      "title": "Why We Fight: The Battle of China (U.S. Army, 1944)",
+      "title": "The Battle of China (1944) — Why We Fight",
       "url": "https://archive.org/details/BattleOfChina",
-      "note": "Frank Capra’s public-domain U.S. Army film. It is wartime Allied propaganda — useful as a primary source for how Washington explained China in 1944, not as a neutral history. Internet Archive."
-    },
-    {
-      "title": "National Archives copy of the same film",
-      "url": "https://archive.org/details/gov.archives.arc.36072",
-      "note": "NARA identifier 36072 / 111-OF-6. Same picture, institutional catalogue. Still a 1944 briefing film, including atrocity footage the Army wanted soldiers to see."
+      "note": "U.S. Army orientation film, Frank Capra series. Public-domain American wartime framing of the China theater — useful as a primary object, not as a neutral history. Internet Archive."
     }
   ],
   "glossary": [
     {
-      "term": "Mukden Incident",
+      "term": "War of Resistance",
       "aliases": [
-        "18 September",
-        "九一八"
+        "抗日戰爭",
+        "Second Sino-Japanese War"
       ],
-      "explain": "On the night of 18 September 1931 a section of the South Manchuria Railway near Mukden (Shenyang) was blown up. The Kwantung Army blamed Chinese saboteurs and used the explosion to occupy Manchuria. Later evidence treats the blast as a Japanese pretext."
-    },
-    {
-      "term": "Manchukuo",
-      "aliases": [
-        "Manchoukuo"
-      ],
-      "explain": "Puppet state proclaimed in 1932 in occupied Northeast China, with Puyi as chief executive and later emperor. Few governments recognized it. It lasted until 1945."
-    },
-    {
-      "term": "Lytton Report",
-      "aliases": [
-        "Lytton Commission"
-      ],
-      "explain": "League of Nations commission (Lord Lytton) that investigated Manchuria and reported in 1932: Japan’s action was not self-defense; Manchukuo was not a genuine independence movement. The League adopted the report; it did not reverse the occupation. Japan left the League in 1933."
-    },
-    {
-      "term": "Nanjing decade",
-      "explain": "1927–1937: the Nationalist government, having nominally unified China, made Nanjing its capital. “Decade” is a historian’s label for a state-building interval that ended when the capital had to be abandoned."
+      "explain": "Chinese name for the full-scale war with Japan, conventionally dated from 7 July 1937 to 1945. Some Chinese histories include 1931. This capsule uses 1937–45 as the full-scale span and treats 1931 as the before."
     },
     {
       "term": "Marco Polo Bridge",
       "aliases": [
+        "Lugou Bridge",
         "盧溝橋",
-        "Lugou Bridge"
+        "Lugouqiao"
       ],
-      "explain": "Stone bridge southwest of Beijing. On 7 July 1937 a Japanese night exercise, a missing soldier, and shots at Wanping became the start of full-scale war. The missing soldier turned up; the war did not stop."
+      "explain": "Stone bridge over the Yongding River near Wanping, southwest of Beiping. A clash beginning 7 July 1937 became the opening of full-scale war. Europeans had long called it the Marco Polo Bridge."
+    },
+    {
+      "term": "Wanping",
+      "aliases": [
+        "宛平"
+      ],
+      "explain": "Walled town at the north end of the Lugou Bridge. The 1937 incident is a fight over a railway town and a crossing, not a metaphor."
     },
     {
       "term": "United Front",
       "aliases": [
         "Second United Front"
       ],
-      "explain": "The uneasy KMT–CCP alliance against Japan after the Xi’an Incident (December 1936) and the 1937 invasion. It was a wartime necessity, not a reconciliation. It frayed long before 1945."
-    },
-    {
-      "term": "comfort women",
-      "aliases": [
-        "慰安婦"
-      ],
-      "explain": "The Japanese military’s system of sexual slavery in occupied Asia — stations staffed by women from Korea, China, the Philippines, and elsewhere, under coercion and deception. A regional system, not a single camp. The documentary record and survivor testimony are the sources; this capsule does not illustrate it with a photograph."
+      "explain": "The uneasy wartime cooperation between the Nationalists (KMT) and the Communists after 1937, following the Xi’an Incident of 1936. A front is not a friendship. It is an agreement about who the enemy is this year."
     },
     {
       "term": "Chongqing",
@@ -117,120 +96,147 @@
         "Chungking",
         "重慶"
       ],
-      "explain": "The Nationalist wartime capital after Nanjing and Wuhan. From 1938 to 1943 it was repeatedly bombed by Japanese aircraft — one of the war’s long air campaigns against a civilian city."
+      "explain": "Sichuan city that became the Nationalist wartime capital after the fall of Nanjing and the retreat up the Yangtze. Japanese bombing of the city, 1938–43, is one of the long air campaigns of the war."
     },
     {
-      "term": "Nanjing massacre",
+      "term": "Battle of Shanghai",
+      "explain": "August–November 1937. Urban fighting that made the war visible to foreign concessions and foreign cameras. It did not save Nanjing."
+    },
+    {
+      "term": "Nanjing Massacre",
       "aliases": [
         "Nanking Massacre",
         "Rape of Nanking"
       ],
-      "explain": "After Japanese forces took Nanjing on 13 December 1937, weeks of killing, rape, and looting followed into January 1938. Death-toll estimates remain contested: the International Military Tribunal for the Far East cited over 200,000; the official PRC figure is 300,000. The event is not in doubt because the totals differ."
+      "explain": "After the city fell in December 1937, Japanese troops killed civilians and disarmed soldiers on a mass scale and committed widespread rape. This capsule names the event and does not illustrate it with bodies."
     },
     {
-      "term": "Kwantung Army",
-      "explain": "Japanese army in the leased Kwantung Territory and, after 1931, in Manchuria. It often acted ahead of civilian government in Tokyo. Mukden is the usual example."
+      "term": "Lytton Commission",
+      "explain": "League of Nations commission, 1931–32, led by Lord Lytton, sent to investigate Japan’s seizure of Manchuria after the Mukden Incident. Its report rejected Japan’s account. Japan left the League. The war of 1937 still came."
+    },
+    {
+      "term": "Mukden Incident",
+      "aliases": [
+        "18 September",
+        "九一八"
+      ],
+      "explain": "18 September 1931: an explosion on the South Manchuria Railway used by the Kwantung Army as a pretext to seize Mukden (Shenyang) and then Manchuria. The before of 1937."
+    },
+    {
+      "term": "National Revolutionary Army",
+      "aliases": [
+        "NRA"
+      ],
+      "explain": "The Nationalist government’s army, commanded in this war by Chiang Kai-shek. Not the only Chinese armed force in the field; the Communists fought as well, under the United Front’s strained roof."
     },
     {
       "term": "Xi’an Incident",
-      "explain": "December 1936: Zhang Xueliang detained Chiang Kai-shek in Xi’an and forced a turn toward resisting Japan rather than only encircling the Communists. The Second United Front follows."
+      "explain": "December 1936: Zhang Xueliang detained Chiang Kai-shek in Xi’an to force a turn from civil war toward resistance against Japan. The Second United Front follows. A kidnapping as policy."
     },
     {
-      "term": "Burma Road",
-      "explain": "Overland supply route from Burma into Yunnan, used after Japan closed the China coast. When Burma fell in 1942 the airlift over “the Hump” replaced it. Allied films made the road a miracle; it was also a desperate substitute for ports."
-    },
-    {
-      "term": "memory politics",
-      "explain": "How a state teaches a war afterward: which dates, which victims, which silences. PRC, Taiwan, and Japan do not tell 1937–45 the same way. The disagreement is part of the after, not a reason to treat the war as undecidable."
+      "term": "Beiping",
+      "aliases": [
+        "Peking",
+        "Beijing"
+      ],
+      "explain": "The city now called Beijing. In 1937 it was Beiping — “Northern Peace” — because the Nationalist capital was Nanjing. Names in this capsule follow the political geography of the year."
     }
   ],
   "fun_fact": {
-    "title": "The date the textbook still uses",
-    "text": "A great many English-language textbooks still open the Second World War on 1 September 1939, when Germany invaded Poland. China had been in full-scale war since 7 July 1937, and under occupation in the Northeast since 1931. The 1939 date is not a lie about Europe. It is a habit of where the narrator is standing."
+    "title": "Europeans named the bridge for a traveler",
+    "text": "The stone bridge at Wanping is 盧溝橋, the Lugou Bridge. Europeans called it the Marco Polo Bridge because Polo’s Travels describe a fine bridge in this region. The 1937 incident entered English under the traveler’s name. The soldiers at Wanping were not fighting over a memoir. They were fighting over a crossing and a railway town. The nickname is a European filing label that stuck."
   },
   "sections": [
     {
       "id": "before",
       "kicker": "Before",
-      "title": "A railway charge, a puppet state, a capital that still believed in time",
+      "title": "Manchuria was already a wound",
       "blocks": [
         {
           "type": "p",
-          "text": "On the night of 18 September 1931 a section of the South Manchuria Railway near Mukden was blown up. The Kwantung Army blamed Chinese saboteurs and occupied the Northeast. Later evidence treats the blast as a Japanese pretext. The League of Nations sent the Lytton Commission. The 1932 report said Japan had not acted in self-defense and that Manchukuo was not a real independence movement. The League adopted the report. It did not put the army back. Japan left the League in 1933."
+          "text": "On 18 September 1931 the Kwantung Army used an explosion on the South Manchuria Railway as a pretext to seize Mukden and then Manchuria. The League of Nations sent the Lytton Commission. The commissioners walked tracks, took testimony, and produced a report that did not accept Japan’s story. Japan left the League. The occupation stayed."
         },
         {
           "type": "figure",
           "src": "lessons/war-of-resistance/lytton-commission.jpg",
-          "alt": "Members of the Lytton Commission inspecting a railway site in Manchuria.",
-          "caption": "The Lytton Commission at a railway site in Manchuria. A photograph of inspection, not of enforcement. The report of 1932 is clearer than the League’s power to act on it.",
+          "alt": "Men in suits and hats inspecting a railway track in an open landscape.",
+          "caption": "Investigators on a Manchurian railway — the kind of scene the Lytton Commission’s 1931–32 inquiry produced. A League report can name a pretext. It could not put the province back.",
           "credit": "Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Lytton_Commission_at_railway.jpg"
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:Lytton_Commission"
         },
         {
           "type": "p",
-          "text": "In those same years the Nationalist government was trying to be a state from Nanjing — the “Nanjing decade,” 1927–1937: ministries, a currency, campaigns against the Communists, a capital that still looked like a future. The decade is a historian’s interval. It ends when the capital has to move."
+          "text": "Inside China the 1930s were also a civil war. The Xi’an Incident of December 1936 — Zhang Xueliang detaining Chiang Kai-shek — forced a turn: a Second United Front against Japan. The front was a cease-fire with a shared enemy, not a merger. That is the politics standing behind 7 July 1937."
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "A night at a bridge, then a country on the road",
+      "title": "From a bridge to a country that had to move",
       "blocks": [
         {
           "type": "p",
-          "text": "On 7 July 1937 Japanese troops on night exercise near the Marco Polo Bridge (盧溝橋), southwest of Beijing, reported a missing soldier and shots at Wanping. The soldier turned up. The firing did not become a local incident. Within weeks it was a war. Shanghai was fought over from August to November. The government left Nanjing."
+          "text": "On the night of 7 July 1937 a Japanese unit near the Lugou Bridge claimed a missing soldier and demanded entry to Wanping. Shots followed. The incident did not stay local. By the end of the month Beiping and Tianjin were gone. In August the Battle of Shanghai opened a war that foreign concessions could photograph from their own rooftops."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/war-of-resistance/chiang-shanghai-1937.jpg",
+          "alt": "Chiang Kai-shek in uniform looking through binoculars, other officers behind him.",
+          "caption": "Chiang Kai-shek, in the field, looking through binoculars — a wartime command image. The Nationalist state would lose its capital and move the government upriver. The man in the cap is not the whole war. He is the government that had to relocate.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:Chiang_Kai-shek"
         },
         {
           "type": "figure",
           "src": "lessons/war-of-resistance/shanghai-refugees.jpg",
-          "alt": "A man pulling a heavily loaded refugee cart through a Shanghai street in 1937.",
-          "caption": "Shanghai, 1937: a cart, furniture, one man. U.S. Navy photograph. The unnamed person in this war is usually on the road — out of Hongkou, out of Nanjing, west toward Wuhan and then Chongqing. Armies have names in the captions. Refugees often do not.",
-          "credit": "U.S. Navy / Naval History and Heritage Command NH 77756 / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:NH_77756.jpg"
+          "alt": "A man pulling a cart piled with furniture and a child’s rocking horse through a Chinese city street.",
+          "caption": "A civilian pulling a household — chairs, boards, a rocking horse — through a city street. The War of Resistance is a military history. It is also this: millions of people walking inland with what a cart would hold.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:Second_Sino-Japanese_War"
         },
         {
           "type": "p",
-          "text": "Japanese forces entered Nanjing on 13 December 1937. For weeks into January 1938 there were mass killings, rape, and looting. The International Military Tribunal for the Far East later cited a death toll of over 200,000; the official figure of the People’s Republic is 300,000. Historians still argue about the arithmetic. They do not argue about whether the weeks happened. This capsule uses one photograph of a street already bombed in September — not a picture of corpses."
+          "text": "Nanjing, the capital, fell in December 1937. What followed is the Nanjing Massacre: mass killing of civilians and prisoners, mass rape. This capsule uses one photograph of a city after air attack — rubble, people standing in it, no bodies arranged for the lens. The event does not need a corpse to be believed. If you need numbers, go to the historians who argue over them in public. They are not invented here."
         },
         {
           "type": "figure",
           "src": "lessons/war-of-resistance/nanjing-bombing-1937.jpg",
-          "alt": "A ruined shopping street in Nanjing after a Japanese air raid on 28 September 1937.",
-          "caption": "Pingshi Street, Nanjing, after the raid of 28 September 1937 — months before the December occupation. A ruined commercial street, not a massacre photograph. It is here to show that the city was already being broken from the air before the army arrived.",
+          "alt": "Civilians standing in a wide field of rubble after the bombing of a Chinese city, 1937.",
+          "caption": "A Chinese city after bombing, 1937 — the archive filename places it in Nanjing. People in the frame are standing. This is the one Nanjing image in the capsule: a capital made into a field, not a gallery of the dead.",
           "credit": "Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Japanese_bombed_Nanjing_om_28_September_1937.jpg"
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:Nanjing_Massacre"
         },
         {
           "type": "p",
-          "text": "The capital that remained was Chongqing: fog, stairs, and, from 1938 into 1943, repeated Japanese bombing. It was one of the long air campaigns of the war against a civilian city. People dug shelters into the rock. The government that sat there was still Chiang’s."
+          "text": "The government went to Chongqing. From 1938 the city was bombed, again and again, for years. People lived in tunnels. The wartime capital is not a footnote to the fall of France. It is where the Republic of China was still a state."
         },
         {
           "type": "figure",
           "src": "lessons/war-of-resistance/chongqing-bomber.jpg",
-          "alt": "A Japanese Mitsubishi Ki-21 bomber over Chongqing during an air raid.",
-          "caption": "A Mitsubishi Ki-21 over Chongqing. The picture is from the bomber’s side of the air. What it does not show is the city underneath — the shelters, the fires, the years of it.",
+          "alt": "A Japanese twin-engine bomber over a river city, smoke plumes on the ground.",
+          "caption": "A Japanese bomber over a river city, smoke on the ground — the archive identifies the campaign against Chongqing. From the air, a capital is a target set. From the ground, it is a schedule of sirens.",
           "credit": "Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:%E8%BD%9F%E7%82%B8%E9%87%8D%E6%85%B6.jpg"
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:Bombing_of_Chongqing"
         },
         {
           "type": "p",
-          "text": "The Second United Front put the Nationalists and the Communists in the same war against Japan. It was a cease-fire with a shared enemy, not a merger. Zhou Enlai spent much of the war as the Communist representative in the Nationalist capitals. The front frayed. It did not wait for 1945 to fail."
+          "text": "In September 1939 Germany invaded Poland. From London that is when “the war” begins. From Chongqing it is the year the European war joined a war already two years old. The United Front still held, badly. Zhou Enlai in the Nationalist capital was diplomacy as much as alliance. Xiao Hong, who had already fled the Northeast, died in 1942 in Japanese-occupied Hong Kong — a writer’s war, not a general’s."
         },
         {
-          "type": "p",
-          "text": "Across occupied Asia the Japanese military ran a system of sexual slavery later named 慰安婦 / comfort women: stations, contracts that were not contracts, women from Korea, China, the Philippines, and elsewhere. It was a regional system, not a single atrocity attached to one city. The sources are documents and survivors. This capsule does not put a face on it for layout."
-        },
-        {
-          "type": "p",
-          "text": "Look outward from China, not the other way around. On 1 September 1939 Germany invaded Poland. That is a real beginning — of the European war. It is not the beginning of this one. For two years the China war and the European war run in parallel. They join after 7 December 1941, when Japan attacks Pearl Harbor and the Western colonies in Southeast Asia, and the United States declares war. 1941 is the year the wars become one Allied war. It is not the year China entered."
+          "type": "figure",
+          "src": "lessons/war-of-resistance/zhou-enlai-1938.jpg",
+          "alt": "Zhou Enlai in a dark suit standing between Edgar Snow and Deng Yingchao.",
+          "caption": "Zhou Enlai (center) with the American journalist Edgar Snow and Deng Yingchao, 1938. The United Front had to be explained to foreigners as well as fought. A photograph of three people standing is not a merger of two parties.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:Zhou_Enlai"
         }
       ]
     },
     {
       "id": "people",
       "kicker": "People",
-      "title": "A generalissimo, a liaison, a writer, and the unnamed",
+      "title": "A general, a diplomat, a writer",
       "blocks": [
         {
           "type": "people",
@@ -239,58 +245,63 @@
               "name": "Chiang Kai-shek 蔣介石",
               "dates": "1887–1975",
               "image": "lessons/war-of-resistance/chiang-shanghai-1937.jpg",
-              "alt": "Chiang Kai-shek among troops in Shanghai, 1937.",
-              "caption": "Chiang in Shanghai, 1937 — a front-line photograph meant to raise morale. It is a posed closeness to the army, not a biography.",
-              "credit": "Wikimedia Commons / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:Shanghai1937KMT_chiang_kai_shek.jpg",
-              "text": "Head of the Nationalist state and of the army that had to trade space for time. This capsule does not need him to be a hero or a villain. It needs him as the man whose government moved west and whose army did not defeat Japan alone."
+              "alt": "Chiang Kai-shek with binoculars.",
+              "caption": "Wartime command photograph.",
+              "credit": "Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/Category:Chiang_Kai-shek",
+              "text": "Head of the Nationalist government and commander of the National Revolutionary Army. He lost the coast and kept a state in Sichuan. The after of 1945 is also his."
             },
             {
               "name": "Zhou Enlai 周恩來",
               "dates": "1898–1976",
               "image": "lessons/war-of-resistance/zhou-enlai-1938.jpg",
-              "alt": "Zhou Enlai and Deng Yingchao meeting Edgar Snow in Wuhan, summer 1938.",
-              "caption": "Wuhan, summer 1938: Zhou Enlai and Deng Yingchao with the American journalist Edgar Snow. A United Front photograph — Communist liaison, Nationalist wartime capital, foreign press.",
-              "credit": "Wikimedia Commons / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:1938_Snow_Zhou_Deng.jpg",
-              "text": "Communist representative in the Nationalist wartime capitals. The United Front’s human hinge. After 1949 he is someone else. Here he is the man in the shared city."
+              "alt": "Zhou Enlai with Edgar Snow and Deng Yingchao.",
+              "caption": "1938, with Snow and Deng Yingchao.",
+              "credit": "Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/Category:Zhou_Enlai",
+              "text": "Communist representative in the United Front’s public face. Chongqing and the liaison work are part of how the CCP survived the war as a political fact, not only as a guerrilla force."
             },
             {
               "name": "Xiao Hong 蕭紅",
               "dates": "1911–1942",
               "image": "lessons/war-of-resistance/xiao-hong.jpg",
-              "alt": "A small studio portrait of the writer Xiao Hong.",
-              "caption": "Xiao Hong. The file is a small period portrait; it is what a free archive has. She died in Japanese-occupied Hong Kong in 1942.",
+              "alt": "Portrait of the writer Xiao Hong.",
+              "caption": "Xiao Hong, a 1930s portrait.",
               "credit": "Wikimedia Commons / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:%E8%90%A7%E7%BA%A2.jpg",
-              "text": "Writer, from the Northeast. The Field of Life and Death; Tales of Hulan River. She fled Harbin, wrote in the same years the armies moved, and died in Hong Kong in 1942. Not a general. A person the war displaced and then outlived."
-            },
-            {
-              "name": "The unnamed on the road",
-              "dates": "1937–1945",
-              "image": "lessons/war-of-resistance/shanghai-refugees.jpg",
-              "alt": "Refugee cart, Shanghai, 1937.",
-              "caption": "Shanghai, 1937. One cart, no name on the Navy caption.",
-              "credit": "U.S. Navy / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:NH_77756.jpg",
-              "text": "Millions moved west. The photographs usually say “refugees.” The word is accurate and too small. They are the reason a capital in Chongqing still had a country attached to it."
+              "credit_url": "https://commons.wikimedia.org/wiki/Category:Xiao_Hong",
+              "text": "Born in the Northeast. The Field of Life and Death and a short life lived as a refugee — Wuhan, Chongqing, Hong Kong. She died in 1942. A war of resistance is also a war of people who were not in uniform."
             }
           ]
         }
       ]
     },
     {
-      "id": "after",
-      "kicker": "After",
-      "title": "Surrender, then another war, then the argument about memory",
+      "id": "story",
+      "kicker": "A story",
+      "title": "The rocking horse",
       "blocks": [
         {
           "type": "p",
-          "text": "Japan surrendered in August 1945. In China the United Front was already a fiction. Full-scale civil war between Nationalists and Communists ran from 1946 to 1949. The People’s Republic was proclaimed in Beijing; the Nationalist government moved to Taiwan. The war against Japan became a founding story for more than one state."
+          "text": "In the Shanghai refugee photograph the cart is a household turned into a load. The rocking horse is the detail that makes the load a family. This is not a cute war. It is a reminder that “home front” in this war often meant: there is no front that stayed put, and home was something you carried."
         },
         {
           "type": "p",
-          "text": "Memory politics is the after that does not end. The PRC, Taiwan, and Japan do not teach 1937–45 as the same syllabus: different dates of emphasis, different silences, different uses of Nanjing and of 慰安婦. Disagreement about the telling is not the same as disagreement about whether the war occurred. Europe’s 1939 remains the other theater — a real war, started later, that textbooks still use as the world’s first page."
+          "text": "Europe in 1939 produced its own carts. That does not make 1937 a rehearsal."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "1945, then the war that had been postponed",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Japan surrendered in August 1945. The United Front did not become a peace. The civil war resumed; by 1949 the People’s Republic was proclaimed in Beijing and the Republic of China’s government was on Taiwan. Memory split with the states. In the PRC the War of Resistance is a founding story. In Taiwan it is also a founding story, with different heroes. In Japan the same years are a different argument still."
+        },
+        {
+          "type": "p",
+          "text": "If a later Friday capsule takes 1945–49, it will not be to tidy this one. It will be because the after is a war of its own."
         }
       ]
     },
@@ -301,7 +312,7 @@
       "blocks": [
         {
           "type": "question",
-          "text": "If your textbook begins the world war in 1939, whose war has it decided not to open with?"
+          "text": "If a world war is dated from 1939, whose 1937 was demoted to a preface?"
         }
       ]
     }

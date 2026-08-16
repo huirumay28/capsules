@@ -1,6 +1,6 @@
 # Capsules
 
-Huiru Huang’s weekday lesson archive: one era at a time.
+Huiru Huang’s daily lesson archive: one era at a time, 8:45 Taipei.
 
 - Monday: Feminism
 - Tuesday: Music
@@ -12,7 +12,11 @@ Huiru Huang’s weekday lesson archive: one era at a time.
 
 Live site: <https://huirumay28.github.io/capsules/>
 
-This is a long-form archive, not a daily paper. Each lesson is a capsule — before, the era, people, a story, after, and a question — meant to be read in about ten to fifteen minutes. Select any words, or tap a dotted term, for the glossary. The homepage search filters the archive as you type.
+This is a long-form archive, not a daily paper. Each lesson is a capsule — before, the era, people, a story, after, a fun fact, and a question — meant to be read in about ten to fifteen minutes. Compare what else was happening in the world at the same time. Look out from where the capsule stands. It is not a formula of “Western frame + Asian peer.”
+
+The homepage splits into **This week** (Monday–Sunday, Asia/Taipei) and **Previous lessons**. Search filters the archive by title, dek, subject, era, and body as you type.
+
+On a lesson page: select any words, or tap a dotted term, for a glossary entry. If there is no entry, the page says so. It does not invent a definition.
 
 ## How to add a lesson
 
@@ -31,6 +35,7 @@ A lesson file needs:
   "slug": "first-wave",
   "date": "2026-08-16",
   "subject": "feminism",
+  "related": [],
   "title": "Era title",
   "dek": "One-line summary.",
   "era": "c. 1848–1920",
@@ -39,7 +44,7 @@ A lesson file needs:
   "hero": {
     "src": "lessons/first-wave/wide.jpg",
     "alt": "...",
-    "caption": "What we are looking at, and why it matters.",
+    "caption": "What the picture is doing in the lesson, not only a credit.",
     "credit": "Library of Congress / public domain",
     "credit_url": "https://www.loc.gov/item/..."
   },
@@ -51,14 +56,14 @@ A lesson file needs:
     { "title": "Exact film title", "url": "https://...", "note": "What the film actually is." }
   ],
   "listen": [
-    { "title": "Exact track", "url": "https://...", "note": "What the link actually is." }
+    { "title": "Exact track", "url": "https://...", "note": "What the recording actually is." }
   ],
   "glossary": [
-    { "term": "coverture", "aliases": ["optional other name"], "explain": "Short definition plus context. Do not invent." }
+    { "term": "coverture", "aliases": ["covered"], "explain": "Definition plus a short context. Do not invent." }
   ],
   "fun_fact": {
     "title": "A true aside",
-    "text": "Playful but checkable. Never invented."
+    "text": "True only. Optional image: { src, alt, caption, credit, credit_url }."
   },
   "sections": [
     {
@@ -66,9 +71,8 @@ A lesson file needs:
       "kicker": "Before",
       "title": "Section title",
       "blocks": [
-        { "type": "p", "text": "A paragraph." },
-        { "type": "figure", "src": "lessons/slug/img.jpg", "alt": "...", "caption": "...", "credit": "...", "credit_url": "", "fit": "contain" },
-        { "type": "list", "items": ["Optional list block."] },
+        { "type": "p", "text": "A paragraph. Known lesson titles become links." },
+        { "type": "figure", "src": "lessons/slug/img.jpg", "alt": "...", "caption": "...", "credit": "...", "credit_url": "" },
         { "type": "question", "text": "A question to leave on the table." }
       ]
     }
@@ -76,11 +80,13 @@ A lesson file needs:
 }
 ```
 
-`subject` must be one of: `feminism`, `music` (older files may still say `rock`), `film`, `literature`, `history`, `business`, `psych`.
+`subject` must be one of: `feminism`, `music` (or `rock`), `film`, `literature`, `history`, `business`, `psych`.
+
+`related` is an array of other lesson slugs. The build also auto-links known titles and slugs in body text, and renders a Referenced / In this subject strip when there is something to show.
 
 Block types: `p`, `figure`, `people`, `question`, `list`.
 
-Optional figure field `fit`: `"contain"` for documents and labels (default is a large cropped photograph).
+Images: Wikimedia / Library of Congress / government / public domain / clearly free licenses only. Captions explain the picture. No invented facts, quotes, numbers, or photographs. No AI images of real people.
 
 ## Local preview
 
@@ -99,10 +105,12 @@ Project URL: `https://huirumay28.github.io/capsules/`
 
 If the site 404s after the first push, open Settings → Pages and set Source to **Deploy from a branch**, branch `main`, folder `/docs`.
 
-## Trial lessons (16 August 2026)
+## Lessons
 
-- [First Wave (c. 1848–1920)](https://huirumay28.github.io/capsules/lessons/first-wave/)
-- [British Invasion (c. 1963–1967)](https://huirumay28.github.io/capsules/lessons/british-invasion/)
-- [French New Wave (c. 1958–1964)](https://huirumay28.github.io/capsules/lessons/french-new-wave/)
-- [High Modernism (c. 1910–1930)](https://huirumay28.github.io/capsules/lessons/high-modernism/)
-- [1937–1945: when the world war started in China](https://huirumay28.github.io/capsules/lessons/war-of-resistance/)
+- [First Wave](https://huirumay28.github.io/capsules/lessons/first-wave/)
+- [British Invasion](https://huirumay28.github.io/capsules/lessons/british-invasion/)
+- [French New Wave](https://huirumay28.github.io/capsules/lessons/french-new-wave/)
+- [High modernism](https://huirumay28.github.io/capsules/lessons/high-modernism/)
+- [War of Resistance](https://huirumay28.github.io/capsules/lessons/war-of-resistance/)
+- [Cursor](https://huirumay28.github.io/capsules/lessons/cursor-case/)
+- [Kitty Genovese](https://huirumay28.github.io/capsules/lessons/bystander-genovese/)

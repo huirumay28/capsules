@@ -1,0 +1,281 @@
+{
+  "slug": "bystander-genovese",
+  "date": "2026-08-16",
+  "subject": "psych",
+  "related": [],
+  "title": "Kitty Genovese (1964): thirty-eight witnesses, and the story psychology told",
+  "dek": "A Kew Gardens murder, a New York Times parable, the bystander effect — and the later correction that fewer people saw, and some people acted.",
+  "era": "1964, and after",
+  "reading_minutes": 14,
+  "thumb": {
+    "src": "lessons/bystander-genovese/kew-gardens-lirr.jpg",
+    "alt": "Kew Gardens LIRR station and the Mowbray apartments, photographed from Lefferts Boulevard."
+  },
+  "hero": {
+    "src": "lessons/bystander-genovese/kew-parking-2019.jpg",
+    "alt": "Kew Gardens LIRR station, parking lot, and the Mowbray apartments, 2019.",
+    "caption": "Kew Gardens, Queens, 2019: the LIRR station, a parking lot, the Mowbray apartments. Catherine “Kitty” Genovese was attacked near here in the early hours of 13 March 1964. This is a photograph of a place, not a picture of a death.",
+    "credit": "Union Turnpike / Wikimedia Commons / CC BY 2.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:View_of_Kew_Gardens_station_and_parking_lot_from_Lefferts_Boulevard.jpg"
+  },
+  "honesty": "Kitty Genovese was a person, not a teaching aid. This capsule does not describe wounds and does not use a corpse as a figure. The New York Times story of “38 witnesses” is treated as a historical object that psychology used — and that later historians and psychologists, especially Manning, Levine, and Collins (American Psychologist, 2007), showed was not supported by the record. The bystander-effect experiments are a separate object from the parable.",
+  "timeline": [
+    {
+      "year": "13 Mar 1964",
+      "label": "Kew Gardens",
+      "detail": "Genovese is attacked near her home after work. She dies. A neighbor, Sophia Farrar, goes to her."
+    },
+    {
+      "year": "27 Mar 1964",
+      "label": "The Times",
+      "detail": "Martin Gansberg’s New York Times story: 37 (later 38) who saw and did not call. The parable is set."
+    },
+    {
+      "year": "1968–70",
+      "label": "The lab",
+      "detail": "Latané and Darley publish the bystander studies the parable helped to authorize."
+    },
+    {
+      "year": "2007",
+      "label": "The correction",
+      "detail": "Manning, Levine, and Collins: no good evidence for 38 watchers, or for total inaction."
+    },
+    {
+      "year": "2014–16",
+      "label": "The books",
+      "detail": "A second public correction, including Kevin Cook’s Kitty Genovese. Textbooks begin, unevenly, to catch up."
+    },
+    {
+      "year": "now",
+      "label": "The double lesson",
+      "detail": "What groups do to helping — and what a discipline does when it falls in love with a story."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Manning, Levine & Collins (2007) — American Psychologist",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17874896/",
+      "note": "The correction, as a paper. Abstract on PubMed; the PDF is behind a publisher wall. Not a true-crime film."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bystander effect",
+      "aliases": [
+        "bystander intervention",
+        "Genovese syndrome"
+      ],
+      "explain": "The well-replicated finding that people are often less likely to help in an emergency when others are present. Latané and Darley’s experiments are the core. “Genovese syndrome” is a later popular name. The effect does not depend on the 38-witnesses story being true."
+    },
+    {
+      "term": "diffusion of responsibility",
+      "explain": "One mechanism in the bystander research: if others can help, each person feels less personally required to. A lab result, not a moral insult to a whole neighborhood."
+    },
+    {
+      "term": "pluralistic ignorance",
+      "explain": "Another mechanism: if nobody else looks alarmed, people read the situation as not an emergency. Calm faces become false information."
+    },
+    {
+      "term": "38 witnesses",
+      "aliases": [
+        "thirty-eight witnesses",
+        "37 who saw"
+      ],
+      "explain": "The New York Times’s number. Gansberg’s 27 March 1964 story used 37; 38 became the frozen figure. Manning, Levine, and Collins (2007) argue the archive does not support 38 people watching a murder and doing nothing."
+    },
+    {
+      "term": "Kew Gardens",
+      "explain": "A neighborhood in Queens, New York, around the LIRR station and Austin Street. Genovese lived near the station and was attacked in that small geography — street, lot, a building entry — not on a stage in front of a stadium."
+    },
+    {
+      "term": "Martin Gansberg",
+      "explain": "New York Times reporter. His 27 March 1964 article, with editor A. M. Rosenthal’s interest, made the 38-witnesses story national. The piece is a primary object. It is not a trial transcript."
+    },
+    {
+      "term": "Bibb Latané",
+      "aliases": [
+        "Latané"
+      ],
+      "explain": "Social psychologist. With John Darley, ran the 1960s experiments that became the bystander-effect literature. The studies are real. The newspaper parable is the thing they and textbooks often used as a hook."
+    },
+    {
+      "term": "John Darley",
+      "aliases": [
+        "Darley"
+      ],
+      "explain": "Social psychologist, Princeton and elsewhere. Co-author of the early bystander papers. The lab is his and Latané’s; the Times story is not."
+    },
+    {
+      "term": "Sophia Farrar",
+      "explain": "A neighbor who went to Genovese, held her, and stayed until help came. Her name is part of the correction: “nobody helped” is false."
+    },
+    {
+      "term": "Manning, Levine and Collins",
+      "aliases": [
+        "Manning Levine Collins"
+      ],
+      "explain": "Rachel Manning, Mark Levine, and Alan Collins. Their 2007 American Psychologist article, “The parable of the 38 witnesses,” is the academic correction this capsule follows."
+    },
+    {
+      "term": "parable",
+      "explain": "A story told for a moral, not because every detail survived checking. Manning et al. use the word on purpose: psychology needed a story about the danger of the group, and the Times had supplied one."
+    },
+    {
+      "term": "Austin Street",
+      "explain": "The Kew Gardens street along the LIRR. The attacks happened in this small outdoor and entry geography, not in a single apartment window’s full view for half an hour — which is one reason the “38 watched the whole thing” sentence fails."
+    }
+  ],
+  "fun_fact": {
+    "title": "The Times story is two weeks later, not the next morning",
+    "text": "Genovese was killed on 13 March 1964. Gansberg’s New York Times article ran on 27 March. The parable was not a live dispatch from the sidewalk. It was a constructed account, two weeks on, that already knew what it wanted the city to mean. That gap is part of how a crime became a syllabus."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A neighborhood, a station, a night shift",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kew Gardens in 1964 was a Queens neighborhood organized around a Long Island Rail Road station, a few bars and shops, and apartment houses that looked at one another across a small street. Catherine “Kitty” Genovese, 28, managed a bar. She was driving home in the early hours of 13 March when she was attacked near the station. She was a person going home. That is the whole of the “before” this capsule needs."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/bystander-genovese/kew-gardens-1936.jpg",
+          "alt": "Wide panoramic photograph of Kew Gardens, Long Island, looking west to east, about 1936.",
+          "caption": "Kew Gardens, west to east, about 1936 — a generation before 1964. The neighborhood was already a grid of houses and apartment blocks around the railroad. The crime did not invent the place. The parable later made the place a stage.",
+          "credit": "Irving Underhill / Library of Congress",
+          "credit_url": "https://www.loc.gov/item/2007662368/"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/bystander-genovese/kew-gardens-lirr.jpg",
+          "alt": "Lefferts Boulevard view toward the Kew Gardens LIRR station and neighborhood shops.",
+          "caption": "Lefferts Boulevard and the station, 2019. Genovese’s last walk was a short geography: car, street, a building entry. The modern shops are not 1964. The crossing still is.",
+          "credit": "Union Turnpike / Wikimedia Commons / CC BY 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:View_of_Dani%27s_Pizzeria_and_the_Kew_Gardens_LIRR_station.jpg"
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "A crime, a newspaper, a laboratory",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Winston Moseley attacked Genovese, left, and came back. She died. A neighbor, Sophia Farrar, went to her. Other neighbors heard something; some looked; at least one account has a man shouting from a window; some contact with the police happened, in ways the later parable flattened. The trial established a killer. It did not establish a stadium of watchers."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/bystander-genovese/austin-alley-2019.jpg",
+          "alt": "A paved alley and walkway near the Kew Gardens LIRR station, photographed in 2019.",
+          "caption": "The walkway from the Kew Gardens station toward Lefferts Boulevard, 2019 — a place later labeled as part of the crime’s geography. It is an alley in daylight. This capsule will not reconstruct the night on top of it.",
+          "credit": "Union Turnpike / Wikimedia Commons / CC BY 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Site_of_the_murder_of_Kitty_Genovese_in_alleyway_from_Kew_Gardens_LIRR_station_to_Lefferts_Boulevard.jpg"
+        },
+        {
+          "type": "p",
+          "text": "On 27 March 1964 the New York Times published Martin Gansberg’s story, headed as 37 who saw a murder and did not call the police. Thirty-eight became the number that stuck. A. M. Rosenthal, at the Times, made the story a civic diagnosis: the city had gone cold. That diagnosis is a 1964 New York object — crime, race, a newspaper’s voice — as much as it is a fact about one street."
+        },
+        {
+          "type": "p",
+          "text": "Social psychology took the story as a gift. Bibb Latané and John Darley designed experiments in which smoke filled a room, or a cry for help came from another room, and the variable was whether other people were present. People helped less when they were not alone. Diffusion of responsibility; pluralistic ignorance. Those studies replicated. They are the science. The 38 witnesses are the hook the science used in its textbooks."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/bystander-genovese/kew-parking-2019.jpg",
+          "alt": "Kew Gardens station and the Mowbray apartments from Lefferts Boulevard.",
+          "caption": "Windows facing a station and a lot. The Times story asked readers to imagine dozens of people at those windows for the length of a murder. The later correction is partly architectural: who could see what, from where, for how long.",
+          "credit": "Union Turnpike / CC BY 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:View_of_Kew_Gardens_station_and_parking_lot_from_Lefferts_Boulevard.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The same years, elsewhere: 1964 is also Freedom Summer, the Civil Rights Act, Tokyo’s Olympics, the Gulf of Tonkin. Kew Gardens is not the world’s only street. This capsule stays on this street because the case is about how a local crime became a universal lesson — and what got trimmed to make the lesson travel."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/bystander-genovese/times-square-1952.jpg",
+          "alt": "Crowded New York street with a City Omnibus bus, Walgreens, and sailors, mid-century.",
+          "caption": "A mid-century New York crowd — Times Square, not Kew Gardens, and earlier than 1964. It is here as the city the Times was writing about: density, strangers, a public that can be narrated as cold. Kew Gardens was quieter than this. The parable borrowed the city’s scale anyway.",
+          "credit": "Library of Congress / public domain",
+          "credit_url": "https://www.loc.gov/pictures/"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "The woman, the neighbor, the reporters, the lab",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Catherine “Kitty” Genovese",
+              "dates": "1935–1964",
+              "text": "Born in Brooklyn, lived in Kew Gardens, managed a bar. The capsule uses her name and her dates. It does not use her body as a figure. The 1961 police photograph that circulates online is a booking photo from another year. It is not used here."
+            },
+            {
+              "name": "Sophia Farrar",
+              "dates": "neighbor",
+              "text": "Went to Genovese, held her, waited for help. If the parable needs a moral, start with the person who crossed the street — and with the fact that the parable left her out."
+            },
+            {
+              "name": "Martin Gansberg / A. M. Rosenthal",
+              "dates": "The Times, 1964",
+              "text": "The reporter and the editor who made 37/38 a national sentence. Journalism is an actor in this case, not a window."
+            },
+            {
+              "name": "Latané and Darley",
+              "dates": "1960s–70s papers",
+              "text": "The experimenters. Their results about groups and helping do not become false if the newspaper story shrinks. That is the distinction this capsule exists to keep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "The parable of the 38",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 2007, in American Psychologist, Rachel Manning, Mark Levine, and Alan Collins went back to the archive. They argued there is no good evidence that 38 people witnessed the murder, that they watched it through, or that they all remained inactive. Some people could not see. Some heard and did not understand. Some did act. The Times story had become, in their word, a parable: a tale about the danger of the group that textbooks needed, and that then limited what the field asked next — for example, how a group can also make helping more likely."
+        },
+        {
+          "type": "p",
+          "text": "A discipline can be right about a mechanism and wrong about a corpse. Both parts of that sentence have to stay."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Textbooks, and a slower correction",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The bystander effect remained one of social psychology’s most taught results. The 38-witnesses story remained, for a long time, the first paragraph. Later textbooks began to qualify it; some did not. A 2015 study of intro texts found the old story still in circulation. Correction in a science is not only a 2007 paper. It is whether the next edition deletes a sentence."
+        },
+        {
+          "type": "p",
+          "text": "The case now teaches two things, if it is taught honestly: how the presence of others can inhibit help — and how a field tells itself origin stories. Kitty Genovese is not improved by being useful. She is owed a street that is not only a graph."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "Leave this on the table",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "When a science needs a parable, whose life gets simplified to make the moral travel?"
+        }
+      ]
+    }
+  ]
+}

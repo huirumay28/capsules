@@ -2,94 +2,109 @@
   "slug": "high-modernism",
   "date": "2026-08-16",
   "subject": "literature",
-  "title": "High Modernism (c. 1910–1930): the sentence breaks",
-  "dek": "Woolf, Joyce, Eliot — and, in the same years, 新青年 and Lu Xun’s broken “I.”",
-  "era": "c. 1910–1930",
+  "related": [],
+  "title": "High modernism (c. 1910–30): the sentence comes apart",
+  "dek": "Woolf, Joyce, Eliot — and, in the same years, 新青年 and Lu Xun, not as a required Asian peer.",
+  "era": "c. 1910–30",
   "reading_minutes": 14,
   "thumb": {
     "src": "lessons/high-modernism/woolf-1902.jpg",
-    "alt": "Virginia Woolf in profile, platinum-print portrait by George Charles Beresford, 1902."
+    "alt": "Profile portrait of Virginia Woolf by George Charles Beresford, 1902."
   },
   "hero": {
-    "src": "lessons/high-modernism/woolf-1902.jpg",
-    "alt": "Virginia Woolf in profile, 1902, photographed by George Charles Beresford.",
-    "caption": "Virginia Woolf (then Virginia Stephen), photographed by George Charles Beresford in 1902 — years before Mrs Dalloway. The face is earlier than the sentences this capsule is about. Beresford died in 1938; the portrait is in the public domain.",
-    "credit": "George Charles Beresford / Wikimedia Commons / public domain",
-    "credit_url": "https://commons.wikimedia.org/wiki/File:George_Charles_Beresford_-_Virginia_Woolf_in_1902.jpg"
+    "src": "lessons/high-modernism/blast-1914.jpg",
+    "alt": "Pink-red cover of the magazine Blast with the title in huge diagonal black letters, 1914.",
+    "caption": "Blast, no. 1, 1914, edited by Wyndham Lewis. The type is the manifesto: a London magazine trying to look as loud as the century it wanted. High modernism is not only interior monologue. It is also this kind of shouting.",
+    "credit": "Wikimedia Commons / public domain (1914)",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Blast-cover.jpg"
   },
-  "honesty": "“High modernism” is a later classroom name for a cluster of difficult, self-conscious works written mostly in English, French, and German around the 1910s–1920s. It was never a membership. This capsule uses the name, then looks at the same decades in Chinese vernacular writing — not as an appendix, as the same years.",
+  "honesty": "“High modernism” is a later classroom name for a cluster of European and American experiments with form, especially in the 1910s–20s. The people in this capsule did not agree they were in a school. This capsule looks out from London, Paris, and Dublin — the usual triangle — and then notices that 1918 in Shanghai is the same year, not a sidebar assigned to make the triangle look global.",
   "timeline": [
     {
-      "year": "1914–18",
-      "label": "The war",
-      "detail": "European high modernism is unintelligible if you subtract the First World War."
+      "year": "1914",
+      "label": "Blast",
+      "detail": "Vorticist magazine, London. Then the war that the type had been rehearsing."
     },
     {
-      "year": "1915",
-      "label": "新青年",
-      "detail": "Chen Duxiu founds Youth Magazine in Shanghai; it is renamed 新青年 the next year."
+      "year": "1916",
+      "label": "Portrait",
+      "detail": "Joyce’s A Portrait of the Artist as a Young Man appears in book form."
     },
     {
       "year": "1918",
-      "label": "Two broken “I”s",
-      "detail": "Lu Xun’s 狂人日記 in 新青年; Ulysses begins to appear in The Little Review."
+      "label": "狂人日記 / 新青年",
+      "detail": "Lu Xun’s “A Madman’s Diary” in New Youth, vol. 4, no. 5. Vernacular Chinese as a literary event."
+    },
+    {
+      "year": "1919",
+      "label": "May Fourth",
+      "detail": "Beijing protests; a political date that literary history also has to hold."
     },
     {
       "year": "1922",
-      "label": "The year of the pile",
-      "detail": "Ulysses (book), The Waste Land, Jacob’s Room. A convenient classroom date, and a real cluster."
+      "label": "Ulysses / Waste Land",
+      "detail": "Joyce in Paris (Shakespeare and Company); Eliot in London. A year the syllabus never lets go."
     },
     {
       "year": "1925–27",
       "label": "Woolf",
-      "detail": "Mrs Dalloway; To the Lighthouse. Stream of consciousness as a method, not a mood."
-    },
-    {
-      "year": "1921–22",
-      "label": "阿Q",
-      "detail": "Lu Xun’s 阿Q正傳 serialized. The vernacular “I” and the village as national allegory."
+      "detail": "Mrs Dalloway; To the Lighthouse. The day, the house, the mind as structure."
     }
   ],
   "watch": [
     {
-      "title": "狂人日記 — Chinese text on Wikisource",
-      "url": "https://zh.wikisource.org/wiki/%E7%8B%82%E4%BA%BA%E6%97%A5%E8%A8%98",
-      "note": "The 1918 story is in the public domain. This is the text, not a dramatization."
-    },
+      "title": "T. S. Eliot reads The Waste Land (recording)",
+      "url": "https://www.poetryfoundation.org/poems/47311/the-waste-land",
+      "note": "The text is 1922. Recordings circulate legally via libraries and the Poetry Foundation’s page; this is not a film of 1922."
+    }
+  ],
+  "listen": [
     {
-      "title": "Ulysses — full 1922 text at Project Gutenberg",
-      "url": "https://www.gutenberg.org/ebooks/4300",
-      "note": "Joyce’s novel is public domain in the United States. Gutenberg’s HTML/plain text, not a spoken abridgment."
-    },
-    {
-      "title": "Mrs Dalloway — Project Gutenberg",
-      "url": "https://www.gutenberg.org/ebooks/71865",
-      "note": "Woolf’s 1925 novel (Gutenberg #71865), public domain in the U.S. The book, not a film, and not the earlier short story “Mrs Dalloway in Bond Street.”"
+      "title": "James Joyce reads from Finnegans Wake (Anna Livia Plurabelle)",
+      "url": "https://archive.org/details/JamesJoyceReadsannaLiviaPlurabelleFromFinnegansWake",
+      "note": "Internet Archive copy of Joyce’s own recording. Later than Ulysses; still his voice."
     }
   ],
   "glossary": [
     {
-      "term": "stream of consciousness",
-      "explain": "A way of writing that follows a mind’s associations rather than a plot summary. The phrase is older than Woolf; the method, in English, is often attached to her and to Joyce. It is a technique, not a personality type."
-    },
-    {
-      "term": "little magazines",
+      "term": "high modernism",
       "aliases": [
-        "little magazine"
+        "High modernism",
+        "modernism"
       ],
-      "explain": "Low-circulation journals that printed work commercial houses would not: The Little Review, The Egoist, Blast, 新青年. Modernism’s distribution system was often a cheap periodical, not a first edition."
+      "explain": "Later critical name for early-twentieth-century formal experiment — fragmentation, interiority, mythic scaffolding — especially in English-language literature around 1910–30. The writers did not vote for the label."
     },
     {
-      "term": "Blast",
-      "explain": "Vorticist magazine, two issues, 1914 and 1915, edited by Wyndham Lewis. The pink cover is easier to remember than the poems. It is one of the little magazines, not the movement’s bible."
-    },
-    {
-      "term": "The Waste Land",
-      "explain": "T. S. Eliot’s 1922 poem, first in The Criterion and The Dial, then as a book with notes. Fragment, quotation, and a London that sounds like a ruin. Eliot later converted; the poem is not a sermon."
+      "term": "stream of consciousness",
+      "explain": "A way of writing a mind in motion: associations, sensory fragments, not always a tidy paragraph. Woolf and Joyce are the usual English-language exhibits. The phrase is a critic’s tool, not a 1922 brand name."
     },
     {
       "term": "Ulysses",
-      "explain": "James Joyce’s novel of one Dublin day (16 June 1904), serialized from 1918, published as a book in Paris in 1922. The Little Review’s editors were convicted of obscenity in the U.S. in 1921 for printing it."
+      "explain": "Joyce’s 1922 novel, published in Paris by Shakespeare and Company. One day in Dublin (16 June 1904), a Homeric scaffolding, and a censorship history in the English-speaking world."
+    },
+    {
+      "term": "The Waste Land",
+      "aliases": [
+        "Waste Land"
+      ],
+      "explain": "Eliot’s 1922 poem. Fragments, quotations, notes. Ezra Pound cut it. The notes are part of the poem’s public life, not a teacher’s appendix only."
+    },
+    {
+      "term": "Mrs Dalloway",
+      "explain": "Woolf’s 1925 novel. A day in London, a party, a war still in the body of a man who was in it. Time is the structure."
+    },
+    {
+      "term": "Blast",
+      "explain": "Short-lived Vorticist magazine, London, 1914–15, edited by Wyndham Lewis, with Pound among the contributors. Two issues. The cover is a manifesto in type."
+    },
+    {
+      "term": "新青年",
+      "aliases": [
+        "New Youth",
+        "La Jeunesse",
+        "Xin Qingnian"
+      ],
+      "explain": "Chinese magazine, founded 1915 by Chen Duxiu (first as 青年雜誌 / Youth Magazine). The May 1918 issue printed Lu Xun’s “A Madman’s Diary.” It argued for vernacular writing and a new culture in the same years Europe was calling itself modern."
     },
     {
       "term": "May Fourth",
@@ -97,16 +112,7 @@
         "五四",
         "May Fourth Movement"
       ],
-      "explain": "4 May 1919: Beijing student protests against the Versailles settlement and Chinese diplomats. In literary history the name also covers the wider New Culture years — vernacular writing, 新青年, a fight with classical prose."
-    },
-    {
-      "term": "新青年",
-      "aliases": [
-        "New Youth",
-        "La Jeunesse",
-        "青年杂志"
-      ],
-      "explain": "Magazine founded by Chen Duxiu in Shanghai in 1915 as 青年杂志, renamed 新青年 in 1916. Democracy, science, vernacular literature. Lu Xun’s 狂人日記 appeared there in May 1918."
+      "explain": "4 May 1919: student protests in Beijing against the Versailles settlement’s handling of Shandong. “May Fourth” also names a wider New Culture moment — language, gender, science, the nation — that is not a footnote to London."
     },
     {
       "term": "狂人日記",
@@ -114,128 +120,109 @@
         "A Madman’s Diary",
         "Diary of a Madman"
       ],
-      "explain": "Lu Xun’s 1918 story: a first-person diary that reads Confucian virtue as cannibalism. Classical Chinese in the preface, vernacular in the diary. The broken “I” is the point."
+      "explain": "Lu Xun story, 1918, written in vernacular Chinese. A reader who sees cannibalism in the classical tradition. It is a modernist event in a different language politics."
     },
     {
-      "term": "阿Q正傳",
-      "aliases": [
-        "The True Story of Ah Q"
-      ],
-      "explain": "Lu Xun’s 1921–22 serial. Ah Q, a village nobody who wins by telling himself he has won. Read as national allegory, as class comedy, and as a study of humiliation."
+      "term": "Shakespeare and Company",
+      "explain": "Sylvia Beach’s Paris bookshop. It published Ulysses in 1922 when British and American houses would not. A shop can be a press."
     },
     {
-      "term": "vernacular",
+      "term": "Bloomsbury",
+      "explain": "Loose London circle (Woolfs, Bells, Keynes, Strachey, and others). Useful as an address. Fatal as a synonym for all of modernism."
+    },
+    {
+      "term": "Vorticism",
+      "explain": "London avant-garde around Lewis and Blast, briefly, just before and into the First World War. A British answer to Futurism that did not last as a movement and left a very loud magazine."
+    },
+    {
+      "term": "vernacular Chinese",
       "aliases": [
         "白話",
         "baihua"
       ],
-      "explain": "Writing in the spoken language rather than classical Chinese (文言). May Fourth writers treated 白話 as a political choice: who gets to read, and who the nation is imagined to be."
-    },
-    {
-      "term": "free indirect",
-      "aliases": [
-        "free indirect style"
-      ],
-      "explain": "A third-person sentence that takes on a character’s diction without quotation marks. Woolf uses it constantly. It is one reason her “he” and “she” do not behave like a stable Victorian narrator."
-    },
-    {
-      "term": "Harlem Renaissance",
-      "explain": "African American literary and arts flowering in the 1920s, centered in Harlem. Contemporaneous with high modernism, not a footnote to it. Different magazines, different constraints, same decade."
-    },
-    {
-      "term": "Mrs Dalloway",
-      "explain": "Woolf’s 1925 novel: one June day in London, a party, a shell-shocked man. The war is inside the sentences, not only in the plot."
+      "explain": "Written Chinese closer to speech, as opposed to classical literary Chinese. The New Culture argument was that literature had to change language, not only subject. Lu Xun’s 1918 story is a landmark in that change."
     }
   ],
   "fun_fact": {
-    "title": "1918, twice",
-    "text": "In May 1918 Lu Xun’s 狂人日記 appeared in 新青年. That same year The Little Review in New York began serializing Joyce’s Ulysses. Two broken first persons, two little magazines, no transatlantic plot connecting them. The coincidence is chronological, which is enough."
+    "title": "The Waste Land came with homework",
+    "text": "When Eliot published The Waste Land in book form in 1922, he added notes. Some explain quotations; some are jokes; some have been treated as a key to a locked poem. He later said the notes began as a way to pad a slim book. Whether you believe the shrug or not, the notes are part of how the poem was sold and taught. A modernist fragment can arrive with its own apparatus."
   },
   "sections": [
     {
       "id": "before",
       "kicker": "Before",
-      "title": "The stable narrator",
+      "title": "A sentence that still believed in sequence",
       "blocks": [
         {
           "type": "p",
-          "text": "Nineteenth-century realist and naturalist novels — in English, French, Russian — often trusted a narrator who could stand outside the scene and tell you what it meant. Even when the news was grim, the grammar was stable. Someone was in charge of the sentence."
+          "text": "The novel and the poem, in the late nineteenth century, could still pretend that time was a corridor. Even when they doubted it, they usually walked you through. The decade before 1914 was already restless — free verse, impressionism, a city speeding up — but the war is the fact that later readers use to explain why the corridor broke. It is not the only fact. Cities, psychoanalysis, new print, and a reading public that included more women and more students were already in the room."
         },
         {
-          "type": "p",
-          "text": "That stability was already under pressure before 1914: interior monologue in Dostoevsky, Flaubert’s free indirect style, late James. High modernism does not invent inwardness. It breaks the sentence that used to carry it, and it does so after a war that made the old voice sound like a lie."
+          "type": "figure",
+          "src": "lessons/high-modernism/woolf-1902.jpg",
+          "alt": "Virginia Woolf in profile, 1902, photograph by George Charles Beresford.",
+          "caption": "Virginia Stephen, photographed by George Charles Beresford in 1902 — years before Mrs Dalloway. The public-domain portrait is of a young woman who had not yet written the books this capsule is about. That is useful. Modernism did not arrive fully formed in a 1922 jacket.",
+          "credit": "George Charles Beresford / National Portrait Gallery via Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg"
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "Fragments, magazines, and more than one vernacular",
+      "title": "1922 is a year. 1918 is also a year.",
       "blocks": [
         {
           "type": "p",
-          "text": "The First World War is not background music. Eliot’s The Waste Land (1922) is a poem that cannot keep a single voice; quotation and ruin do the work a narrator used to do. Woolf’s Mrs Dalloway (1925) puts a shell-shocked man and a party on the same June day. Joyce’s Ulysses (serialized from 1918, book 1922) gives one Dublin day more interior traffic than a nineteenth-century decade."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/high-modernism/blast-1914.jpg",
-          "alt": "Pink-and-black cover of the first issue of Blast magazine, 1914, with the title in huge diagonal letters.",
-          "caption": "Blast no. 1, 1914 — Wyndham Lewis’s Vorticist magazine, two issues and a war. Little magazines were modernism’s cheap distribution system. The cover is easier to remember than most of the poems inside.",
-          "credit": "Blast, 1914 / Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Blast_magazine,_Number_1_cover.jpg",
-          "fit": "contain"
+          "text": "From London and Paris the syllabus bunches around 1922: Ulysses from Sylvia Beach’s shop; The Waste Land in The Criterion and then as a book, cut by Pound. Woolf’s major novels come a few years later, but the method is the same family — a day, a mind, a city, a refusal to narrate as if a life were a plot summary."
         },
         {
           "type": "figure",
           "src": "lessons/high-modernism/joyce-1918.jpg",
-          "alt": "James Joyce in Zurich, photograph by Camille Ruf, about 1918.",
-          "caption": "James Joyce in Zurich, about 1918 — the year Ulysses began to appear in The Little Review. The photograph was later used on a 1921 subscription form for the book, which is why it is public domain in the United States.",
-          "credit": "Camille Ruf / Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Revolutionary_Joyce_Better_Contrast.jpg"
-        },
-        {
-          "type": "p",
-          "text": "Stream of consciousness is a method: follow the mind’s jump, do not tidy it for the drawing room. Free indirect style lets a third-person sentence wear a character’s clothes. Fragmentation after 1918 is not only a trick. It is a claim that the old continuous voice had been a luxury."
+          "alt": "Sepia portrait of James Joyce with glasses and a goatee, around 1918.",
+          "caption": "James Joyce, photographed by C. P. Curran in 1918, while Ulysses was still appearing in parts and still unfinished. The book would be a 1922 Paris object. The face is already the one the century kept.",
+          "credit": "C. P. Curran / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:James_Joyce_by_C.P._Curran,_1918.jpg"
         },
         {
           "type": "figure",
           "src": "lessons/high-modernism/eliot-1920.jpg",
-          "alt": "Snapshot of T. S. Eliot in 1920, cropped from a photograph by Lady Ottoline Morrell.",
-          "caption": "T. S. Eliot in 1920, from a snapshot by Lady Ottoline Morrell (d. 1938). Two years later The Waste Land. The snapshot is small and informal on purpose: this is not the later, public Eliot of the readings.",
-          "credit": "Lady Ottoline Morrell / Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Thomas_Stearns_Eliot_1920_snapshot_by_Lady_Ottoline_Morrell.jpg"
+          "alt": "T. S. Eliot as a young man in a study, holding a pipe.",
+          "caption": "T. S. Eliot, a young man in a study — the usual furniture of the poet as intellectual. The Waste Land (1922) is not a study poem only. It is a collage of other people’s lines, a London of the war’s aftermath, and a set of notes that became part of the work’s public life.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/Category:T._S._Eliot"
         },
         {
           "type": "p",
-          "text": "The same years, in Chinese. Chen Duxiu’s 新青年 (first 青年杂志, 1915) argued for vernacular 白話 against classical 文言 — who gets to read, and what a national literature is allowed to sound like. On 4 May 1919 students in Beijing protested the Versailles settlement; “May Fourth” later names both that day and the wider New Culture years. Lu Xun’s 狂人日記 (May 1918) puts a diary in the vernacular and a preface in classical, then lets the diary say that virtue is eating people. 阿Q正傳 (1921–22) makes a village nobody into a national problem. The broken “I” is not a London export. It is a contemporaneous solution to a different classical inheritance."
+          "text": "The same years, not as a required pairing: in Shanghai, 新青年 (New Youth / La Jeunesse) was arguing that Chinese literature had to change its language. The May 1918 issue printed Lu Xun’s 「狂人日記」. In 1919, May Fourth made the argument a street. This is not “the Asian Woolf.” It is a contemporaneous fight about vernacular, the nation, and who a written sentence is for — happening while Eliot was assembling fragments and Joyce was finishing a day in Dublin."
         },
         {
           "type": "figure",
           "src": "lessons/high-modernism/new-youth-cover.jpg",
-          "alt": "A bound copy of 新青年 (La Jeunesse) displayed in a museum case, French title visible on the cover.",
-          "caption": "A surviving copy of 新青年 / La Jeunesse, photographed in a museum case. The French subtitle is on the cover for a reason: the magazine argued in Chinese and looked, deliberately, toward Europe. Lu Xun’s 狂人日記 appeared in its pages in 1918.",
-          "credit": "Photograph of a 1910s magazine / Wikimedia Commons / public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:%E3%80%8A%E6%96%B0%E9%9D%92%E5%B9%B4%E3%80%8B%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2_5205.jpg",
+          "alt": "Cover of New Youth magazine, volume 4 number 5, May 1918, listing 狂人日記 by 魯迅.",
+          "caption": "新青年 4:5, May 1918. The contents list includes 魯迅’s 「狂人日記」. The French title La Jeunesse is on the cover. A Shanghai magazine, in the same decade as Blast and Ulysses, announcing that the language of literature would have to change.",
+          "credit": "Wikimedia Commons / public domain (1918)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:New_Youth_Vol.4_No.5.jpg",
           "fit": "contain"
         },
         {
           "type": "figure",
           "src": "lessons/high-modernism/lu-xun-1930.jpg",
-          "alt": "Studio portrait of Lu Xun, 1930.",
-          "caption": "Lu Xun, 1930 — after the stories this capsule is about, still the face later textbooks freeze. He died in 1936. Early photographs of him are in the public domain in China and, as tagged here, in the United States.",
+          "alt": "Studio portrait of Lu Xun in a light changshan, dated Shanghai, 24 September 1930.",
+          "caption": "Lu Xun, Shanghai, 24 September 1930, inscribed at age fifty. The photograph is later than “A Madman’s Diary.” It is the face that the 1918 story, and the years after May Fourth, made public.",
           "credit": "Wikimedia Commons / public domain",
           "credit_url": "https://commons.wikimedia.org/wiki/File:LuXun1930.jpg"
         },
         {
           "type": "p",
-          "text": "Also in the same decade, not in the same magazines: the Harlem Renaissance in the United States. Different constraints, different editors, a modernism that had to argue for the right to be modern. High modernism as an English-department brand is too small for 1922 if it can only hold Eliot."
+          "text": "Blast, in 1914, is the London version of shouting. Two issues, then a war that killed some of the people who might have kept shouting. High modernism is often taught as interior whisper. The pink cover is a reminder that it also wanted to be a poster."
         }
       ]
     },
     {
       "id": "people",
       "kicker": "People",
-      "title": "Three English names, one Chinese one",
+      "title": "Four writers, one decade, not one school",
       "blocks": [
         {
           "type": "people",
@@ -245,57 +232,77 @@
               "dates": "1882–1941",
               "image": "lessons/high-modernism/woolf-1902.jpg",
               "alt": "Virginia Woolf, 1902.",
-              "caption": "Beresford portrait, 1902.",
-              "credit": "George Charles Beresford / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:George_Charles_Beresford_-_Virginia_Woolf_in_1902.jpg",
-              "text": "Mrs Dalloway (1925), To the Lighthouse (1927), A Room of One’s Own (1929). The sentences move as a mind moves. The war is in the jumps, not only in the plot."
+              "caption": "Beresford, 1902.",
+              "credit": "Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
+              "text": "Mrs Dalloway (1925), To the Lighthouse (1927), A Room of One’s Own (1929). The sentence as a record of attention. Bloomsbury is the address, not the whole explanation."
             },
             {
               "name": "James Joyce",
               "dates": "1882–1941",
               "image": "lessons/high-modernism/joyce-1918.jpg",
-              "alt": "James Joyce, about 1918.",
-              "caption": "Zurich, about 1918.",
-              "credit": "Camille Ruf / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:Revolutionary_Joyce_Better_Contrast.jpg",
-              "text": "Dubliners, A Portrait, then Ulysses. Exile, serialization, a ban, a Paris book. The method is excess: more interior than a day should hold."
+              "alt": "James Joyce, 1918.",
+              "caption": "Curran, 1918.",
+              "credit": "Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:James_Joyce_by_C.P._Curran,_1918.jpg",
+              "text": "Dublin on the page, published in Paris when London and New York were still afraid of the book. Ulysses is a day and a trial and a shop."
             },
             {
               "name": "T. S. Eliot",
               "dates": "1888–1965",
               "image": "lessons/high-modernism/eliot-1920.jpg",
-              "alt": "T. S. Eliot, 1920.",
-              "caption": "Snapshot, 1920.",
-              "credit": "Ottoline Morrell / public domain",
-              "credit_url": "https://commons.wikimedia.org/wiki/File:Thomas_Stearns_Eliot_1920_snapshot_by_Lady_Ottoline_Morrell.jpg",
-              "text": "American-born, London-settled. The Waste Land (1922) as the syllabus poem of fragmentation. Later he becomes a public Christian conservative. The poem and the later man are not required to agree."
+              "alt": "T. S. Eliot as a young man.",
+              "caption": "A study portrait, early career.",
+              "credit": "Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/Category:T._S._Eliot",
+              "text": "American-born, London-settled. The Waste Land is the poem the century assigned to 1922. The notes, the quotations, and Pound’s cuts are part of the object."
             },
             {
               "name": "Lu Xun 魯迅",
               "dates": "1881–1936",
               "image": "lessons/high-modernism/lu-xun-1930.jpg",
               "alt": "Lu Xun, 1930.",
-              "caption": "1930 studio portrait.",
-              "credit": "Wikimedia Commons / public domain",
+              "caption": "Shanghai, 1930.",
+              "credit": "Public domain",
               "credit_url": "https://commons.wikimedia.org/wiki/File:LuXun1930.jpg",
-              "text": "狂人日記 (1918), 阿Q正傳 (1921–22). Vernacular as a weapon against a classical prose that had pretended to be virtue. Same decades as Woolf and Joyce; a different broken “I.”"
+              "text": "Zhou Shuren. “A Madman’s Diary,” then a body of stories, essays, and translations that made vernacular literary Chinese a fact. He is in this capsule because 1918 is 1918 — not because a Western syllabus needed an Asian twin."
             }
           ]
         }
       ]
     },
     {
-      "id": "after",
-      "kicker": "After",
-      "title": "Reaction, then other modernisms",
+      "id": "story",
+      "kicker": "A story",
+      "title": "A magazine cover is also a sentence",
       "blocks": [
         {
-          "type": "p",
-          "text": "By the 1930s and 1940s a reaction is already audible: calls for plainer prose, political clarity, a novel that will do something. Mid-century English and American fiction often treats high modernism as a brilliant dead end. That verdict is a period style of its own."
+          "type": "figure",
+          "src": "lessons/high-modernism/blast-1914.jpg",
+          "alt": "Blast magazine cover, 1914.",
+          "caption": "Blast 1, 1914. The word is the picture.",
+          "credit": "Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Blast-cover.jpg",
+          "fit": "contain"
         },
         {
           "type": "p",
-          "text": "Later postcolonial writers — in English and out of it — take the broken sentence and the unreliable “I” into other empires. They are not a delayed May Fourth or a delayed Woolf. They are what happens when the method leaves the original capitals."
+          "text": "Put Blast next to 新青年. One is a London roar in English, two issues, a war. The other is a Shanghai magazine that ran for years and printed a story that helped change the written language. They are not the same project. They share a decade in which people decided the old sentence was part of the problem. That is enough of a reason to put them in one capsule. It is not a reason to make one the key to the other."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "The syllabus, and what it leaves in the corridor",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the 1930s the experiments had become a canon in some places and a target in others. Woolf died in 1941; Joyce the same year; Lu Xun in 1936; Eliot lived to be a monument. The after of high modernism is partly a teaching machine: 1922 as a fetish year, stream of consciousness as a worksheet. The after is also every later writer who inherited the broken corridor and had to decide whether to mend it."
+        },
+        {
+          "type": "p",
+          "text": "If this archive later takes a Thursday to a different literature, it will not be to complete a set. It will be because another year also happened."
         }
       ]
     },
@@ -306,7 +313,7 @@
       "blocks": [
         {
           "type": "question",
-          "text": "If the narrator is no longer stable, who is the “we” in “we moderns”?"
+          "text": "When a syllabus says “1922,” whose 1918 was dropped to make the year look clean?"
         }
       ]
     }
