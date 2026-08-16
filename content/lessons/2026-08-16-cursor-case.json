@@ -276,14 +276,6 @@
           "text": "On 14 August 2026 Cursor’s blog stated that the company “has officially been acquired by SpaceX,” completing a process the post says began in April with a SpaceXAI partnership. The post talks about GPUs and about keeping the work familiar. It does not print a price."
         },
         {
-          "type": "figure",
-          "src": "lessons/cursor-case/editor-screen.jpg",
-          "alt": "A computer monitor showing a dark-mode code editor, a terminal, and a repository view, from Cursor’s public homepage.",
-          "caption": "A working screen as Cursor’s public homepage showed it in August 2026: editor, terminal, a repository. The product argument is location. The model is not a browser tab you leave the file to visit. It is in the same place you type.",
-          "credit": "Cursor public homepage / Anysphere",
-          "credit_url": "https://cursor.com/"
-        },
-        {
           "type": "p",
           "text": "SpaceX’s Form 8-K of the same date does. Merger of a subsidiary, X67 Inc., into Anysphere, Inc.; Anysphere survives as a wholly owned subsidiary; outstanding Cursor common and preferred convert into SpaceX Class A shares “based on an implied equity value of Cursor of $60.0 billion.” That sentence is a filing, not a feature. Two days later this capsule can say the owner changed. It cannot yet say what that does to the editor."
         },
