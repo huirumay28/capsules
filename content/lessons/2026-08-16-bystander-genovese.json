@@ -173,6 +173,14 @@
         },
         {
           "type": "figure",
+          "src": "lessons/bystander-genovese/kew-gardens-1936.jpg",
+          "alt": "Wide panoramic photograph of Kew Gardens, Long Island, looking west to east, about 1936.",
+          "caption": "Kew Gardens, west to east, about 1936 — Irving Underhill, Library of Congress. A generation before 1964 the neighborhood was already a grid of houses and apartment blocks around the railroad. The crime did not invent the place. The parable later made the place a stage.",
+          "credit": "Irving Underhill / Library of Congress / no known restrictions",
+          "credit_url": "https://www.loc.gov/item/2007662368/"
+        },
+        {
+          "type": "figure",
           "src": "lessons/bystander-genovese/times-square-1952.jpg",
           "alt": "Pedestrians, a City Omnibus bus, and stacked billboards on a Times Square sidewalk, about 1952.",
           "caption": "Times Square, May or June 1952 — Angelo Rizzuto, Library of Congress. A dozen years before the Kew Gardens story, this is the city’s publicity face: crowds, signs, the paper’s own neighborhood. The 1964 parable will treat the city as a crowd that will not move.",
