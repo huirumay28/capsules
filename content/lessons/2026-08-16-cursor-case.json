@@ -3,288 +3,293 @@
   "date": "2026-08-16",
   "subject": "business",
   "related": [],
-  "title": "Cursor (2022–26): why an AI editor broke out",
-  "dek": "Anysphere’s bet: put the model in the editor, not beside it — and compete with Copilot on that ground.",
+  "title": "Cursor: a case in developer tools",
+  "dek": "Anysphere put the model inside a fork of the editor. Copilot had already taught autocomplete; the fight was over who owned the rest of the session.",
   "era": "2022–2026",
-  "reading_minutes": 13,
+  "reading_minutes": 14,
   "thumb": {
     "src": "lessons/cursor-case/cursor-og.png",
-    "alt": "Cursor wordmark and cube-and-arrow mark on a black field, from the company’s public site."
+    "alt": "White Cursor cube-and-wordmark logo on a black field, from the company’s public Open Graph image."
   },
   "hero": {
-    "src": "lessons/cursor-case/editor-screen.jpg",
-    "alt": "A computer screen showing a dark-mode code editor, a terminal, and a repository view, from Cursor’s public homepage.",
-    "caption": "A working screen as Cursor’s public homepage showed it: editor, terminal, a repository. The product argument is location. The model is not a browser tab you leave the file to visit. It is in the same place you type.",
-    "credit": "Cursor public homepage / Anysphere",
+    "src": "lessons/cursor-case/cursor-og.png",
+    "alt": "Official Cursor wordmark and cube icon on black, from cursor.com’s public Open Graph asset.",
+    "caption": "Cursor’s own public mark, fetched from the company’s Open Graph image on cursor.com. The product is an editor. The company, until 14 August 2026, was Anysphere, Inc.",
+    "credit": "Cursor / cursor.com Open Graph image",
     "credit_url": "https://cursor.com/"
   },
-  "honesty": "This is a strategy case, not a profile of genius. Numbers appear only when a named public source states them. TechCrunch (11 October 2023; 5 June 2025) and GitHub’s own Copilot announcement (29 June 2021) are the spine. Cursor’s public site, including a 14 August 2026 company post titled as the firm now being part of SpaceX, is cited as the company’s own speech — not as independently audited finance. Revenue, valuation, and headcount that lack a named source are omitted. No invented slogans. No fake founder portraits.",
+  "honesty": "This is a product case, not a valuation story. Figures appear only when a named public source states them: TechCrunch (11 October 2023) for the seed; Bloomberg as reported by TechCrunch (5 June 2025) for a later round; Cursor’s own 14 August 2026 post and SpaceX’s Form 8-K the same day for the close. Annual recurring revenue after 2023, headcount, and culture slogans that are not on those pages are omitted. Founder portraits are omitted.",
   "timeline": [
     {
       "year": "2021",
-      "label": "Copilot",
-      "detail": "GitHub and OpenAI announce Copilot, 29 June 2021: autocomplete inside the editor you already have."
+      "label": "Copilot preview",
+      "detail": "29 June: GitHub and OpenAI launch Copilot as a technical preview — autocomplete inside the editor you already have."
     },
     {
       "year": "2022",
-      "label": "Anysphere",
-      "detail": "Four MIT classmates incorporate. The product will be a fork, not a plugin."
+      "label": "Copilot ships / Anysphere",
+      "detail": "21 June: Copilot is generally available. Anysphere is incorporated the same year by four MIT classmates."
     },
     {
       "year": "2023",
-      "label": "Seed",
-      "detail": "TechCrunch, 11 October: $8 million seed led by the OpenAI Startup Fund; total raised $11 million."
+      "label": "The fork",
+      "detail": "6 April: Cursor 0.2.0 changelog — they move onto a fork of VSCodium. 11 October: $8 million seed, OpenAI Startup Fund (TechCrunch)."
     },
     {
       "year": "2024–25",
-      "label": "Category",
-      "detail": "A crowd of AI editors and agents. Copilot is the incumbent. Others try the same door."
+      "label": "The category fills",
+      "detail": "Other AI editors and agents appear. Microsoft’s own VS Code pages begin to sell “redefined with AI.”"
     },
     {
       "year": "2025",
-      "label": "Series C",
-      "detail": "TechCrunch, 5 June 2025: $900 million at a $9.9 billion valuation, citing Bloomberg; Thrive Capital leads."
+      "label": "2.0 / Composer",
+      "detail": "29 October: Cursor’s blog announces version 2.0 and Composer, its first coding model, plus a multi-agent interface."
     },
     {
       "year": "2026",
-      "label": "Company post",
-      "detail": "Cursor’s site lists a 14 August 2026 post: the company is now part of SpaceX. This capsule does not add a price."
+      "label": "A new owner",
+      "detail": "14 August: Cursor’s blog — “Cursor is now a part of SpaceX.” SpaceX’s 8-K files the merger the same day."
     }
   ],
   "watch": [
     {
-      "title": "Introducing GitHub Copilot (29 June 2021)",
-      "url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
-      "note": "GitHub’s own announcement. The incumbent’s product page, not a recap."
+      "title": "Cursor changelog — 0.2.0 (6 April 2023)",
+      "url": "https://cursor.com/changelog/0-2-0",
+      "note": "The company’s own note that they left a CodeMirror editor for a fork of VSCodium. Primary source for the product decision."
     },
     {
-      "title": "Anysphere raises $8M — TechCrunch, 11 October 2023",
+      "title": "Kyle Wiggers — “Anysphere raises $8M from OpenAI to build an AI-powered IDE” (TechCrunch, 11 October 2023)",
       "url": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
-      "note": "Named source for the seed, the fork-of-VS-Code description, and the founders’ names."
+      "note": "Named interview with Michael Truell and Aman Sanger. Seed amount, lead investor, and the quote that Copilot had already done autocomplete."
     },
     {
-      "title": "Cursor’s Anysphere nabs $9.9B valuation — TechCrunch, 5 June 2025",
-      "url": "https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/",
-      "note": "Named source for the 2025 round. ARR figures in that piece are attributed to Bloomberg and to sources."
+      "title": "GitHub — “Introducing GitHub Copilot” (29 June 2021)",
+      "url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
+      "note": "The incumbent’s launch post. Technical preview, OpenAI Codex, VS Code."
     },
     {
-      "title": "Cursor — product site",
-      "url": "https://cursor.com/",
-      "note": "The company’s current public pitch, including the 14 August 2026 company post listed on the homepage."
+      "title": "GitHub — “GitHub Copilot is generally available to all developers” (21 June 2022)",
+      "url": "https://github.blog/news-insights/product-news/github-copilot-is-generally-available-to-all-developers/",
+      "note": "The GA post. Pricing on the archived 2022 page was $10 a month or $100 a year for individuals."
+    },
+    {
+      "title": "Cursor — “Introducing Cursor 2.0 and Composer” (29 October 2025)",
+      "url": "https://cursor.com/blog/2-0",
+      "note": "Company blog: first coding model, parallel agents, git worktrees. Read it as a product announcement, not as an independent review."
+    },
+    {
+      "title": "Cursor — “Cursor is now a part of SpaceX” (14 August 2026)",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "note": "Company post on the close. It does not state a price. For the implied equity value, see the 8-K."
+    },
+    {
+      "title": "SpaceX Form 8-K (14 August 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026056945/spcx-20260814.htm",
+      "note": "SEC filing: merger of X67 Inc. into Anysphere, Inc., effective 14 August 2026; implied equity value of Cursor of $60.0 billion. A legal document, not a feature review."
     }
   ],
   "glossary": [
     {
-      "term": "Cursor",
-      "explain": "AI-centered code editor made by Anysphere. TechCrunch (2023) described it as a fork of Microsoft’s VS Code: the familiar editor, rebuilt so generation, chat, and codebase questions live inside it."
+      "term": "Anysphere",
+      "aliases": [
+        "Anysphere, Inc."
+      ],
+      "explain": "The Delaware corporation that built Cursor. TechCrunch (11 October 2023) names the four co-founders as Michael Truell, Sualeh Asif, Arvid Lunnemark, and Aman Sanger, who met at MIT. After 14 August 2026 the company survives as a SpaceX subsidiary (SpaceX 8-K)."
     },
     {
-      "term": "Anysphere",
-      "explain": "The company that makes Cursor. Incorporated 2022. TechCrunch names the founders as Michael Truell, Sualeh Asif, Arvid Lunnemark, and Aman Sanger, who met at MIT."
+      "term": "Cursor",
+      "explain": "Anysphere’s editor: an AI-native development environment built, from April 2023, on a fork of VSCodium (Cursor changelog 0.2.0). The trade name and the product are the same word."
     },
     {
       "term": "VS Code",
       "aliases": [
-        "Visual Studio Code"
+        "Visual Studio Code",
+        "VSCodium"
       ],
-      "explain": "Microsoft’s free, widely used code editor. Stack Overflow’s 2023 survey, cited in TechCrunch’s seed story, put it far ahead of other editors. Cursor’s bet was to fork it rather than live as a plugin inside it."
+      "explain": "Microsoft’s free source-code editor, open-sourced under the MIT License. VSCodium is a community build of that codebase without Microsoft’s branding and telemetry. Cursor 0.2.0 says they forked VSCodium so they could change the editor, not only plug into it. Stack Overflow’s 2023 Developer Survey, as cited by TechCrunch, put VS Code at about 73 percent of respondents."
     },
     {
       "term": "fork",
-      "explain": "A copy of a software project that goes its own way. Cursor forked VS Code so Anysphere could change the editor itself — not only add a sidebar — while keeping the keybindings and extensions people already knew."
+      "explain": "In software: a copy of a codebase that you then change on your own line. Forking VS Code/VSCodium let Anysphere rewrite the shell around the file. An extension (Copilot’s first form) can suggest text; it cannot, by itself, become the window."
     },
     {
       "term": "GitHub Copilot",
       "aliases": [
         "Copilot"
       ],
-      "explain": "GitHub and OpenAI’s AI pair-programmer, announced 29 June 2021. It began as completions inside VS Code and other editors: the incumbent Cursor had to differentiate from."
+      "explain": "GitHub and OpenAI’s AI pair-programmer, technical preview 29 June 2021, generally available 21 June 2022. It began as autocomplete inside VS Code and other editors. Aman Sanger told TechCrunch in 2023 that autocomplete had “been done particularly well by GitHub Copilot,” so Cursor would aim at what came after."
+    },
+    {
+      "term": "OpenAI Startup Fund",
+      "explain": "The fund that, per TechCrunch (11 October 2023), led Anysphere’s $8 million seed, with angels including former GitHub CEO Nat Friedman and Dropbox co-founder Arash Ferdowsi. The same article says the round brought total capital raised to $11 million."
+    },
+    {
+      "term": "Composer",
+      "explain": "Cursor’s first coding model, announced with Cursor 2.0 on 29 October 2025. The company blog calls it a low-latency agentic model trained with codebase-wide search. That is their claim, on their page."
+    },
+    {
+      "term": "agent",
+      "aliases": [
+        "coding agent"
+      ],
+      "explain": "In this market, a loop that can read files, edit them, run commands, and come back with a diff — not only the next line. Cursor 2.0’s blog (29 October 2025) describes running several such agents in parallel on git worktrees or remote machines."
     },
     {
       "term": "IDE",
       "aliases": [
         "integrated development environment"
       ],
-      "explain": "A program that gathers editing, running, debugging, and project tools in one place. Anysphere’s 2023 pitch, per TechCrunch, was an “AI-native” IDE — the model as a default, not an add-on."
+      "explain": "A program that gathers editor, debugger, terminal, and project tools in one window. TechCrunch’s 2023 piece uses Anysphere’s phrase “AI-native” IDE: the model is not a guest in the sidebar; it is why the window exists."
+    },
+    {
+      "term": "extension",
+      "aliases": [
+        "plugin"
+      ],
+      "explain": "A package that adds features to an existing editor through a public API. Copilot’s first life was an extension. The limit of an extension is the API. A fork can change the API."
     },
     {
       "term": "ARR",
       "aliases": [
         "annual recurring revenue"
       ],
-      "explain": "Subscription revenue expressed as a yearly run rate. TechCrunch’s 2023 seed story said Anysphere claimed ARR already over $1 million. The 2025 story reports later ARR figures via Bloomberg and sources. This capsule does not invent a current number."
+      "explain": "Subscription revenue annualized. TechCrunch (11 October 2023) quotes the company as already over $1 million ARR. Later ARR figures in the press often come from unnamed sources; this capsule does not repeat those."
     },
     {
-      "term": "OpenAI Startup Fund",
-      "explain": "OpenAI’s early-stage fund. TechCrunch, 11 October 2023: it led Cursor’s $8 million seed, with angels including former GitHub CEO Nat Friedman and Dropbox co-founder Arash Ferdowsi."
-    },
-    {
-      "term": "Thrive Capital",
-      "explain": "Venture firm. TechCrunch, 5 June 2025: it led a $900 million round valuing Anysphere at $9.9 billion, with a16z, Accel, and DST also named."
-    },
-    {
-      "term": "agent",
-      "aliases": [
-        "coding agent",
-        "cloud agent"
-      ],
-      "explain": "In this product category, software that can take a multi-step programming task — edit files, run commands, sometimes open a browser — rather than only complete the current line. Cursor’s public site in 2026 sells agents as the center. The word is the company’s; the capability is what to test."
-    },
-    {
-      "term": "tab completion",
-      "aliases": [
-        "autocomplete"
-      ],
-      "explain": "Suggesting the next tokens as you type. Copilot made this the default picture of “AI plus coding.” Anysphere’s 2023 comment to TechCrunch, via co-founder Aman Sanger, was that they wanted the features after autocomplete: bugs, codebase Q&A, edits across files."
-    },
-    {
-      "term": "Windsurf",
-      "explain": "Another AI coding assistant. TechCrunch’s 5 June 2025 piece notes OpenAI’s reported purchase of Windsurf after Anysphere, the same story says, turned down acquisition approaches. A competitor, named because a named source named it."
+      "term": "8-K",
+      "explain": "A U.S. current-report filing for material events. SpaceX’s 8-K dated 14 August 2026 is the public legal record of the Anysphere merger and of the implied $60.0 billion equity value. Cursor’s blog that day does not print the number."
     }
   ],
   "fun_fact": {
-    "title": "They told TechCrunch they would not clone and sell",
-    "text": "In the 11 October 2023 TechCrunch interview, CEO Michael Truell said the “ceiling in the AI coding space is so high” that it was “not possible to just clone the tech and then put great sales on top.” Whether that remains a good description of the category is a 2026 question. The quote is useful because it is dated and attributed: a five-person company, just seeded, explaining why it thought Microsoft’s distribution advantage was not the whole game."
+    "title": "The product decision is in the changelog",
+    "text": "On 6 April 2023, Cursor’s public changelog for version 0.2.0 says they had “transitioned to building Cursor on top of a fork of VSCodium, moving away from our previous Codemirror-based approach.” The sentence is not a manifesto. It is a shipping note. The business case — own the editor, not the plugin slot — is already in that line, months before the seed announcement."
   },
   "sections": [
     {
       "id": "before",
       "kicker": "Before",
-      "title": "The plugin and the editor you already had",
+      "title": "Autocomplete already had an owner",
       "blocks": [
         {
           "type": "p",
-          "text": "On 29 June 2021 GitHub announced Copilot: an “AI pair programmer” that suggested lines and functions inside Visual Studio Code. The model (OpenAI Codex, in that announcement) lived where the programmer already was. That is the incumbent move. You do not switch editors. You install a habit."
+          "text": "On 29 June 2021 GitHub and OpenAI put a technical preview in Visual Studio Code and called it Copilot: “your AI pair programmer.” The GitHub Blog is the source. The model was OpenAI Codex. The gesture was new enough to need a slogan and old enough to fit an extension slot — suggest the next line, the next function, while you stay in the editor you already paid for with attention."
         },
         {
           "type": "figure",
           "src": "lessons/cursor-case/copilot-social.png",
-          "alt": "GitHub Copilot 2021 announcement graphic: Your AI pair programmer, with a code-completion example.",
-          "caption": "GitHub’s own 2021 launch art: “Your AI pair programmer,” a completion highlighted in the editor. This is the product Cursor had to be other than — not a distant cousin, a sitting tenant.",
-          "credit": "GitHub Blog, 29 June 2021",
+          "alt": "GitHub Copilot 2021 social card: “Your AI pair programmer,” technical-preview badge, and a mocked-up editor completing a JavaScript fetch.",
+          "caption": "GitHub’s own social card for the 29 June 2021 Copilot post. The product is an overlay on an editor: a blue box, a suggested function, the word Copilot in the corner. That is the form Anysphere decided not to stop at.",
+          "credit": "GitHub Blog / 2021 Copilot announcement Open Graph image",
           "credit_url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/"
         },
         {
           "type": "p",
-          "text": "By 2023, per TechCrunch’s seed story, VS Code was the default editor for a large majority of developers in Stack Overflow’s survey that year. A new IDE that ignored that fact was a hobby. A new IDE that was a fork of that fact was a strategy."
+          "text": "On 21 June 2022 Copilot became generally available to individual developers. The 2022 GitHub post — still on github.blog — priced it at $10 a month or $100 a year, free for verified students and maintainers of popular open-source projects. Microsoft already distributed the host. Stack Overflow’s 2023 Developer Survey, as TechCrunch cited it that October, had about 73 percent of respondents in VS Code. The incumbent did not need to invent a window. It already had the window."
         },
         {
-          "type": "figure",
-          "src": "lessons/cursor-case/vscode-og.png",
-          "alt": "Visual Studio Code marketing graphic: Your code editor. Redefined with AI.",
-          "caption": "Microsoft’s public VS Code art, later in the same category: the incumbent editor selling AI as a redefinition of itself. Cursor’s 2023 bet was to fork this editor rather than live only as a guest inside it.",
-          "credit": "Visual Studio Code public site / Microsoft",
-          "credit_url": "https://code.visualstudio.com/"
+          "type": "p",
+          "text": "ChatGPT opened to the public in November 2022. By early 2023 “AI plus coding” was a category investors could say aloud. The default picture was still autocomplete. Aman Sanger, one of Anysphere’s four co-founders, told TechCrunch so in October 2023: when people think of AI and coding, “their mind usually goes to AI-powered autocomplete,” and “this has been done particularly well by GitHub Copilot and others.” The rest of the sentence is the case: they would aim at what came after autocomplete — bugs, questions about a whole codebase, edits that crossed files."
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "Fork the editor, then sell the difference",
+      "title": "Own the window, then fill it",
       "blocks": [
         {
           "type": "p",
-          "text": "Anysphere incorporated in 2022. The four founders — Michael Truell, Sualeh Asif, Arvid Lunnemark, Aman Sanger — had met at MIT. TechCrunch’s 11 October 2023 piece is the public origin story this capsule will use: an $8 million seed led by the OpenAI Startup Fund, total raised $11 million, a five-person company, ARR “already over $1 million” as Truell claimed to the reporter. Those are the numbers a named source printed. Later headlines are later headlines."
+          "text": "Anysphere was incorporated in 2022. TechCrunch’s 11 October 2023 piece names the founders — Michael Truell (CEO), Sualeh Asif, Arvid Lunnemark, Aman Sanger — as MIT classmates who wanted an IDE that could take over the dull parts of building software. The first public product decision that still sits on their site is dated 6 April 2023. Changelog 0.2.0: they left a CodeMirror editor and “transitioned to building Cursor on top of a fork of VSCodium.” The goal, in their words, was “an IDE optimized for pair-programming with AI.”"
         },
         {
           "type": "figure",
-          "src": "lessons/cursor-case/cursor-og.png",
-          "alt": "CURSOR wordmark and cube mark on black, from the company’s public Open Graph image.",
-          "caption": "The mark as Cursor’s public site served it: a cube, an arrow, a name. A wordmark is not a valuation. It is what a product uses when it wants to be recognized in a tab.",
-          "credit": "Cursor public site (og image)",
-          "credit_url": "https://cursor.com/",
-          "fit": "contain"
+          "src": "lessons/cursor-case/vscode-og.png",
+          "alt": "Visual Studio Code marketing graphic: “Your code editor. Redefined with AI,” with an Accept/Discard box over a blurred editor.",
+          "caption": "Microsoft’s own VS Code Open Graph image, fetched from code.visualstudio.com in August 2026. The host that Copilot plugged into now advertises itself as redefined by AI. The picture is later than Cursor’s fork. It is here to show that the substrate learned the pitch.",
+          "credit": "Visual Studio Code / code.visualstudio.com Open Graph image",
+          "credit_url": "https://code.visualstudio.com/"
         },
         {
           "type": "p",
-          "text": "The product difference, in that 2023 interview, is not “we also complete code.” Sanger said Copilot and others had done autocomplete “particularly well,” and that Cursor was aimed at what comes after: questions about a codebase, finding bugs, edits that are not the next token. The company forked VS Code so those features could be native — keybindings familiar, extensions familiar, the AI not a guest."
+          "text": "A fork is not a metaphor. VS Code’s editor is MIT-licensed. VSCodium is that code without Microsoft’s badges. By shipping a fork, Anysphere could change keybindings, chat, multi-file edits, and later agents without waiting on an extension API. Truell told TechCrunch that Microsoft was the main competitor, and that a wide user base made radical change slow. That is a founder’s argument, on the record, in 2023. It is not a proof that Microsoft could not move. The later VS Code page above is evidence that it did."
+        },
+        {
+          "type": "p",
+          "text": "On 11 October 2023 Anysphere announced an $8 million seed led by the OpenAI Startup Fund, with Nat Friedman and Arash Ferdowsi among the angels. TechCrunch is the named source. The same article says total capital raised reached $11 million, that Truell put annual recurring revenue already over $1 million, and that “tens of thousands of people” were on the platform. Those are the last user and revenue numbers this capsule will treat as checkable for the early period. Later press ARR figures often arrive as “sources told.” They are omitted."
+        },
+        {
+          "type": "p",
+          "text": "Look outward from the same years, not only at one startup. Copilot was already a Microsoft product. Other editors and agents — Windsurf among them — filled the same shelf. TechCrunch’s 5 June 2025 story, reporting a Bloomberg account of Anysphere’s next large round, also states that OpenAI had bought Windsurf. This capsule does not invent a ranking. It notes that by mid-decade the category was no longer a two-firm cartoon."
+        },
+        {
+          "type": "p",
+          "text": "On 5 June 2025 TechCrunch, citing Bloomberg, reported that Anysphere had raised $900 million at a $9.9 billion valuation, led by Thrive Capital, with Andreessen Horowitz, Accel, and DST Global participating. The article is a named public source. Treat the dollars as a reported round, not as a measure of how the editor feels to use."
         },
         {
           "type": "figure",
-          "src": "lessons/cursor-case/editor-screen.jpg",
-          "alt": "Dark editor, terminal, and repository windows on a monitor, from Cursor’s homepage.",
-          "caption": "From the public homepage: the editor as a place where generation, errors, and a repo can share one glass. Whether this is “after autocomplete” is a user’s judgment. The screenshot is the pitch.",
-          "credit": "Cursor public homepage",
-          "credit_url": "https://cursor.com/"
+          "src": "lessons/cursor-case/cursor-2-0-og.png",
+          "alt": "Cursor cube logo beside a pill that reads 2.0, white on black, from the official 2.0 blog Open Graph image.",
+          "caption": "Official Open Graph image for Cursor’s 29 October 2025 post “Introducing Cursor 2.0 and Composer.” The version number is the news: a first in-house coding model, and an interface built around many agents rather than many files.",
+          "credit": "Cursor / cursor.com/blog/2-0 Open Graph image",
+          "credit_url": "https://cursor.com/blog/2-0"
         },
         {
           "type": "p",
-          "text": "The same years, not as decoration: Copilot kept shipping; other tools (TechCrunch’s 2025 piece names Windsurf in the context of an OpenAI acquisition) tried the same category; models from OpenAI, Anthropic, and others became interchangeable parts. Cursor’s site, by 2026, sells “agents” that can take a task for minutes or hours. That is a later product sentence. The 2023 sentence was: own the editor."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/cursor-case/homepage-session.jpg",
-          "alt": "A man gesturing in front of a blackboard that says Background agent and Set up environment, from Cursor’s homepage.",
-          "caption": "A still from Cursor’s public homepage: a working session, “Background agent” on the board. This capsule does not name the speaker. The board is the product language the company chose to show.",
-          "credit": "Cursor public homepage",
-          "credit_url": "https://cursor.com/"
-        },
-        {
-          "type": "p",
-          "text": "On 5 June 2025 TechCrunch reported a $900 million round at a $9.9 billion valuation, led by Thrive Capital, and said Bloomberg had the company past $500 million ARR. Those figures are attributed in that article. They are not re-audited here. On 14 August 2026 Cursor’s own site listed a company post: Cursor is now part of SpaceX. This capsule records the company’s statement. It does not invent a price, a share count, or a culture memo to go with it."
+          "text": "Cursor 2.0, on the company’s blog of 29 October 2025, is the product’s own account of the turn from “pair programmer in the gutter” to “agents in parallel.” Composer is described there as a low-latency model for agentic coding; the new layout is “centered around agents rather than files”; git worktrees or remote machines keep those agents from stepping on each other. That is what they shipped and how they described it. Independent benchmarks are not in this capsule because this capsule did not run them."
         }
       ]
     },
     {
       "id": "people",
       "kicker": "People",
-      "title": "A company, an incumbent, a fund",
+      "title": "Four classmates, an incumbent, and a substrate",
       "blocks": [
         {
           "type": "people",
           "people": [
             {
-              "name": "Michael Truell",
-              "dates": "CEO, Anysphere",
-              "text": "Named by TechCrunch (2023) as co-founder and CEO. The quotes this capsule uses — mission, Microsoft as competitor, the “ceiling” in AI coding — are from that interview. No biography beyond the source."
-            },
-            {
-              "name": "Aman Sanger",
-              "dates": "Co-founder",
-              "text": "Named in the same 2023 piece. The useful sentence is his: autocomplete was already done well; they wanted the work after it. A product position, attributed."
+              "name": "Michael Truell, Sualeh Asif, Arvid Lunnemark, Aman Sanger",
+              "dates": "Anysphere, founded 2022",
+              "text": "Named as the four MIT co-founders in TechCrunch, 11 October 2023. Truell is quoted as CEO. Sanger is the one who says Copilot already won autocomplete. This capsule does not invent titles for the other two, or a culture deck, or a photograph. The public record used here is the interview and the changelog."
             },
             {
               "name": "GitHub Copilot",
-              "dates": "Announced 2021",
-              "image": "lessons/cursor-case/copilot-social.png",
-              "alt": "Copilot 2021 launch graphic.",
-              "caption": "The incumbent’s own art.",
-              "credit": "GitHub Blog",
-              "credit_url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
-              "text": "Not a person. The sitting product. Cursor’s case only makes sense if Copilot is in the room: distribution, Microsoft, the habit of completing the next line."
+              "dates": "Preview 2021 · GA 2022",
+              "text": "The product that defined the first mass market for AI-in-the-editor. GitHub’s own posts are the dates. It began as an extension. It had Microsoft’s distribution. Cursor’s early pitch, on the record, is that the interesting work started after Copilot’s first trick."
+            },
+            {
+              "name": "Visual Studio Code",
+              "dates": "Open-sourced 2015; still the host",
+              "text": "The editor most of the category is standing on. Cursor forked a build of it. Copilot plugged into it. Microsoft’s 2026 marketing page now sells VS Code as “redefined with AI.” The substrate is not a neutral pipe. It is a competitor that already had the users."
             }
           ]
         }
       ]
     },
     {
-      "id": "story",
-      "kicker": "A story",
-      "title": "Distribution versus the native editor",
-      "blocks": [
-        {
-          "type": "p",
-          "text": "TechCrunch asked, in 2023, whether a five-person fork could compete with Microsoft. Truell’s answer was that VS Code’s breadth was also a brake: Microsoft could not change the editor radically without risking the people who already lived there. Cursor, being small and specialized, could. That is a classic disruptor paragraph. It may or may not remain true once a product is no longer small. The case is useful because the paragraph is dated. You can watch what happened after."
-        },
-        {
-          "type": "p",
-          "text": "The strategic object is not a model. Models are rented. The object is the place the programmer’s hands already are, and whether “AI” is a guest in that place or the room itself."
-        }
-      ]
-    },
-    {
       "id": "after",
       "kicker": "After",
-      "title": "A category, then a parent company",
+      "title": "The editor gets a parent",
       "blocks": [
         {
           "type": "p",
-          "text": "By 2025–26 the category had a name in the press — sometimes “vibe coding,” sometimes “coding agents” — and more than one well-funded tool. Copilot did not leave. Cursor’s public site, in August 2026, presented agents, cloud machines, and a company post about SpaceX. A later Saturday capsule can take the acquisition as a case of its own, with filings. This one stops at what a named article and the company’s own page have already said."
+          "text": "On 14 August 2026 Cursor’s blog stated that the company “has officially been acquired by SpaceX,” completing a process the post says began in April with a SpaceXAI partnership. The post talks about GPUs and about keeping the work familiar. It does not print a price."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/cursor-case/editor-screen.jpg",
+          "alt": "A computer monitor showing a dark-mode code editor, a terminal, and a repository view, from Cursor’s public homepage.",
+          "caption": "A working screen as Cursor’s public homepage showed it in August 2026: editor, terminal, a repository. The product argument is location. The model is not a browser tab you leave the file to visit. It is in the same place you type.",
+          "credit": "Cursor public homepage / Anysphere",
+          "credit_url": "https://cursor.com/"
         },
         {
           "type": "p",
-          "text": "The lesson for a strategy notebook is older than any of these names: if the incumbent owns the habit (the editor), you either live as a plugin inside the habit or you try to own a new habit that feels like the old one. Cursor chose the second. The bill for that choice is not printed here."
+          "text": "SpaceX’s Form 8-K of the same date does. Merger of a subsidiary, X67 Inc., into Anysphere, Inc.; Anysphere survives as a wholly owned subsidiary; outstanding Cursor common and preferred convert into SpaceX Class A shares “based on an implied equity value of Cursor of $60.0 billion.” That sentence is a filing, not a feature. Two days later this capsule can say the owner changed. It cannot yet say what that does to the editor."
+        },
+        {
+          "type": "p",
+          "text": "The product insight that made the case is older than the 8-K. Autocomplete was a plugin. The session — files, terminal, review, agents — is an editor. Whoever ships the window sets the defaults. That was true when Copilot rented space in VS Code. It is still true when the window has a new parent."
         }
       ]
     },
@@ -295,7 +300,7 @@
       "blocks": [
         {
           "type": "question",
-          "text": "If the model is rented, what, exactly, did the editor company sell?"
+          "text": "If the valuable object is no longer the next line of code but the session that produces the repository, who should own the window — the model lab, the editor, or the company that already has the developers?"
         }
       ]
     }
