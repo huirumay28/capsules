@@ -8,6 +8,7 @@ import re
 import shutil
 from datetime import date, datetime, timedelta
 from pathlib import Path
+import unicodedata
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
@@ -182,7 +183,7 @@ def collect_search_text(lesson: dict) -> str:
                         person.get("text", ""),
                         person.get("caption", ""),
                     ])
-    for item in lesson.get("watch", []) + lesson.get("listen", []):
+    for item in lesson.get("watch", []) + lesson.get("listen", []) + lesson.get("read", []):
         parts.extend([item.get("title", ""), item.get("note", "")])
     return re.sub(r"\s+", " ", " ".join(parts)).strip()
 
@@ -283,16 +284,19 @@ def figure_html(
     credit_url: str,
     cls: str,
     fit: str = "",
+    glossary: list[dict] | None = None,
+    lesson_links: list[tuple[str, str]] | None = None,
 ) -> str:
     credit_link = (
         f'<a href="{esc(credit_url)}">{esc(credit)}</a>' if credit_url else esc(credit)
     )
     fit_cls = f" fit-{fit}" if fit else ""
+    caption_html = mark_text(caption, glossary or [], lesson_links or []) if caption else ""
     return f"""
     <figure class="{cls}{fit_cls}">
       <img src="{asset(prefix, src)}" alt="{esc(alt)}">
       <figcaption class="caption">
-        {esc(caption)}
+        {caption_html}
         <span class="credit">{credit_link}</span>
       </figcaption>
     </figure>
@@ -301,6 +305,43 @@ def figure_html(
 
 def is_word_char(ch: str) -> bool:
     return ch.isalnum() or ch in {"'", "’", "-"} or ("\u4e00" <= ch <= "\u9fff")
+
+
+_PUNCT_FOLD = str.maketrans({
+    "\u201c": '"', "\u201d": '"', "\u201e": '"', "\u00ab": '"', "\u00bb": '"',
+    "\u2018": "'", "\u2019": "'",
+    "*": " ", "_": " ",
+})
+
+
+def fold_match(s: str) -> str:
+    """NFC + quote/italic fold. Length-preserving enough for 1:1 punctuation."""
+    return unicodedata.normalize("NFC", s).translate(_PUNCT_FOLD)
+
+
+def ok_before(text: str, idx: int) -> bool:
+    if idx <= 0:
+        return True
+    before = text[idx - 1]
+    if not is_word_char(before):
+        return True
+    return False
+
+
+def ok_after(text: str, end: int) -> bool:
+    if end >= len(text):
+        return True
+    after = text[end]
+    if not is_word_char(after):
+        return True
+    rest = text[end : end + 2]
+    if rest in ("'s", "'S", "’s", "’S"):
+        return True
+    if after in ("'", "’"):
+        nxt = text[end + 1] if end + 1 < len(text) else ""
+        if not nxt or nxt in "sS" or not is_word_char(nxt):
+            return True
+    return False
 
 
 def mark_text(text: str, glossary: list[dict], lesson_links: list[tuple[str, str]]) -> str:
@@ -317,13 +358,14 @@ def mark_text(text: str, glossary: list[dict], lesson_links: list[tuple[str, str
             variants.append((name, "link", href))
     variants.sort(key=lambda x: len(x[0]), reverse=True)
 
-    escaped = esc(text)
-    occupied = [False] * len(escaped)
+    raw = unicodedata.normalize("NFC", esc(text))
+    folded = fold_match(raw)
+    occupied = [False] * len(raw)
     replacements: list[tuple[int, int, str]] = []
-    lower = escaped.lower()
+    lower = folded.lower()
 
     for name, kind, payload in variants:
-        needle = esc(name)
+        needle = fold_match(unicodedata.normalize("NFC", esc(name)))
         if not needle:
             continue
         start = 0
@@ -336,17 +378,15 @@ def mark_text(text: str, glossary: list[dict], lesson_links: list[tuple[str, str
             start = idx + 1
             if any(occupied[idx:end]):
                 continue
-            before = escaped[idx - 1] if idx > 0 else ""
-            after = escaped[end] if end < len(escaped) else ""
             cjk = any("\u4e00" <= ch <= "\u9fff" for ch in name)
             if not cjk:
-                if before and is_word_char(before):
+                if not ok_before(raw, idx):
                     continue
-                if after and is_word_char(after):
+                if not ok_after(raw, end):
                     continue
             for i in range(idx, end):
                 occupied[i] = True
-            visible = escaped[idx:end]
+            visible = raw[idx:end]
             if kind == "term":
                 html = f'<button type="button" class="term" data-term="{esc(payload)}">{visible}</button>'
             else:
@@ -357,10 +397,10 @@ def mark_text(text: str, glossary: list[dict], lesson_links: list[tuple[str, str
     out = []
     cursor = 0
     for start, end, html in replacements:
-        out.append(escaped[cursor:start])
+        out.append(raw[cursor:start])
         out.append(html)
         cursor = end
-    out.append(escaped[cursor:])
+    out.append(raw[cursor:])
     return "".join(out)
 
 
@@ -390,7 +430,7 @@ def render_blocks(
         if kind == "p":
             parts.append(f"<p>{mark_text(block['text'], glossary, lesson_links)}</p>")
         elif kind == "question":
-            parts.append(f'<div class="question"><p>{esc(block["text"])}</p></div>')
+            parts.append(f'<div class="question"><p>{mark_text(block["text"], glossary, lesson_links)}</p></div>')
         elif kind == "list":
             items = "".join(
                 f"<li>{mark_text(item, glossary, lesson_links)}</li>" for item in block["items"]
@@ -407,6 +447,8 @@ def render_blocks(
                     block.get("credit_url", ""),
                     "figure-study",
                     block.get("fit", ""),
+                    glossary,
+                    lesson_links,
                 )
             )
         elif kind == "people":
@@ -425,7 +467,7 @@ def render_blocks(
                         f'<a href="{esc(credit_url)}">{esc(credit)}</a>' if credit_url else esc(credit)
                     )
                     cap = (
-                        f'<p class="caption">{esc(person.get("caption", ""))}'
+                        f'<p class="caption">{mark_text(person.get("caption", ""), glossary, lesson_links)}'
                         f'<span class="credit">{credit_html}</span></p>'
                     )
                 cards.append(
@@ -466,7 +508,12 @@ def render_link_list(heading: str, heading_id: str, items: list[dict], css: str)
         """
 
 
-def render_fun_fact(prefix: str, fun: dict | None) -> str:
+def render_fun_fact(
+    prefix: str,
+    fun: dict | None,
+    glossary: list[dict] | None = None,
+    lesson_links: list[tuple[str, str]] | None = None,
+) -> str:
     if not fun:
         return ""
     image_html = ""
@@ -481,13 +528,15 @@ def render_fun_fact(prefix: str, fun: dict | None) -> str:
             image.get("credit_url", ""),
             "figure-study",
             image.get("fit", ""),
+            glossary,
+            lesson_links,
         )
     return f"""
         <section class="fun-fact" id="fun-fact">
           <p class="kicker">Fun fact</p>
           <h2>{esc(fun.get("title", "A true aside"))}</h2>
           {image_html}
-          <p>{esc(fun.get("text", ""))}</p>
+          <p>{mark_text(fun.get("text", ""), glossary or [], lesson_links or [])}</p>
         </section>
         """
 
@@ -545,6 +594,8 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
             hero.get("credit", ""),
             hero.get("credit_url", ""),
             "hero-figure",
+            glossary=glossary,
+            lesson_links=links,
         )
 
     toc_items = [
@@ -560,7 +611,7 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
         f"""<li>
           <span class="year">{esc(item["year"])}</span>
           <span class="label">{esc(item["label"])}</span>
-          <span class="detail">{esc(item["detail"])}</span>
+          <span class="detail">{mark_text(item["detail"], glossary, links)}</span>
         </li>"""
         for item in lesson.get("timeline", [])
     )
@@ -586,7 +637,8 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
 
     watch_html = render_link_list("Watch", "watch-heading", lesson.get("watch") or [], "watch")
     listen_html = render_link_list("Listen", "listen-heading", lesson.get("listen") or [], "watch listen")
-    fun_html = render_fun_fact(prefix, lesson.get("fun_fact"))
+    read_html = render_link_list("Read", "read-heading", lesson.get("read") or [], "watch read")
+    fun_html = render_fun_fact(prefix, lesson.get("fun_fact"), glossary, links)
     related_html = render_related(lesson, all_lessons, prefix)
 
     glossary_json = json.dumps(
@@ -617,8 +669,8 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
       <div class="subject-bar" aria-hidden="true"></div>
       <header class="lesson-hero wrap">
         <p class="kicker">{esc(subject["weekday"])} · {esc(subject["label"])}</p>
-        <h1>{esc(lesson["title"])}</h1>
-        <p class="lesson-dek">{esc(lesson["dek"])}</p>
+        <h1>{mark_text(lesson["title"], glossary, links)}</h1>
+        <p class="lesson-dek">{mark_text(lesson["dek"], glossary, links)}</p>
         <p class="lesson-meta">
           <span>{esc(format_date(lesson["date"]))}</span>
           <span>{esc(lesson.get("era", ""))}</span>
@@ -627,7 +679,7 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
       </header>
       <div class="wrap">{hero_html}</div>
       <div class="wrap">
-        <p class="honesty">{esc(lesson.get("honesty", ""))}</p>
+        <p class="honesty">{mark_text(lesson.get("honesty", ""), glossary, links)}</p>
         <p class="glossary-hint">Select any words, or tap a dotted term.</p>
         <nav aria-label="In this capsule">
           <ol class="toc">{toc}</ol>
@@ -639,6 +691,7 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
         {fun_html}
         {watch_html}
         {listen_html}
+        {read_html}
         {related_html}
       </div>
       {panel}

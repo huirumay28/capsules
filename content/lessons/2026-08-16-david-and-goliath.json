@@ -1,0 +1,480 @@
+{
+  "slug": "david-and-goliath",
+  "date": "2026-08-16",
+  "subject": "business",
+  "related": [],
+  "title": "David and Goliath: how the smaller player wins",
+  "dek": "Asymmetric competition, judo, disruption, differentiation — then Honda, Southwest, and Canon as cases, not as a company parade.",
+  "era": "frameworks, 1979–2001; cases, 1959–",
+  "reading_minutes": 16,
+  "thumb": {
+    "src": "lessons/david-and-goliath/caravaggio-david.jpg",
+    "alt": "Caravaggio’s David holding the head of Goliath, early seventeenth century."
+  },
+  "hero": {
+    "src": "lessons/david-and-goliath/caravaggio-david.jpg",
+    "alt": "Oil painting of a young David holding the severed head of Goliath.",
+    "caption": "Caravaggio, David with the Head of Goliath (Borghese). The metaphor is older than the MBA. The strategy question is narrower: when does the giant’s strength become the thing you use against him?",
+    "credit": "Wikimedia Commons / public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg"
+  },
+  "honesty": "This is a strategy-framework capsule, not a biography of three firms and not a promise that underdogs win. Claims about Honda, Southwest, and Canon are traced to named public pieces: Harvard Business Review essays, an HBS case abstract, and a New York Times anniversary account. Operating statistics that those pages do not state are omitted. “David and Goliath” is a metaphor. It is not a dataset.",
+  "timeline": [
+    {
+      "year": "1958–59",
+      "label": "Small machines",
+      "detail": "Honda Super Cub in Japan; American Honda the next year. Xerox 914: the large copier Xerox will later be slow to leave."
+    },
+    {
+      "year": "1963",
+      "label": "Niceness",
+      "detail": "Honda’s U.S. line: “You meet the nicest people on a Honda.” A different rider than Harley-Davidson’s."
+    },
+    {
+      "year": "1971",
+      "label": "Southwest",
+      "detail": "First Southwest Airlines flights in Texas: point-to-point, not a miniature major."
+    },
+    {
+      "year": "1979–80",
+      "label": "Porter",
+      "detail": "“How Competitive Forces Shape Strategy”; then Competitive Strategy and the generic-strategy triad."
+    },
+    {
+      "year": "1995–96",
+      "label": "HBR",
+      "detail": "Bower and Christensen on disruptive technologies (Xerox/Canon in the list); Porter, “What Is Strategy?” (Southwest vs Continental Lite)."
+    },
+    {
+      "year": "1999–2001",
+      "label": "Judo",
+      "detail": "Yoffie and Cusumano in HBR; Yoffie and Kwak’s book. Movement, balance, leverage."
+    }
+  ],
+  "read": [
+    {
+      "title": "David B. Yoffie and Michael A. Cusumano — “Judo Strategy: The Competitive Dynamics of Internet Time” (Harvard Business Review, January–February 1999)",
+      "url": "https://hbr.org/1999/01/judo-strategy-the-competitive-dynamics-of-internet-time",
+      "note": "The public HBR statement of judo strategy. Paywall possible; the title and the claim are on the open page."
+    },
+    {
+      "title": "Joseph L. Bower and Clayton M. Christensen — “Disruptive Technologies: Catching the Wave” (Harvard Business Review, January–February 1995)",
+      "url": "https://hbr.org/1995/01/disruptive-technologies-catching-the-wave",
+      "note": "Why incumbents stay with current customers. The open summary names the Xerox/Canon line this capsule uses."
+    },
+    {
+      "title": "Michael E. Porter — “What Is Strategy?” (Harvard Business Review, November–December 1996)",
+      "url": "https://hbr.org/1996/11/what-is-strategy",
+      "note": "Position, trade-offs, fit. Southwest is an exhibit; Continental Lite is the failed copy."
+    },
+    {
+      "title": "Michael E. Porter — “How Competitive Forces Shape Strategy” (Harvard Business Review, March–April 1979)",
+      "url": "https://hbr.org/1979/03/how-competitive-forces-shape-strategy",
+      "note": "The five-forces essay. Industry structure before you pick a fight with a Goliath."
+    },
+    {
+      "title": "Honda (A) — Harvard Business School case 384049 (1983)",
+      "url": "https://store.hbr.org/product/honda-a/384049",
+      "note": "Public abstract: Honda’s history and U.S. entry, drawing on an earlier case and BCG’s motorcycle work. Full text is paid."
+    },
+    {
+      "title": "“For Honda in America, 50 Years of Going Its Own Direction” (The New York Times, 12 July 2009)",
+      "url": "https://www.nytimes.com/2009/07/12/automobiles/12honda.html",
+      "note": "Named anniversary account: Pico Boulevard, small bikes, Harley and the British machines as the existing taste."
+    },
+    {
+      "title": "Bill Taylor — “The Legacy of Herb Kelleher, Cofounder of Southwest Airlines” (Harvard Business Review, 8 January 2019)",
+      "url": "https://hbr.org/2019/01/the-legacy-of-herb-kelleher-cofounder-of-southwest-airlines",
+      "note": "A remembrance of Kelleher. Used for the person, not for fleet counts."
+    },
+    {
+      "title": "Vijay Govindarajan and Julie Lang — “Southwest Airlines” (Tuck / HBS-linked case abstract)",
+      "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=48761",
+      "note": "Public abstract: short-haul, point-to-point, lowest-cost structure in the domestic industry. Not a license to invent turnaround minutes."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "David and Goliath",
+      "explain": "The biblical mismatch: a smaller fighter against a giant. In strategy writing it is a metaphor for asymmetric competition — not a claim that underdogs usually win."
+    },
+    {
+      "term": "asymmetric competition",
+      "explain": "Competing by a different set of activities, customers, or weapons than the incumbent, instead of matching size with size."
+    },
+    {
+      "term": "judo strategy",
+      "explain": "David B. Yoffie and Mary Kwak’s name (book 2001; with Michael A. Cusumano in HBR, 1999) for using a stronger rival’s weight against it: movement, balance, leverage — not a head-to-head trial of strength.",
+      "aliases": [
+        "Judo Strategy"
+      ]
+    },
+    {
+      "term": "David B. Yoffie",
+      "explain": "Harvard Business School professor. With Michael A. Cusumano, “Judo Strategy: The Competitive Dynamics of Internet Time” (HBR, January–February 1999); with Mary Kwak, the 2001 book Judo Strategy.",
+      "aliases": [
+        "Yoffie"
+      ]
+    },
+    {
+      "term": "Mary Kwak",
+      "explain": "Co-author, with David B. Yoffie, of Judo Strategy (Harvard Business School Press, 2001)."
+    },
+    {
+      "term": "Michael A. Cusumano",
+      "explain": "MIT Sloan professor; with Yoffie, the 1999 HBR essay “Judo Strategy: The Competitive Dynamics of Internet Time.”",
+      "aliases": [
+        "Cusumano"
+      ]
+    },
+    {
+      "term": "Judo Strategy: The Competitive Dynamics of Internet Time",
+      "explain": "Yoffie and Cusumano, Harvard Business Review, January–February 1999. The public HBR statement of the judo metaphor: fast entrants taking on dominant incumbents without matching them blow for blow."
+    },
+    {
+      "term": "Judo Strategy",
+      "explain": "Yoffie and Kwak, Harvard Business School Press, 2001. Subtitled Turning Your Competitors’ Strength to Your Advantage. Movement, balance, leverage."
+    },
+    {
+      "term": "disruptive innovation",
+      "explain": "Clayton Christensen’s pattern: a simpler or cheaper offer that incumbents’ best customers do not want yet, which later moves upmarket. The 1995 HBR essay with Joseph L. Bower called these “disruptive technologies.”",
+      "aliases": [
+        "disruption",
+        "disruptive technologies"
+      ]
+    },
+    {
+      "term": "Clayton Christensen",
+      "explain": "Harvard Business School professor. With Joseph L. Bower, “Disruptive Technologies: Catching the Wave” (HBR, January–February 1995); later The Innovator’s Dilemma (1997).",
+      "aliases": [
+        "Christensen"
+      ]
+    },
+    {
+      "term": "Joseph L. Bower",
+      "explain": "Harvard Business School professor; co-author with Christensen of “Disruptive Technologies: Catching the Wave.”",
+      "aliases": [
+        "Bower"
+      ]
+    },
+    {
+      "term": "Disruptive Technologies: Catching the Wave",
+      "explain": "Bower and Christensen, Harvard Business Review, January–February 1995. Why leading firms stay close to current customers and let newcomers take the offers those customers reject — including, in their list, Xerox and the small copier."
+    },
+    {
+      "term": "The Innovator's Dilemma",
+      "explain": "Christensen’s 1997 book. The classroom name that followed the 1995 essay. This capsule uses the essay, which is the public HBR source."
+    },
+    {
+      "term": "differentiation",
+      "explain": "In Michael E. Porter’s generic strategies, competing by being different in a way buyers will pay for — not by being the same thing cheaper. In “What Is Strategy?” (HBR, 1996) he tightens this to a unique activity system and the trade-offs that protect it.",
+      "aliases": [
+        "product differentiation"
+      ]
+    },
+    {
+      "term": "Michael E. Porter",
+      "explain": "Harvard Business School professor. “How Competitive Forces Shape Strategy” (HBR, 1979); Competitive Strategy (1980); “What Is Strategy?” (HBR, November–December 1996).",
+      "aliases": [
+        "Porter",
+        "Michael Porter"
+      ]
+    },
+    {
+      "term": "What Is Strategy?",
+      "explain": "Porter, Harvard Business Review, November–December 1996. Operational effectiveness is not strategy. Strategy is a unique position, trade-offs, and fit among activities. Southwest Airlines is one of his exhibits; Continental Lite is the failed copy."
+    },
+    {
+      "term": "How Competitive Forces Shape Strategy",
+      "explain": "Porter, Harvard Business Review, March–April 1979. The five-forces essay: rivalry, entrants, substitutes, buyers, suppliers."
+    },
+    {
+      "term": "Competitive Strategy",
+      "explain": "Porter’s 1980 book. The three generic strategies — cost leadership, differentiation, focus — live here. The 1996 essay is the later, tighter public statement this capsule leans on."
+    },
+    {
+      "term": "generic strategies",
+      "explain": "Porter’s 1980 triad: cost leadership, differentiation, and focus. A map of positions, not a promise that any one of them wins."
+    },
+    {
+      "term": "Honda",
+      "explain": "Honda Motor Company. In the U.S. motorcycle market it did not first beat Harley-Davidson at large bikes. It sold small, everyday machines to people who had not been Harley’s customer.",
+      "aliases": [
+        "Honda Motor",
+        "American Honda"
+      ]
+    },
+    {
+      "term": "Soichiro Honda",
+      "explain": "Co-founder of Honda Motor. The NYT’s 2009 anniversary piece is the public named source this capsule uses for the U.S. entry story."
+    },
+    {
+      "term": "Harley-Davidson",
+      "explain": "The incumbent American motorcycle name: large bikes, a heavyweight identity. The Goliath in the Honda story — strong in a market Honda first declined to contest head-on.",
+      "aliases": [
+        "Harley"
+      ]
+    },
+    {
+      "term": "Super Cub",
+      "explain": "Honda’s small step-through motorcycle (1958 in Japan; sold in the U.S. as a small Honda, sometimes the Honda 50). The machine of a different customer.",
+      "aliases": [
+        "Honda 50",
+        "Honda Super Cub"
+      ]
+    },
+    {
+      "term": "You meet the nicest people on a Honda",
+      "explain": "Honda’s U.S. advertising line, from 1963. The NYT’s 2009 account calls the approach attacking “with niceness”: a different rider than the existing American motorcycle identity."
+    },
+    {
+      "term": "Honda (A)",
+      "explain": "Harvard Business School case (product 384049, 1983) on Honda’s history and U.S. entry, drawing on an earlier case and the Boston Consulting Group’s motorcycle work. Public abstract on the HBR store page; the full case is paid."
+    },
+    {
+      "term": "Boston Consulting Group",
+      "explain": "Consulting firm. Its 1975 report Strategy Alternatives for the British Motorcycle Industry became the planned-strategy version of Honda’s rise — the version Richard Pascale later argued with.",
+      "aliases": [
+        "BCG"
+      ]
+    },
+    {
+      "term": "Strategy Alternatives for the British Motorcycle Industry",
+      "explain": "Boston Consulting Group report, 1975, for the British government. The planned, scale-curve telling of Honda that classrooms used before Pascale’s interviews."
+    },
+    {
+      "term": "Richard Pascale",
+      "explain": "Author of “Perspectives on Strategy: The Real Story Behind Honda’s Success” (California Management Review, 1984). The Honda Effect: much of what worked in America was improvised after the large bikes failed."
+    },
+    {
+      "term": "Perspectives on Strategy: The Real Story Behind Honda's Success",
+      "explain": "Pascale, California Management Review, 1984. Interviews with Honda executives that complicate the BCG story of a deliberate small-bike plan."
+    },
+    {
+      "term": "Honda Effect",
+      "explain": "Classroom name for the fight between a planned Honda (BCG) and an emergent Honda (Pascale). A warning against treating a later success as a strategy that was clear on day one."
+    },
+    {
+      "term": "Southwest Airlines",
+      "explain": "U.S. airline that, from 1971, flew point-to-point on one aircraft type instead of copying the majors’ hub-and-spoke machine. Porter’s 1996 HBR essay uses it as a system of activities; Continental Lite is the copy that did not fit.",
+      "aliases": [
+        "Southwest"
+      ]
+    },
+    {
+      "term": "Herb Kelleher",
+      "explain": "Cofounder and longtime CEO of Southwest Airlines. Bill Taylor’s HBR remembrance (8 January 2019) is the named public source this capsule uses for the person."
+    },
+    {
+      "term": "The Legacy of Herb Kelleher, Cofounder of Southwest Airlines",
+      "explain": "Bill Taylor, Harvard Business Review, 8 January 2019. A remembrance, not a case exhibit — used here for the person, not for invented operating numbers."
+    },
+    {
+      "term": "Bill Taylor",
+      "explain": "Cofounder of Fast Company; author of the 2019 HBR piece on Kelleher."
+    },
+    {
+      "term": "point-to-point",
+      "explain": "Flying city to city without forcing a connection through a hub. Southwest’s network idea; the opposite of the majors’ hub-and-spoke."
+    },
+    {
+      "term": "hub-and-spoke",
+      "explain": "The major-airline network: feed traffic through a few hub cities. Efficient for a large system; slow and expensive to copy if you are small and want the plane back in the air."
+    },
+    {
+      "term": "Boeing 737",
+      "explain": "The aircraft type Southwest standardized on. One type means one training school, one spare-parts list, one way to turn a plane. Porter’s point is the fit, not the airframe as a fetish."
+    },
+    {
+      "term": "Continental Lite",
+      "explain": "Continental Airlines’ 1990s attempt to copy pieces of Southwest. Porter’s 1996 essay uses it as the exhibit of a failed partial imitation: a few activities, not the system."
+    },
+    {
+      "term": "Xerox",
+      "explain": "The incumbent of large, often leased, office copiers after the Xerox 914 (1959). Bower and Christensen’s 1995 HBR essay: Xerox let Canon create the small-copier market."
+    },
+    {
+      "term": "Xerox 914",
+      "explain": "Xerox’s 1959 plain-paper copier. The machine that made copying a corporate center, and that made a later small copier look, to Xerox’s best customers, like a toy."
+    },
+    {
+      "term": "Canon",
+      "explain": "Japanese camera and later copier company. In Bower and Christensen’s 1995 list, the firm that created the small-copier market while Xerox stayed with the customers who wanted big machines."
+    },
+    {
+      "term": "incumbent",
+      "explain": "The firm already strong in a market. Strength here is also a constraint: the customers, assets, and habits that make a new offer look small or wrong."
+    },
+    {
+      "term": "For Honda in America, 50 Years of Going Its Own Direction",
+      "explain": "New York Times, 12 July 2009. Named anniversary account of American Honda’s U.S. entry: Pico Boulevard, small motorcycles, Harley and the British bikes as the existing taste, “niceness” as the attack."
+    },
+    {
+      "term": "Rita McGrath",
+      "explain": "Columbia strategy professor. Later commentary has used Southwest as a caution about treating a famous case as a finished recipe. Named here as a limit, not as a source for 1971 facts."
+    },
+    {
+      "term": "Grey Advertising",
+      "explain": "The agency associated with Honda’s U.S. “nicest people” campaign. Named as the usual advertising credit; this capsule does not invent the internal memo."
+    },
+    {
+      "term": "Netscape",
+      "explain": "The 1990s browser company in Yoffie and Cusumano’s 1999 HBR examples of a fast entrant meeting a giant."
+    },
+    {
+      "term": "Microsoft",
+      "explain": "The incumbent in that 1999 HBR pairing. An example from their moment, not a third case in this capsule."
+    },
+    {
+      "term": "Harvard Business Review",
+      "aliases": [
+        "HBR"
+      ],
+      "explain": "The journal that published the Porter, Christensen/Bower, and Yoffie/Cusumano essays this capsule cites. A magazine, not a method."
+    },
+    {
+      "term": "California Management Review",
+      "explain": "The journal that published Pascale’s 1984 Honda interviews. The other file in the Honda Effect."
+    },
+    {
+      "term": "The New York Times",
+      "aliases": [
+        "New York Times",
+        "NYT"
+      ],
+      "explain": "Publisher of the 12 July 2009 Honda anniversary account used as a named public source."
+    }
+  ],
+  "fun_fact": {
+    "title": "Continental Lite copied the easy pieces",
+    "text": "In “What Is Strategy?” Porter’s warning is not that Southwest was mysterious. It is that a major could copy a fare, a smile, or a 737 and still fail, because the advantage was the fit among activities — what the major would have to stop doing. Continental Lite is his named exhibit of a partial imitation. The giant can borrow a slingshot and still be a giant."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "The problem",
+      "title": "What you cannot do to a Goliath",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A smaller player who attacks an incumbent where the incumbent is already strong is usually volunteering to lose. The giant has the customers, the dealers, the plant, the brand, the lawyers. Matching him blow for blow is a trial of strength. Judo, in the martial-art sense Yoffie and Kwak borrow, is the opposite idea: do not oppose strength to strength. Use the weight."
+        },
+        {
+          "type": "p",
+          "text": "That is the problem this capsule is for. Not “how to be inspiring.” Not a tour of three beloved companies. The question is narrower: when the other side is larger, where do you stand so that their size becomes slow?"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/david-and-goliath/caravaggio-david.jpg",
+          "alt": "Caravaggio’s David with the head of Goliath.",
+          "caption": "The painting is the metaphor, not the evidence. Strategy frameworks exist because the Bible is not a market study.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg"
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The framework",
+      "title": "Judo, disruption, differentiation — only the versions that are on the page",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Three named tools, from named essays, because a Saturday business capsule that invents a framework is just a slogan."
+        },
+        {
+          "type": "p",
+          "text": "Judo strategy, as David B. Yoffie and Michael A. Cusumano put it in “Judo Strategy: The Competitive Dynamics of Internet Time” (Harvard Business Review, January–February 1999), is how a fast entrant takes on a dominant incumbent without a sumo match. The 2001 book with Mary Kwak spells the principles as movement, balance, and leverage: define a space the giant is slow to enter, refuse a tit-for-tat that favors his weight, and turn his assets — dealers, legacy product, current customers — into things he cannot abandon quickly. The HBR essay’s examples are of their internet moment (Netscape and Microsoft, among others). The pattern is older than the browser."
+        },
+        {
+          "type": "p",
+          "text": "Disruptive technologies, in Joseph L. Bower and Clayton Christensen’s “Disruptive Technologies: Catching the Wave” (HBR, January–February 1995), are offers that today’s best customers reject. Leading firms, the essay says, invest aggressively in what those customers already want. They are late to what looks worse on the old scorecard. Bower and Christensen’s list is blunt: “Xerox let Canon create the small-copier market.” The later classroom word is disruption. The 1995 mechanism is the one this capsule uses: the incumbent is strong, therefore slow, because the wrong customers are speaking."
+        },
+        {
+          "type": "p",
+          "text": "Differentiation, in Michael E. Porter’s Competitive Strategy (1980), is one of three generic strategies: be different in a way buyers will pay for, rather than only cheaper. The tighter public statement is “What Is Strategy?” (HBR, November–December 1996). Operational effectiveness is not strategy. Strategy is a unique position, the trade-offs that come from choosing what not to do, and fit among activities. Porter’s Southwest Airlines is not a vibe. It is a system. His Continental Lite is what happens when a Goliath copies a few pieces and keeps the rest of the old machine. Product differentiation is one weapon inside that system — a different customer, a different product, a different activity set — not a logo exercise."
+        },
+        {
+          "type": "p",
+          "text": "Read the three together and the pattern is one sentence: do not attack the fortress wall; attack the thing the fortress cannot leave without becoming a different building. Porter’s 1979 essay “How Competitive Forces Shape Strategy” is the prior question — what industry are you even standing in — before you pick a fight."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The cases",
+      "title": "How the pattern showed up — not three biographies",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Honda versus Harley-Davidson is the small-bike case. The New York Times’s 12 July 2009 anniversary piece, “For Honda in America, 50 Years of Going Its Own Direction,” puts American Honda on Pico Boulevard in 1959, facing a market whose available machines were Harley-Davidsons or British bikes. Honda’s larger models did not do the job those riders already had. The Super Cub — the small Honda, the Honda 50 in American speech — did a different job for a different person. The 1963 line “You meet the nicest people on a Honda” is the public face of that choice. The Times calls it attacking with niceness. In framework language: movement into a space Harley’s identity made expensive to enter, and a product differentiated by who was allowed to look normal on it."
+        },
+        {
+          "type": "p",
+          "text": "The Honda story is also a warning about hindsight. The HBS case Honda (A) (384049, 1983) tells the U.S. rise in part through the Boston Consulting Group’s Strategy Alternatives for the British Motorcycle Industry (1975) — a planned, scale-curve Honda. Richard Pascale’s “Perspectives on Strategy: The Real Story Behind Honda’s Success” (California Management Review, 1984) is the other file: executives who said they had no strategy beyond seeing whether they could sell something, large bikes that failed on American roads, Super Cubs used as staff transport until strangers asked where to buy them. The Honda Effect is the name of that argument. Use the case. Do not pretend the slide was written in 1959."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/david-and-goliath/honda-super-cub.jpg",
+          "alt": "A first-generation Honda Super Cub, step-through frame, small engine, 1958 design.",
+          "caption": "A first-generation Honda Super Cub. The point is the scale of the machine, not a sales chart. Harley’s strength was a different motorcycle and a different rider. Caption the object; do not invent the volume.",
+          "credit": "Wikimedia Commons / free license",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Honda_super_cub,_1st_Gen._1958,_Front_Perspective_View.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Southwest versus the U.S. majors is the activity-system case. First flights in 1971, Texas, Herb Kelleher among the founders. The public abstract of Vijay Govindarajan and Julie Lang’s Southwest Airlines case states the skeleton this capsule is allowed to use: short-haul, point-to-point, a cost structure the majors did not have. Porter’s 1996 essay is the framework reading: one aircraft type, the Boeing 737; a network that did not worship hub-and-spoke; trade-offs a full-service major could not make without wrecking the rest of its system. Bill Taylor’s 2019 HBR remembrance, “The Legacy of Herb Kelleher, Cofounder of Southwest Airlines,” is for the person, not for a turnaround-minute that this capsule will not invent. Continental Lite, in Porter, is the Goliath who picked up a few of the stones and kept the armor on."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/david-and-goliath/southwest-737.jpg",
+          "alt": "A Southwest Airlines Boeing 737–700 in canyon-blue livery, landing.",
+          "caption": "A Southwest Boeing 737–700, photographed later than 1971. The airframe family is the point Porter needs: one type, one way to turn the plane. The livery is of this century. The idea is not.",
+          "credit": "Wikimedia Commons / CC BY-SA 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Boeing_737-7H4_N231WN.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Canon versus Xerox is the disruption case already named in Bower and Christensen. The Xerox 914 had made large, often leased, plain-paper copying a corporate center. Those customers wanted more of that. A small copier looked like a worse 914. Canon (and, in the wider history, other Japanese firms) made the small machine for offices that did not have a copy center. Xerox’s strength — the installed base, the service revenue, the definition of a serious copier — was the reason to wait. The 1995 essay’s sentence is the claim: Xerox let Canon create the small-copier market. This capsule does not add a unit count the essay does not give."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "Limits",
+      "title": "What the pattern does not explain",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Judo does not mean the small player is wiser. Sometimes the giant is right, and the new offer stays a toy. Christensen’s pattern is famous enough to be over-applied: not every cheaper product is a disruptive technology, and not every incumbent who ignores a niche is about to die. Porter’s fit can become a prison; the same activity system that Continental Lite could not copy can, later, be a reason not to change when the industry does. Rita McGrath and others have since used Southwest itself as a caution about treating a case as eternal. That later argument is not this capsule’s exhibit. It is a reminder that a framework is a lens, not a prophecy."
+        },
+        {
+          "type": "p",
+          "text": "Honda’s two files — BCG and Pascale — are the honest ending. A smaller player can win by attacking where the incumbent is strong and therefore slow. A smaller player can also win because a large bike broke, a clerk asked about the cub, and someone at Grey Advertising wrote a line about nice people. Strategy writing after the fact is very good at turning the second story into the first. The job is to keep both on the table."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "The metaphor travels; the cases age",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The 1999 HBR judo essay was written for internet time. The 1995 disruption essay was written for disk drives and copiers and excavators. Porter’s 1996 Southwest is a system that later managers have been tempted to unpick. The pattern — do not wrestle the giant in his own weight class — is what remains worth teaching on a Saturday. The companies are evidence. They are not saints."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "Leave this on the table",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If the incumbent’s strength is also the reason he cannot move, what would count as evidence that you are the David — and not just the next Continental Lite?"
+        }
+      ]
+    }
+  ]
+}

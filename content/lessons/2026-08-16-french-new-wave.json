@@ -4,9 +4,9 @@
   "subject": "film",
   "related": [],
   "title": "French New Wave (c. 1958–64): the camera leaves the studio",
-  "dek": "Truffaut, Godard, Varda as a peer — auteurs, jump cuts, and Paris as a location, not a set.",
+  "dek": "How a fight with the tradition of quality, a magazine, a lighter camera, and a 1959–62 burst took French cinema into the street.",
   "era": "c. 1958–64",
-  "reading_minutes": 14,
+  "reading_minutes": 16,
   "thumb": {
     "src": "lessons/french-new-wave/varda-venice-1962.jpg",
     "alt": "Agnès Varda standing on a wooden structure over water, early 1960s."
@@ -18,37 +18,37 @@
     "credit": "Wikimedia Commons / free license",
     "credit_url": "https://commons.wikimedia.org/wiki/Category:Rue_Soufflot_(Paris)"
   },
-  "honesty": "“Nouvelle Vague” was a press label before it was a school. The people in this capsule argued in Cahiers du Cinéma, then made films that did not look like the “tradition of quality” they had been attacking. This capsule looks out from Paris. Japanese New Wave and British Free Cinema are happening in the same years — not assigned Asian or British “peers.”",
+  "honesty": "“Nouvelle Vague” was a press label before it was a school. The people in this capsule argued in Cahiers du Cinéma, learned at the Cinémathèque as much as at IDHEC, then made films that did not look like the tradition de qualité they had been attacking. This capsule looks out from Paris. Free Cinema, the Japanese New Wave, and cinéma vérité are happening in the same years — not assigned peers. Taiwan New Cinema is a later cousin.",
   "timeline": [
     {
-      "year": "1954–57",
+      "year": "1951–54",
       "label": "Cahiers",
-      "detail": "Truffaut’s “Une certaine tendance du cinéma français”; the politique des auteurs is a fight about who authors a film."
+      "detail": "Cahiers du Cinéma is founded; Truffaut’s “Une certaine tendance du cinéma français” (1954) names the tradition de qualité as the enemy."
     },
     {
-      "year": "1955",
-      "label": "Varda",
-      "detail": "La Pointe Courte — often called a New Wave film before the name. She is a peer, not a guest."
+      "year": "1955–58",
+      "label": "Before the name",
+      "detail": "Varda’s La Pointe Courte; Chabrol’s Le Beau Serge. Critics are already picking up cameras."
     },
     {
       "year": "1959",
       "label": "Cannes",
-      "detail": "Les Quatre Cents Coups. Truffaut the critic becomes Truffaut the director in public."
+      "detail": "Les Quatre Cents Coups; Hiroshima mon amour. The press gets a date."
     },
     {
-      "year": "1960",
-      "label": "Breathless",
-      "detail": "À bout de souffle. Jump cuts, handheld, a plot that refuses to behave."
-    },
-    {
-      "year": "1962",
-      "label": "Cléo",
-      "detail": "Cléo de 5 à 7. Two hours in a city, a woman walking, time as a structure."
+      "year": "1960–62",
+      "label": "The burst",
+      "detail": "À bout de souffle; Paris nous appartient; Lola; Jules et Jim; Cléo de 5 à 7."
     },
     {
       "year": "1960s",
       "label": "Elsewhere",
-      "detail": "Japanese New Wave; Free Cinema and the British New Wave. Later cousin, not contemporaneous: Taiwan New Cinema in the 1980s."
+      "detail": "Free Cinema / British New Wave; Japanese New Wave; cinéma vérité. Same years, different arguments."
+    },
+    {
+      "year": "1980s",
+      "label": "A later cousin",
+      "detail": "Taiwan New Cinema. The French name traveled. Travel is not origin."
     }
   ],
   "watch": [
@@ -68,6 +68,11 @@
       "note": "Varda, 1962. Watch a legal copy."
     },
     {
+      "title": "Hiroshima Mon Amour — Criterion film page",
+      "url": "https://www.criterion.com/films/302-hiroshima-mon-amour",
+      "note": "Resnais, 1959. Licensed edition."
+    },
+    {
       "title": "BFI — Free Cinema",
       "url": "https://www.bfi.org.uk/features/free-cinema",
       "note": "Britain, same years: a manifesto and a set of shorts, not a French franchise."
@@ -76,75 +81,398 @@
   "glossary": [
     {
       "term": "Nouvelle Vague",
+      "explain": "Press name, late 1950s, for a cluster of mostly young French directors who had often been critics first. A useful label and a bad census.",
       "aliases": [
         "New Wave",
         "French New Wave"
-      ],
-      "explain": "Press name, late 1950s, for a cluster of mostly young French directors who had often been critics first. It is a useful label and a bad census: people were included, excluded, and later added."
+      ]
+    },
+    {
+      "term": "tradition de qualité",
+      "explain": "Truffaut’s hostile name for the polished, literary, studio-bound French cinema of the 1940s–50s that Cahiers wanted to replace. “Quality” here is an insult.",
+      "aliases": [
+        "tradition of quality",
+        "Tradition of Quality",
+        "cinéma de qualité"
+      ]
+    },
+    {
+      "term": "ciné-clubs",
+      "explain": "Postwar French film societies that screened and argued over films outside the commercial circuit. A training ground before a camera was a job.",
+      "aliases": [
+        "ciné-club"
+      ]
+    },
+    {
+      "term": "IDHEC",
+      "explain": "The official French film school (Institut des hautes études cinématographiques). The New Wave’s joke was that you could learn more in the dark at the Cinémathèque than in its classrooms."
+    },
+    {
+      "term": "Cinémathèque",
+      "explain": "The Cinémathèque française, the archive and screening room associated with Henri Langlois. For the Cahiers critics it was a school: Hollywood and Europe, night after night.",
+      "aliases": [
+        "Cinémathèque française"
+      ]
+    },
+    {
+      "term": "Henri Langlois",
+      "explain": "Co-founder of the Cinémathèque française. The programmers’ programmer: he showed the films the school and the industry had filed as disposable."
+    },
+    {
+      "term": "André Bazin",
+      "explain": "Critic and co-founder of Cahiers du Cinéma. A father figure the younger writers both used and argued with."
     },
     {
       "term": "Cahiers du Cinéma",
+      "explain": "French film magazine, founded 1951. Truffaut, Godard, Chabrol, Rivette, Rohmer wrote there. The magazine was a school and a weapon.",
       "aliases": [
         "Cahiers"
-      ],
-      "explain": "French film magazine, founded 1951. Truffaut, Godard, Chabrol, Rivette, Rohmer wrote there. The magazine was a school and a weapon."
+      ]
     },
     {
       "term": "politique des auteurs",
+      "explain": "Cahiers argument: a director can be the author of a film the way a novelist is the author of a book — including in Hollywood, if the films have a signature. In English this hardened into “auteur theory.” It was a polemic, not a law of nature.",
       "aliases": [
-        "auteur",
         "auteur theory"
-      ],
-      "explain": "Cahiers argument: a director can be the author of a film the way a novelist is the author of a book — including in Hollywood, if the films have a signature. In English this hardened into “auteur theory.” It was a polemic, not a law of nature."
+      ]
     },
     {
-      "term": "tradition of quality",
+      "term": "auteur",
+      "explain": "The director-as-author, in the Cahiers sense. A fighting word before it was a festival brochure word."
+    },
+    {
+      "term": "Alfred Hitchcock",
+      "explain": "Hollywood director the Cahiers critics treated as an author, not a genre mechanic. The insult to French “quality” was the point.",
       "aliases": [
-        "Tradition of Quality"
-      ],
-      "explain": "Truffaut’s hostile name for the polished, literary, studio-bound French cinema of the 1940s–50s that Cahiers wanted to replace. “Quality” here is an insult."
+        "Hitchcock"
+      ]
+    },
+    {
+      "term": "Howard Hawks",
+      "explain": "Hollywood director claimed by Cahiers as an auteur. Hawks, Hitchcock, Nicholas Ray: the American names in the French fight.",
+      "aliases": [
+        "Hawks"
+      ]
+    },
+    {
+      "term": "Nicholas Ray",
+      "explain": "Hollywood director (Rebel Without a Cause and others) whom Cahiers treated as a signature, not a studio employee."
     },
     {
       "term": "jump cut",
+      "explain": "An edit that skips a bit of time inside a continuous shot, so the image jerks. Breathless made the device famous as style, not as a mistake to be hidden.",
       "aliases": [
         "jump cuts"
-      ],
-      "explain": "An edit that skips a bit of time inside a continuous shot, so the image jerks. Breathless made the device famous as style, not as a mistake to be hidden."
+      ]
     },
     {
       "term": "Cameflex",
+      "explain": "Lightweight French 35mm camera (Éclair). New Wave crews used cameras like this because they could leave the studio.",
       "aliases": [
         "Éclair Cameflex",
         "Eclair Cameflex"
-      ],
-      "explain": "Lightweight French 35mm camera (Éclair). New Wave crews used cameras like this because they could leave the studio. Portability is an aesthetic with a serial number."
+      ]
+    },
+    {
+      "term": "available light",
+      "explain": "Shooting with the light already in the street or room, rather than a studio grid. An aesthetic with a budget attached."
+    },
+    {
+      "term": "location shooting",
+      "explain": "Filming in real streets and rooms instead of sets. Italian neorealism had already done this; Paris made it look like a choice and a generation."
     },
     {
       "term": "Left Bank",
-      "explain": "Later grouping of filmmakers including Varda, Resnais, Marker — often more essayistic or Left Bank geographically and temperamentally than the Cahiers men. Useful, and too neat."
+      "explain": "Later grouping of filmmakers including Varda, Resnais, Marker — often more essayistic than the Cahiers men. Useful, and too neat."
+    },
+    {
+      "term": "Georges de Beauregard",
+      "explain": "Producer of Breathless and other early New Wave features. The movement had a checkbook, not only a manifesto."
+    },
+    {
+      "term": "Pierre Braunberger",
+      "explain": "Producer who backed several New Wave and Left Bank films. Another name for the fact that cheap was not free."
+    },
+    {
+      "term": "François Truffaut",
+      "explain": "Critic, then director. “Une certaine tendance du cinéma français” (1954); Les Quatre Cents Coups (1959). The man who attacked the tradition of quality became, in time, a tradition of his own.",
+      "aliases": [
+        "Truffaut"
+      ]
+    },
+    {
+      "term": "Jean-Luc Godard",
+      "explain": "Critic, then director. À bout de souffle (1960) is the film people mean when they say “jump cut.” The longer fact is a director who treated cinema as an argument.",
+      "aliases": [
+        "Godard"
+      ]
+    },
+    {
+      "term": "Claude Chabrol",
+      "explain": "Cahiers critic, then director. Le Beau Serge (1958) is often called the first New Wave feature — a provincial story, not a Paris postcard.",
+      "aliases": [
+        "Chabrol"
+      ]
+    },
+    {
+      "term": "Jacques Rivette",
+      "explain": "Cahiers critic, then director. Paris nous appartient (1961) is a Paris of plots and rooms, longer-breathed than the jump-cut cliché.",
+      "aliases": [
+        "Rivette"
+      ]
+    },
+    {
+      "term": "Éric Rohmer",
+      "explain": "Cahiers critic and later editor, then director of talkative moral tales. In the 1959–62 burst he is already in the magazine’s inner room.",
+      "aliases": [
+        "Eric Rohmer",
+        "Rohmer"
+      ]
+    },
+    {
+      "term": "Agnès Varda",
+      "explain": "Photographer first, then filmmaker. La Pointe Courte (1955) is often called a New Wave film before the name. Cléo de 5 à 7 (1962) is the later public proof she was not a guest.",
+      "aliases": [
+        "Agnes Varda",
+        "Varda"
+      ]
+    },
+    {
+      "term": "Alain Resnais",
+      "explain": "Left Bank director. Hiroshima mon amour (1959) is a literary, time-tangled film from the same Cannes season as The 400 Blows — not a Cahiers boys’ night out.",
+      "aliases": [
+        "Resnais"
+      ]
+    },
+    {
+      "term": "Chris Marker",
+      "explain": "Essay-filmmaker of the Left Bank. A name on the map even when a given year’s famous titles are someone else’s.",
+      "aliases": [
+        "Marker"
+      ]
+    },
+    {
+      "term": "Jacques Demy",
+      "explain": "Director of Lola (1961). A musical intelligence in the same years; often parked beside Varda, which is geography and a marriage, not a full account.",
+      "aliases": [
+        "Demy"
+      ]
+    },
+    {
+      "term": "Louis Malle",
+      "explain": "Director of Les Amants (1958). Adjacent to the burst: a scandal about adult desire, not a Cahiers calling card.",
+      "aliases": [
+        "Malle"
+      ]
+    },
+    {
+      "term": "Jean-Pierre Léaud",
+      "explain": "Actor; Antoine Doinel in Les Quatre Cents Coups and later Truffaut films. A new face who became a recurring one.",
+      "aliases": [
+        "Léaud"
+      ]
+    },
+    {
+      "term": "Jean Seberg",
+      "explain": "American actress; the American in Paris in À bout de souffle. Breathless without her face is a different object.",
+      "aliases": [
+        "Seberg"
+      ]
+    },
+    {
+      "term": "Jean-Paul Belmondo",
+      "explain": "Actor; the petty criminal in À bout de souffle. A new star who looked like he had walked in from the street.",
+      "aliases": [
+        "Belmondo"
+      ]
+    },
+    {
+      "term": "Anna Karina",
+      "explain": "Actress and Godard’s collaborator in the films just after Breathless. A face the New Wave kept walking back to.",
+      "aliases": [
+        "Karina"
+      ]
+    },
+    {
+      "term": "Raoul Coutard",
+      "explain": "Cinematographer of Breathless, Jules et Jim, and many other New Wave films. Handheld, available light, a camera that could walk."
+    },
+    {
+      "term": "Cécile Decugis",
+      "explain": "Editor of Breathless. The jump cuts are hers as well as Godard’s.",
+      "aliases": [
+        "Cecile Decugis"
+      ]
+    },
+    {
+      "term": "Marguerite Duras",
+      "explain": "Novelist and screenwriter of Hiroshima mon amour. The literary half of a film the Cahiers story likes to file under directors only."
+    },
+    {
+      "term": "Antoine Doinel",
+      "explain": "The boy in Les Quatre Cents Coups, played by Jean-Pierre Léaud. Truffaut returned to him. A character, not a mascot."
+    },
+    {
+      "term": "Une certaine tendance du cinéma français",
+      "explain": "Truffaut’s 1954 Cahiers essay attacking the tradition of quality. A fight about scripts, adaptation, and who authors a film."
+    },
+    {
+      "term": "Le Beau Serge",
+      "explain": "Chabrol, 1958. Often cited as the first New Wave feature: a return to a provincial town, shot away from the studio comfort the essay had mocked."
+    },
+    {
+      "term": "Les Quatre Cents Coups",
+      "explain": "Truffaut, 1959. Cannes made it an international event. Antoine Doinel in a Paris that is not a postcard.",
+      "aliases": [
+        "The 400 Blows",
+        "400 Blows"
+      ]
+    },
+    {
+      "term": "À bout de souffle",
+      "explain": "Godard, 1960. Jump cuts, handheld, a thin crime plot. The event is the grammar.",
+      "aliases": [
+        "Breathless",
+        "A bout de souffle"
+      ]
+    },
+    {
+      "term": "Cléo de 5 à 7",
+      "explain": "Varda, 1962. A singer walks through two real-time hours of Paris while she waits for a medical result.",
+      "aliases": [
+        "Cléo from 5 to 7",
+        "Cleo de 5 a 7",
+        "Cléo"
+      ]
+    },
+    {
+      "term": "Hiroshima mon amour",
+      "explain": "Resnais, 1959, screenplay by Duras. A French actress and a Japanese man; time that will not stay in order. Cannes, the same season as The 400 Blows."
+    },
+    {
+      "term": "Jules et Jim",
+      "explain": "Truffaut, 1962. A triangle, a stretch of the century, a camera that keeps moving. The film that made the New Wave look like it could also be tender and long."
+    },
+    {
+      "term": "Paris nous appartient",
+      "explain": "Rivette, 1961. Conspiracy and rehearsal in a city that will not explain itself.",
+      "aliases": [
+        "Paris Belongs to Us"
+      ]
+    },
+    {
+      "term": "Lola",
+      "explain": "Demy, 1961. Nantes, a dancer, a musical pulse without yet being a full musical. A Left Bank cousin with its own weather."
+    },
+    {
+      "term": "Les Amants",
+      "explain": "Malle, 1958. A bourgeois adultery film that became a censorship fight. Next to the New Wave, not inside its magazine."
+    },
+    {
+      "term": "La Pointe Courte",
+      "explain": "Varda, 1955. A fishing village and a marriage, often called a New Wave film before the name existed."
     },
     {
       "term": "Free Cinema",
-      "explain": "British mid-1950s documentary movement (Anderson, Reisz, Richardson and others): short films, everyday subjects, a manifesto. It is contemporaneous, not a French export."
+      "explain": "British mid-1950s documentary movement (Anderson, Reisz, Richardson and others): short films, everyday subjects, a manifesto. Contemporaneous, not a French export."
+    },
+    {
+      "term": "British New Wave",
+      "explain": "British late-1950s/early-1960s features that grew out of Free Cinema and the kitchen-sink plays: working-class rooms, location shooting, a different class accent."
+    },
+    {
+      "term": "Lindsay Anderson",
+      "explain": "British Free Cinema and later feature director. A name on the British side of the same years."
+    },
+    {
+      "term": "Karel Reisz",
+      "explain": "British Free Cinema and New Wave director."
+    },
+    {
+      "term": "Tony Richardson",
+      "explain": "British Free Cinema and New Wave director."
     },
     {
       "term": "Japanese New Wave",
+      "explain": "Japanese 1960s directors (Oshima, Imamura, Teshigahara and others) breaking with studio form. The name borrows the French phrase. The films do not.",
       "aliases": [
-        "Nuberu Bagu"
-      ],
-      "explain": "Japanese 1960s directors (Oshima, Imamura, Teshigahara and others) breaking with studio form. The name borrows the French phrase. The films do not."
+        "Nuberu Bagu",
+        "nūberu bāgu"
+      ]
+    },
+    {
+      "term": "Nagisa Oshima",
+      "explain": "Japanese New Wave director. Cruel Story of Youth (1960) is the usual first citation in a short list.",
+      "aliases": [
+        "Oshima"
+      ]
+    },
+    {
+      "term": "Shohei Imamura",
+      "explain": "Japanese New Wave director. Pigs and Battleships (1961) is one place the studio system starts to look breakable.",
+      "aliases": [
+        "Imamura"
+      ]
+    },
+    {
+      "term": "Hiroshi Teshigahara",
+      "explain": "Japanese New Wave director. Woman in the Dunes (1964) is the international title people remember.",
+      "aliases": [
+        "Teshigahara"
+      ]
+    },
+    {
+      "term": "cinéma vérité",
+      "explain": "A documentary idea of the same years: lightweight cameras, direct sound, people talking in the present. Chronicle of a Summer (Rouch and Morin, 1961) is the usual French exhibit.",
+      "aliases": [
+        "cinema verite"
+      ]
+    },
+    {
+      "term": "Jean Rouch",
+      "explain": "Anthropologist-filmmaker; with Edgar Morin, Chronicle of a Summer (1961). Cinéma vérité’s most cited French name."
+    },
+    {
+      "term": "Edgar Morin",
+      "explain": "Sociologist; with Jean Rouch, Chronicle of a Summer."
+    },
+    {
+      "term": "Chronicle of a Summer",
+      "explain": "Rouch and Morin, 1961 (Chronique d’un été). Paris people, a lightweight camera, the present tense as a method.",
+      "aliases": [
+        "Chronique d’un été"
+      ]
+    },
+    {
+      "term": "Italian neorealism",
+      "explain": "Postwar Italian films that took ruined streets as a set. The New Wave’s location habit has this earlier cousin.",
+      "aliases": [
+        "neorealism"
+      ]
+    },
+    {
+      "term": "Cannes",
+      "explain": "The festival that, in 1959, made Les Quatre Cents Coups an international event. A prize is not a movement, but it is how a movement gets a date."
     },
     {
       "term": "New Hollywood",
       "explain": "U.S. late-1960s/1970s studio crash and youth-market turn. Bonnie and Clyde (1967) is the usual bridge sentence from the New Wave. A later effect, not a twin."
     },
     {
+      "term": "Bonnie and Clyde",
+      "explain": "Arthur Penn, 1967. The sentence film histories use to connect Paris to New Hollywood. The connection is real and incomplete."
+    },
+    {
       "term": "Taiwan New Cinema",
       "explain": "1980s Taiwanese film movement (Hou Hsiao-hsien, Edward Yang, and others). A later cousin in the family of “new cinemas,” not a 1960 contemporary."
     },
     {
-      "term": "Cannes",
-      "explain": "The festival that, in 1959, made Les Quatre Cents Coups an international event. A prize is not a movement, but it is how a movement gets a date."
+      "term": "Hou Hsiao-hsien",
+      "explain": "Taiwan New Cinema director. A later name, for the after — not a 1959 peer."
+    },
+    {
+      "term": "Edward Yang",
+      "explain": "Taiwan New Cinema director. Again: 1980s, a cousin, not a contemporary."
     }
   ],
   "fun_fact": {
@@ -155,11 +483,15 @@
     {
       "id": "before",
       "kicker": "Before",
-      "title": "Critics with a grudge, and a camera that could walk",
+      "title": "Quality, clubs, a magazine, a lighter camera",
       "blocks": [
         {
           "type": "p",
-          "text": "In the 1950s a set of Paris critics used Cahiers du Cinéma to pick a fight with their own national cinema. Truffaut’s 1954 essay “Une certaine tendance du cinéma français” attacked what he called the tradition of quality: well-upholstered literary adaptations, studio craft, a cinema that looked finished and felt, to him, dead. The politique des auteurs was the other half of the fight. A director, even in Hollywood, could be an author. Hitchcock counted. So did Hawks. The insult to the French studio system was the point."
+          "text": "The French cinema the young critics wanted to kill had a name they gave it: tradition de qualité, or cinéma de qualité — well-upholstered literary adaptations, studio craft, a finished look that felt, to them, dead. François Truffaut’s 1954 Cahiers du Cinéma essay “Une certaine tendance du cinéma français” is the fight in print. The other half of the fight was the politique des auteurs. A director, even in Hollywood, could be an author. Alfred Hitchcock counted. So did Howard Hawks. So did Nicholas Ray. The insult to the French studio system was the point."
+        },
+        {
+          "type": "p",
+          "text": "They had learned the insult in rooms that were not IDHEC. Postwar ciné-clubs trained an audience to argue. The Cinémathèque française, under Henri Langlois, showed Hollywood and Europe as if the distinction were a filing error. André Bazin’s Cahiers, founded in 1951, hired the arguers: Truffaut, Jean-Luc Godard, Claude Chabrol, Jacques Rivette, Éric Rohmer. The official school existed. The joke — and it was only half a joke — was that you learned more in Langlois’s dark than in a curriculum."
         },
         {
           "type": "figure",
@@ -171,18 +503,18 @@
         },
         {
           "type": "p",
-          "text": "They were not the first people to want a camera outside. Italian neorealism had already taken the war’s rubble as a set. What was new in Paris was the combination: critics who became directors, a magazine that had already trained an audience, and equipment that made a low budget look like a choice."
+          "text": "They were not the first people to want a camera outside. Italian neorealism had already taken the war’s rubble as a set. What was new in Paris was the combination: critics who became directors, a magazine that had already trained an audience, faster film stock, lighter cameras, and producers — Georges de Beauregard, Pierre Braunberger — willing to bet on a low budget that looked like a choice."
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "1959 is a date. It is not the whole map.",
+      "title": "How it looked when it left the studio",
       "blocks": [
         {
           "type": "p",
-          "text": "Les Quatre Cents Coups premiered at Cannes in 1959. Truffaut, who had been banned from the festival as a critic, arrived as a director. The film follows Antoine Doinel through a Paris that is not a postcard — school, streets, a runaway, a freeze-frame on a beach. It is the date the press needed. It is not the first film in the cluster."
+          "text": "The look is easy to list and easy to turn into a costume. Location shooting. Jump cuts. Available light. Young non-stars or new faces: Jean-Pierre Léaud, Jean Seberg, Jean-Paul Belmondo, Anna Karina. Handheld cameras, Raoul Coutard walking them through traffic. A 1959–62 burst in which it suddenly seemed that everyone who had written for Cahiers, and several people who had not, had a feature. Left Bank versus the Cahiers group is a map of that burst, not a ranking: Varda, Alain Resnais, Chris Marker, Jacques Demy on one side of a useful line; Truffaut, Godard, Chabrol, Rivette, Rohmer on the other. Louis Malle’s Les Amants (1958) sits next door. The line leaks. That is why it is a map."
         },
         {
           "type": "figure",
@@ -194,17 +526,36 @@
         },
         {
           "type": "p",
-          "text": "À bout de souffle (1960) is the film people mean when they say “jump cut.” Godard and his editor cut inside shots; time skips; the hero talks to the camera as if the fourth wall were optional. The plot is a thin crime story. The event is the grammar."
+          "text": "Chabrol’s Le Beau Serge (1958) is the film historians often call the first New Wave feature: a provincial return, not a Champs-Élysées postcard. Rivette’s Paris nous appartient (1961) makes the city a rumor. Demy’s Lola (1961) finds a musical pulse in Nantes. The press needed a date anyway. Cannes, 1959, supplied one."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "A map, not a trinity — and three films inside it",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Truffaut, Godard, Chabrol, Rivette, Rohmer, Varda, Resnais, Marker, Demy, Malle: that is already too many for a poster and too few for a census. Add the actors — Léaud, Seberg, Belmondo, Karina — and the people who made the images possible: Coutard, Cécile Decugis, Duras, Beauregard, Braunberger, Langlois, Bazin. Deepen only a few works, as examples inside the field."
         },
         {
           "type": "p",
-          "text": "Agnès Varda is not a cameo in a men’s movement. La Pointe Courte (1955) is often called a New Wave film before the name existed. Cléo de 5 à 7 (1962) walks a singer through two real-time hours of Paris while she waits for a medical result. If “auteur” only fits the Cahiers men, the word is too small — the same problem a later feminism lesson will have with “first wave.”"
+          "text": "Les Quatre Cents Coups is the public breakthrough. Truffaut, who had been banned from Cannes as a critic, arrived in 1959 as a director. The film follows Antoine Doinel through a Paris that is not a postcard — school, streets, a runaway, a freeze-frame on a beach. It is the date the press needed. It is not the first film in the cluster. It is the one that made the cluster visible abroad."
+        },
+        {
+          "type": "p",
+          "text": "À bout de souffle is the cut that showed the cut. Godard, 1960; Belmondo and Seberg; Coutard’s camera; Decugis in the cutting room. The plot is a thin crime story. Time skips inside shots. The hero talks as if the fourth wall were optional. Later classrooms will call this a philosophy. It was also a way to shorten a film without reshooting Paris. Both things can be true."
+        },
+        {
+          "type": "p",
+          "text": "Cléo de 5 à 7 and Hiroshima mon amour keep the map from collapsing into two men and a jump cut. Varda’s 1962 film walks a singer through two real-time hours of Paris while she waits for a medical result. Resnais’s 1959 film, from a Duras screenplay, refuses to let time stay put: a French actress, a Japanese man, a city that is not Paris. La Pointe Courte had already been Varda’s earlier claim. If “auteur” only fits the Cahiers men, the word is too small."
         },
         {
           "type": "figure",
           "src": "lessons/french-new-wave/varda-venice-1962.jpg",
           "alt": "Agnès Varda, short dark hair, standing with another woman on a wooden deck over water.",
-          "caption": "Agnès Varda (left), early 1960s. The filename on this archive print says Venice, 1962 — the year of Cléo. Treat the place-name as the archive’s label. The person is not in doubt: a director who was already working when the magazine men picked up cameras.",
+          "caption": "Agnès Varda (left), early 1960s. The filename on this archive print says Venice, 1962 — the year of Cléo de 5 à 7. Treat the place-name as the archive’s label. The person is not in doubt: a director who was already working when the magazine men picked up cameras.",
           "credit": "Wikimedia Commons / free license",
           "credit_url": "https://commons.wikimedia.org/wiki/Category:Agnès_Varda"
         },
@@ -212,60 +563,20 @@
           "type": "figure",
           "src": "lessons/french-new-wave/arriflex-16.jpg",
           "alt": "Children looking through a professional motion-picture camera on a tripod, with an adult nearby.",
-          "caption": "A later photograph of a portable camera on a tripod, children looking through the finder. This is not a 1959 production still. It is here because the New Wave’s bet — that a lighter camera changes who gets to shoot, and where — did not stay in Paris. The kit traveled. The date of this picture is later than the era. The idea is the era’s.",
+          "caption": "A later photograph of a portable camera on a tripod. This is not a 1959 production still. It is here because the New Wave’s bet — that a lighter camera changes who gets to shoot, and where — did not stay in Paris. The kit traveled. The date of this picture is later than the era. The idea is the era’s.",
           "credit": "Wikimedia Commons / free license",
           "credit_url": "https://commons.wikimedia.org/wiki/Category:Arriflex_cameras"
-        },
-        {
-          "type": "p",
-          "text": "The same years, elsewhere: in Japan, Oshima, Imamura, Teshigahara and others were breaking studio form; the Japanese phrase nūberu bāgu borrows the French name and then goes its own way. In Britain, Free Cinema’s shorts and manifesto (Anderson, Reisz, Richardson) had already argued for everyday subjects and a camera that did not owe the studio a polished lie. These are contemporaneous arguments, not a seating chart with France at the head."
-        }
-      ]
-    },
-    {
-      "id": "people",
-      "kicker": "People",
-      "title": "Three directors, not a trinity",
-      "blocks": [
-        {
-          "type": "people",
-          "people": [
-            {
-              "name": "François Truffaut",
-              "dates": "1932–1984",
-              "text": "Critic, then director. Les Quatre Cents Coups made the movement a Cannes story. He kept coming back to Antoine Doinel. The man who attacked the tradition of quality became, in time, a tradition of his own — which is a later capsule."
-            },
-            {
-              "name": "Jean-Luc Godard",
-              "dates": "1930–2022",
-              "text": "À bout de souffle, then a career of breaking the toy he had just been given. Jump cuts are the textbook; the longer fact is a director who treated cinema as an argument that could be continued in public."
-            },
-            {
-              "name": "Agnès Varda",
-              "dates": "1928–2019",
-              "image": "lessons/french-new-wave/varda-venice-1962.jpg",
-              "alt": "Agnès Varda in the early 1960s.",
-              "caption": "A peer, not a supporting role.",
-              "credit": "Wikimedia Commons / free license",
-              "credit_url": "https://commons.wikimedia.org/wiki/Category:Agnès_Varda",
-              "text": "Photographer first, then filmmaker. La Pointe Courte, Cléo, and decades of work after the New Wave name had gone cold. If a syllabus puts her in a sidebar, the syllabus is the artifact."
-            }
-          ]
         }
       ]
     },
     {
       "id": "story",
-      "kicker": "A story",
-      "title": "Who gets to be the author",
+      "kicker": "Elsewhere",
+      "title": "The same years, different arguments",
       "blocks": [
         {
           "type": "p",
-          "text": "The politique des auteurs was a way of watching Hollywood with respect and watching French “quality” with contempt. It gave critics a hero: the director as signature. It also made it easy to miss the editor, the cinematographer, the producer, the actor who is carrying the film. Breathless without Raoul Coutard’s camera, or without Jean Seberg’s face, is a different object. Varda’s career is a useful correction: the author can be a woman who was never on the Cahiers masthead as a boy critic."
-        },
-        {
-          "type": "p",
-          "text": "Keep the Cameflex in mind. Authorship, in this era, is also a question of who can afford to leave the studio, and who is allowed to."
+          "text": "In Britain, Free Cinema’s shorts and manifesto — Lindsay Anderson, Karel Reisz, Tony Richardson — had already argued for everyday subjects and a camera that did not owe the studio a polished lie. The British New Wave features that followed are contemporaneous, not a franchise. In Japan, Nagisa Oshima, Shohei Imamura, Hiroshi Teshigahara and others were breaking studio form; the phrase nūberu bāgu borrows the French name and then goes its own way. Cinéma vérité — Jean Rouch and Edgar Morin’s Chronicle of a Summer (1961) — is another French argument of the same years: not fiction’s jump cut, but a claim on the present tense. These are contemporaneous arguments, not a seating chart with France at the head."
         }
       ]
     },
@@ -280,7 +591,7 @@
         },
         {
           "type": "p",
-          "text": "Taiwan New Cinema, in the 1980s, is sometimes filed as another “new wave.” It is a later cousin: a different state, a different language politics, a different argument with its own studios. It does not belong on the 1958–64 timeline except as a reminder that the French name traveled, and that travel is not the same as origin."
+          "text": "Taiwan New Cinema, in the 1980s — Hou Hsiao-hsien, Edward Yang, and others — is sometimes filed as another “new wave.” It is a later cousin: a different state, a different language politics, a different argument with its own studios. It does not belong on the 1958–64 timeline except as a reminder that the French name traveled, and that travel is not the same as origin."
         }
       ]
     },

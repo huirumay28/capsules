@@ -112,5 +112,5 @@ If the site 404s after the first push, open Settings → Pages and set Source to
 - [French New Wave](https://huirumay28.github.io/capsules/lessons/french-new-wave/)
 - [High modernism](https://huirumay28.github.io/capsules/lessons/high-modernism/)
 - [War of Resistance](https://huirumay28.github.io/capsules/lessons/war-of-resistance/)
-- [Cursor: a case in developer tools](https://huirumay28.github.io/capsules/lessons/cursor-case/)
+- [David and Goliath: how the smaller player wins](https://huirumay28.github.io/capsules/lessons/david-and-goliath/)
 - [Kitty Genovese and the bystander that wasn’t](https://huirumay28.github.io/capsules/lessons/bystander-genovese/)

@@ -14,30 +14,72 @@
   const bodyEl = panel.querySelector("[data-explain-body]");
   const closeBtn = panel.querySelector("[data-explain-close]");
 
-  function norm(s) {
+  function fold(s) {
     return String(s || "")
+      .normalize("NFC")
+      .replace(/[\u201c\u201d\u201e\u00ab\u00bb]/g, '"')
+      .replace(/[\u2018\u2019]/g, "'")
+      .replace(/[*_]/g, "")
       .replace(/\s+/g, " ")
       .trim()
       .toLowerCase();
   }
 
+  function foldAccents(s) {
+    return fold(s).normalize("NFD").replace(/\p{M}/gu, "");
+  }
+
+  function stripPossessive(s) {
+    return s.replace(/['’]s$/i, "").replace(/['’]$/i, "");
+  }
+
   function lookup(phrase) {
-    const q = norm(phrase);
-    if (!q) return null;
+    const raw = fold(phrase);
+    if (!raw) return null;
+    const variants = [raw, stripPossessive(raw), foldAccents(raw), foldAccents(stripPossessive(raw))];
+    const seen = {};
+    const queries = [];
+    variants.forEach(function (q) {
+      if (q && !seen[q]) {
+        seen[q] = true;
+        queries.push(q);
+      }
+    });
+
+    function namesOf(entry) {
+      return [entry.term].concat(entry.aliases || []).map(function (n) {
+        return fold(n);
+      });
+    }
+
+    function namesFolded(entry) {
+      return [entry.term].concat(entry.aliases || []).map(function (n) {
+        return foldAccents(n);
+      });
+    }
+
     for (let i = 0; i < entries.length; i += 1) {
-      const entry = entries[i];
-      const names = [entry.term].concat(entry.aliases || []);
-      for (let j = 0; j < names.length; j += 1) {
-        if (norm(names[j]) === q) return entry;
+      const names = namesOf(entries[i]);
+      for (let q = 0; q < queries.length; q += 1) {
+        if (names.indexOf(queries[q]) !== -1) return entries[i];
+      }
+    }
+    for (let i = 0; i < entries.length; i += 1) {
+      const names = namesFolded(entries[i]);
+      for (let q = 0; q < queries.length; q += 1) {
+        if (names.indexOf(queries[q]) !== -1) return entries[i];
       }
     }
     for (let i = 0; i < entries.length; i += 1) {
       const entry = entries[i];
-      const names = [entry.term].concat(entry.aliases || []);
+      const names = namesOf(entry).concat(namesFolded(entry));
       for (let j = 0; j < names.length; j += 1) {
-        const n = norm(names[j]);
-        if (n && (q.indexOf(n) !== -1 || n.indexOf(q) !== -1) && Math.min(q.length, n.length) >= 3) {
-          return entry;
+        const n = names[j];
+        for (let q = 0; q < queries.length; q += 1) {
+          const query = queries[q];
+          if (n && query && (query.indexOf(n) !== -1 || n.indexOf(query) !== -1) && Math.min(query.length, n.length) >= 3) {
+            return entry;
+          }
         }
       }
     }
