@@ -1,0 +1,290 @@
+{
+  "slug": "french-new-wave",
+  "date": "2026-08-16",
+  "subject": "film",
+  "title": "French New Wave (c. 1958–1964): the cut that showed the cut",
+  "dek": "Critics pick up cameras in Paris; jump cuts, streets, and the idea that a film has an author.",
+  "era": "c. 1958–1964",
+  "reading_minutes": 14,
+  "thumb": {
+    "src": "lessons/french-new-wave/varda-venice-1962.jpg",
+    "alt": "Agnès Varda with Corinne Marchand at the Venice Film Festival, 1962."
+  },
+  "hero": {
+    "src": "lessons/french-new-wave/paris-soufflot-1959.jpg",
+    "alt": "Rue Soufflot looking toward the Panthéon, Paris, 1959, with a café on the left.",
+    "caption": "Rue Soufflot and the Panthéon, Paris, photographed in 1959 — the year Les 400 coups premiered at Cannes. New Wave features were shot on streets like this, not only on studio lots. Film stills from Breathless and The 400 Blows remain in copyright; this street is free to show.",
+    "credit": "Alf van Beem (heir of the photographer) / Wikimedia Commons / CC0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Rue_Soufflot_met_Pantheon,_Parijs_1959.jpg"
+  },
+  "honesty": "“Nouvelle Vague” was a press label, then a useful pile of films. It was never one manifesto. Cahiers critics (Truffaut, Godard, Chabrol, Rohmer, Rivette) are one cluster. The so-called Left Bank (Varda, Resnais, Marker) is another. This capsule stays with 1958–1964 and does not pirate the features.",
+  "timeline": [
+    {
+      "year": "1954",
+      "label": "A certain tendency",
+      "detail": "Truffaut’s Cahiers essay attacks the “cinéma de qualité” and argues for the director as author."
+    },
+    {
+      "year": "1955",
+      "label": "Varda first",
+      "detail": "Agnès Varda’s La Pointe Courte — often treated as a New Wave film before the name exists."
+    },
+    {
+      "year": "1959",
+      "label": "Cannes",
+      "detail": "Les 400 coups. Truffaut, late of Cahiers, wins Best Director."
+    },
+    {
+      "year": "1960",
+      "label": "Breathless",
+      "detail": "À bout de souffle. Jump cuts, handheld, Paris streets, a plot that refuses to behave."
+    },
+    {
+      "year": "1959–64",
+      "label": "Same years, elsewhere",
+      "detail": "Oshima and Imamura in Japan; Free Cinema’s afterlife in Britain; Italy after neorealism."
+    },
+    {
+      "year": "1967–",
+      "label": "The after",
+      "detail": "New Hollywood learns that a film can announce its making. Taiwan New Cinema is a later cousin."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Annette Insdorf — “The 400 Blows: Close to Home” (Criterion)",
+      "url": "https://www.criterion.com/current/posts/528-the-400-blows-close-to-home",
+      "note": "A legal essay on the Criterion site, not the feature. Use it as a way into the film; do not expect a free stream of Les 400 coups here."
+    },
+    {
+      "title": "BFI — “10 great French New Wave films”",
+      "url": "https://www.bfi.org.uk/lists/10-great-french-new-wave-films",
+      "note": "A curator’s list from the British Film Institute. It is a guide to legal viewing, not a pirate archive."
+    },
+    {
+      "title": "BFI — “Where to begin with François Truffaut”",
+      "url": "https://www.bfi.org.uk/features/where-begin-with-francois-truffaut",
+      "note": "A short, dated-but-stable BFI feature that starts, honestly, with The 400 Blows."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "cinéma de qualité",
+      "aliases": [
+        "tradition de qualité"
+      ],
+      "explain": "The postwar French studio manner that Cahiers writers attacked: literary adaptations, polished craftsmen, little visible author. Truffaut’s 1954 essay “Une certaine tendance du cinéma français” is the famous insult."
+    },
+    {
+      "term": "Cahiers du cinéma",
+      "aliases": [
+        "Cahiers"
+      ],
+      "explain": "Paris film magazine, founded 1951. In the 1950s it is where Truffaut, Godard, Rivette, Rohmer, and Chabrol learned to argue. Several of them then made the films they had been asking for."
+    },
+    {
+      "term": "auteur",
+      "aliases": [
+        "politique des auteurs"
+      ],
+      "explain": "The Cahiers claim that a director can be the author of a film the way a novelist is the author of a book — visible across a body of work, even inside a studio system. It is a critical method, later flattened into a compliment."
+    },
+    {
+      "term": "jump cut",
+      "aliases": [
+        "jump cuts"
+      ],
+      "explain": "An edit that leaves a visible gap in time inside a continuous shot. Breathless made the device famous. It is not a mistake that slipped through; it is the film showing you the cut."
+    },
+    {
+      "term": "caméra-stylo",
+      "explain": "Alexandre Astruc’s 1948 phrase: the camera as a pen. New Wave directors used it to mean that a film could be as personal, and as written, as a novel. It is a metaphor, not a camera model."
+    },
+    {
+      "term": "location shooting",
+      "explain": "Shooting in real streets and apartments instead of only on a soundstage. Cheaper, faster, and part of the look: Paris as itself, available light, passers-by who did not sign a release in advance."
+    },
+    {
+      "term": "montage",
+      "explain": "In ordinary French, “editing.” In film theory it also names a tradition (Soviet montage) that builds meaning by collision between shots, as opposed to the long take that lets a scene play. New Wave films use both, and sometimes refuse the choice."
+    },
+    {
+      "term": "Left Bank",
+      "explain": "Later nickname for Varda, Resnais, Marker and others — less Cahiers-cinephile, more literary and documentary. Useful as a cluster, not a membership card. Varda’s La Pointe Courte (1955) predates the 1959 boom."
+    },
+    {
+      "term": "Free Cinema",
+      "explain": "British documentary movement of the mid-1950s (Anderson, Reisz, Richardson) that also treated everyday life as worth filming. Not a French franchise; a contemporaneous argument about who gets to be on screen."
+    },
+    {
+      "term": "Japanese New Wave",
+      "aliases": [
+        "Nuberu Bagu"
+      ],
+      "explain": "Studio and independent Japanese films of the late 1950s–60s (Ōshima, Imamura, Yoshida, and others) that broke with studio polish in the same years as the Nouvelle Vague. The Japanese name ヌーベルバーグ is a loan; the films are not a sequel."
+    },
+    {
+      "term": "Les 400 coups",
+      "aliases": [
+        "The 400 Blows",
+        "400 Blows"
+      ],
+      "explain": "François Truffaut’s first feature, 1959. Antoine Doinel (Jean-Pierre Léaud) as a boy the school and the home cannot hold. The English title is a mistranslation of a French idiom about raising hell."
+    },
+    {
+      "term": "À bout de souffle",
+      "aliases": [
+        "Breathless"
+      ],
+      "explain": "Jean-Luc Godard’s first feature, 1960, from a story Truffaut sold him. Michel and Patricia, a stolen car, a killing, Paris. The jump cuts are the part everyone remembers; the film is also about movie-love as a way of walking."
+    },
+    {
+      "term": "Raoul Coutard",
+      "explain": "Cinematographer on Breathless, Jules et Jim, and other New Wave features. Handheld, available light, fast film stock. The look people mean when they say “it was shot in the street.”"
+    }
+  ],
+  "fun_fact": {
+    "title": "Varda was already there",
+    "text": "Agnès Varda’s La Pointe Courte was released in 1955 — four years before Les 400 coups, and before “Nouvelle Vague” was a headline. She was a photographer, not a Cahiers critic. If the story of the New Wave begins only when the boys from the magazine pick up cameras, the date is wrong."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Quality, and a magazine that hated it",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Postwar French popular cinema had a manner the Cahiers du cinéma writers learned to insult: cinéma de qualité. Literary properties, careful craftsmen, stars in period dress, a film that did not look as if anyone in particular had wanted it. The insult is unfair to some of those craftsmen. It was also a way of clearing a desk."
+        },
+        {
+          "type": "p",
+          "text": "In 1954 François Truffaut published “Une certaine tendance du cinéma français.” The essay argues that the director, not the screenwriter-adapter, should be the author — the politique des auteurs. Alexandre Astruc had already called the camera a pen (caméra-stylo) in 1948. Theory here is not a seminar add-on. It is a set of fighting words that several of the fighters then had to live up to."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/french-new-wave/cameflex.jpg",
+          "alt": "Rear view of an Éclair Caméflex motion-picture camera, the lightweight French camera associated with New Wave location shooting.",
+          "caption": "An Éclair Caméflex — a French camera light enough to leave the studio. New Wave legend leans on handheld cameras and fast film. The Caméflex is one of the actual objects in that legend. (Cahiers covers from the 1950s are still in copyright; this machine is not a still from Breathless.)",
+          "credit": "Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Cameflex.jpg",
+          "fit": "contain"
+        },
+        {
+          "type": "p",
+          "text": "They were not the first people to be tired of polish. Italian neorealism had already taken cameras into streets and hired non-actors. In Britain, Free Cinema shorts (mid-1950s) treated factory gates and dance halls as worth filming. Paris in 1958 is one capital in a wider argument about what a film is allowed to look like."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "Streets, cuts, and who counts as an author",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "1959 is the year the press needed a name. Les 400 coups premiered at Cannes; Truffaut, who had been banned from the festival as a critic, won Best Director as a filmmaker. Alain Resnais’s Hiroshima mon amour and Claude Chabrol’s Les Cousins belong to the same season. The “wave” is a cluster of first features, not a studio program."
+        },
+        {
+          "type": "p",
+          "text": "À bout de souffle followed in 1960. Godard shot Paris with Raoul Coutard, often handheld, often in available light, and then cut in a way that left the joins visible. A jump cut is not a stumble. It is the film admitting it is made of pieces. That is what “the cut that showed the cut” means here: montage as something you are allowed to notice, not only as invisible grammar."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/french-new-wave/arriflex-16.jpg",
+          "alt": "An Arriflex 16mm motion-picture camera on a wooden surface.",
+          "caption": "An Arriflex 16 — another lightweight camera of the period. 16mm and portable 35mm let people shoot without booking a studio for a month. The New Wave look is partly an aesthetic and partly a budget.",
+          "credit": "Fortepan / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Arriflex_16_kamera._Fortepan_56384.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Agnès Varda is not an extra in this story. La Pointe Courte (1955) is already a New Wave film by later definition: location, non-professionals, a director who had not come up through the industry ladder. Cléo de 5 à 7 (1962) walks a woman through real Paris time. If “auteur” only fits the Cahiers men, the word is doing advertising, not criticism."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/french-new-wave/varda-venice-1962.jpg",
+          "alt": "Agnès Varda standing beside Corinne Marchand at the Venice Film Festival in 1962.",
+          "caption": "Agnès Varda (left) with Corinne Marchand at Venice, 1962, the year of Cléo de 5 à 7. A festival portrait, not a film still. Varda is in the same years as Truffaut and Godard, not in a later chapter labeled “also women.”",
+          "credit": "Wikimedia Commons / public domain (1962 festival press photograph as tagged)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Agnes_Varda_at_the_Venice_Film_Festival_with_Corinne_Marchand_in_1962.jpg"
+        },
+        {
+          "type": "p",
+          "text": "What “theory” means on these sets is practical. Auteur: someone is responsible for the film as a whole, including its faults. Montage versus scene: do you build meaning by colliding shots, or by letting a block of time play? The New Wave did not pick one church. It made the choice visible. A film could announce that it was being made — look at the camera, break the match cut, quote another movie out loud."
+        },
+        {
+          "type": "p",
+          "text": "The same years, elsewhere. In Japan, Ōshima Nagisa’s Cruel Story of Youth (1960) and Imamura Shōhei’s early features break with studio polish while Godard is cutting Breathless — not as a later “influence,” as a contemporaneous fight inside a different studio system. In Britain, the Free Cinema names move into features (Saturday Night and Sunday Morning, 1960). In Italy, the generation after neorealism (Antonioni, Fellini already famous; Pasolini’s Accattone is 1961) is also arguing about modern life on screen. Paris is one city in that argument."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "Critics, a photographer, a camera operator",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "François Truffaut",
+              "dates": "1932–1984",
+              "text": "Cahiers critic, then director. Les 400 coups (1959) makes Antoine Doinel and makes Truffaut suddenly respectable. The man who had insulted the industry now had to shoot on time and cut a film an audience would sit through."
+            },
+            {
+              "name": "Jean-Luc Godard",
+              "dates": "1930–2022",
+              "text": "The other Cahiers name everyone uses as shorthand. Breathless is the calling card; the later 1960s are a different, more militant argument. This capsule stops before Week-end."
+            },
+            {
+              "name": "Agnès Varda",
+              "dates": "1928–2019",
+              "image": "lessons/french-new-wave/varda-venice-1962.jpg",
+              "alt": "Agnès Varda at Venice, 1962.",
+              "caption": "Venice, 1962.",
+              "credit": "Wikimedia Commons / public domain as tagged",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Agnes_Varda_at_the_Venice_Film_Festival_with_Corinne_Marchand_in_1962.jpg",
+              "text": "Photographer first. La Pointe Courte (1955), Cléo de 5 à 7 (1962). Not a guest in the boys’ magazine. A director whose dates sit inside the wave, not after it."
+            },
+            {
+              "name": "Ōshima Nagisa",
+              "dates": "1932–2013",
+              "text": "Japanese studio rebel, then independent. Cruel Story of Youth (1960) is the same year as Breathless. He is here as a contemporary, not as proof that Paris invented youth cinema and Tokyo borrowed it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "New Hollywood, and a delayed cousin",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "American studio films of the late 1960s and 1970s — the pile later called New Hollywood — learned that a film could look handmade: location, jumpier editing, a director whose name was part of the sale. Bonnie and Clyde (1967) is the usual bridge example; the traffic of influence is real and also over-told."
+        },
+        {
+          "type": "p",
+          "text": "Taiwan New Cinema in the 1980s (Hou Hsiao-hsien, Edward Yang, and others) is sometimes filed under “New Wave” in English. It is a delayed cousin, not a contemporaneous peer: different decade, different political problem, a long take more often than a jump cut. It belongs in After, not in 1960."
+        },
+        {
+          "type": "p",
+          "text": "The lasting idea is simpler than the brand. A film can announce its making. Once audiences have seen the cut, they cannot be told that films just happen."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "Leave this on the table",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If you can see the cut, who do you think is responsible for the film?"
+        }
+      ]
+    }
+  ]
+}

@@ -3,14 +3,16 @@
 Huiru Huang’s weekday lesson archive: one era at a time.
 
 - Monday: Feminism
-- Tuesday: Rock and roll
+- Tuesday: Music
 - Wednesday: Film
 - Thursday: Literature
 - Friday: History
+- Saturday: Business
+- Sunday: Psych / soc
 
 Live site: <https://huirumay28.github.io/capsules/>
 
-This is a long-form archive, not a daily paper. Each lesson is a capsule — before, the era, people, a story, after, and a question — meant to be read in about ten to fifteen minutes.
+This is a long-form archive, not a daily paper. Each lesson is a capsule — before, the era, people, a story, after, and a question — meant to be read in about ten to fifteen minutes. Select any words, or tap a dotted term, for the glossary. The homepage search filters the archive as you type.
 
 ## How to add a lesson
 
@@ -37,7 +39,7 @@ A lesson file needs:
   "hero": {
     "src": "lessons/first-wave/wide.jpg",
     "alt": "...",
-    "caption": "...",
+    "caption": "What we are looking at, and why it matters.",
     "credit": "Library of Congress / public domain",
     "credit_url": "https://www.loc.gov/item/..."
   },
@@ -48,6 +50,16 @@ A lesson file needs:
   "watch": [
     { "title": "Exact film title", "url": "https://...", "note": "What the film actually is." }
   ],
+  "listen": [
+    { "title": "Exact track", "url": "https://...", "note": "What the link actually is." }
+  ],
+  "glossary": [
+    { "term": "coverture", "aliases": ["optional other name"], "explain": "Short definition plus context. Do not invent." }
+  ],
+  "fun_fact": {
+    "title": "A true aside",
+    "text": "Playful but checkable. Never invented."
+  },
   "sections": [
     {
       "id": "before",
@@ -55,7 +67,8 @@ A lesson file needs:
       "title": "Section title",
       "blocks": [
         { "type": "p", "text": "A paragraph." },
-        { "type": "figure", "src": "lessons/slug/img.jpg", "alt": "...", "caption": "...", "credit": "...", "credit_url": "" },
+        { "type": "figure", "src": "lessons/slug/img.jpg", "alt": "...", "caption": "...", "credit": "...", "credit_url": "", "fit": "contain" },
+        { "type": "list", "items": ["Optional list block."] },
         { "type": "question", "text": "A question to leave on the table." }
       ]
     }
@@ -63,9 +76,11 @@ A lesson file needs:
 }
 ```
 
-`subject` must be one of: `feminism`, `rock`, `film`, `literature`, `history`.
+`subject` must be one of: `feminism`, `music` (older files may still say `rock`), `film`, `literature`, `history`, `business`, `psych`.
 
-Block types: `p`, `figure`, `people`, `question`.
+Block types: `p`, `figure`, `people`, `question`, `list`.
+
+Optional figure field `fit`: `"contain"` for documents and labels (default is a large cropped photograph).
 
 ## Local preview
 
@@ -84,6 +99,10 @@ Project URL: `https://huirumay28.github.io/capsules/`
 
 If the site 404s after the first push, open Settings → Pages and set Source to **Deploy from a branch**, branch `main`, folder `/docs`.
 
-## First lesson
+## Trial lessons (16 August 2026)
 
-[First Wave (c. 1848–1920): who got to count as a “woman” in public](https://huirumay28.github.io/capsules/lessons/first-wave/)
+- [First Wave (c. 1848–1920)](https://huirumay28.github.io/capsules/lessons/first-wave/)
+- [British Invasion (c. 1963–1967)](https://huirumay28.github.io/capsules/lessons/british-invasion/)
+- [French New Wave (c. 1958–1964)](https://huirumay28.github.io/capsules/lessons/french-new-wave/)
+- [High Modernism (c. 1910–1930)](https://huirumay28.github.io/capsules/lessons/high-modernism/)
+- [1937–1945: when the world war started in China](https://huirumay28.github.io/capsules/lessons/war-of-resistance/)

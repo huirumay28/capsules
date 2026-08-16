@@ -5,7 +5,7 @@
   "title": "First Wave (c. 1848–1920): who got to count as a “woman” in public",
   "dek": "Suffrage, splits, and the people the word “we” left out.",
   "era": "c. 1848–1920",
-  "reading_minutes": 12,
+  "reading_minutes": 14,
   "thumb": {
     "src": "lessons/first-wave/sojourner-truth.jpg",
     "alt": "Carte-de-visite of Sojourner Truth, standing with a cane, spectacles, and a white cap, 1864."
@@ -13,18 +13,42 @@
   "hero": {
     "src": "lessons/first-wave/inez-milholland-1913.jpg",
     "alt": "Inez Milholland in a white cape on a white horse at the Woman Suffrage Procession, Washington, D.C., 3 March 1913. A crowd lines the street; the print is captioned Suffrage parade 3/3/13.",
-    "caption": "Inez Milholland leading the Woman Suffrage Procession, Washington, D.C., 3 March 1913 — the day before Woodrow Wilson’s inauguration.",
+    "caption": "Inez Milholland leading the Woman Suffrage Procession, Washington, D.C., 3 March 1913 — the day before Woodrow Wilson’s inauguration. The image is the one the procession wanted at its head. The crowd, and who was allowed in the line, is the rest of the story.",
     "credit": "Library of Congress / public domain",
     "credit_url": "https://www.loc.gov/item/97510669/"
   },
-  "honesty": "“First wave” is a later Anglo-American label, not a name the people in this capsule used for themselves. It is useful as a frame — a span of public fights over whether women counted as political persons — and incomplete as a history. What follows uses the frame, then shows the people and places it leaves in the margin.",
+  "honesty": "“First wave” is a later Anglo-American label, not a name the people in this capsule used for themselves. It is useful as a frame — a span of public fights over whether women counted as political persons — and incomplete as a history. What follows uses the frame, then looks at the same decades elsewhere.",
   "timeline": [
-    {"year": "1848", "label": "Seneca Falls", "detail": "Declaration of Sentiments; the vote among other grievances."},
-    {"year": "1851", "label": "Akron", "detail": "Sojourner Truth speaks. The famous refrain is a later rewrite."},
-    {"year": "1870", "label": "The split", "detail": "Fifteenth Amendment: race, not sex. Stanton and Anthony versus Stone and Douglass."},
-    {"year": "1907", "label": "Anqing", "detail": "Qiu Jin executed after the uprising. Parallel, not a footnote."},
-    {"year": "1913", "label": "Procession / Derby", "detail": "Washington, D.C. on 3 March; Emily Wilding Davison dies at Epsom."},
-    {"year": "1920", "label": "Nineteenth Amendment", "detail": "The vote, and Jim Crow still standing in the way."}
+    {
+      "year": "1848",
+      "label": "Seneca Falls",
+      "detail": "Declaration of Sentiments; the vote among other grievances."
+    },
+    {
+      "year": "1851",
+      "label": "Akron",
+      "detail": "Sojourner Truth speaks. The famous refrain is a later rewrite."
+    },
+    {
+      "year": "1870",
+      "label": "The split",
+      "detail": "Fifteenth Amendment: race, not sex. Stanton and Anthony versus Stone and Douglass."
+    },
+    {
+      "year": "1907",
+      "label": "Anqing",
+      "detail": "Qiu Jin executed after the uprising. Same decade as British militancy, different state."
+    },
+    {
+      "year": "1913",
+      "label": "Procession / Derby",
+      "detail": "Washington, D.C. on 3 March; Emily Wilding Davison dies at Epsom."
+    },
+    {
+      "year": "1920",
+      "label": "Nineteenth Amendment",
+      "detail": "The vote, and Jim Crow still standing in the way."
+    }
   ],
   "watch": [
     {
@@ -38,6 +62,89 @@
       "note": "British Pathé racing newsreel. It includes the 1913 Epsom Derby, when Emily Wilding Davison stepped onto the course. Again: Britain, not Pennsylvania Avenue."
     }
   ],
+  "glossary": [
+    {
+      "term": "coverture",
+      "explain": "English common-law doctrine that a married woman’s legal identity was “covered” by her husband’s. Property, contracts, and wages were his unless a statute carved out an exception."
+    },
+    {
+      "term": "separate spheres",
+      "explain": "A nineteenth-century middle-class story: men in public/economic life, women in the home as a moral climate. It was a class rule as much as a sex rule. Wage-earning and enslaved women were never offered that delicacy."
+    },
+    {
+      "term": "Seneca Falls",
+      "explain": "Village in western New York. On 19–20 July 1848 a convention there issued the Declaration of Sentiments. “Seneca Falls” later became shorthand for the start of organized U.S. women’s rights — a useful date, not the only origin."
+    },
+    {
+      "term": "Declaration of Sentiments",
+      "aliases": [
+        "Sentiments"
+      ],
+      "explain": "The 1848 Seneca Falls text, modeled on the Declaration of Independence. It listed grievances including the vote. The vote was not the only demand, and not everyone in the room wanted it named first."
+    },
+    {
+      "term": "Fifteenth Amendment",
+      "aliases": [
+        "15th Amendment"
+      ],
+      "explain": "Ratified 1870. It barred denying the vote “on account of race, color, or previous condition of servitude.” It did not mention sex. The omission split the U.S. women’s-rights coalition."
+    },
+    {
+      "term": "WSPU",
+      "aliases": [
+        "Women’s Social and Political Union"
+      ],
+      "explain": "Women’s Social and Political Union, founded 1903 by Emmeline Pankhurst. The militant wing of British suffrage: window-breaking, hunger strikes, and, in reply, force-feeding."
+    },
+    {
+      "term": "Jim Crow",
+      "explain": "The system of legal racial segregation and disenfranchisement in the U.S. South after Reconstruction — poll taxes, literacy tests, violence. The Nineteenth Amendment did not repeal it."
+    },
+    {
+      "term": "中國女報",
+      "aliases": [
+        "Chinese Women’s Journal"
+      ],
+      "explain": "Chinese Women’s Journal, edited by Qiu Jin in Shanghai in 1907. Two issues appeared. It argued for women’s education and against bound feet in the same breath as anti-Qing politics."
+    },
+    {
+      "term": "carte-de-visite",
+      "aliases": [
+        "cartes-de-visite"
+      ],
+      "explain": "A small albumen photograph mounted on card, cheap to reproduce, sold and collected in the 1860s. Sojourner Truth sold hers with a printed caption and a copyright in her own name."
+    },
+    {
+      "term": "Gage",
+      "aliases": [
+        "Frances Dana Gage"
+      ],
+      "explain": "Frances Dana Gage. In 1863 she published a version of Sojourner Truth’s 1851 Akron speech that includes the refrain “Ain’t I a woman?” Contemporary 1851 newspaper accounts do not use the refrain that way."
+    },
+    {
+      "term": "Nineteenth Amendment",
+      "aliases": [
+        "19th Amendment"
+      ],
+      "explain": "Ratified 1920. It says the right to vote shall not be denied on account of sex. It did not touch poll taxes, literacy tests, or the violence that still blocked many Black women in the South."
+    },
+    {
+      "term": "force-feeding",
+      "explain": "In British prisons, hunger-striking suffragettes were restrained and fed through a tube. The Liberal government presented it as medical care. Militants presented it as assault. Both descriptions circulated in the press."
+    },
+    {
+      "term": "doldrums",
+      "explain": "A later weather report for U.S. organized feminism in the 1920s–1950s: the vote arrived, the coalition thinned. It describes one organized current going quiet. It does not mean the questions ended."
+    },
+    {
+      "term": "Alice Paul",
+      "explain": "American suffrage organizer, trained with British militants, then with Lucy Burns planned the 3 March 1913 Woman Suffrage Procession in Washington. Later the National Woman’s Party and the Equal Rights Amendment."
+    }
+  ],
+  "fun_fact": {
+    "title": "She copyrighted the shadow",
+    "text": "In 1864 Sojourner Truth registered the copyright on her own cartes-de-visite in the U.S. District Court for the Eastern District of Michigan — unusual for a sitter; the photographer usually claimed the image. The cards were printed “I sell the shadow to support the substance.” She sold them at lectures because lectures did not pay enough. The existing portrait in this capsule is one of those cards."
+  },
   "sections": [
     {
       "id": "before",
@@ -68,6 +175,15 @@
           "text": "In 1848, at Seneca Falls, New York, a convention issued a Declaration of Sentiments modeled on the Declaration of Independence. The vote was among the grievances — not the only one, and not, at first, the one everyone in the room wanted named. The document still did something plain: it put women into the grammar of rights."
         },
         {
+          "type": "figure",
+          "src": "lessons/first-wave/declaration-sentiments.jpg",
+          "alt": "Printed souvenir card titled Our Roll of Honor, listing women who signed the 1848 Declaration of Sentiments.",
+          "caption": "A 1908 souvenir “Our Roll of Honor,” printed sixty years after Seneca Falls, listing the women who signed the 1848 Declaration of Sentiments. Lucretia Mott and Elizabeth Cady Stanton head the first column. This is a commemorative card, not the 1848 manuscript.",
+          "credit": "Library of Congress / public domain",
+          "credit_url": "https://www.loc.gov/item/rbcmiller001182/",
+          "fit": "contain"
+        },
+        {
           "type": "p",
           "text": "In 1851 Sojourner Truth spoke at a women’s rights meeting in Akron, Ohio. The famous refrain “Ain’t I a woman?” comes from Frances Dana Gage’s 1863 rewrite of that speech. Contemporary 1851 newspaper accounts do not use the refrain that way. The later version is the one that traveled. The historical point does not depend on the catchphrase. A feminism built on white middle-class delicacy treats enslaved women and working women as exceptions — bodies that have already been asked to do too much to count as the “woman” the movement is picturing."
         },
@@ -80,8 +196,33 @@
           "text": "In Britain the movement divided by method: constitutional suffragists on one side, the militant Women’s Social and Political Union — Emmeline Pankhurst’s WSPU — on the other. Hunger strikes. Force-feeding. In 1913 Emily Wilding Davison died after stepping onto the course at the Epsom Derby."
         },
         {
+          "type": "figure",
+          "src": "lessons/first-wave/pankhurst-1913.jpg",
+          "alt": "Formal seated portrait of Emmeline Pankhurst, 1913.",
+          "caption": "Emmeline Pankhurst in 1913, the year Davison died at Epsom and the WSPU’s militancy was impossible to ignore. Constitutional suffragists were still collecting signatures. Pankhurst’s organization was collecting prison time.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Emmeline_Pankhurst,_seated_(1913).jpg"
+        },
+        {
           "type": "p",
           "text": "On 3 March 1913, the day before Wilson’s inauguration, Alice Paul and Lucy Burns organized the Woman Suffrage Procession in Washington, D.C. Inez Milholland rode in white on a white horse. Ida B. Wells was told that Black women should march in a rear contingent. She refused, and stepped into the Illinois delegation as it passed."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/first-wave/suffrage-crowd-1913.jpg",
+          "alt": "A dense crowd lining Pennsylvania Avenue to watch the 1913 woman suffrage procession in Washington, D.C.",
+          "caption": "The crowd on Pennsylvania Avenue, 3 March 1913. Men climbed poles and wagons to see. The procession was designed to be unmissable on the eve of an inauguration. Unmissable is not the same as welcomed: the parade was repeatedly broken by spectators stepping into the street.",
+          "credit": "Library of Congress / public domain",
+          "credit_url": "https://www.loc.gov/pictures/item/2014691492/"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/first-wave/suffrage-program-1913.jpg",
+          "alt": "Color official program cover for the Woman Suffrage Procession, Washington, D.C., 3 March 1913, showing a woman on horseback before the Capitol.",
+          "caption": "The official program for the same day. The horse, the banner, the Capitol: a picture of who the procession wanted to look like. Wells’s decision to leave the “rear contingent” is the part the program does not print.",
+          "credit": "Library of Congress / public domain",
+          "credit_url": "https://www.loc.gov/pictures/item/94507639/",
+          "fit": "contain"
         },
         {
           "type": "p",
@@ -89,7 +230,7 @@
         },
         {
           "type": "p",
-          "text": "Parallel, not a footnote: Qiu Jin 秋瑾 (1875–1907). She unbound her feet, studied in Japan, edited 中國女報 (the Chinese Women’s Journal), and was executed after the 1907 Anqing uprising. Her public life does not fit the Anglo-American staircase. It belongs in the same capsule anyway — a woman deciding she would count in public, and paying for it."
+          "text": "The same years, elsewhere: Qiu Jin 秋瑾 (1875–1907). She unbound her feet, studied in Japan, edited 中國女報 (the Chinese Women’s Journal), and was executed after the 1907 Anqing uprising. Her public life does not sit on the Anglo-American staircase from Seneca Falls to 1920. It belongs in the same decades anyway — a woman deciding she would count in public, under a different state, and paying for it."
         }
       ]
     },
@@ -154,7 +295,7 @@
           "type": "figure",
           "src": "lessons/first-wave/sojourner-truth.jpg",
           "alt": "Sojourner Truth’s 1864 carte-de-visite, with the printed line I sell the shadow to support the substance under her portrait.",
-          "caption": "Sojourner Truth, 1864. She sold the card because lectures did not pay enough.",
+          "caption": "Sojourner Truth, 1864. She sold the card because lectures did not pay enough. She also put her own copyright on it.",
           "credit": "Library of Congress / public domain",
           "credit_url": "https://www.loc.gov/item/97513239/"
         },
@@ -198,5 +339,6 @@
         }
       ]
     }
-  ]
+  ],
+  "related": []
 }
