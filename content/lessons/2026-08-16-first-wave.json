@@ -1,0 +1,202 @@
+{
+  "slug": "first-wave",
+  "date": "2026-08-16",
+  "subject": "feminism",
+  "title": "First Wave (c. 1848–1920): who got to count as a “woman” in public",
+  "dek": "Suffrage, splits, and the people the word “we” left out.",
+  "era": "c. 1848–1920",
+  "reading_minutes": 12,
+  "thumb": {
+    "src": "lessons/first-wave/sojourner-truth.jpg",
+    "alt": "Carte-de-visite of Sojourner Truth, standing with a cane, spectacles, and a white cap, 1864."
+  },
+  "hero": {
+    "src": "lessons/first-wave/inez-milholland-1913.jpg",
+    "alt": "Inez Milholland in a white cape on a white horse at the Woman Suffrage Procession, Washington, D.C., 3 March 1913. A crowd lines the street; the print is captioned Suffrage parade 3/3/13.",
+    "caption": "Inez Milholland leading the Woman Suffrage Procession, Washington, D.C., 3 March 1913 — the day before Woodrow Wilson’s inauguration.",
+    "credit": "Library of Congress / public domain",
+    "credit_url": "https://www.loc.gov/item/97510669/"
+  },
+  "honesty": "“First wave” is a later Anglo-American label, not a name the people in this capsule used for themselves. It is useful as a frame — a span of public fights over whether women counted as political persons — and incomplete as a history. What follows uses the frame, then shows the people and places it leaves in the margin.",
+  "timeline": [
+    {"year": "1848", "label": "Seneca Falls", "detail": "Declaration of Sentiments; the vote among other grievances."},
+    {"year": "1851", "label": "Akron", "detail": "Sojourner Truth speaks. The famous refrain is a later rewrite."},
+    {"year": "1870", "label": "The split", "detail": "Fifteenth Amendment: race, not sex. Stanton and Anthony versus Stone and Douglass."},
+    {"year": "1907", "label": "Anqing", "detail": "Qiu Jin executed after the uprising. Parallel, not a footnote."},
+    {"year": "1913", "label": "Procession / Derby", "detail": "Washington, D.C. on 3 March; Emily Wilding Davison dies at Epsom."},
+    {"year": "1920", "label": "Nineteenth Amendment", "detail": "The vote, and Jim Crow still standing in the way."}
+  ],
+  "watch": [
+    {
+      "title": "Time to Remember — Time of the Suffragettes (1911–1913)",
+      "url": "https://www.britishpathe.com/asset/103826/",
+      "note": "British Pathé compilation of British suffragette newsreel, 1911–1913. This is not film of the 1913 Washington procession."
+    },
+    {
+      "title": "The Derby — 1912 & 1913",
+      "url": "https://www.britishpathe.com/asset/196883/",
+      "note": "British Pathé racing newsreel. It includes the 1913 Epsom Derby, when Emily Wilding Davison stepped onto the course. Again: Britain, not Pennsylvania Avenue."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Covered, separate, and already in training",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "English common law treated a married woman as legally covered by her husband. The doctrine is called coverture. Her property, her contracts, her wages — the law did not see a separate person there. A single woman had more legal room; marriage closed it."
+        },
+        {
+          "type": "p",
+          "text": "Industrial work left the house. What remained, for middle-class white women, was a story about respectability: the home as a moral climate, the woman as domestic, delicate, and good. Historians call this “separate spheres.” It was a rule of class as much as of sex. Enslaved women, and women who worked for wages, were never offered that delicacy. They were already in public — as labor, as property, as exceptions the ideology did not have to explain."
+        },
+        {
+          "type": "p",
+          "text": "Abolition was the school many United States feminists came out of. They learned to petition, to lecture, to edit, to organize a room. The skills transferred. The alliance later cracked, when the question became which emancipation would be allowed to go first."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "A public “we,” and the people it could not hold",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1848, at Seneca Falls, New York, a convention issued a Declaration of Sentiments modeled on the Declaration of Independence. The vote was among the grievances — not the only one, and not, at first, the one everyone in the room wanted named. The document still did something plain: it put women into the grammar of rights."
+        },
+        {
+          "type": "p",
+          "text": "In 1851 Sojourner Truth spoke at a women’s rights meeting in Akron, Ohio. The famous refrain “Ain’t I a woman?” comes from Frances Dana Gage’s 1863 rewrite of that speech. Contemporary 1851 newspaper accounts do not use the refrain that way. The later version is the one that traveled. The historical point does not depend on the catchphrase. A feminism built on white middle-class delicacy treats enslaved women and working women as exceptions — bodies that have already been asked to do too much to count as the “woman” the movement is picturing."
+        },
+        {
+          "type": "p",
+          "text": "After the Civil War the coalition split over the Fifteenth Amendment (1870), which barred denying the vote “on account of race, color, or previous condition of servitude.” It did not mention sex. Elizabeth Cady Stanton and Susan B. Anthony opposed ratifying without women. Lucy Stone and Frederick Douglass would not block Black men’s suffrage in order to wait. The argument was about sequence, and about who was being asked to stand aside."
+        },
+        {
+          "type": "p",
+          "text": "In Britain the movement divided by method: constitutional suffragists on one side, the militant Women’s Social and Political Union — Emmeline Pankhurst’s WSPU — on the other. Hunger strikes. Force-feeding. In 1913 Emily Wilding Davison died after stepping onto the course at the Epsom Derby."
+        },
+        {
+          "type": "p",
+          "text": "On 3 March 1913, the day before Wilson’s inauguration, Alice Paul and Lucy Burns organized the Woman Suffrage Procession in Washington, D.C. Inez Milholland rode in white on a white horse. Ida B. Wells was told that Black women should march in a rear contingent. She refused, and stepped into the Illinois delegation as it passed."
+        },
+        {
+          "type": "p",
+          "text": "The Nineteenth Amendment was ratified in 1920. It did not undo Jim Crow. Many Black women in the South were still blocked by poll taxes, literacy tests, and violence. The amendment changed the federal text. The ground did not change with it."
+        },
+        {
+          "type": "p",
+          "text": "Parallel, not a footnote: Qiu Jin 秋瑾 (1875–1907). She unbound her feet, studied in Japan, edited 中國女報 (the Chinese Women’s Journal), and was executed after the 1907 Anqing uprising. Her public life does not fit the Anglo-American staircase. It belongs in the same capsule anyway — a woman deciding she would count in public, and paying for it."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "Four lives the frame has to stretch for",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Sojourner Truth",
+              "dates": "c. 1797–1883",
+              "image": "lessons/first-wave/sojourner-truth.jpg",
+              "alt": "1864 carte-de-visite of Sojourner Truth standing with a cane. Printed caption: I sell the shadow to support the substance.",
+              "caption": "Carte-de-visite, 1864. “I sell the shadow to support the substance.”",
+              "credit": "Library of Congress / public domain",
+              "credit_url": "https://www.loc.gov/item/97513239/",
+              "text": "Born enslaved in New York. She sold cartes-de-visite captioned “I sell the shadow to support the substance.” The card was a living. It was also an argument about who owned the image of a woman who had been treated as property."
+            },
+            {
+              "name": "Ida B. Wells",
+              "dates": "1862–1931",
+              "image": "lessons/first-wave/ida-b-wells.jpg",
+              "alt": "Studio portrait of Ida B. Wells-Barnett by Mary Garrity, about 1893.",
+              "caption": "Ida B. Wells-Barnett, photograph by Mary Garrity, c. 1893.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
+              "text": "Anti-lynching journalist; Southern Horrors appeared in 1892. She treated suffrage and racial terror as one fight, which is why a segregated parade order was not a small slight. She walked into the Illinois line instead."
+            },
+            {
+              "name": "Inez Milholland",
+              "dates": "1886–1916",
+              "image": "lessons/first-wave/inez-milholland-1913.jpg",
+              "alt": "Inez Milholland on a white horse in the 1913 suffrage procession, Washington, D.C.",
+              "caption": "The 1913 visual: white cape, white horse, Pennsylvania Avenue.",
+              "credit": "Library of Congress / public domain",
+              "credit_url": "https://www.loc.gov/item/97510669/",
+              "text": "Lawyer and the image the 1913 procession needed at its head. She died in 1916 on a western suffrage tour, at thirty. The photograph outlived the campaign she was riding for."
+            },
+            {
+              "name": "Qiu Jin 秋瑾",
+              "dates": "1875–1907",
+              "image": "lessons/first-wave/qiu-jin.jpg",
+              "alt": "Portrait of Qiu Jin, photographed in the last years of the Qing dynasty, between 1900 and 1907.",
+              "caption": "Qiu Jin, photographed between 1900 and 1907.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Qiu_jin.jpg",
+              "text": "Unbound feet. Study in Japan. Editor of 中國女報. Executed after the 1907 Anqing uprising. If “first wave” cannot hold her, the phrase is too small — not her life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "The shadow and the substance",
+      "blocks": [
+        {
+          "type": "figure",
+          "src": "lessons/first-wave/sojourner-truth.jpg",
+          "alt": "Sojourner Truth’s 1864 carte-de-visite, with the printed line I sell the shadow to support the substance under her portrait.",
+          "caption": "Sojourner Truth, 1864. She sold the card because lectures did not pay enough.",
+          "credit": "Library of Congress / public domain",
+          "credit_url": "https://www.loc.gov/item/97513239/"
+        },
+        {
+          "type": "p",
+          "text": "Truth sold her image because lectures did not pay enough. The “shadow” is the photograph — a thing that can be reproduced, captioned, passed from hand to hand. The “substance” is the work, and the body that had been treated as property. She put the sentence on the card in English, under her own name, and made the sale part of the argument: I will be paid for the copy of me that you can hold."
+        },
+        {
+          "type": "p",
+          "text": "Keep the card in mind when a movement talks about “women” as if the category were already settled. Someone is always deciding which body is the subject, and which body is the illustration."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "The vote, the doldrums, and the staircase",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the United States the 1920s through the 1950s are often called the “doldrums”: the vote arrived, the coalition thinned. The word is a weather report written after the fact. It describes a particular organized feminism going quiet. It does not mean the questions ended."
+        },
+        {
+          "type": "p",
+          "text": "What gets called the second wave — the 1960s and 1970s — turned to the workplace, to sexuality, to housework. “The personal is political.” The who-counts problem returned in public, including in the Combahee River Collective statement of 1977, which refused to treat race, sex, and class as separate queues."
+        },
+        {
+          "type": "p",
+          "text": "The wave metaphor itself is the after. It offers a tidy staircase: first the vote, then the rest. It hides the people who were never on the stairs — and the fights that did not wait for the next numbered swell."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "Leave this on the table",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "When a movement says “we,” who is being asked to wait?"
+        }
+      ]
+    }
+  ]
+}
