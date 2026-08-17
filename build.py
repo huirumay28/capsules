@@ -134,7 +134,7 @@ def page_shell(
   </main>
   <footer class="site-footer">
     <div class="wrap">
-      <p>Huiru Huang · daily era lessons, 8:45 Taipei</p>
+      <p>Huiru Huang · daily lessons, 8:45 Taipei</p>
       <p><a href="https://github.com/huirumay28/capsules">Source</a></p>
     </div>
   </footer>
@@ -241,11 +241,11 @@ def render_home(lessons: list[dict]) -> str:
     <section class="hero-home wrap">
       <p class="kicker">A daily archive · 8:45 Taipei</p>
       <h1>Capsules</h1>
-      <p class="lede">One era at a time. Long enough to sit with, short enough for a quiet hour. Huiru Huang’s daily lessons — look out from the place and year the capsule stands, and see what else was happening then.</p>
+      <p class="lede">Each day this site publishes one long lesson about a period in history: what happened, who did the work, when it took place, and why it mattered. Huiru Huang writes them for 8:45 in Taipei. A lesson is meant to take a quiet hour. When you finish, look at what else was happening in the same years.</p>
       <ul class="weekdays">{days}</ul>
     </section>
     <section class="wrap" aria-labelledby="archive-heading">
-      <h2 id="archive-heading" class="kicker">The archive</h2>
+      <h2 id="archive-heading" class="kicker">All lessons</h2>
       <div class="archive-tools">
         <label class="search-label" for="archive-search">Search the archive</label>
         <input id="archive-search" class="search" type="search" placeholder="Search titles, dek, subject, era, body…" autocomplete="off">
@@ -253,22 +253,22 @@ def render_home(lessons: list[dict]) -> str:
       <div class="filters" role="group" aria-label="Filter by subject">{''.join(filters)}</div>
       <div class="week-block" data-week="this">
         <h2 class="block-title">This week</h2>
-        <p class="block-note">Monday–Sunday, Asia/Taipei. The current week’s capsules.</p>
+        <p class="block-note">Lessons dated this Monday through Sunday, Taipei time.</p>
         <div class="archive">{this_cards}</div>
-        <p class="empty" data-empty {this_empty_hidden}>No capsules this week match.</p>
+        <p class="empty" data-empty {this_empty_hidden}>No lessons this week match that search or filter.</p>
       </div>
       <div class="week-block" data-week="previous">
         <h2 class="block-title">Previous lessons</h2>
-        <p class="block-note">Older than this week, still filterable by subject.</p>
+        <p class="block-note">Lessons from earlier weeks. You can still filter them by subject.</p>
         <div class="archive">{prev_cards}</div>
-        <p class="empty" data-empty {prev_empty_hidden}>No earlier capsules yet. This is the first week of the archive.</p>
+        <p class="empty" data-empty {prev_empty_hidden}>There are no older lessons yet. This is the first week on the site.</p>
       </div>
     </section>
     <script src="{asset("", "js/archive.js")}"></script>
     """
     return page_shell(
-        title="Capsules — daily era lessons",
-        description="Huiru Huang’s daily lesson archive: feminism, music, film, literature, history, business, and psych/soc.",
+        title="Capsules — daily history lessons",
+        description="Huiru Huang’s daily lessons on feminism, music, film, literature, history, business, and psychology and sociology.",
         prefix="",
         canonical=f"{SITE_URL}/",
         body=body,
@@ -534,7 +534,7 @@ def render_fun_fact(
     return f"""
         <section class="fun-fact" id="fun-fact">
           <p class="kicker">Fun fact</p>
-          <h2>{esc(fun.get("title", "A true aside"))}</h2>
+          <h2>{esc(fun.get("title", "A detail that is easy to miss"))}</h2>
           {image_html}
           <p>{mark_text(fun.get("text", ""), glossary or [], lesson_links or [])}</p>
         </section>
@@ -712,14 +712,14 @@ def render_lesson(lesson: dict, all_lessons: list[dict]) -> str:
 def render_404() -> str:
     body = """
     <section class="hero-home wrap">
-      <p class="kicker">Missing</p>
-      <h1>This capsule is not here.</h1>
-      <p class="lede"><a href="./">Return to the archive.</a></p>
+      <p class="kicker">Page not found</p>
+      <h1>This lesson is not on the site.</h1>
+      <p class="lede"><a href="./">Go back to the list of lessons.</a></p>
     </section>
     """
     return page_shell(
         title="Not found — Capsules",
-        description="This page is not in the Capsules archive.",
+        description="This page is not in the Capsules lesson list.",
         prefix="",
         canonical=f"{SITE_URL}/404.html",
         body=body,

@@ -4,9 +4,9 @@
   "subject": "history",
   "related": [],
   "title": "War of Resistance (1937–45): the war that did not wait for 1939",
-  "dek": "From the Marco Polo Bridge to Chongqing — a world war looked at from China, not as Asia’s footnote to Europe.",
+  "dek": "From the clash at the Marco Polo Bridge to the wartime capital in Chongqing, this is a world war looked at from China, not as Asia’s footnote to Europe.",
   "era": "1937–1945",
-  "reading_minutes": 15,
+  "reading_minutes": 16,
   "thumb": {
     "src": "lessons/war-of-resistance/marco-polo-bridge.jpg",
     "alt": "Aerial photograph of the Lugou (Marco Polo) Bridge and Wanping fortress."
@@ -18,37 +18,37 @@
     "credit": "Wikimedia Commons / public domain",
     "credit_url": "https://commons.wikimedia.org/wiki/Category:Lugou_Bridge"
   },
-  "honesty": "This capsule looks out from China. Europe’s 1939 is contemporaneous, not the frame. “World War II” as a 1939–45 European story leaves 1937–39 as a preface. From Chongqing, 1939 is the year the European war caught up. Nanjing is treated with one careful image of a city after bombing — no corpses as illustration. Casualty figures that cannot be sourced here are omitted.",
+  "honesty": "This lesson looks out from China. Europe’s 1939 is contemporaneous, not the frame. “World War II” as a 1939–45 European story leaves 1937–39 as a preface. From Chongqing, 1939 is the year the European war caught up. Nanjing is treated with one careful image of a city after bombing — no corpses as illustration. Casualty figures that cannot be sourced here are omitted.",
   "timeline": [
     {
       "year": "1931–32",
       "label": "Mukden / Lytton",
-      "detail": "Japan seizes Manchuria. The League’s Lytton Commission investigates. The full-scale war is still ahead."
+      "detail": "Japan seized Manchuria after the Mukden Incident. The League of Nations sent the Lytton Commission. The full-scale war was still ahead."
     },
     {
       "year": "1937",
       "label": "Lugou / Shanghai",
-      "detail": "7 July at the Marco Polo Bridge; the Battle of Shanghai from August."
+      "detail": "7 July at the Marco Polo Bridge; the Battle of Shanghai opened in August and made the war visible to foreign cameras."
     },
     {
       "year": "1937",
       "label": "Nanjing",
-      "detail": "The capital falls in December. Massacre follows. This capsule will not decorate that fact."
+      "detail": "The capital fell in December. Massacre followed. This lesson will not decorate that fact with bodies."
     },
     {
       "year": "1938–43",
       "label": "Chongqing",
-      "detail": "Wartime capital. Years of bombing. A city that had to go underground."
+      "detail": "Wartime capital after the retreat up the Yangtze. Years of bombing. People lived in tunnels."
     },
     {
       "year": "1939",
       "label": "Europe",
-      "detail": "Germany invades Poland. A second opening, not the first."
+      "detail": "Germany invaded Poland. A second opening of a world war, not the first."
     },
     {
       "year": "1945",
       "label": "Surrender / after",
-      "detail": "Japan surrenders. The civil war does not wait long. Memory becomes a second fight."
+      "detail": "Japan surrendered. The Chinese civil war did not wait long. Memory became a second fight between states."
     }
   ],
   "watch": [
@@ -81,7 +81,7 @@
       "aliases": [
         "宛平"
       ],
-      "explain": "Walled town at the north end of the Lugou Bridge. The 1937 incident is a fight over a railway town and a crossing, not a metaphor."
+      "explain": "Walled town at the north end of the Lugou Bridge. The 1937 incident is a fight over a railway town and a crossing, not a symbol."
     },
     {
       "term": "United Front",
@@ -131,7 +131,7 @@
     },
     {
       "term": "Xi’an Incident",
-      "explain": "December 1936: Zhang Xueliang detained Chiang Kai-shek in Xi’an to force a turn from civil war toward resistance against Japan. The Second United Front follows. A kidnapping as policy."
+      "explain": "December 1936: Zhang Xueliang detained Chiang Kai-shek in Xi’an to force a turn from civil war toward resistance against Japan. The Second United Front follows. A kidnapping used as policy."
     },
     {
       "term": "Beiping",
@@ -144,17 +144,17 @@
   ],
   "fun_fact": {
     "title": "Europeans named the bridge for a traveler",
-    "text": "The stone bridge at Wanping is 盧溝橋, the Lugou Bridge. Europeans called it the Marco Polo Bridge because Polo’s Travels describe a fine bridge in this region. The 1937 incident entered English under the traveler’s name. The soldiers at Wanping were not fighting over a memoir. They were fighting over a crossing and a railway town. The nickname is a European filing label that stuck."
+    "text": "The stone bridge at Wanping is 盧溝橋, the Lugou Bridge. Europeans called it the Marco Polo Bridge because Polo’s Travels describe a fine bridge in this region. The 1937 incident entered English under the traveler’s name. The soldiers at Wanping were not fighting over a memoir. They were fighting over a crossing and a railway town. The nickname is a European label that stuck."
   },
   "sections": [
     {
       "id": "before",
       "kicker": "Before",
-      "title": "Manchuria was already a wound",
+      "title": "Japan had already seized Manchuria in 1931",
       "blocks": [
         {
           "type": "p",
-          "text": "On 18 September 1931 the Kwantung Army used an explosion on the South Manchuria Railway as a pretext to seize Mukden and then Manchuria. The League of Nations sent the Lytton Commission. The commissioners walked tracks, took testimony, and produced a report that did not accept Japan’s story. Japan left the League. The occupation stayed."
+          "text": "On 18 September 1931 the Kwantung Army used an explosion on the South Manchuria Railway as a pretext to seize Mukden (Shenyang) and then Manchuria. The League of Nations sent the Lytton Commission. The commissioners walked tracks, took testimony, and produced a report that did not accept Japan’s story. Japan left the League. The occupation stayed."
         },
         {
           "type": "figure",
@@ -166,18 +166,18 @@
         },
         {
           "type": "p",
-          "text": "Inside China the 1930s were also a civil war. The Xi’an Incident of December 1936 — Zhang Xueliang detaining Chiang Kai-shek — forced a turn: a Second United Front against Japan. The front was a cease-fire with a shared enemy, not a merger. That is the politics standing behind 7 July 1937."
+          "text": "Inside China the 1930s were also a civil war. The Xi’an Incident of December 1936 — Zhang Xueliang detaining Chiang Kai-shek — forced a turn: a Second United Front against Japan. The front was a cease-fire with a shared enemy, not a merger of the Nationalists and the Communists. That is the politics standing behind 7 July 1937."
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "From a bridge to a country that had to move",
+      "title": "The 1937 fighting spread from Wanping to Shanghai, Nanjing, and Chongqing",
       "blocks": [
         {
           "type": "p",
-          "text": "On the night of 7 July 1937 a Japanese unit near the Lugou Bridge claimed a missing soldier and demanded entry to Wanping. Shots followed. The incident did not stay local. By the end of the month Beiping and Tianjin were gone. In August the Battle of Shanghai opened a war that foreign concessions could photograph from their own rooftops."
+          "text": "On the night of 7 July 1937 a Japanese unit near the Lugou Bridge claimed a missing soldier and demanded entry to Wanping. Shots followed. The incident did not stay local. By the end of the month Beiping and Tianjin were gone. In August the Battle of Shanghai opened a war that foreign concessions could photograph from their own rooftops. The fighting lasted into November. It did not save Nanjing."
         },
         {
           "type": "figure",
@@ -197,13 +197,13 @@
         },
         {
           "type": "p",
-          "text": "Nanjing, the capital, fell in December 1937. What followed is the Nanjing Massacre: mass killing of civilians and prisoners, mass rape. This capsule uses one photograph of a city after air attack — rubble, people standing in it, no bodies arranged for the lens. The event does not need a corpse to be believed. If you need numbers, go to the historians who argue over them in public. They are not invented here."
+          "text": "Nanjing, the capital, fell in December 1937. What followed is the Nanjing Massacre: mass killing of civilians and prisoners, mass rape. This lesson uses one photograph of a city after air attack — rubble, people standing in it, no bodies arranged for the lens. The event does not need a corpse to be believed. If you need numbers, go to the historians who argue over them in public. They are not invented here."
         },
         {
           "type": "figure",
           "src": "lessons/war-of-resistance/nanjing-bombing-1937.jpg",
           "alt": "Civilians standing in a wide field of rubble after the bombing of a Chinese city, 1937.",
-          "caption": "A Chinese city after bombing, 1937 — the archive filename places it in Nanjing. People in the frame are standing. This is the one Nanjing image in the capsule: a capital made into a field, not a gallery of the dead.",
+          "caption": "A Chinese city after bombing, 1937 — the archive filename places it in Nanjing. People in the frame are standing. This is the one Nanjing image in the lesson: a capital made into a field of rubble, not a gallery of the dead.",
           "credit": "Wikimedia Commons / public domain",
           "credit_url": "https://commons.wikimedia.org/wiki/Category:Nanjing_Massacre"
         },
@@ -246,20 +246,20 @@
               "dates": "1887–1975",
               "image": "lessons/war-of-resistance/chiang-shanghai-1937.jpg",
               "alt": "Chiang Kai-shek with binoculars.",
-              "caption": "Wartime command photograph.",
+              "caption": "Wartime command photograph, looking through binoculars.",
               "credit": "Public domain",
               "credit_url": "https://commons.wikimedia.org/wiki/Category:Chiang_Kai-shek",
-              "text": "Head of the Nationalist government and commander of the National Revolutionary Army. He lost the coast and kept a state in Sichuan. The after of 1945 is also his."
+              "text": "Head of the Nationalist government and commander of the National Revolutionary Army. He lost the coast and kept a state in Sichuan. The after of 1945 — civil war, then Taiwan — is also his."
             },
             {
               "name": "Zhou Enlai 周恩來",
               "dates": "1898–1976",
               "image": "lessons/war-of-resistance/zhou-enlai-1938.jpg",
               "alt": "Zhou Enlai with Edgar Snow and Deng Yingchao.",
-              "caption": "1938, with Snow and Deng Yingchao.",
+              "caption": "1938, with Edgar Snow and Deng Yingchao.",
               "credit": "Public domain",
               "credit_url": "https://commons.wikimedia.org/wiki/Category:Zhou_Enlai",
-              "text": "Communist representative in the United Front’s public face. Chongqing and the liaison work are part of how the CCP survived the war as a political fact, not only as a guerrilla force."
+              "text": "Communist representative in the United Front’s public face. Chongqing and the liaison work are part of how the Chinese Communist Party survived the war as a political fact, not only as a guerrilla force."
             },
             {
               "name": "Xiao Hong 蕭紅",
@@ -278,11 +278,11 @@
     {
       "id": "story",
       "kicker": "A story",
-      "title": "The rocking horse",
+      "title": "What a refugee cart was carrying",
       "blocks": [
         {
           "type": "p",
-          "text": "In the Shanghai refugee photograph the cart is a household turned into a load. The rocking horse is the detail that makes the load a family. This is not a cute war. It is a reminder that “home front” in this war often meant: there is no front that stayed put, and home was something you carried."
+          "text": "In the Shanghai refugee photograph the cart is a household turned into a load. The rocking horse is the detail that makes the load a family. This is not a cute war. It is a reminder that “home front” in this war often meant there was no front that stayed put, and home was something you carried."
         },
         {
           "type": "p",
@@ -293,7 +293,7 @@
     {
       "id": "after",
       "kicker": "After",
-      "title": "1945, then the war that had been postponed",
+      "title": "Japan surrendered in 1945, and the Chinese civil war resumed",
       "blocks": [
         {
           "type": "p",
@@ -301,14 +301,14 @@
         },
         {
           "type": "p",
-          "text": "If a later Friday capsule takes 1945–49, it will not be to tidy this one. It will be because the after is a war of its own."
+          "text": "If a later Friday lesson takes 1945–49, it will not be to tidy this one. It will be because the after is a war of its own."
         }
       ]
     },
     {
       "id": "question",
       "kicker": "A question",
-      "title": "Leave this on the table",
+      "title": "A question to keep asking",
       "blocks": [
         {
           "type": "question",

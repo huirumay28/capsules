@@ -3,10 +3,10 @@
   "date": "2026-08-16",
   "subject": "psych",
   "related": [],
-  "title": "The bystander effect: a mechanism, then a parable",
-  "dek": "What diffusion of responsibility claims — then Kitty Genovese, the Times story that launched the teaching example, and the later proof that the parable was not the night.",
+  "title": "The bystander effect: a mechanism, then a newspaper story that was not the night",
+  "dek": "What diffusion of responsibility claims, then Kitty Genovese, the Times story that launched the teaching example, and the later proof that the story was not what happened on Austin Street.",
   "era": "1964 (and the after of the story)",
-  "reading_minutes": 15,
+  "reading_minutes": 16,
   "thumb": {
     "src": "lessons/bystander-genovese/kew-gardens-lirr.jpg",
     "alt": "Kew Gardens Long Island Rail Road platforms seen from a nearby bridge, 2020."
@@ -14,11 +14,11 @@
   "hero": {
     "src": "lessons/bystander-genovese/kew-gardens-lirr.jpg",
     "alt": "Train at the Kew Gardens LIRR platforms, photographed from the 82nd Avenue bridge in 2020.",
-    "caption": "Kew Gardens station, Queens, June 2020 — the railroad cut she parked beside in 1964. This is the place later. It is not a crime-scene photograph. The 1964 press pictures of the night are still under copyright; this capsule does not use them.",
+    "caption": "Kew Gardens station, Queens, June 2020 — the railroad cut she parked beside in 1964. This is the place later. It is not a crime-scene photograph. The 1964 press pictures of the night are still under copyright; this lesson does not use them.",
     "credit": "Union Turnpike / Flickr / CC BY 2.0",
     "credit_url": "https://www.flickr.com/photos/unionturnpike/50090532912/"
   },
-  "honesty": "This capsule starts with the concept, not the crime. Catherine “Kitty” Genovese was murdered in Kew Gardens in the early hours of 13 March 1964. The text does not describe wounds or sexual violence. It does not use a police portrait of her or of the killer. The Times story of 27 March 1964 is a primary source that later reporting — including the Times itself in 2016 — found flawed. The psychology that followed is real experimental work. The 38 silent witnesses are not.",
+  "honesty": "This lesson starts with the concept, not the crime. Catherine “Kitty” Genovese was murdered in Kew Gardens in the early hours of 13 March 1964. The text does not describe wounds or sexual violence. It does not use a police portrait of her or of the killer. The Times story of 27 March 1964 is a primary source that later reporting — including the Times itself in 2016 — found flawed. The psychology that followed is real experimental work. The 38 silent witnesses are not.",
   "timeline": [
     {
       "year": "13 Mar 1964",
@@ -28,7 +28,7 @@
     {
       "year": "14 Mar 1964",
       "label": "A brief",
-      "detail": "The Times runs a short item. The parable has not been written yet."
+      "detail": "The Times runs a short item. The later front-page story has not been written yet."
     },
     {
       "year": "27 Mar 1964",
@@ -38,11 +38,11 @@
     {
       "year": "1968",
       "label": "The lab",
-      "detail": "Darley and Latané, Journal of Personality and Social Psychology: group size can inhibit helping. Diffusion of responsibility."
+      "detail": "Darley and Latané, Journal of Personality and Social Psychology: group size can inhibit helping. They named the mechanism diffusion of responsibility."
     },
     {
       "year": "2007",
-      "label": "The parable",
+      "label": "The correction",
       "detail": "Manning, Levine, and Collins in American Psychologist: no evidence for 38 witnesses, or that they watched, or that they all did nothing."
     },
     {
@@ -55,7 +55,7 @@
     {
       "title": "Martin Gansberg — “37 Who Saw Murder Didn’t Call the Police” (The New York Times, 27 March 1964)",
       "url": "https://www.nytimes.com/1964/03/27/archives/37-who-saw-murder-didnt-call-the-police-apathy-at-stabbing-of.html",
-      "note": "The article that made the parable. Read it as a 1964 front page, then read the 2016 correction. The Times paywall may sit in front of the archive."
+      "note": "The article that made the teaching example. Read it as a 1964 front page, then read the 2016 correction. The Times paywall may sit in front of the archive."
     },
     {
       "title": "Robert D. McFadden — Winston Moseley obituary (The New York Times, 4 April 2016)",
@@ -101,7 +101,7 @@
     },
     {
       "term": "Kitty Genovese",
-      "explain": "Born 7 July 1935 in Brooklyn; killed 13 March 1964 in Kew Gardens, Queens, at 28. She managed Ev’s Eleventh Hour, a bar in Hollis, and lived on Austin Street with Mary Ann Zielonko. The person is older than the parable.",
+      "explain": "Born 7 July 1935 in Brooklyn; killed 13 March 1964 in Kew Gardens, Queens, at 28. She managed Ev’s Eleventh Hour, a bar in Hollis, and lived on Austin Street with Mary Ann Zielonko. The person is older than the newspaper story.",
       "aliases": [
         "Catherine Genovese",
         "Catherine Susan Genovese"
@@ -113,7 +113,7 @@
     },
     {
       "term": "Austin Street",
-      "explain": "The Kew Gardens street of the apartment and the first attack. Geography, not a stage set."
+      "explain": "The Kew Gardens street of the apartment and the first attack. Geography, not a set for a play."
     },
     {
       "term": "38 witnesses",
@@ -125,7 +125,7 @@
     },
     {
       "term": "37 Who Saw Murder Didn’t Call the Police",
-      "explain": "Martin Gansberg’s New York Times front-page story, 27 March 1964. The article that made the parable. The Times later judged it flawed.",
+      "explain": "Martin Gansberg’s New York Times front-page story, 27 March 1964. The article that made the teaching example. The Times later judged it flawed.",
       "aliases": [
         "37 Who Saw Murder Didn't Call the Police"
       ]
@@ -147,7 +147,7 @@
     },
     {
       "term": "Thirty-Eight Witnesses",
-      "explain": "Rosenthal’s 1964 book on the case. The number, bound."
+      "explain": "Rosenthal’s 1964 book on the case. The number, bound as a title."
     },
     {
       "term": "John Darley",
@@ -181,11 +181,11 @@
     },
     {
       "term": "Sophia Farrar",
-      "explain": "A neighbor and friend who, after the second attack, went to Genovese, held her, and waited for the ambulance. The parable needed her not to exist."
+      "explain": "A neighbor and friend who, after the second attack, went to Genovese, held her, and waited for the ambulance. The newspaper story needed her not to exist."
     },
     {
       "term": "Mary Ann Zielonko",
-      "explain": "Genovese’s partner; they shared the Austin Street apartment. Part of the life the parable flattened into a lesson about strangers."
+      "explain": "Genovese’s partner; they shared the Austin Street apartment. Part of the life the newspaper story flattened into a lesson about strangers."
     },
     {
       "term": "Winston Moseley",
@@ -213,7 +213,7 @@
     },
     {
       "term": "The Kitty Genovese murder and the social psychology of helping",
-      "explain": "Manning, Levine, and Collins, American Psychologist, 2007. Keep the experiments; retire the parable as history."
+      "explain": "Manning, Levine, and Collins, American Psychologist, 2007. Keep the experiments; retire the 38-witness story as history."
     },
     {
       "term": "American Psychologist",
@@ -260,7 +260,7 @@
     },
     {
       "term": "Ev’s Eleventh Hour",
-      "explain": "The Hollis bar Genovese managed. A job, not a metaphor."
+      "explain": "The Hollis bar Genovese managed. A job, not a symbol."
     },
     {
       "term": "World’s Fair",
@@ -275,7 +275,7 @@
     },
     {
       "term": "The New York Times",
-      "explain": "The paper of the 14 March brief, the 27 March parable, the 2004 reconsideration, and the 2016 judgment that the parable was flawed.",
+      "explain": "The paper of the 14 March brief, the 27 March story, the 2004 reconsideration, and the 2016 judgment that the 1964 account was flawed.",
       "aliases": [
         "the Times"
       ]
@@ -308,7 +308,7 @@
     {
       "id": "era",
       "kicker": "The mechanism",
-      "title": "Why psychologists thought a group could freeze a person",
+      "title": "How Darley and Latané tested helping in a group",
       "blocks": [
         {
           "type": "p",
@@ -341,7 +341,7 @@
           "type": "figure",
           "src": "lessons/bystander-genovese/kew-gardens-1936.jpg",
           "alt": "Wide panoramic photograph of Kew Gardens, Long Island, looking west to east, about 1936.",
-          "caption": "Kew Gardens, west to east, about 1936 — Irving Underhill, Library of Congress. A generation before 1964 the neighborhood was already a grid around the railroad. The crime did not invent the place. The parable later made the place a stage.",
+          "caption": "Kew Gardens, west to east, about 1936 — Irving Underhill, Library of Congress. A generation before 1964 the neighborhood was already a grid around the railroad. The crime did not invent the place. The later story made the place stand for a whole city.",
           "credit": "Irving Underhill / Library of Congress / no known restrictions",
           "credit_url": "https://www.loc.gov/item/2007662368/"
         },
@@ -382,26 +382,26 @@
       "blocks": [
         {
           "type": "p",
-          "text": "What it taught wrongly is easy to list. There were not 38 people at 38 windows watching a single continuous crime and choosing, each of them, not to dial. Some neighbors did call. Someone went downstairs. The layout and the two attacks made a theater audience impossible. Frances Cherry and others later argued that a woman’s voice at 3 a.m. was often filed as a private quarrel — a gendered reading the urban-apathy parable did not pause for. James Solomon’s film The Witness records reporters who already doubted Gansberg’s count and did not pick the fight with Rosenthal. The number that organized a research program was already unstable on the morning it was printed: the headline said 37, the story said 38."
+          "text": "What it taught wrongly is easy to list. There were not 38 people at 38 windows watching a single continuous crime and choosing, each of them, not to dial. Some neighbors did call. Someone went downstairs. The layout and the two attacks made a single shared audience impossible. Frances Cherry and others later argued that a woman’s voice at 3 a.m. was often classified as a private quarrel — a gendered reading the urban-apathy story did not pause for. James Solomon’s film The Witness records reporters who already doubted Gansberg’s count and did not pick the fight with Rosenthal. The number that organized a research program was already unstable on the morning it was printed: the headline said 37, the story said 38."
         },
         {
           "type": "p",
-          "text": "What the case still teaches is not a shrug. Some neighbors did too little. The emergency number was a maze. A press story can fit a ready moral — urban apathy, a city of strangers — and become harder to unwrite than to run. The bystander literature is larger than one street and has been tested without Gansberg’s count. The teaching problem is the one this capsule is for: a discipline can be right about a mechanism and still be wrong about the story it uses to make students care."
+          "text": "What the case still teaches is not a shrug. Some neighbors did too little. The emergency number was a maze. A press story can fit a ready moral — urban apathy, a city of strangers — and become harder to unwrite than to run. The bystander literature is larger than one street and has been tested without Gansberg’s count. The teaching problem is the one this lesson is for: a discipline can be right about a mechanism and still be wrong about the story it uses to make students care."
         },
         {
           "type": "p",
-          "text": "Keep the experiments. Label the parable. Do not let the correction become a second simplification — that no one failed anyone that night, or that groups never freeze a person. Diffusion of responsibility does not need 38 silent windows. It never did."
+          "text": "Keep the experiments. Label the newspaper story. Do not let the correction become a second simplification — that no one failed anyone that night, or that groups never freeze a person. Diffusion of responsibility does not need 38 silent windows. It never did."
         }
       ]
     },
     {
       "id": "question",
       "kicker": "A question",
-      "title": "Leave this on the table",
+      "title": "A question to keep asking",
       "blocks": [
         {
           "type": "question",
-          "text": "If a field’s most famous example turns out to be a parable, what should it do with the example — drop it, label it, or keep using it because the experiment still works?"
+          "text": "If a field’s most famous example turns out to be a newspaper story that was not the night, what should it do with the example — drop it, label it, or keep using it because the experiment still works?"
         }
       ]
     }

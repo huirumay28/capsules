@@ -2,10 +2,10 @@
   "slug": "first-wave",
   "date": "2026-08-16",
   "subject": "feminism",
-  "title": "First Wave (c. 1848–1920): who got to count as a “woman” in public",
-  "dek": "Suffrage, splits, and the people the word “we” left out.",
+  "title": "First Wave (c. 1848–1920): the fight over whether women counted as political persons",
+  "dek": "From Seneca Falls to the Nineteenth Amendment, women in the United States and Britain organized for the vote and for legal standing. The movement split over race, tactics, and who was included when organizers said “we.”",
   "era": "c. 1848–1920",
-  "reading_minutes": 14,
+  "reading_minutes": 16,
   "thumb": {
     "src": "lessons/first-wave/sojourner-truth.jpg",
     "alt": "Carte-de-visite of Sojourner Truth, standing with a cane, spectacles, and a white cap, 1864."
@@ -13,41 +13,41 @@
   "hero": {
     "src": "lessons/first-wave/inez-milholland-1913.jpg",
     "alt": "Inez Milholland in a white cape on a white horse at the Woman Suffrage Procession, Washington, D.C., 3 March 1913. A crowd lines the street; the print is captioned Suffrage parade 3/3/13.",
-    "caption": "Inez Milholland leading the Woman Suffrage Procession, Washington, D.C., 3 March 1913 — the day before Woodrow Wilson’s inauguration. The image is the one the procession wanted at its head. The crowd, and who was allowed in the line, is the rest of the story.",
+    "caption": "Inez Milholland riding at the head of the Woman Suffrage Procession in Washington, D.C., on 3 March 1913, the day before Woodrow Wilson’s inauguration. Organizers put her there so the parade would have a clear public image. The rest of this lesson is about who was allowed to march in that line, and who was asked to wait.",
     "credit": "Library of Congress / public domain",
     "credit_url": "https://www.loc.gov/item/97510669/"
   },
-  "honesty": "“First wave” is a later Anglo-American label, not a name the people in this capsule used for themselves. It is useful as a frame — a span of public fights over whether women counted as political persons — and incomplete as a history. What follows uses the frame, then looks at the same decades elsewhere.",
+  "honesty": "“First wave” is a later Anglo-American classroom name. The people in this lesson did not call themselves that. The label is useful because it groups several decades of public campaigns over whether women counted as political persons. It is incomplete as a history, because those campaigns were not only Anglo-American, and because they did not include every woman they claimed to speak for. What follows uses the usual dates, then looks at the same years in China.",
   "timeline": [
     {
       "year": "1848",
       "label": "Seneca Falls",
-      "detail": "Declaration of Sentiments; the vote among other grievances."
+      "detail": "A two-day convention in Seneca Falls, New York, issued the Declaration of Sentiments. The vote was one demand among many legal and social grievances."
     },
     {
       "year": "1851",
       "label": "Akron",
-      "detail": "Sojourner Truth speaks. The famous refrain is a later rewrite."
+      "detail": "Sojourner Truth spoke at a women’s rights meeting in Akron, Ohio. The famous refrain “Ain’t I a woman?” comes from a later rewrite of that speech."
     },
     {
       "year": "1870",
       "label": "The split",
-      "detail": "Fifteenth Amendment: race, not sex. Stanton and Anthony versus Stone and Douglass."
+      "detail": "The Fifteenth Amendment barred denying the vote because of race, not sex. Stanton and Anthony opposed ratifying it without women; Stone and Douglass would not block Black men’s suffrage in order to wait."
     },
     {
       "year": "1907",
       "label": "Anqing",
-      "detail": "Qiu Jin executed after the uprising. Same decade as British militancy, different state."
+      "detail": "Qiu Jin was executed after an uprising in Anqing. She was working in the same decade as British militant suffragettes, under a different government."
     },
     {
       "year": "1913",
       "label": "Procession / Derby",
-      "detail": "Washington, D.C. on 3 March; Emily Wilding Davison dies at Epsom."
+      "detail": "On 3 March, Alice Paul and Lucy Burns organized a suffrage procession in Washington, D.C. In June, Emily Wilding Davison died after stepping onto the course at the Epsom Derby."
     },
     {
       "year": "1920",
       "label": "Nineteenth Amendment",
-      "detail": "The vote, and Jim Crow still standing in the way."
+      "detail": "The United States barred denying the vote because of sex. Poll taxes, literacy tests, and violence still blocked many Black women in the South."
     }
   ],
   "watch": [
@@ -69,11 +69,11 @@
     },
     {
       "term": "separate spheres",
-      "explain": "A nineteenth-century middle-class story: men in public/economic life, women in the home as a moral climate. It was a class rule as much as a sex rule. Wage-earning and enslaved women were never offered that delicacy."
+      "explain": "A nineteenth-century middle-class rule: men belonged in public and economic life, and women belonged in the home as moral guardians. It was a class rule as much as a sex rule. Women who earned wages, and enslaved women, were never offered that protected private role."
     },
     {
       "term": "Seneca Falls",
-      "explain": "Village in western New York. On 19–20 July 1848 a convention there issued the Declaration of Sentiments. “Seneca Falls” later became shorthand for the start of organized U.S. women’s rights — a useful date, not the only origin."
+      "explain": "Village in western New York. On 19–20 July 1848 a convention there issued the Declaration of Sentiments. Later writers used “Seneca Falls” as shorthand for the start of organized U.S. women’s rights. It is a useful date, not the only origin."
     },
     {
       "term": "Declaration of Sentiments",
@@ -134,84 +134,129 @@
     },
     {
       "term": "doldrums",
-      "explain": "A later weather report for U.S. organized feminism in the 1920s–1950s: the vote arrived, the coalition thinned. It describes one organized current going quiet. It does not mean the questions ended."
+      "explain": "A later name for organized U.S. feminism in the 1920s–1950s. After the vote arrived, the suffrage coalition thinned and public campaigning quieted. The word describes one organized current going quiet. It does not mean the underlying questions ended."
     },
     {
       "term": "Alice Paul",
-      "explain": "American suffrage organizer, trained with British militants, then with Lucy Burns planned the 3 March 1913 Woman Suffrage Procession in Washington. Later the National Woman’s Party and the Equal Rights Amendment."
+      "explain": "American suffrage organizer. She trained with British militants, then with Lucy Burns planned the 3 March 1913 Woman Suffrage Procession in Washington. She later led the National Woman’s Party and wrote an Equal Rights Amendment."
+    },
+    {
+      "term": "Married Women’s Property Acts",
+      "aliases": [
+        "Married Women's Property Acts",
+        "Married Women’s Property Act"
+      ],
+      "explain": "State statutes, beginning in the 1840s, that let a married woman keep some property in her own name. New York’s 1848 act is the usual example. The laws were limited and uneven. They did not end coverture."
+    },
+    {
+      "term": "National Woman Suffrage Association",
+      "aliases": [
+        "NWSA"
+      ],
+      "explain": "Founded in 1869 by Elizabeth Cady Stanton and Susan B. Anthony after the split over the Fifteenth Amendment. It opposed ratifying the amendment without women and worked for a federal suffrage amendment."
+    },
+    {
+      "term": "American Woman Suffrage Association",
+      "aliases": [
+        "AWSA"
+      ],
+      "explain": "Founded in 1869 by Lucy Stone and others who would not block Black men’s suffrage in order to wait for women. It favored a state-by-state strategy. It merged with the NWSA in 1890."
+    },
+    {
+      "term": "National American Woman Suffrage Association",
+      "aliases": [
+        "NAWSA"
+      ],
+      "explain": "The 1890 merger of the National Woman Suffrage Association and the American Woman Suffrage Association. The main constitutional-suffrage organization in the United States until the Nineteenth Amendment."
+    },
+    {
+      "term": "Cat and Mouse Act",
+      "aliases": [
+        "Prisoners (Temporary Discharge for Ill-Health) Act",
+        "Prisoners Temporary Discharge for Ill Health Act"
+      ],
+      "explain": "British 1913 statute that released hunger-striking suffragettes when they were too weak to feed, then rearrested them when they recovered. The nickname compared the government to a cat playing with a mouse."
+    },
+    {
+      "term": "Xu Xilin",
+      "aliases": [
+        "徐錫麟",
+        "Hsü Hsi-lin"
+      ],
+      "explain": "Anti-Qing revolutionary. His 1907 uprising in Anqing failed. Qiu Jin, who had been working with the same network, was arrested and executed afterward."
     }
   ],
   "fun_fact": {
-    "title": "She copyrighted the shadow",
-    "text": "In 1864 Sojourner Truth registered the copyright on her own cartes-de-visite in the U.S. District Court for the Eastern District of Michigan — unusual for a sitter; the photographer usually claimed the image. The cards were printed “I sell the shadow to support the substance.” She sold them at lectures because lectures did not pay enough. The existing portrait in this capsule is one of those cards."
+    "title": "She copyrighted her own photograph",
+    "text": "In 1864 Sojourner Truth registered the copyright on her own cartes-de-visite in the U.S. District Court for the Eastern District of Michigan. That was unusual: the photographer usually claimed the image. The cards were printed with her own sentence, “I sell the shadow to support the substance.” She sold them at lectures because lectures did not pay enough. The portrait in this lesson is one of those cards. The “shadow” here is her word for the photograph, not a later flourish."
   },
   "sections": [
     {
       "id": "before",
       "kicker": "Before",
-      "title": "Covered, separate, and already in training",
+      "title": "Married women had no separate legal self, and abolition trained the organizers",
       "blocks": [
         {
           "type": "p",
-          "text": "English common law treated a married woman as legally covered by her husband. The doctrine is called coverture. Her property, her contracts, her wages — the law did not see a separate person there. A single woman had more legal room; marriage closed it."
+          "text": "Under English common law, a married woman’s legal identity was absorbed into her husband’s. The doctrine is called coverture. Her property, her contracts, and her wages belonged to him unless a statute carved out an exception. An unmarried woman had more legal room. Marriage closed it. In the United States, states began to pass Married Women’s Property Acts in the 1840s — New York’s 1848 statute is the usual example — but those laws were limited, uneven, and did not make a wife a full legal person."
         },
         {
           "type": "p",
-          "text": "Industrial work left the house. What remained, for middle-class white women, was a story about respectability: the home as a moral climate, the woman as domestic, delicate, and good. Historians call this “separate spheres.” It was a rule of class as much as of sex. Enslaved women, and women who worked for wages, were never offered that delicacy. They were already in public — as labor, as property, as exceptions the ideology did not have to explain."
+          "text": "Industrial work had already left the house. What remained, for middle-class white women, was a public story about respectability: the home as a moral refuge, the woman as domestic, delicate, and good. Historians call this “separate spheres.” It was a rule of class as much as of sex. Enslaved women, and women who worked for wages, were never offered that protected private role. They were already in public as labor, as property, or as exceptions the ideology did not have to explain."
         },
         {
           "type": "p",
-          "text": "Abolition was the school many United States feminists came out of. They learned to petition, to lecture, to edit, to organize a room. The skills transferred. The alliance later cracked, when the question became which emancipation would be allowed to go first."
+          "text": "Abolition was the training ground for many United States feminists. In anti-slavery societies they learned to petition legislatures, lecture to mixed audiences, edit newspapers, and run a meeting. Those skills transferred to women’s rights. The alliance later cracked, after the Civil War, when the question became which emancipation would be allowed to go first: Black men’s suffrage, or women’s."
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "A public “we,” and the people it could not hold",
+      "title": "Seneca Falls, the Fifteenth Amendment split, and the 1913 parade",
       "blocks": [
         {
           "type": "p",
-          "text": "In 1848, at Seneca Falls, New York, a convention issued a Declaration of Sentiments modeled on the Declaration of Independence. The vote was among the grievances — not the only one, and not, at first, the one everyone in the room wanted named. The document still did something plain: it put women into the grammar of rights."
+          "text": "On 19–20 July 1848, at Seneca Falls, New York, a convention issued a Declaration of Sentiments modeled on the Declaration of Independence. Elizabeth Cady Stanton was the principal author; Lucretia Mott was among the organizers. The vote was one grievance among others — property, divorce, education, and public speech. Not everyone in the room wanted the vote named first. The document still did something new in American public life: it treated women as people who could claim the same political rights the United States had already claimed for men."
         },
         {
           "type": "figure",
           "src": "lessons/first-wave/declaration-sentiments.jpg",
           "alt": "Printed souvenir card titled Our Roll of Honor, listing women who signed the 1848 Declaration of Sentiments.",
-          "caption": "A 1908 souvenir “Our Roll of Honor,” printed sixty years after Seneca Falls, listing the women who signed the 1848 Declaration of Sentiments. Lucretia Mott and Elizabeth Cady Stanton head the first column. This is a commemorative card, not the 1848 manuscript.",
+          "caption": "A 1908 souvenir card titled “Our Roll of Honor,” printed sixty years after Seneca Falls, listing the women who signed the 1848 Declaration of Sentiments. Lucretia Mott and Elizabeth Cady Stanton head the first column. This is a commemorative card, not the 1848 manuscript.",
           "credit": "Library of Congress / public domain",
           "credit_url": "https://www.loc.gov/item/rbcmiller001182/",
           "fit": "contain"
         },
         {
           "type": "p",
-          "text": "In 1851 Sojourner Truth spoke at a women’s rights meeting in Akron, Ohio. The famous refrain “Ain’t I a woman?” comes from Frances Dana Gage’s 1863 rewrite of that speech. Contemporary 1851 newspaper accounts do not use the refrain that way. The later version is the one that traveled. The historical point does not depend on the catchphrase. A feminism built on white middle-class delicacy treats enslaved women and working women as exceptions — bodies that have already been asked to do too much to count as the “woman” the movement is picturing."
+          "text": "In 1851 Sojourner Truth spoke at a women’s rights meeting in Akron, Ohio. The famous refrain “Ain’t I a woman?” comes from Frances Dana Gage’s 1863 rewrite of that speech. Contemporary 1851 newspaper accounts do not use the refrain that way. The later version is the one that traveled in print. The historical point does not depend on the catchphrase. A feminism built on white middle-class delicacy treated enslaved women and working women as exceptions — people whose bodies had already been asked to do too much to count as the “woman” the movement was picturing."
         },
         {
           "type": "p",
-          "text": "After the Civil War the coalition split over the Fifteenth Amendment (1870), which barred denying the vote “on account of race, color, or previous condition of servitude.” It did not mention sex. Elizabeth Cady Stanton and Susan B. Anthony opposed ratifying without women. Lucy Stone and Frederick Douglass would not block Black men’s suffrage in order to wait. The argument was about sequence, and about who was being asked to stand aside."
+          "text": "After the Civil War the coalition split over the Fifteenth Amendment, ratified in 1870, which barred denying the vote “on account of race, color, or previous condition of servitude.” It did not mention sex. In 1869 Elizabeth Cady Stanton and Susan B. Anthony founded the National Woman Suffrage Association and opposed ratifying the amendment without women. Lucy Stone and others founded the American Woman Suffrage Association and would not block Black men’s suffrage in order to wait. Frederick Douglass, who had supported women’s rights at Seneca Falls, took Stone’s side on sequence. The argument was about order, and about who was being asked to stand aside. The two organizations did not merge into the National American Woman Suffrage Association until 1890."
         },
         {
           "type": "p",
-          "text": "In Britain the movement divided by method: constitutional suffragists on one side, the militant Women’s Social and Political Union — Emmeline Pankhurst’s WSPU — on the other. Hunger strikes. Force-feeding. In 1913 Emily Wilding Davison died after stepping onto the course at the Epsom Derby."
+          "text": "In Britain the movement divided by method. Constitutional suffragists collected signatures and lobbied Parliament. The militant Women’s Social and Political Union, founded in 1903 by Emmeline Pankhurst, broke windows, disrupted meetings, and, in prison, went on hunger strike. The Liberal government answered with force-feeding, then with the 1913 Prisoners (Temporary Discharge for Ill-Health) Act — the “Cat and Mouse Act” — which released weakened prisoners and rearrested them when they recovered. In June 1913 Emily Wilding Davison died after stepping onto the course at the Epsom Derby in front of the king’s horse."
         },
         {
           "type": "figure",
           "src": "lessons/first-wave/pankhurst-1913.jpg",
           "alt": "Formal seated portrait of Emmeline Pankhurst, 1913.",
-          "caption": "Emmeline Pankhurst in 1913, the year Davison died at Epsom and the WSPU’s militancy was impossible to ignore. Constitutional suffragists were still collecting signatures. Pankhurst’s organization was collecting prison time.",
+          "caption": "Emmeline Pankhurst in 1913, the year Emily Wilding Davison died at Epsom and the Women’s Social and Political Union’s militancy was impossible to ignore. Constitutional suffragists were still collecting signatures. Pankhurst’s organization was collecting prison sentences.",
           "credit": "Wikimedia Commons / public domain",
           "credit_url": "https://commons.wikimedia.org/wiki/File:Emmeline_Pankhurst,_seated_(1913).jpg"
         },
         {
           "type": "p",
-          "text": "On 3 March 1913, the day before Wilson’s inauguration, Alice Paul and Lucy Burns organized the Woman Suffrage Procession in Washington, D.C. Inez Milholland rode in white on a white horse. Ida B. Wells was told that Black women should march in a rear contingent. She refused, and stepped into the Illinois delegation as it passed."
+          "text": "On 3 March 1913, the day before Wilson’s inauguration, Alice Paul and Lucy Burns organized the Woman Suffrage Procession in Washington, D.C. Inez Milholland rode in white on a white horse at the head of the line. Black women were told to march in a rear contingent. Ida B. Wells refused. She waited until the Illinois delegation passed, then stepped into that line and marched with her state."
         },
         {
           "type": "figure",
           "src": "lessons/first-wave/suffrage-crowd-1913.jpg",
           "alt": "A dense crowd lining Pennsylvania Avenue to watch the 1913 woman suffrage procession in Washington, D.C.",
-          "caption": "The crowd on Pennsylvania Avenue, 3 March 1913. Men climbed poles and wagons to see. The procession was designed to be unmissable on the eve of an inauguration. Unmissable is not the same as welcomed: the parade was repeatedly broken by spectators stepping into the street.",
+          "caption": "The crowd on Pennsylvania Avenue, 3 March 1913. Men climbed poles and wagons to see. Alice Paul timed the procession for the eve of Woodrow Wilson’s inauguration so it could not be missed. Being unmissable was not the same as being welcomed: spectators repeatedly stepped into the street and broke the line of march.",
           "credit": "Library of Congress / public domain",
           "credit_url": "https://www.loc.gov/pictures/item/2014691492/"
         },
@@ -219,25 +264,25 @@
           "type": "figure",
           "src": "lessons/first-wave/suffrage-program-1913.jpg",
           "alt": "Color official program cover for the Woman Suffrage Procession, Washington, D.C., 3 March 1913, showing a woman on horseback before the Capitol.",
-          "caption": "The official program for the same day. The horse, the banner, the Capitol: a picture of who the procession wanted to look like. Wells’s decision to leave the “rear contingent” is the part the program does not print.",
+          "caption": "The official program for the same day. The horse, the banner, and the Capitol show who the procession wanted to look like. Ida B. Wells’s decision to leave the “rear contingent” and walk with the Illinois delegation is the part the program does not print.",
           "credit": "Library of Congress / public domain",
           "credit_url": "https://www.loc.gov/pictures/item/94507639/",
           "fit": "contain"
         },
         {
           "type": "p",
-          "text": "The Nineteenth Amendment was ratified in 1920. It did not undo Jim Crow. Many Black women in the South were still blocked by poll taxes, literacy tests, and violence. The amendment changed the federal text. The ground did not change with it."
+          "text": "The Nineteenth Amendment was ratified in 1920. It says the right to vote shall not be denied on account of sex. It did not repeal Jim Crow. Many Black women in the South were still blocked by poll taxes, literacy tests, and violence. The amendment changed the federal text. The local machinery that decided who could actually cast a ballot did not change with it."
         },
         {
           "type": "p",
-          "text": "The same years, elsewhere: Qiu Jin 秋瑾 (1875–1907). She unbound her feet, studied in Japan, edited 中國女報 (the Chinese Women’s Journal), and was executed after the 1907 Anqing uprising. Her public life does not sit on the Anglo-American staircase from Seneca Falls to 1920. It belongs in the same decades anyway — a woman deciding she would count in public, under a different state, and paying for it."
+          "text": "The same years, in a different country: Qiu Jin 秋瑾 (1875–1907). She unbound her feet, left an arranged marriage, studied in Japan from 1904, and in 1907 edited 中國女報 (the Chinese Women’s Journal) in Shanghai. The journal argued for women’s education and against bound feet in the same pages as anti-Qing politics. After Xu Xilin’s uprising in Anqing failed, she was arrested and executed. Her public life does not sit on a line from Seneca Falls to 1920. It belongs in the same decades anyway: a woman deciding she would count in public, under a different state, and paying for it with her life."
         }
       ]
     },
     {
       "id": "people",
       "kicker": "People",
-      "title": "Four lives the frame has to stretch for",
+      "title": "Four people the usual story has to include",
       "blocks": [
         {
           "type": "people",
@@ -247,40 +292,40 @@
               "dates": "c. 1797–1883",
               "image": "lessons/first-wave/sojourner-truth.jpg",
               "alt": "1864 carte-de-visite of Sojourner Truth standing with a cane. Printed caption: I sell the shadow to support the substance.",
-              "caption": "Carte-de-visite, 1864. “I sell the shadow to support the substance.”",
+              "caption": "Carte-de-visite, 1864, printed with her own line: “I sell the shadow to support the substance.”",
               "credit": "Library of Congress / public domain",
               "credit_url": "https://www.loc.gov/item/97513239/",
-              "text": "Born enslaved in New York. She sold cartes-de-visite captioned “I sell the shadow to support the substance.” The card was a living. It was also an argument about who owned the image of a woman who had been treated as property."
+              "text": "Born enslaved in New York. She sold cartes-de-visite captioned “I sell the shadow to support the substance.” The card was a living: lectures did not pay enough, and she needed the sales. It was also a legal claim. She copyrighted the image in her own name, which was unusual for a sitter, and still more unusual for a woman who had been treated as property."
             },
             {
               "name": "Ida B. Wells",
               "dates": "1862–1931",
               "image": "lessons/first-wave/ida-b-wells.jpg",
               "alt": "Studio portrait of Ida B. Wells-Barnett by Mary Garrity, about 1893.",
-              "caption": "Ida B. Wells-Barnett, photograph by Mary Garrity, c. 1893.",
+              "caption": "Ida B. Wells-Barnett, photographed by Mary Garrity around 1893.",
               "credit": "Wikimedia Commons / public domain",
               "credit_url": "https://commons.wikimedia.org/wiki/File:Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
-              "text": "Anti-lynching journalist; Southern Horrors appeared in 1892. She treated suffrage and racial terror as one fight, which is why a segregated parade order was not a small slight. She walked into the Illinois line instead."
+              "text": "Anti-lynching journalist; Southern Horrors appeared in 1892. She treated suffrage and racial terror as one fight, which is why a segregated parade order in 1913 was not a small slight. She refused the rear contingent and walked into the Illinois line as it passed."
             },
             {
               "name": "Inez Milholland",
               "dates": "1886–1916",
               "image": "lessons/first-wave/inez-milholland-1913.jpg",
               "alt": "Inez Milholland on a white horse in the 1913 suffrage procession, Washington, D.C.",
-              "caption": "The 1913 visual: white cape, white horse, Pennsylvania Avenue.",
+              "caption": "Milholland on Pennsylvania Avenue, 3 March 1913: white cape, white horse, a planned public image.",
               "credit": "Library of Congress / public domain",
               "credit_url": "https://www.loc.gov/item/97510669/",
-              "text": "Lawyer and the image the 1913 procession needed at its head. She died in 1916 on a western suffrage tour, at thirty. The photograph outlived the campaign she was riding for."
+              "text": "Lawyer, and the image the 1913 procession needed at its head. She died in 1916 on a western suffrage tour, at thirty. The photograph of her on the white horse outlived the campaign she was riding for."
             },
             {
               "name": "Qiu Jin 秋瑾",
               "dates": "1875–1907",
               "image": "lessons/first-wave/qiu-jin.jpg",
               "alt": "Portrait of Qiu Jin, photographed in the last years of the Qing dynasty, between 1900 and 1907.",
-              "caption": "Qiu Jin, photographed between 1900 and 1907.",
+              "caption": "Qiu Jin, photographed between 1900 and 1907, in the last years of the Qing dynasty.",
               "credit": "Wikimedia Commons / public domain",
               "credit_url": "https://commons.wikimedia.org/wiki/File:Qiu_jin.jpg",
-              "text": "Unbound feet. Study in Japan. Editor of 中國女報. Executed after the 1907 Anqing uprising. If “first wave” cannot hold her, the phrase is too small — not her life."
+              "text": "Unbound feet, study in Japan, editor of 中國女報, executed after the 1907 Anqing uprising. If the phrase “first wave” cannot hold her, the phrase is too narrow. Her life is not the problem."
             }
           ]
         }
@@ -289,7 +334,7 @@
     {
       "id": "story",
       "kicker": "A story",
-      "title": "The shadow and the substance",
+      "title": "“I sell the shadow to support the substance”",
       "blocks": [
         {
           "type": "figure",
@@ -301,37 +346,37 @@
         },
         {
           "type": "p",
-          "text": "Truth sold her image because lectures did not pay enough. The “shadow” is the photograph — a thing that can be reproduced, captioned, passed from hand to hand. The “substance” is the work, and the body that had been treated as property. She put the sentence on the card in English, under her own name, and made the sale part of the argument: I will be paid for the copy of me that you can hold."
+          "text": "Truth sold her image because lectures did not pay enough. On the card, the “shadow” is the photograph — a thing that can be reproduced, captioned, and passed from hand to hand. The “substance” is the work, and the body that had been treated as property. She put the sentence on the card in English, under her own name, and made the sale part of the argument: I will be paid for the copy of me that you can hold."
         },
         {
           "type": "p",
-          "text": "Keep the card in mind when a movement talks about “women” as if the category were already settled. Someone is always deciding which body is the subject, and which body is the illustration."
+          "text": "Keep the card in mind when a movement talks about “women” as if the category were already settled. Someone is always deciding which body is the subject of the campaign, and which body is only used to illustrate it."
         }
       ]
     },
     {
       "id": "after",
       "kicker": "After",
-      "title": "The vote, the doldrums, and the staircase",
+      "title": "After 1920 the coalition thinned, and a later generation named a second wave",
       "blocks": [
         {
           "type": "p",
-          "text": "In the United States the 1920s through the 1950s are often called the “doldrums”: the vote arrived, the coalition thinned. The word is a weather report written after the fact. It describes a particular organized feminism going quiet. It does not mean the questions ended."
+          "text": "In the United States the 1920s through the 1950s are often called the “doldrums”: the vote arrived, and the suffrage coalition thinned. The word is a later summary, not a name people used at the time. It describes a particular organized feminism going quiet. It does not mean the questions ended, and it does not mean every woman had been in that coalition."
         },
         {
           "type": "p",
-          "text": "What gets called the second wave — the 1960s and 1970s — turned to the workplace, to sexuality, to housework. “The personal is political.” The who-counts problem returned in public, including in the Combahee River Collective statement of 1977, which refused to treat race, sex, and class as separate queues."
+          "text": "What later writers called the second wave — the 1960s and 1970s — turned to the workplace, to sexuality, and to housework. “The personal is political” became a slogan for that turn. The who-counts problem returned in public, including in the Combahee River Collective statement of 1977, which refused to treat race, sex, and class as separate queues."
         },
         {
           "type": "p",
-          "text": "The wave metaphor itself is the after. It offers a tidy staircase: first the vote, then the rest. It hides the people who were never on the stairs — and the fights that did not wait for the next numbered swell."
+          "text": "The wave metaphor itself is a later teaching device. It offers a tidy sequence: first the vote, then the rest. It hides the people who were never in that sequence — and the fights that did not wait for the next numbered period."
         }
       ]
     },
     {
       "id": "question",
       "kicker": "A question",
-      "title": "Leave this on the table",
+      "title": "A question to keep asking",
       "blocks": [
         {
           "type": "question",

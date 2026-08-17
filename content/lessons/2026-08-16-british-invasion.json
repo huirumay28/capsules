@@ -3,10 +3,10 @@
   "date": "2026-08-16",
   "subject": "music",
   "related": [],
-  "title": "British Invasion (c. 1963–67): selling America its own records back",
-  "dek": "How postwar Britain — skiffle, imported R&B, art schools, and pirate radio — turned other people’s 45s into a scene, a look, and an American name.",
+  "title": "British Invasion (c. 1963–67): Britain sells America its own records back",
+  "dek": "After rationing, British teenagers learned guitar from American R&B and rock and roll 45s. Skiffle, art schools, and pirate radio turned those records into a local scene. In 1964 American radio named the export a “British Invasion.”",
   "era": "c. 1963–67",
-  "reading_minutes": 16,
+  "reading_minutes": 18,
   "thumb": {
     "src": "lessons/british-invasion/chuck-berry-1958.jpg",
     "alt": "Chuck Berry in a tuxedo, crouched with a Gibson electric guitar, late 1950s publicity photograph."
@@ -14,41 +14,41 @@
   "hero": {
     "src": "lessons/british-invasion/carnaby-street-1966.jpg",
     "alt": "Young people in bright mid-1960s clothes gathered on a London shopping street beside a motorcycle.",
-    "caption": "Carnaby Street, London, 1966. The Invasion was a sound, but it traveled as a look: Mods, boutiques, and a city that had decided youth was a market.",
+    "caption": "Carnaby Street, London, 1966. The music traveled as singles, but it also traveled as clothes: Mods, boutiques, and a city that had decided young people were a market.",
     "credit": "Wikimedia Commons / Flickr Commons, no known copyright restrictions",
     "credit_url": "https://commons.wikimedia.org/wiki/File:Londons_Carnaby_Street,_1966.jpg"
   },
-  "honesty": "“British Invasion” is an American radio and press name for British beat groups hitting the U.S. charts after February 1964. From Britain the same years were also rationing’s aftertaste, a BBC that still rationed pop, pirate radio, and a generation that had learned guitar from American R&B and rock and roll records. This capsule looks out from Britain. Motown, the Beach Boys, yé-yé, and Group Sounds are contemporaneous — not decoration, and not a required Asia formula.",
+  "honesty": "“British Invasion” is an American radio and press name for British beat groups hitting the U.S. charts after February 1964. From Britain the same years were also the end of rationing’s long after-effect, a BBC that still limited how many records it could play, pirate radio ships, and a generation that had learned guitar from American R&B and rock and roll records. This lesson looks out from Britain. Motown, the Beach Boys, French yé-yé, and Japanese Group Sounds were running in the same years. They are not decoration, and they are not a required Asia pairing.",
   "timeline": [
     {
       "year": "1954–56",
       "label": "After rationing",
-      "detail": "Meat rationing ends (1954). Lonnie Donegan’s “Rock Island Line” (1955–56) makes skiffle a cheap teenage instrument kit."
+      "detail": "Meat rationing ended in 1954. Lonnie Donegan’s “Rock Island Line” (1955–56) made skiffle a cheap way for teenagers to start a group."
     },
     {
       "year": "1962",
       "label": "Labels / managers",
-      "detail": "Decca passes on the Beatles; Parlophone and George Martin do not. Brian Epstein is already managing; London R&B clubs are covering Chess and Motown."
+      "detail": "Decca passed on the Beatles; Parlophone and George Martin did not. Brian Epstein was already managing them. London R&B clubs were covering Chess and Motown records."
     },
     {
       "year": "1964",
       "label": "Sullivan / Caroline",
-      "detail": "Beatles on The Ed Sullivan Show, 9 February; Radio Caroline begins offshore in March. The American name arrives."
+      "detail": "The Beatles appeared on The Ed Sullivan Show on 9 February. Radio Caroline began broadcasting from a ship in March. The American name “British Invasion” arrived with those months."
     },
     {
       "year": "1964",
       "label": "London riff",
-      "detail": "The Kinks’ “You Really Got Me”; the Rolling Stones keep the Chicago debt louder than the suits would like."
+      "detail": "The Kinks released “You Really Got Me.” The Rolling Stones kept their Chicago R&B sources louder than variety television preferred."
     },
     {
       "year": "1965–66",
       "label": "Elsewhere",
-      "detail": "Motown and Stax in the U.S.; Beach Boys in the studio; Group Sounds in Japan; yé-yé already on French radio."
+      "detail": "Motown and Stax were hit factories in the United States. The Beach Boys were in the studio. Group Sounds bands were working in Japan. Yé-yé was already on French radio."
     },
     {
       "year": "1967",
       "label": "The name shrinks",
-      "detail": "Sgt. Pepper; Radio 1; the Marine Broadcasting Offences Act. Psychedelia makes “Invasion” too small."
+      "detail": "Sgt. Pepper, BBC Radio 1, and the Marine Broadcasting Offences Act. Psychedelia made “Invasion” too small a word for what the records were doing."
     }
   ],
   "listen": [
@@ -60,7 +60,7 @@
     {
       "title": "The Beatles — I Want to Hold Your Hand (1963)",
       "url": "https://www.youtube.com/watch?v=jenWdylTtzs",
-      "note": "The Capitol single that opened the U.S. door in late 1963 / early 1964. Official Beatles channel."
+      "note": "The Capitol single that opened the U.S. market in late 1963 and early 1964. Official Beatles channel."
     },
     {
       "title": "The Kinks — You Really Got Me (1964)",
@@ -136,7 +136,7 @@
     },
     {
       "term": "Carnaby Street",
-      "explain": "A short Soho street that became a 1960s boutique strip. The Invasion traveled as clothes as well as singles.",
+      "explain": "A short Soho street that became a 1960s boutique strip. The British groups traveled as clothes as well as singles.",
       "aliases": [
         "Carnaby"
       ]
@@ -212,7 +212,7 @@
     },
     {
       "term": "Decca",
-      "explain": "British label that, in January 1962, famously did not sign the Beatles after an audition. It later had the Rolling Stones. A large company can be late and still be in the room."
+      "explain": "British label that, in January 1962, did not sign the Beatles after an audition. It later had the Rolling Stones. A large company can be late and still be in the business."
     },
     {
       "term": "EMI",
@@ -266,7 +266,7 @@
     },
     {
       "term": "The Beatles",
-      "explain": "Liverpool group, then Hamburg, then Parlophone. The American door after late 1963. This capsule treats them as the door, not as the whole house.",
+      "explain": "Liverpool group, then Hamburg, then Parlophone. After late 1963 they were the British act American television used to introduce the rest. This lesson treats them as that introduction, not as the whole scene.",
       "aliases": [
         "Beatles"
       ]
@@ -304,11 +304,11 @@
     },
     {
       "term": "I Want to Hold Your Hand",
-      "explain": "Beatles single, British release November 1963; Capitol issued it in the U.S. in late December. The record that opened the American door before the Sullivan broadcast."
+      "explain": "Beatles single, British release November 1963; Capitol issued it in the U.S. in late December. The record that made American radio take the group seriously before the Sullivan broadcast."
     },
     {
       "term": "Sgt. Pepper",
-      "explain": "Beatles album, 1967. The useful Invasion story — verse, chorus, suit, scream — is already too small by the time it appears.",
+      "explain": "Beatles album, 1967. The useful Invasion story — verse, chorus, suit, scream — no longer described what they were recording by the time it appeared.",
       "aliases": [
         "Sgt. Pepper's Lonely Hearts Club Band",
         "Sgt. Pepper’s Lonely Hearts Club Band"
@@ -355,7 +355,7 @@
     },
     {
       "term": "You Really Got Me",
-      "explain": "Kinks single, 1964. Distorted riff, London, not Liverpool. A different violence from the Mersey smile."
+      "explain": "Kinks single, 1964. Distorted riff, London, not Liverpool. A harder sound than the smiling Merseybeat export."
     },
     {
       "term": "The Who",
@@ -460,7 +460,7 @@
     },
     {
       "term": "Cavern Club",
-      "explain": "Liverpool cellar club. The Beatles’ lunchtime residency is the tourist fact. The club was a room in a scene, not a cause.",
+      "explain": "Liverpool cellar club. The Beatles’ lunchtime residency is the tourist fact. The club was one room in a local scene, not the cause of the scene.",
       "aliases": [
         "the Cavern"
       ]
@@ -474,7 +474,7 @@
     },
     {
       "term": "Marine Broadcasting Offences Act",
-      "explain": "1967 British law that made supplying the pirate ships an offence. The records did not go back in the box."
+      "explain": "1967 British law that made supplying the pirate ships an offence. The records did not disappear from British life."
     },
     {
       "term": "New Musical Express",
@@ -489,22 +489,22 @@
     }
   ],
   "fun_fact": {
-    "title": "The BBC had a needle-time problem",
-    "text": "Into the mid-1960s the BBC was bound by needle-time: agreements with the Musicians’ Union that limited how many hours of records (as opposed to live studio bands) could be broadcast. Pirate ships were not just teenage romance. They were a way around a labor and licensing rule. Radio 1, created in 1967, was in part an official answer to that gap."
+    "title": "The BBC was limited in how many records it could play",
+    "text": "Into the mid-1960s the BBC was bound by needle-time: agreements with the Musicians’ Union that limited how many hours of records, as opposed to live studio bands, could be broadcast. Pirate ships were not only a teenage romance. They were a way around a labor and licensing rule. Radio 1, created in 1967, was in part an official answer to that gap."
   },
   "sections": [
     {
       "id": "before",
       "kicker": "Before",
-      "title": "Rationing’s aftertaste, a cheap kit, and other people’s records",
+      "title": "After rationing, cheap guitars, and other people’s records",
       "blocks": [
         {
           "type": "p",
-          "text": "Postwar Britain did not jump from the Blitz to Carnaby Street. Food rationing lasted into the 1950s; meat came off the ration in 1954. What followed was not sudden luxury. It was a narrower fact: a generation that had more pocket money than its parents at the same age, and not enough official culture that sounded like it belonged to them. The BBC’s Light Programme carried pop. It did not carry enough of it. Needle-time agreements limited recorded music on air. If you wanted more than the official dose, you needed a radio that was not polite, a shop that imported American 45s, or — later — a ship that was not in British waters yet."
+          "text": "Postwar Britain did not jump from the Blitz to Carnaby Street. Food rationing lasted into the 1950s; meat came off the ration in 1954. What followed was not sudden luxury. It was a narrower fact: a generation that had more pocket money than its parents at the same age, and not enough official culture that sounded as if it belonged to them. The BBC’s Light Programme carried pop. It did not carry enough of it. Needle-time agreements limited recorded music on air. If you wanted more than the official dose, you needed a radio that was not polite, a shop that imported American 45s, or — later — a ship that was not yet in British waters."
         },
         {
           "type": "p",
-          "text": "The records arrived first. Rhythm and blues and rock and roll came as merchant-seamen singles, as classified imports, as the B-sides of things the Light Programme did not love. Chuck Berry’s “Johnny B. Goode” was a 1958 Chess single from Chicago. Little Richard, Muddy Waters, Howlin’ Wolf, and the Motown 45s were the rest of the homework. In Britain they were not yet a museum. They were what you learned if you wanted a group."
+          "text": "The records arrived first. Rhythm and blues and rock and roll came as merchant-seamen singles, as classified imports, and as the B-sides of things the Light Programme did not love. Chuck Berry’s “Johnny B. Goode” was a 1958 Chess single from Chicago. Little Richard, Muddy Waters, Howlin’ Wolf, and the Motown 45s were the rest of the homework. In Britain they were not yet a museum. They were what you learned if you wanted a group."
         },
         {
           "type": "figure",
@@ -518,49 +518,49 @@
           "type": "figure",
           "src": "lessons/british-invasion/johnny-b-goode-label.jpg",
           "alt": "Blue Chess Records 45 label for Johnny B. Goode by Chuck Berry, catalog 1691.",
-          "caption": "Chess 1691, “Johnny B. Goode,” 1958. The label is the object: Chicago, two and a half minutes, C. Berry. A decade later British groups were still arguing about who owned the riff.",
+          "caption": "Chess 1691, “Johnny B. Goode,” 1958. The object is a Chicago single: two and a half minutes, written by C. Berry. A decade later British groups were still arguing about who owned the riff.",
           "credit": "Wikimedia Commons / public domain",
           "credit_url": "https://commons.wikimedia.org/wiki/File:Johnny_B_Goode_by_Chuck_Berry_US_single_side-A.png",
           "fit": "contain"
         },
         {
           "type": "p",
-          "text": "Skiffle made the homework cheap. Lonnie Donegan’s “Rock Island Line” — a Lead Belly song, recorded in London — became a British hit in 1955–56. A washboard and a tea-chest bass were enough to start. John Lennon’s Quarrymen were a skiffle band. So were half the people who later grew fringes in Liverpool, London, and Manchester. Art schools did a related job: Liverpool College of Art, Ealing, Sidcup, the London colleges that Pete Townshend, Keith Richards, and others passed through. They were not conservatories. They were rooms where looking hard was a skill and a group could be a project."
+          "text": "Skiffle made the homework cheap. Lonnie Donegan’s “Rock Island Line” — a Lead Belly song, recorded in London — became a British hit in 1955–56. A washboard and a tea-chest bass were enough to start. John Lennon’s Quarrymen were a skiffle band. So were many of the people who later grew fringes in Liverpool, London, and Manchester. Art schools did a related job: Liverpool College of Art, Ealing, Sidcup, and the London colleges that Pete Townshend, Keith Richards, and others passed through. They were not conservatories. They were cheap places where looking hard was a skill and a group could be a project."
         },
         {
           "type": "figure",
           "src": "lessons/british-invasion/lonnie-donegan-1956.jpg",
           "alt": "Lonnie Donegan in a 1956 Cash Box publicity photograph, riding the Rock Island Line as a caption joke.",
-          "caption": "Lonnie Donegan, Cash Box, 23 June 1956 — the paper’s joke is that he is “riding” the Rock Island Line. The useful fact is the date: skiffle as a British hit, a cheap kit, before any American name for what came next.",
+          "caption": "Lonnie Donegan, Cash Box, 23 June 1956. The paper’s joke is that he is “riding” the Rock Island Line. The useful fact is the date: skiffle as a British hit, and a cheap way to start a group, before any American name for what came next.",
           "credit": "Cash Box / Wikimedia Commons / public domain (U.S. publication without notice)",
           "credit_url": "https://commons.wikimedia.org/wiki/File:LonnieDonegan1956.jpg"
         },
         {
           "type": "p",
-          "text": "By the early 1960s the scenes were local before they were a national story. Liverpool had the Cavern Club and a density of beat groups later tagged Merseybeat. London had the Marquee, the Crawdaddy, and an R&B circuit that treated Chess as scripture. Manchester had the Hollies. Newcastle had the Animals. Tottenham had the Dave Clark Five. None of this required an American name yet. It required halls, managers, and a BBC that still could not play the records as often as the rooms wanted them."
+          "text": "By the early 1960s the scenes were local before they were a national story. Liverpool had the Cavern Club and a density of beat groups later tagged Merseybeat. London had the Marquee, the Crawdaddy, and an R&B circuit that treated Chess Records as a source catalog. Manchester had the Hollies. Newcastle had the Animals. Tottenham had the Dave Clark Five. None of this required an American name yet. It required halls, managers, and a BBC that still could not play the records as often as the rooms wanted them."
         }
       ]
     },
     {
       "id": "era",
       "kicker": "The era",
-      "title": "How a scene became an American headline",
+      "title": "How a local scene became an American headline",
       "blocks": [
         {
           "type": "p",
-          "text": "What Americans later called the British Invasion was, from Britain, several overlapping facts. Beat groups filled ballrooms and package tours. Merseybeat and London R&B were not the same accent: Liverpool sold harmony and a smile that television could use; London’s R&B clubs sold Chess covers and a longer haircut. The look traveled with the singles. Mods, Italian suits, scooters, then Carnaby Street as a boutique strip a tourist could photograph. Teen papers — New Musical Express, Melody Maker, and the American fan magazines that followed — treated the groups as a weekly serial. The industry underneath was not a cottage. Parlophone, Decca, EMI, managers such as Brian Epstein and Andrew Loog Oldham, producers such as George Martin: large companies and a few intermediaries who had learned that a cellar residency could be a product."
+          "text": "What Americans later called the British Invasion was, from Britain, several overlapping facts. Beat groups filled ballrooms and package tours. Merseybeat and London R&B were not the same accent: Liverpool sold harmony and a smile that television could use; London’s R&B clubs sold Chess covers and longer hair. The look traveled with the singles. Mods, Italian suits, scooters, then Carnaby Street as a boutique strip a tourist could photograph. Teen papers — New Musical Express, Melody Maker, and the American fan magazines that followed — treated the groups as a weekly serial. The industry underneath was not a cottage. Parlophone, Decca, EMI, managers such as Brian Epstein and Andrew Loog Oldham, and producers such as George Martin were large companies and a few intermediaries who had learned that a cellar residency could be a product."
         },
         {
           "type": "figure",
           "src": "lessons/british-invasion/transistor-radio.jpg",
           "alt": "Black portable Orion eight-transistor radio with a gold speaker grille.",
-          "caption": "A mid-1960s transistor radio. The Invasion needed ships and television, but it also needed a private speaker a teenager could hold. The BBC was a household set. This was a pocket.",
+          "caption": "A mid-1960s transistor radio. The British groups needed ships and television, but they also needed a private speaker a teenager could hold. The BBC was a household set. This was a pocket.",
           "credit": "Wikimedia Commons / free license",
           "credit_url": "https://commons.wikimedia.org/wiki/Category:Transistor_radios"
         },
         {
           "type": "p",
-          "text": "The American date is easy to point at and easy to over-weight. Capitol issued the Beatles’ “I Want to Hold Your Hand” in the United States in late December 1963. On 9 February 1964 they played The Ed Sullivan Show. After that, U.S. charts and variety television filled with British names: the Rolling Stones, the Kinks, the Who, the Animals, the Dave Clark Five, Dusty Springfield, Manfred Mann, the Hollies, the Yardbirds. “British Invasion” is what American radio called those months. From London the same spring, Radio Caroline began broadcasting from a ship. The BBC still had a needle-time problem. The cameras and the pirates were answering the same shortage from different sides of the ocean."
+          "text": "The American date is easy to point at and easy to overweight. Capitol issued the Beatles’ “I Want to Hold Your Hand” in the United States in late December 1963. On 9 February 1964 they played The Ed Sullivan Show. After that, U.S. charts and variety television filled with British names: the Rolling Stones, the Kinks, the Who, the Animals, the Dave Clark Five, Dusty Springfield, Manfred Mann, the Hollies, the Yardbirds. “British Invasion” is what American radio called those months. From London the same spring, Radio Caroline began broadcasting from a ship. The BBC still had a needle-time problem. The cameras and the pirates were answering the same shortage from different sides of the ocean."
         },
         {
           "type": "figure",
@@ -574,7 +574,7 @@
           "type": "figure",
           "src": "lessons/british-invasion/vox-ac30.jpg",
           "alt": "A worn Vox AC30 Twin guitar amplifier with diamond grille cloth and a handwritten museum tag.",
-          "caption": "A Vox AC30 Twin, the British amp on a lot of Invasion stages. The tag in this photograph guesses at a Shadows connection. Treat the guess as a guess. The hardware is the fact: 30 watts, two speakers, a sound that is not a Fender.",
+          "caption": "A Vox AC30 Twin, the British amplifier on a lot of Invasion stages. The tag in this photograph guesses at a Shadows connection. Treat the guess as a guess. The hardware is the fact: 30 watts, two speakers, a sound that is not a Fender.",
           "credit": "Wikimedia Commons / free license",
           "credit_url": "https://commons.wikimedia.org/wiki/Category:VOX_AC30"
         }
@@ -583,30 +583,30 @@
     {
       "id": "people",
       "kicker": "The field",
-      "title": "Many names, three ways in",
+      "title": "Many groups, and three ways they entered the story",
       "blocks": [
         {
           "type": "p",
-          "text": "A gallery of three faces is the wrong picture. The field is crowded on purpose. The Beatles, the Rolling Stones, the Kinks, the Who, the Animals, the Dave Clark Five, Dusty Springfield, Manfred Mann, the Hollies, the Yardbirds — and behind them the American records they learned: Chuck Berry, Little Richard, Motown, Chess. Epstein and Oldham sold the dates. Martin and the Decca that said no are the industry’s two hands. Donegan is the cheap kit. Sullivan is the American camera. Name them, then slow down for only a few, as examples inside the scene, not as the scene."
+          "text": "A gallery of three faces is the wrong picture. The field is crowded on purpose. The Beatles, the Rolling Stones, the Kinks, the Who, the Animals, the Dave Clark Five, Dusty Springfield, Manfred Mann, the Hollies, the Yardbirds — and behind them the American records they learned: Chuck Berry, Little Richard, Motown, Chess. Epstein and Oldham sold the dates. Martin, and the Decca that said no, are the industry’s two hands. Donegan is the cheap starter kit. Sullivan is the American camera. Name them, then slow down for only a few, as examples inside the scene, not as the scene."
         },
         {
           "type": "p",
-          "text": "The Beatles are the door. Liverpool, Hamburg, the Cavern Club, then Parlophone. This capsule does not need another press shot of four men in suits. The useful facts are the repertoire and the timing. They had already learned Berry, Little Richard, and the girl-group records. “I Want to Hold Your Hand” was a song American radio could not file as a foreign novelty for long. After Sullivan, every other British group on an American bill was walking through a door they had not cut. That is not the same as saying the others were copies. It is a fact about cameras and charts."
+          "text": "The Beatles are the group American television used to introduce the rest. Liverpool, Hamburg, the Cavern Club, then Parlophone. This lesson does not need another press shot of four men in suits. The useful facts are the repertoire and the timing. They had already learned Berry, Little Richard, and the girl-group records. “I Want to Hold Your Hand” was a song American radio could not file as a foreign novelty for long. After Sullivan, every other British group on an American bill was using an introduction they had not made. That is not the same as saying the others were copies. It is a fact about cameras and charts."
         },
         {
           "type": "p",
-          "text": "The Rolling Stones are the R&B debt left audible. London clubs, Chess covers, Jagger and Richards, Oldham’s refusal to package them as variety. They did not invent Muddy Waters. They declined, longer than was polite, to pretend the covers were a phase. When they wrote their own songs, the debt was still the point: a British group selling America a Chicago idea with white faces on the same variety shows that had not booked the Chess roster as pop. The honest version does not scold them for learning. It keeps the label in the shot."
+          "text": "The Rolling Stones are the R&B debt left audible. London clubs, Chess covers, Jagger and Richards, and Oldham’s refusal to package them as variety. They did not invent Muddy Waters. They declined, longer than was polite, to pretend the covers were a phase. When they wrote their own songs, the debt was still the point: a British group selling America a Chicago idea with white faces on the same variety shows that had not booked the Chess roster as pop. The honest version does not scold them for learning. It keeps the Chess label in the shot."
         },
         {
           "type": "p",
-          "text": "The Kinks are a different London violence. “You Really Got Me,” 1964: Ray Davies and Dave Davies, a riff that does not behave like a cover, a speaker cone that the usual story says was sliced so the guitar would break up. Liverpool’s export was blend. This was a two-chord shove from Muswell Hill. It is one record, not a theory of the decade. It is enough to stop the Invasion from being told as four smiles and a Sullivan curtain."
+          "text": "The Kinks are a different London hardness. “You Really Got Me,” 1964: Ray Davies and Dave Davies, a riff that does not behave like a cover, and a speaker cone that the usual story says was sliced so the guitar would break up. Treat the hardware story as the usual one; the record is the fact. Liverpool’s export was blend. This was a two-chord shove from Muswell Hill. It is one record, not a theory of the decade. It is enough to stop the Invasion from being told as four smiling men and one television broadcast."
         }
       ]
     },
     {
       "id": "story",
       "kicker": "Elsewhere",
-      "title": "The same years, not a seating chart",
+      "title": "The same years, not a ranking of songs",
       "blocks": [
         {
           "type": "p",
@@ -621,26 +621,26 @@
     {
       "id": "after",
       "kicker": "After",
-      "title": "Psychedelia, and the name that stopped fitting",
+      "title": "By 1967 the chart label no longer described the music",
       "blocks": [
         {
           "type": "p",
-          "text": "By 1966–67 the useful Invasion story — verse, chorus, suit, scream — was already too small. Revolver, then Sgt. Pepper, then a lot of other people’s sitars and tape loops. The door toward psychedelia is not a British monopoly; San Francisco is in the same late decade. The name “British Invasion” stays useful as a 1964–65 American chart event. It is a poor name for everything that happened next."
+          "text": "By 1966–67 the useful Invasion story — verse, chorus, suit, scream — was already too small. Revolver, then Sgt. Pepper, then a lot of other people’s sitars and tape loops. The turn toward psychedelia was not a British monopoly; San Francisco is in the same late decade. The name “British Invasion” stays useful as a 1964–65 American chart event. It is a poor name for everything that happened next."
         },
         {
           "type": "p",
-          "text": "The Marine Broadcasting Offences Act arrived in 1967. Radio 1 began the same year. The pirates were legislated against. The records did not go back in the box."
+          "text": "The Marine Broadcasting Offences Act arrived in 1967. Radio 1 began the same year. The pirates were legislated against. The records did not disappear from British life."
         }
       ]
     },
     {
       "id": "question",
       "kicker": "A question",
-      "title": "Leave this on the table",
+      "title": "A question to keep asking",
       "blocks": [
         {
           "type": "question",
-          "text": "If a country sells another country its own music, who is the inventor in the room?"
+          "text": "If a country sells another country its own music, who counts as the inventor in the room?"
         }
       ]
     }
