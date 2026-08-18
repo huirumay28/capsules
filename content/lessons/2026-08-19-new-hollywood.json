@@ -1,0 +1,1168 @@
+{
+  "slug": "new-hollywood",
+  "date": "2026-08-19",
+  "subject": "film",
+  "related": [
+    "french-new-wave"
+  ],
+  "title": "New Hollywood (c. 1967–1980): the studios lose the plot, then bet on directors",
+  "dek": "Television took the weekly audience, the Production Code lost its force, and the old moguls sold out to conglomerates. American studios then financed younger directors, antiheroes, and profit participants — until Jaws, Star Wars, and Heaven’s Gate taught them a different lesson.",
+  "era": "c. 1967–1980",
+  "reading_minutes": 22,
+  "thumb": {
+    "src": "lessons/new-hollywood/coppola-1973.jpg",
+    "alt": "Francis Ford Coppola in 1973, bearded, wearing thin glasses and a striped shirt, hand raised to his chin."
+  },
+  "hero": {
+    "src": "lessons/new-hollywood/times-square-1973.jpg",
+    "alt": "Times Square at night in 1973, neon signs and movie marquees including Loew’s State playing Jeremiah Johnson and Shamus.",
+    "caption": "Times Square at night, March 1973. The Loew’s State marquee is playing Jeremiah Johnson and Shamus; a smaller sign to the left advertises Deliverance. This is a street of movie houses in the years of New Hollywood. It is not a still from any of those films.",
+    "credit": "Edmund L. Mitchell / Boston Public Library / no known copyright restrictions",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Times_Square,_night,_Manhattan,_New_York_(1973,_Mitchell).jpg"
+  },
+  "honesty": "“New Hollywood” is a historians’ name, not a membership card. The useful facts are industrial. The major studios had lost their theaters after the 1948 Paramount Decree, lost the weekly audience to television, and lost the Production Code’s certainty. Conglomerates bought the logos. They then financed younger directors and profit participants because those films were making money with the people who still bought tickets. French New Wave films were something American directors and critics had actually watched — Bonnie and Clyde’s writers offered the script to Truffaut and Godard — not an Asia footnote and not a shot-for-shot template. New German Cinema, the first Hong Kong New Wave features, and the tail of Brazilian Cinema Novo were running in the same years. They are contemporaneous arguments, not assigned peers.",
+  "timeline": [
+    {
+      "year": "1948",
+      "label": "Theaters",
+      "detail": "United States v. Paramount Pictures: the majors have to sell their theater chains. A flop no longer has a captive circuit."
+    },
+    {
+      "year": "1966",
+      "label": "Code, conglomerate, import",
+      "detail": "Jack Valenti becomes MPAA president (May). Gulf+Western takes Paramount (October). MGM releases Antonioni’s Blow-Up in the U.S. without a Code seal (18 December)."
+    },
+    {
+      "year": "1967",
+      "label": "The break",
+      "detail": "Bonnie and Clyde (13 August). The Graduate (December). Warner Bros.-Seven Arts; Transamerica buys United Artists. Pauline Kael’s New Yorker essay on Bonnie and Clyde, 21 October."
+    },
+    {
+      "year": "1968",
+      "label": "Ratings",
+      "detail": "The MPAA rating system takes effect on 1 November: G, M, R, and X, replacing the Production Code."
+    },
+    {
+      "year": "1969",
+      "label": "The road",
+      "detail": "Easy Rider. Kinney National buys Warner. Coppola founds American Zoetrope in San Francisco."
+    },
+    {
+      "year": "1972–74",
+      "label": "The studio hit",
+      "detail": "The Godfather (1972). Panaflex camera (1972). The Godfather Part II and Chinatown (1974). Paramount under Robert Evans."
+    },
+    {
+      "year": "1975–77",
+      "label": "The booking change",
+      "detail": "Nashville and Jaws (1975). Taxi Driver (1976). Star Wars (1977). Television advertising and a wide opening become a method."
+    },
+    {
+      "year": "1979–80",
+      "label": "The edge",
+      "detail": "Apocalypse Now (1979). Ann Hui’s The Secret and Tsui Hark’s The Butterfly Murders (1979). Heaven’s Gate premieres (November 1980). Transamerica sells United Artists the next year."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Bonnie and Clyde — Warner Bros. film page",
+      "url": "https://www.warnerbros.com/movies/bonnie-and-clyde",
+      "note": "Studio catalogue record for the 1967 film. Licensed editions exist; this capsule does not link a pirated full film."
+    },
+    {
+      "title": "The Godfather — Paramount Pictures film page",
+      "url": "https://www.paramountpictures.com/movies/the-godfather",
+      "note": "Studio page for Coppola’s 1972 film, with legal places to watch. Not a rip."
+    },
+    {
+      "title": "Nashville — Criterion film page",
+      "url": "https://www.criterion.com/films/28427-nashville",
+      "note": "Altman, 1975. Licensed home-video edition in the Criterion catalogue."
+    },
+    {
+      "title": "Heaven’s Gate — Criterion film page",
+      "url": "https://www.criterion.com/films/28036-heaven-s-gate",
+      "note": "Cimino, 1980, director’s cut. The catalogue record for a restored licensed edition, not a bootleg of the 1980 opening cut."
+    },
+    {
+      "title": "Star Wars: Episode IV — A New Hope — official film page",
+      "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
+      "note": "Lucasfilm’s page for the 1977 film. Watch a legal copy; this capsule does not link a rip."
+    },
+    {
+      "title": "BFI — A great New Hollywood film for every year (1967 to 1982)",
+      "url": "https://www.bfi.org.uk/lists/great-new-hollywood-film-every-year-1967-1982",
+      "note": "Library essay with a year-by-year list. A map, not a pirated film."
+    }
+  ],
+  "fun_fact": {
+    "title": "Jaws was first to $100 million in rentals, not in tickets",
+    "text": "Jaws opened on 20 June 1975. It is often called the first film to “gross $100 million.” That is the wrong unit. Several earlier films, including The Sound of Music and The Godfather, had already taken more than $100 million at the box office — the money paid at the window. Theatrical rentals are the distributor’s share of that money. Jaws was the first film to earn $100 million in U.S. theatrical rentals. The distinction is the point of the booking: a wide opening and a television campaign pulled the studio’s share over that line in a single summer. Star Wars took the rentals record two years later."
+  },
+  "glossary": [
+    {
+      "term": "New Hollywood",
+      "explain": "Historians’ name for American studio filmmaking from about 1967 to 1980, when the old contract system had collapsed and studios financed younger directors, antiheroes, and profit participants. A later label, not a union card."
+    },
+    {
+      "term": "Production Code",
+      "explain": "The Motion Picture Production Code: written rules (1930) enforced from 1934 by the studios’ own Production Code Administration. A film without a seal was hard to book in the major theaters. Abandoned in 1968 in favor of age ratings.",
+      "aliases": [
+        "Hays Code",
+        "Motion Picture Production Code",
+        "the Code"
+      ]
+    },
+    {
+      "term": "Hays Code",
+      "explain": "Common name for the Production Code, after Will Hays, who ran the studios’ trade association when the Code was adopted. The enforcement office, from 1934, was Joseph Breen’s Production Code Administration."
+    },
+    {
+      "term": "Will Hays",
+      "explain": "Former U.S. Postmaster General; first head of the Motion Picture Producers and Distributors of America. The Production Code carries his name. He did not personally stamp every script in the 1960s."
+    },
+    {
+      "term": "Joseph Breen",
+      "explain": "Head of the Production Code Administration from 1934. The Code’s force in Hollywood was his office, not only Hays’s letterhead.",
+      "aliases": [
+        "Breen"
+      ]
+    },
+    {
+      "term": "MPAA",
+      "explain": "Motion Picture Association of America, the studios’ trade group. Jack Valenti became its president in 1966. On 1 November 1968 it replaced the Production Code with a voluntary age-rating system.",
+      "aliases": [
+        "Motion Picture Association of America",
+        "Motion Picture Association"
+      ]
+    },
+    {
+      "term": "Jack Valenti",
+      "explain": "Lyndon Johnson aide who left the White House in May 1966 to run the MPAA. He junked the Production Code and, with theater owners, installed ratings that took effect on 1 November 1968.",
+      "aliases": [
+        "Valenti"
+      ]
+    },
+    {
+      "term": "MPAA ratings",
+      "explain": "Voluntary age labels that replaced the Production Code on 1 November 1968. The original four were G, M, R, and X. M was later renamed GP, then PG. PG-13 did not exist until 1984.",
+      "aliases": [
+        "ratings system",
+        "G, M, R, and X"
+      ]
+    },
+    {
+      "term": "SMA",
+      "explain": "“Suggested for Mature Audiences,” a 1966 warning line used on some studio films, including Who’s Afraid of Virginia Woolf?, while the Code was already leaking. Valenti later called it too little and too late.",
+      "aliases": [
+        "Suggested for Mature Audiences",
+        "For Mature Audiences"
+      ]
+    },
+    {
+      "term": "National Legion of Decency",
+      "explain": "Catholic reviewing body that rated films for parish use and could wound a booking. It condemned Blow-Up. Condemnation was not a legal ban."
+    },
+    {
+      "term": "Paramount Decree",
+      "explain": "The 1948 Supreme Court decision in United States v. Paramount Pictures. The major studios had to sell their theaters. Without a guaranteed circuit, a flop was a flop.",
+      "aliases": [
+        "United States v. Paramount Pictures",
+        "Paramount decision"
+      ]
+    },
+    {
+      "term": "roadshow",
+      "explain": "A prestige booking: reserved seats, higher prices, an overture, often a reserved-seat road tour before a wider release. The Sound of Music (1965) made the format look immortal. Several later roadshow epics did not.",
+      "aliases": [
+        "roadshows",
+        "roadshow epic",
+        "roadshow epics"
+      ]
+    },
+    {
+      "term": "auteur",
+      "explain": "As American critics used the word after Andrew Sarris: the director as the author of a film, ranked by a body of work. Sarris translated the Cahiers politique des auteurs into an “auteur theory.” Pauline Kael attacked the ranking. Studios in the 1970s used the word more loosely, as a reason to bet on a name."
+    },
+    {
+      "term": "Notes on the Auteur Theory in 1962",
+      "explain": "Andrew Sarris’s essay in Film Culture (winter 1962–63). It is how many American readers first met “auteur theory” as a set of premises, not only as a French polemic."
+    },
+    {
+      "term": "Circles and Squares",
+      "explain": "Pauline Kael’s 1963 Film Quarterly attack on Sarris and auteur ranking. She argued that a film is a collaboration and that Sarris’s “circles” of directors were a closed game."
+    },
+    {
+      "term": "Andrew Sarris",
+      "explain": "American critic (Village Voice, Film Culture). “Notes on the Auteur Theory in 1962” gave U.S. readers a name and a ranking method. New Hollywood directors were raised on that argument even when they ignored it.",
+      "aliases": [
+        "Sarris"
+      ]
+    },
+    {
+      "term": "Pauline Kael",
+      "explain": "American critic. “Circles and Squares” (1963) against Sarris; a long New Yorker essay on Bonnie and Clyde (21 October 1967) that treated the film as a break, not a mess. She joined The New Yorker as a regular in 1968.",
+      "aliases": [
+        "Kael"
+      ]
+    },
+    {
+      "term": "Film Culture",
+      "explain": "New York film magazine. Sarris’s 1962 auteur essay appeared there."
+    },
+    {
+      "term": "The New Yorker",
+      "explain": "Weekly magazine. Kael’s Bonnie and Clyde essay ran in the 21 October 1967 issue. William Shawn then hired her as a film critic.",
+      "aliases": [
+        "New Yorker"
+      ]
+    },
+    {
+      "term": "movie brat",
+      "explain": "Press and book name (Michael Pye and Lynda Myles, The Movie Brats, 1979) for the film-school generation that reached studio features in the 1970s: Coppola (UCLA), Scorsese (NYU), Lucas (USC), De Palma, and, beside them though not from the same school path, Spielberg.",
+      "aliases": [
+        "movie brats",
+        "The Movie Brats"
+      ]
+    },
+    {
+      "term": "package deal",
+      "explain": "A film sold to a studio as a bundle — typically star, director, and script — assembled by an agent or a producer rather than by a studio with people under long-term contract. MCA had packaged television that way. In 1970s features, agencies and independent producers did the same job once the contract lists were gone.",
+      "aliases": [
+        "package deals",
+        "packaging"
+      ]
+    },
+    {
+      "term": "high-concept",
+      "explain": "Industry slang for a film whose premise can be stated in a line and sold on television before opening day. Jaws and Star Wars are the usual 1970s exhibits. The phrase is later than the films; the booking method is the films’."
+    },
+    {
+      "term": "antihero",
+      "explain": "A lead who is not offered as a moral example: a bank robber, a hit man, a cab driver with a gun. New Hollywood did not invent the type. It made him bankable in studio films after the Code.",
+      "aliases": [
+        "antiheroes"
+      ]
+    },
+    {
+      "term": "location shooting",
+      "explain": "Filming in real streets, houses, and landscapes instead of, or as well as, soundstages. Lighter, quieter cameras made it cheaper. The look is an industrial fact as much as a style."
+    },
+    {
+      "term": "Panaflex",
+      "explain": "Panavision’s lightweight, quiet 35mm camera, introduced in 1972. It did not need a bulky blimp to record sound. Magnum Force (1973) and Spielberg’s The Sugarland Express (1974) were early features to use it."
+    },
+    {
+      "term": "Panavision",
+      "explain": "American camera-and-lens company. By the 1970s its anamorphic lenses and, from 1972, the Panaflex were standard rental gear for studio features shot on location."
+    },
+    {
+      "term": "BBS",
+      "explain": "BBS Productions, from Raybert (Bob Rafelson and Bert Schneider). It produced Easy Rider for Columbia and a short run of other low-budget Columbia films. A company, not a studio.",
+      "aliases": [
+        "BBS Productions",
+        "Raybert",
+        "Raybert Productions"
+      ]
+    },
+    {
+      "term": "American Zoetrope",
+      "explain": "Francis Ford Coppola’s San Francisco company, founded 1969. Lucas’s THX 1138 was an early Zoetrope film. Apocalypse Now was a Zoetrope production. The point is a director with a company, not only a studio deal.",
+      "aliases": [
+        "Zoetrope"
+      ]
+    },
+    {
+      "term": "Premiere Productions",
+      "explain": "The MGM subsidiary that released Blow-Up in the United States without a Production Code seal. A legal dodge, not a new studio."
+    },
+    {
+      "term": "Gulf+Western",
+      "explain": "Conglomerate that took control of Paramount Pictures in 1966 under Charles Bluhdorn. A zinc-and-sugar company with a movie studio, not a mogul’s firm.",
+      "aliases": [
+        "Gulf and Western",
+        "Gulf & Western",
+        "G+W"
+      ]
+    },
+    {
+      "term": "Charles Bluhdorn",
+      "explain": "Head of Gulf+Western. He bought Paramount in 1966 and hired Robert Evans to run production.",
+      "aliases": [
+        "Bluhdorn",
+        "Charlie Bluhdorn"
+      ]
+    },
+    {
+      "term": "Robert Evans",
+      "explain": "Head of production at Paramount from 1966 into the mid-1970s. Love Story, The Godfather, Chinatown. An independent producer’s temperament inside a conglomerate studio.",
+      "aliases": [
+        "Evans"
+      ]
+    },
+    {
+      "term": "Transamerica",
+      "explain": "Insurance and financial conglomerate that bought United Artists in 1967 and sold it to MGM’s Kirk Kerkorian in 1981 after Heaven’s Gate and other losses."
+    },
+    {
+      "term": "United Artists",
+      "explain": "Distributor founded in 1919 by artists; by the 1960s a studio that financed independent packages rather than a lot with contract players. Transamerica bought it in 1967. Heaven’s Gate in 1980 is the usual end-citation.",
+      "aliases": [
+        "UA"
+      ]
+    },
+    {
+      "term": "Paramount Pictures",
+      "explain": "Studio bought by Gulf+Western in 1966. Under Robert Evans it released The Godfather, The Godfather Part II, and Chinatown. The Melrose lot is still there.",
+      "aliases": [
+        "Paramount"
+      ]
+    },
+    {
+      "term": "Warner Bros.",
+      "explain": "Major studio. Merged with Seven Arts in 1967 (Warner Bros.-Seven Arts); bought by Kinney National in 1969; later Warner Communications. Bonnie and Clyde was a Warner film.",
+      "aliases": [
+        "Warner Bros",
+        "Warner Brothers",
+        "Warner",
+        "Warner Bros.-Seven Arts",
+        "Warner Bros-Seven Arts",
+        "Seven Arts"
+      ]
+    },
+    {
+      "term": "Kinney National",
+      "explain": "Parking-and-funeral conglomerate that bought Warner Bros.-Seven Arts in 1969. Another non-movie parent owning a studio.",
+      "aliases": [
+        "Kinney"
+      ]
+    },
+    {
+      "term": "Columbia Pictures",
+      "explain": "Major studio that distributed Easy Rider (1969) and Taxi Driver (1976). Not the center of this lesson, but the distributor of two of its key hits.",
+      "aliases": [
+        "Columbia"
+      ]
+    },
+    {
+      "term": "Universal Pictures",
+      "explain": "Studio that released Jaws (1975). Richard Zanuck and David Brown produced it; Spielberg directed.",
+      "aliases": [
+        "Universal"
+      ]
+    },
+    {
+      "term": "20th Century-Fox",
+      "explain": "Studio that released Star Wars in 1977. Not yet a Disney company.",
+      "aliases": [
+        "20th Century Fox",
+        "Fox"
+      ]
+    },
+    {
+      "term": "New German Cinema",
+      "explain": "West German film movement of the late 1960s and 1970s (Fassbinder, Herzog, Wenders, Schlöndorff and others), argued for in the 1962 Oberhausen Manifesto and later backed by television money and the Filmverlag der Autoren. Contemporaneous with New Hollywood, not a copy of it."
+    },
+    {
+      "term": "Oberhausen Manifesto",
+      "explain": "1962 declaration by young West German filmmakers that “Papa’s Kino is dead.” A date for New German Cinema’s argument, years before the 1970s features that traveled."
+    },
+    {
+      "term": "Filmverlag der Autoren",
+      "explain": "Cooperative founded in 1971 by West German filmmakers to produce and distribute their own work. A business form for New German Cinema, not a Hollywood studio.",
+      "aliases": [
+        "Filmverlag"
+      ]
+    },
+    {
+      "term": "Cinema Novo",
+      "explain": "Brazilian film movement of the 1960s (Glauber Rocha and others), often summed up as an “aesthetic of hunger.” By the 1970s, under military dictatorship, it was a tail, not a beginning."
+    },
+    {
+      "term": "Hong Kong New Wave",
+      "explain": "Cluster of Hong Kong directors who moved from 1970s television (especially TVB) into features around 1979: Ann Hui, Tsui Hark, Patrick Tam, and others. The features arrive at the end of this lesson’s American window."
+    },
+    {
+      "term": "TVB",
+      "explain": "Television Broadcasts Limited, Hong Kong commercial station. Several New Wave directors learned to shoot quickly there in the 1970s before their first theatrical features."
+    },
+    {
+      "term": "Arthur Penn",
+      "explain": "American director. Bonnie and Clyde (1967). Theater and earlier features behind him; the 1967 film is the one this lesson uses as a break.",
+      "aliases": [
+        "Penn"
+      ]
+    },
+    {
+      "term": "Mike Nichols",
+      "explain": "Comedy performer (Nichols and May), then Broadway director, then filmmaker. Who’s Afraid of Virginia Woolf? (1966); The Graduate (1967).",
+      "aliases": [
+        "Nichols"
+      ]
+    },
+    {
+      "term": "Warren Beatty",
+      "explain": "Actor and producer. He produced Bonnie and Clyde and starred as Clyde Barrow. A package with a star already inside it.",
+      "aliases": [
+        "Beatty"
+      ]
+    },
+    {
+      "term": "Faye Dunaway",
+      "explain": "Actress; Bonnie Parker in Bonnie and Clyde (1967). A new face the film made into a star.",
+      "aliases": [
+        "Dunaway"
+      ]
+    },
+    {
+      "term": "Dustin Hoffman",
+      "explain": "Actor; Benjamin Braddock in The Graduate (1967). Not a conventional leading man by 1960s studio measure. That was the point.",
+      "aliases": [
+        "Hoffman"
+      ]
+    },
+    {
+      "term": "Anne Bancroft",
+      "explain": "Actress; Mrs. Robinson in The Graduate.",
+      "aliases": [
+        "Bancroft"
+      ]
+    },
+    {
+      "term": "Katharine Ross",
+      "explain": "Actress; Elaine in The Graduate.",
+      "aliases": [
+        "Ross"
+      ]
+    },
+    {
+      "term": "Joseph E. Levine",
+      "explain": "Producer-distributor; Embassy Pictures released The Graduate. An independent hit, then a studio lesson.",
+      "aliases": [
+        "Levine",
+        "Embassy Pictures",
+        "Embassy"
+      ]
+    },
+    {
+      "term": "David Newman",
+      "explain": "Co-writer, with Robert Benton, of Bonnie and Clyde. They offered the script to Truffaut and Godard before Penn directed it.",
+      "aliases": [
+        "Newman"
+      ]
+    },
+    {
+      "term": "Robert Benton",
+      "explain": "Co-writer, with David Newman, of Bonnie and Clyde. Later a director. The script’s first intended directors were French.",
+      "aliases": [
+        "Benton"
+      ]
+    },
+    {
+      "term": "Dennis Hopper",
+      "explain": "Actor and director. Directed Easy Rider (1969); also acted in it.",
+      "aliases": [
+        "Hopper"
+      ]
+    },
+    {
+      "term": "Peter Fonda",
+      "explain": "Actor and producer of Easy Rider (1969). Wyatt, the rider with the star-spangled helmet.",
+      "aliases": [
+        "Fonda"
+      ]
+    },
+    {
+      "term": "Jack Nicholson",
+      "explain": "Actor. Supporting role in Easy Rider that made him a star; then Five Easy Pieces, Chinatown, One Flew Over the Cuckoo’s Nest. A New Hollywood face who outlasted the window.",
+      "aliases": [
+        "Nicholson"
+      ]
+    },
+    {
+      "term": "Bob Rafelson",
+      "explain": "Producer-director; with Bert Schneider, Raybert/BBS. Easy Rider’s production company.",
+      "aliases": [
+        "Rafelson"
+      ]
+    },
+    {
+      "term": "Bert Schneider",
+      "explain": "Producer; with Bob Rafelson, Raybert/BBS. Easy Rider.",
+      "aliases": [
+        "Schneider"
+      ]
+    },
+    {
+      "term": "Francis Ford Coppola",
+      "explain": "Director, writer, producer. UCLA film school; American Zoetrope. The Godfather (1972), The Conversation (1974), The Godfather Part II (1974), Apocalypse Now (1979). The studio hit and the director’s company in one career.",
+      "aliases": [
+        "Coppola"
+      ]
+    },
+    {
+      "term": "Martin Scorsese",
+      "explain": "Director. NYU film school. Mean Streets (1973), Taxi Driver (1976), among others. A movie brat who kept shooting New York as if it were not a back lot.",
+      "aliases": [
+        "Scorsese"
+      ]
+    },
+    {
+      "term": "Robert Altman",
+      "explain": "Director, older than the film-school cohort; came up through industrial films and television. MASH (1970), Nashville (1975). Overlapping sound, large casts, a studio film that does not behave like a star vehicle.",
+      "aliases": [
+        "Altman"
+      ]
+    },
+    {
+      "term": "Hal Ashby",
+      "explain": "Editor, then director. The Last Detail, Shampoo, Coming Home, Being There. Not a film-school “brat.” An editor who got to call takes.",
+      "aliases": [
+        "Ashby"
+      ]
+    },
+    {
+      "term": "Peter Bogdanovich",
+      "explain": "Critic, then director. The Last Picture Show (1971), Paper Moon (1973). A Sarris reader who made studio films that looked like he had done the homework.",
+      "aliases": [
+        "Bogdanovich"
+      ]
+    },
+    {
+      "term": "William Friedkin",
+      "explain": "Director. The French Connection (1971), The Exorcist (1973). Location, speed, and, with The Exorcist, a hit that was also a horror film the Code would not have known what to do with.",
+      "aliases": [
+        "Friedkin"
+      ]
+    },
+    {
+      "term": "Steven Spielberg",
+      "explain": "Director. Television first, then The Sugarland Express (1974) and Jaws (1975). Not a film-school graduate in the Coppola–Scorsese–Lucas sense. Jaws is the booking change.",
+      "aliases": [
+        "Spielberg"
+      ]
+    },
+    {
+      "term": "George Lucas",
+      "explain": "Director and producer. USC film school; American Zoetrope. American Graffiti (1973), Star Wars (1977). The second half of the blockbuster lesson.",
+      "aliases": [
+        "Lucas"
+      ]
+    },
+    {
+      "term": "Brian De Palma",
+      "explain": "Director, grouped with the movie brats. Sisters, Carrie (1976), and others. A film-school contemporary of Scorsese’s, not a Penn or Nichols story.",
+      "aliases": [
+        "De Palma"
+      ]
+    },
+    {
+      "term": "Al Pacino",
+      "explain": "Actor; Michael Corleone in The Godfather and The Godfather Part II. Paramount had not wanted him. The film made the argument.",
+      "aliases": [
+        "Pacino"
+      ]
+    },
+    {
+      "term": "Robert De Niro",
+      "explain": "Actor; young Vito Corleone in The Godfather Part II; Travis Bickle in Taxi Driver. Another face the era kept reusing.",
+      "aliases": [
+        "De Niro"
+      ]
+    },
+    {
+      "term": "Marlon Brando",
+      "explain": "Actor; Vito Corleone in The Godfather. An older star inside a new studio hit.",
+      "aliases": [
+        "Brando"
+      ]
+    },
+    {
+      "term": "Mario Puzo",
+      "explain": "Novelist; The Godfather (1969). Coppola adapted the book with him. The hit was a bestseller first.",
+      "aliases": [
+        "Puzo"
+      ]
+    },
+    {
+      "term": "Albert S. Ruddy",
+      "explain": "Producer of The Godfather.",
+      "aliases": [
+        "Albert Ruddy",
+        "Al Ruddy",
+        "Ruddy"
+      ]
+    },
+    {
+      "term": "Gordon Willis",
+      "explain": "Cinematographer of The Godfather and The Godfather Part II. Underexposed interiors, faces in shadow. Nicknamed “the Prince of Darkness” in the trade.",
+      "aliases": [
+        "Willis"
+      ]
+    },
+    {
+      "term": "Roman Polanski",
+      "explain": "Director of Chinatown (1974) for Paramount. A European director on an American studio picture Robert Towne wrote.",
+      "aliases": [
+        "Polanski"
+      ]
+    },
+    {
+      "term": "Robert Towne",
+      "explain": "Screenwriter of Chinatown (1974).",
+      "aliases": [
+        "Towne"
+      ]
+    },
+    {
+      "term": "Richard Zanuck",
+      "explain": "Producer, with David Brown, of Jaws for Universal. Former Fox production chief.",
+      "aliases": [
+        "Zanuck"
+      ]
+    },
+    {
+      "term": "David Brown",
+      "explain": "Producer, with Richard Zanuck, of Jaws."
+    },
+    {
+      "term": "Verna Fields",
+      "explain": "Editor of Jaws. The picture’s scare is cut as well as shot.",
+      "aliases": [
+        "Fields"
+      ]
+    },
+    {
+      "term": "John Williams",
+      "explain": "Composer of the Jaws two-note ostinato and, two years later, the Star Wars score. The blockbuster’s sound as a logo.",
+      "aliases": [
+        "Williams"
+      ]
+    },
+    {
+      "term": "Michael Cimino",
+      "explain": "Director of The Deer Hunter (1978) and Heaven’s Gate (1980). The second film is this lesson’s end-edge, not a full 1980s chapter.",
+      "aliases": [
+        "Cimino"
+      ]
+    },
+    {
+      "term": "Michelangelo Antonioni",
+      "explain": "Italian director. Blow-Up (1966), made in London, released in the U.S. by MGM without a Code seal.",
+      "aliases": [
+        "Antonioni"
+      ]
+    },
+    {
+      "term": "Rainer Werner Fassbinder",
+      "explain": "New German Cinema director. Ali: Fear Eats the Soul (1974) and a large 1970s output, much of it for television as well as theaters.",
+      "aliases": [
+        "Fassbinder"
+      ]
+    },
+    {
+      "term": "Werner Herzog",
+      "explain": "New German Cinema director. Aguirre, the Wrath of God (1972).",
+      "aliases": [
+        "Herzog"
+      ]
+    },
+    {
+      "term": "Wim Wenders",
+      "explain": "New German Cinema director. Kings of the Road (1976) among the 1970s films.",
+      "aliases": [
+        "Wenders"
+      ]
+    },
+    {
+      "term": "Volker Schlöndorff",
+      "explain": "New German Cinema director. The Tin Drum (1979) is the international prize film; he belongs on the map even when this lesson slows down on other names.",
+      "aliases": [
+        "Schlöndorff"
+      ]
+    },
+    {
+      "term": "Ann Hui",
+      "explain": "Hong Kong director. Television at TVB in the 1970s; The Secret (1979) is a usual first-feature citation for the Hong Kong New Wave.",
+      "aliases": [
+        "Hui"
+      ]
+    },
+    {
+      "term": "Tsui Hark",
+      "explain": "Hong Kong director. The Butterfly Murders (1979). Television first, then features, same years as Heaven’s Gate.",
+      "aliases": [
+        "Tsui"
+      ]
+    },
+    {
+      "term": "Patrick Tam",
+      "explain": "Hong Kong director and TVB alumnus, grouped with the New Wave’s first features around 1979–80.",
+      "aliases": [
+        "Tam"
+      ]
+    },
+    {
+      "term": "Glauber Rocha",
+      "explain": "Brazilian Cinema Novo director. Black God, White Devil (1964). By the 1970s he was often working in exile. The tail of a 1960s movement, running beside this lesson, not inside it.",
+      "aliases": [
+        "Rocha"
+      ]
+    },
+    {
+      "term": "François Truffaut",
+      "explain": "French director. Newman and Benton offered him Bonnie and Clyde. He did not make it. The offer is the American fact: the writers had watched the New Wave.",
+      "aliases": [
+        "Truffaut"
+      ]
+    },
+    {
+      "term": "Jean-Luc Godard",
+      "explain": "French director. Also approached about Bonnie and Clyde. He did not make it either.",
+      "aliases": [
+        "Godard"
+      ]
+    },
+    {
+      "term": "Bonnie and Clyde",
+      "explain": "Arthur Penn, 1967; produced by and starring Warren Beatty; Faye Dunaway as Bonnie. Warner Bros. Writers David Newman and Robert Benton had wanted Truffaut or Godard. The film mixed comedy and killing. Kael’s New Yorker essay (21 October 1967) is the critical event that treated it as a break."
+    },
+    {
+      "term": "The Graduate",
+      "explain": "Mike Nichols, 1967; Dustin Hoffman, Anne Bancroft, Katharine Ross. Embassy Pictures. A youth-market hit from an independent distributor, then a studio lesson about who the audience was."
+    },
+    {
+      "term": "Easy Rider",
+      "explain": "Dennis Hopper, 1969; Peter Fonda producing and starring; Jack Nicholson in support. BBS for Columbia. Shot on the road for a few hundred thousand dollars. The return taught studios to look for more films like it."
+    },
+    {
+      "term": "The Godfather",
+      "explain": "Francis Ford Coppola, 1972, from Mario Puzo’s novel; Paramount; produced by Albert S. Ruddy. Brando and Pacino. A studio film that made Paramount a lot of money and made the director’s name a commercial argument."
+    },
+    {
+      "term": "The Godfather Part II",
+      "explain": "Coppola, 1974, Paramount. Pacino and, as the young Vito, De Niro. A sequel that is also a second film, not only a reprint."
+    },
+    {
+      "term": "The Conversation",
+      "explain": "Coppola, 1974, Paramount/American Zoetrope. A small surveillance film released the same year as The Godfather Part II. The director’s company inside the studio slate."
+    },
+    {
+      "term": "Chinatown",
+      "explain": "Roman Polanski, 1974, Paramount; written by Robert Towne; Jack Nicholson. A private-eye film the Code would have rewritten. Evans’s Paramount again."
+    },
+    {
+      "term": "Nashville",
+      "explain": "Robert Altman, 1975. A large-cast film shot in the city of the title, overlapping talk, political campaign, country music. A studio-backed film that does not behave like a single-star package."
+    },
+    {
+      "term": "Taxi Driver",
+      "explain": "Martin Scorsese, 1976; Robert De Niro as Travis Bickle. Columbia. New York streets, a Vietnam veteran, a rating that would have been impossible under the Code."
+    },
+    {
+      "term": "Jaws",
+      "explain": "Steven Spielberg, 1975, Universal; produced by Richard Zanuck and David Brown, from Peter Benchley’s novel. Opened 20 June 1975 in a few hundred theaters with a television campaign. First film to earn $100 million in U.S. theatrical rentals — the distributor’s share, not the ticket gross."
+    },
+    {
+      "term": "Star Wars",
+      "explain": "George Lucas, 1977, 20th Century-Fox. Later given the episode title A New Hope. A high-concept adventure whose merchandising and sequels taught studios a calendar. It overtook Jaws as the rentals champion.",
+      "aliases": [
+        "Star Wars: Episode IV — A New Hope",
+        "A New Hope"
+      ]
+    },
+    {
+      "term": "Apocalypse Now",
+      "explain": "Coppola, 1979, American Zoetrope. Palme d’Or at Cannes, then a long American release. A director’s film at the expensive end of the window."
+    },
+    {
+      "term": "Heaven’s Gate",
+      "explain": "Michael Cimino, 1980, United Artists. A western that ran over budget and failed in its first American bookings. Transamerica sold UA the next year. An end-edge for director control, not the whole 1980s."
+    },
+    {
+      "term": "The Deer Hunter",
+      "explain": "Cimino, 1978. The hit that gave him the leverage to make Heaven’s Gate."
+    },
+    {
+      "term": "Blow-Up",
+      "explain": "Michelangelo Antonioni, 1966. MGM released it in the U.S. on 18 December 1966 through Premiere Productions, without a Production Code seal. Nudity the Code would not pass. A commercial success. The seal looked optional.",
+      "aliases": [
+        "Blowup",
+        "Blow Up"
+      ]
+    },
+    {
+      "term": "Who’s Afraid of Virginia Woolf?",
+      "explain": "Mike Nichols, 1966, Warner Bros., from Edward Albee’s play. Language the Code hated. Released with a “Suggested for Mature Audiences” line rather than a rewritten script.",
+      "aliases": [
+        "Who's Afraid of Virginia Woolf?",
+        "Who’s Afraid of Virginia Woolf"
+      ]
+    },
+    {
+      "term": "Cleopatra",
+      "explain": "Joseph L. Mankiewicz, 1963, 20th Century-Fox. A roadshow epic whose cost overruns became a public fact. The usual exhibit for the old spectacle system spending itself."
+    },
+    {
+      "term": "The Sound of Music",
+      "explain": "Robert Wise, 1965, 20th Century-Fox. A roadshow hit so large that studios kept ordering more reserved-seat musicals and epics. Several of those follow-ups failed."
+    },
+    {
+      "term": "MASH",
+      "explain": "Robert Altman, 1970, 20th Century-Fox. A service comedy that did not behave like a service comedy. Altman’s first big studio success.",
+      "aliases": [
+        "M*A*S*H"
+      ]
+    },
+    {
+      "term": "The Last Picture Show",
+      "explain": "Peter Bogdanovich, 1971. A black-and-white small-town film that looked like homework from older Hollywood, made inside the new window."
+    },
+    {
+      "term": "The French Connection",
+      "explain": "William Friedkin, 1971. Location work in New York; Gene Hackman. A studio cop film with the new camera habit."
+    },
+    {
+      "term": "The Exorcist",
+      "explain": "William Friedkin, 1973, Warner. A horror hit whose audience was not a roadshow family. Money, and an R."
+    },
+    {
+      "term": "American Graffiti",
+      "explain": "George Lucas, 1973, Universal. A cheap, profitable film about 1962 that gave Lucas the leverage for Star Wars."
+    },
+    {
+      "term": "Mean Streets",
+      "explain": "Martin Scorsese, 1973. Independent/Warner. The New York film before Taxi Driver."
+    },
+    {
+      "term": "Ali: Fear Eats the Soul",
+      "explain": "Rainer Werner Fassbinder, 1974. A New German Cinema feature that traveled on the festival circuit in the same years as The Godfather Part II.",
+      "aliases": [
+        "Angst essen Seele auf",
+        "Fear Eats the Soul"
+      ]
+    },
+    {
+      "term": "Aguirre, the Wrath of God",
+      "explain": "Werner Herzog, 1972. New German Cinema; a Spanish colonial expedition filmed in the Andes. Festival evidence, not a Paramount picture.",
+      "aliases": [
+        "Aguirre"
+      ]
+    },
+    {
+      "term": "Kings of the Road",
+      "explain": "Wim Wenders, 1976. New German Cinema; two men, a repair van, the border with East Germany.",
+      "aliases": [
+        "Im Lauf der Zeit"
+      ]
+    },
+    {
+      "term": "The Secret",
+      "explain": "Ann Hui, 1979. A Hong Kong feature usually cited at the start of that New Wave. Television craft taken into theaters.",
+      "aliases": [
+        "Feng jie"
+      ]
+    },
+    {
+      "term": "The Butterfly Murders",
+      "explain": "Tsui Hark, 1979. Another 1979 Hong Kong first-wave citation: a wuxia film by a TV-trained director."
+    },
+    {
+      "term": "Black God, White Devil",
+      "explain": "Glauber Rocha, 1964. A Cinema Novo film. Named here as the 1960s movement whose tail still ran in the 1970s, not as a 1975 peer of Jaws.",
+      "aliases": [
+        "Deus e o Diabo na Terra do Sol"
+      ]
+    },
+    {
+      "term": "Jeremiah Johnson",
+      "explain": "Sydney Pollack, 1972. Visible on the Loew’s State marquee in the March 1973 Times Square photograph used as this lesson’s hero. A studio western in the same years, not a film this capsule slows down on."
+    },
+    {
+      "term": "Shamus",
+      "explain": "Jerry Schatzberg, 1973. The other title on that Loew’s State marquee in the hero photograph. Named because it is in the picture."
+    },
+    {
+      "term": "Deliverance",
+      "explain": "John Boorman, 1972, Warner. Also on a Times Square marquee in the hero photograph. A studio film shot on location; adjacent to this lesson, not a third deep dive."
+    },
+    {
+      "term": "The Sugarland Express",
+      "explain": "Spielberg’s first theatrical feature, 1974, Universal. An early Panaflex production. Named as equipment history, not as a third deep dive."
+    },
+    {
+      "term": "The Tin Drum",
+      "explain": "Volker Schlöndorff, 1979, from Günter Grass. Palme d’Or at Cannes the same year as Apocalypse Now. Named as a festival date, not as a Hollywood peer."
+    },
+    {
+      "term": "Peter Benchley",
+      "explain": "Novelist; Jaws (1974). Zanuck and Brown bought the book; Spielberg directed the film.",
+      "aliases": [
+        "Benchley"
+      ]
+    },
+    {
+      "term": "Edward Albee",
+      "explain": "Playwright. Who’s Afraid of Virginia Woolf? (1962 play; Nichols’s 1966 film). Named because the film is a 1966 Code fight, not because this lesson is a theater chapter.",
+      "aliases": [
+        "Albee"
+      ]
+    },
+    {
+      "term": "Lyndon Johnson",
+      "explain": "U.S. president, 1963–69. Jack Valenti was his aide before the MPAA job. Named only for that move.",
+      "aliases": [
+        "Johnson",
+        "Lyndon B. Johnson",
+        "President Lyndon Johnson"
+      ]
+    },
+    {
+      "term": "Cannes",
+      "explain": "The Cannes Film Festival. Apocalypse Now and The Tin Drum shared the 1979 prizes. A date journalists can print, not a merger of industries."
+    },
+    {
+      "term": "Berlin",
+      "explain": "The Berlin International Film Festival (Berlinale). Named here as one of the 1970s festival rooms where European art films and American films could appear in the same season.",
+      "aliases": [
+        "Berlinale",
+        "Berlin Film Festival"
+      ]
+    },
+    {
+      "term": "New York Film Festival",
+      "explain": "Lincoln Center festival, founded 1963. Another room where 1970s journalists saw European films and American studio films in the same week."
+    },
+    {
+      "term": "Venice Film Festival",
+      "explain": "The Venice festival. The Fassbinder photograph in this lesson is labeled as Venice, 1980. Named because the caption uses the place.",
+      "aliases": [
+        "Venice",
+        "Mostra del Cinema"
+      ]
+    },
+    {
+      "term": "Bonnie Parker",
+      "explain": "The historical Texas outlaw; Faye Dunaway’s role in Bonnie and Clyde. Named in the film section, not as a separate biography."
+    },
+    {
+      "term": "Viacom",
+      "explain": "Later corporate parent of Paramount. The 2025 water-tower photograph in this lesson still says “A Viacom Company.” That paint is after this era. In 1967–80 the owner was Gulf+Western.",
+      "aliases": [
+        "A Viacom Company"
+      ]
+    },
+    {
+      "term": "Super Panazoom",
+      "explain": "A Panavision zoom lens, visible on the display camera photographed for this lesson. A rental lens, not a philosophy."
+    },
+    {
+      "term": "Loew’s State",
+      "explain": "Times Square movie palace whose 1973 marquee appears in this lesson’s hero photograph.",
+      "aliases": [
+        "Loew's State",
+        "Loews State"
+      ]
+    },
+    {
+      "term": "DOCUMERICA",
+      "explain": "A 1972–77 U.S. Environmental Protection Agency photography project. The 42nd Street picture in this lesson comes from it. A government document of a street, not a film still."
+    },
+    {
+      "term": "UCLA",
+      "explain": "University of California, Los Angeles. Francis Ford Coppola’s film school. Named as a fact about the movie-brat generation."
+    },
+    {
+      "term": "NYU",
+      "explain": "New York University. Martin Scorsese’s film school."
+    },
+    {
+      "term": "USC",
+      "explain": "University of Southern California. George Lucas’s film school."
+    },
+    {
+      "term": "Hollywood Forever Cemetery",
+      "explain": "Cemetery next to the Paramount lot. The 2025 water-tower photograph in this lesson was taken from there. The picture is of the tank, not of a grave."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "The studios lose the weekly audience, the Code, and the old owners",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Hollywood that New Hollywood replaced was already in pieces. In 1948 the Supreme Court, in United States v. Paramount Pictures, ordered the major studios to sell their theater chains. A production company could no longer book its own films into its own houses as a matter of course. Television then took the habit of going out. Weekly attendance, about ninety million tickets just after the war, was about forty million by the end of the 1950s. The living room set was not a metaphor. It was a box that did not charge admission."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/family-tv-1958.jpg",
+          "alt": "A family in a living room around 1958, children on the carpet, a man adjusting a small television on hairpin legs.",
+          "caption": "An American family watching television, around 1958. The set is small and the room is the point: by the late 1950s the weekly cinema habit had already moved, in part, into houses like this. The picture is a document of a living room, not of a studio lot.",
+          "credit": "Evert F. Baumgardner / U.S. National Archives / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Family_watching_television_1958.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The studios answered with size. Roadshow epics — reserved seats, higher prices, an overture — were meant to be what television could not be. Cleopatra, released by 20th Century-Fox in 1963, made the cost of that answer a public fact. The Sound of Music, from the same studio in 1965, then made the format look like a solution, which is how a hit becomes a trap: more reserved-seat musicals and spectacles were ordered. Several of them failed. The old moguls were dying, selling, or already gone. What replaced a family name on the door was often a conglomerate that wanted the film library and the real estate."
+        },
+        {
+          "type": "p",
+          "text": "The other inherited machine was the Production Code, written in 1930 and enforced from 1934 by Joseph Breen’s office under the trade association Will Hays had run. A studio film without a Code seal was hard to book. By the mid-1960s the seal was already a problem. In May 1966 Jack Valenti, a Lyndon Johnson aide, left the White House to become president of the MPAA. He later wrote that he meant to junk the Code. In October 1966 Charles Bluhdorn’s Gulf+Western took control of Paramount Pictures and soon put Robert Evans in charge of production. In 1967 Warner Bros. merged with Seven Arts; Transamerica, an insurance company, bought United Artists, a financier of independent packages rather than a lot full of contract players. Kinney National, a parking and funeral business, would buy Warner in 1969. The logos stayed. The owners were no longer showmen who had built the lots."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/valenti-1963.jpg",
+          "alt": "President Lyndon Johnson seated at the Oval Office desk, with Jack Valenti and two other men standing behind him, 28 November 1963.",
+          "caption": "Jack Valenti (standing, behind the President) with Lyndon Johnson in the Oval Office, 28 November 1963. The typed label in the corner is the archive’s: Valenti and two friends from Texas. He was still a presidential aide. In May 1966 he left that job to run the MPAA. The ratings system he put in place on 1 November 1968 is the film-industry fact.",
+          "credit": "Cecil Stoughton / White House / LBJ Library / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Jack_Valenti_and_friends_with_the_President.jpg"
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "1966–68 as a trigger, then a decade of bets on directors",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Code did not fall in one night. In 1966 Mike Nichols filmed Edward Albee’s Who’s Afraid of Virginia Woolf? for Warner Bros. with language the Code office did not want. The film went out with a “Suggested for Mature Audiences” line. Valenti later called that warning too little. On 18 December 1966, MGM released Michelangelo Antonioni’s Blow-Up in the United States through a subsidiary, Premiere Productions, without a seal at all. The National Legion of Decency condemned it. The film made money. A major distributor had shown that the seal was optional if the booking was large enough."
+        },
+        {
+          "type": "p",
+          "text": "Bonnie and Clyde opened on 13 August 1967. Arthur Penn directed; Warren Beatty produced and starred, with Faye Dunaway as Bonnie Parker. David Newman and Robert Benton had written a gangster film they first offered to François Truffaut and Jean-Luc Godard — not as a press stunt, but because they had watched the French New Wave and wanted that kind of camera and that kind of mixing of tones. Penn made the picture at Warner Bros. It cuts jokes against killings and does not punish the couple in the old Code manner before the ending. Early reviews split. Pauline Kael’s long essay in The New Yorker of 21 October 1967 treated the film as a break, not a mess. The film then found a large young audience. In December, Nichols’s The Graduate, released by Joseph E. Levine’s Embassy Pictures, with Dustin Hoffman, Anne Bancroft, and Katharine Ross, did the same job from another door: an independent distributor, a twenty-year-old who looked it, a hit the majors had to notice."
+        },
+        {
+          "type": "p",
+          "text": "On 1 November 1968 the MPAA rating system took effect. The original labels were G, M, R, and X. The job had changed. The trade association would no longer approve or rewrite a script. It would tell parents a letter. M was later renamed GP, then PG. There was no PG-13 until 1984. What the ratings made possible, immediately, was a studio film that could be advertised as adult without pretending to be a family roadshow and without going out as a smuggled import."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/42nd-street-1973.jpg",
+          "alt": "Looking east on 42nd Street in 1973, traffic in the foreground and a row of movie marquees on the right.",
+          "caption": "42nd Street just west of Seventh Avenue, August 1973, photographed for the Environmental Protection Agency’s DOCUMERICA project. The marquees are movie houses, several of them advertising adults-only programs. After the Production Code, the same street could show a studio film and an X-rated bill. This is the street in those years. It is not a still from Taxi Driver.",
+          "credit": "U.S. Environmental Protection Agency / DOCUMERICA / National Archives / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:42nd_Street,_just_west_of_Seventh_Avenue,_New_York._-_NARA_-_554297.jpg"
+        },
+        {
+          "type": "p",
+          "text": "What the films looked like followed from who was allowed to make them, and with what gear. Location shooting was cheaper than building a city on a stage once cameras were quiet enough to record sound without a blimp. Panavision’s Panaflex, introduced in 1972, was one of those cameras; Spielberg’s The Sugarland Express used it. Directors and stars took points — a percentage of the profits — instead of, or on top of, a studio salary. Agents and producers sold package deals: a star, a director, and a script, offered as a unit to a studio that no longer kept those people under long-term contract. MCA had packaged television that way. In features, Warren Beatty producing himself in Bonnie and Clyde, and BBS selling Easy Rider to Columbia, are the same industrial sentence. The “movie brat” label, later fixed by a 1979 book, named the film-school cohort: Coppola from UCLA, Scorsese from NYU, Lucas from USC, De Palma beside them, Spielberg from television rather than from the same classrooms. They were not the whole field. Penn and Nichols came from theater and comedy. Altman came from industrial films and television. Ashby came from the cutting room. Bogdanovich came from criticism, a Sarris reader with a camera."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/panavision-camera.jpg",
+          "alt": "A gray Panavision 35mm camera with a cream magazine and a long Super Panazoom lens, on a geared head, in a display room.",
+          "caption": "A Panavision 35mm camera with a Super Panazoom lens, photographed in 2015 as a display object. The “Please do not touch” sticker is on the body; framed production stills hang on the wall behind it. This is not a 1972 set photograph and it is not specifically the Panaflex. It is here because Panavision gear — quieter bodies, zoom lenses, rental, not ownership — is how a lot of New Hollywood location work was actually shot.",
+          "credit": "Bubba73 (Jud McCranie) / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Panavision_movie_camera.JPG"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/paramount-gate.jpg",
+          "alt": "The double-arched Melrose Gate of Paramount Pictures, beige classical arches, cars passing through, a Melrose Avenue street sign.",
+          "caption": "The Melrose Gate of Paramount Pictures, photographed in 2008. The cars are later. The lot is the 1960s–70s fact: Gulf+Western bought the studio in 1966; Robert Evans ran production; The Godfather and Chinatown were Paramount films. A conglomerate owned the arches. The films were still stamped Paramount.",
+          "credit": "Patrick Pelster / Wikimedia Commons / CC BY-SA 3.0 DE",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Paramount_Pictures_Eingang.JPG"
+        },
+        {
+          "type": "p",
+          "text": "The three logos that matter most in this window behaved differently. Paramount, under Evans, bet on Coppola and on Chinatown and for a few years looked like the smartest room in town. Warner had Bonnie and Clyde, then Friedkin’s The Exorcist, and a new parent that was not a movie company. United Artists kept doing what it had long done — financing packages rather than running a factory of contract stars — until that habit met Heaven’s Gate. Easy Rider, in 1969, sat slightly to the side: Dennis Hopper directed, Peter Fonda produced, Jack Nicholson stole scenes, BBS made it, Columbia released it, and the production cost was in the neighborhood of four hundred thousand dollars. The return was large enough that executives went looking for more films like it. That search is the era."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "Many names, and three films to look at closely",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Name the field before slowing down. Directors: Penn, Nichols, Coppola, Scorsese, Altman, Ashby, Bogdanovich, Friedkin, Spielberg, Lucas, Hopper, De Palma, Cimino, Polanski. Producers and owners: Beatty, Fonda, Evans, Bluhdorn, Levine, Ruddy, Rafelson, Schneider, Zanuck, Brown. Faces: Dunaway, Hoffman, Bancroft, Ross, Nicholson, Pacino, De Niro, Brando. Writers: Newman, Benton, Puzo, Towne. Camera and cut: Willis, Fields. Music: Williams. Critics: Kael, Sarris. That is already too many for a poster and too few for a census. Deepen three works."
+        },
+        {
+          "type": "p",
+          "text": "Bonnie and Clyde is the break. The useful facts are specific. Beatty had the power to produce and to cast himself. The writers had watched Paris. Penn had directed before and was not a film-school graduate. Warner Bros. paid for a gangster picture that used sudden violence the way the New Wave had used a jump cut: as something the audience was not warned to treat as a mistake. Dunaway and Beatty became a fashion fact as well as a box-office one. Kael’s essay did not create the ticket line by itself; it named, for a magazine audience, what the line was already doing. After 1967 a studio could see that a young crowd would buy a film the Production Code would have rewritten. The Graduate, arriving the same year from Embassy rather than from a major, confirmed the audience. Easy Rider, two years later, confirmed the budget. The break is 1967. The proof kept arriving."
+        },
+        {
+          "type": "p",
+          "text": "The Godfather is the new studio hit. Paramount owned Mario Puzo’s novel. Coppola, a UCLA graduate with a company in San Francisco, was not the studio’s first idea for director, and Pacino was not its first idea for Michael. Evans let both bets stand. Gordon Willis underexposed the interiors. Brando played the father; Pacino played the son who takes the business. The film opened in 1972 and made Paramount a great deal of money. That is the industrial sentence: a conglomerate studio, a director with points, a bestseller, a film that looks like an epic and behaves like an auteur project. The Godfather Part II, in 1974, and The Conversation, the same year from Zoetrope, show the range inside one name. Chinatown, also 1974, also Evans’s Paramount, with Polanski directing Towne’s script and Nicholson in the lead, is the same studio using the same window for a private-eye film the Code would have cleaned up. When later writers say the studios “bet on directors,” this is the bet that paid."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/coppola-1973.jpg",
+          "alt": "Francis Ford Coppola in 1973, beard, thin glasses, striped shirt, hand at his chin, against a plain wall.",
+          "caption": "Francis Ford Coppola in 1973. The Godfather had opened the year before. Coppola was a UCLA film-school graduate with a share of the profits and a company, American Zoetrope, in San Francisco. The portrait is a journalist’s color slide, not a frame from the film.",
+          "credit": "Bernard Gotfryd / Library of Congress / no known copyright restrictions",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola,_Director_(01).jpg"
+        },
+        {
+          "type": "p",
+          "text": "Jaws and Star Wars close the window from the other side. Spielberg shot Jaws for Zanuck and Brown at Universal, from Peter Benchley’s novel. Verna Fields cut it; John Williams wrote the two-note figure that advertised the shark when the shark was not on screen. The film opened on 20 June 1975 in a few hundred theaters after a television campaign — not a slow roadshow build. It became the first film to earn $100 million in U.S. theatrical rentals, the distributor’s share. Two years later Lucas, coming off American Graffiti, released Star Wars through 20th Century-Fox. The premise could be stated in a line. Toys and sequels were part of the business plan. It took Jaws’s rentals record. Nashville, Taxi Driver, and Apocalypse Now are still in these years — Altman’s overlapping city, Scorsese and De Niro’s New York, Coppola’s war film that won Cannes — but the lesson the conglomerates kept was the one that looked like a calendar: open wide, advertise on television, sell a sentence, repeat in summer. High-concept is the later slang for that sentence. The booking is the 1975–77 fact."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "Elsewhere",
+      "title": "The same years, different money",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "New German Cinema was not a Hollywood franchise. The 1962 Oberhausen Manifesto had already said that the old West German cinema was finished. In the 1970s the films that traveled were paid for in part by television and, from 1971, by the Filmverlag der Autoren, a cooperative of filmmakers. Rainer Werner Fassbinder worked at a speed American package deals did not require: Ali: Fear Eats the Soul in 1974, and a long list beside it. Werner Herzog’s Aguirre, the Wrath of God (1972) and Wim Wenders’s Kings of the Road (1976) are other festival names. Volker Schlöndorff’s The Tin Drum would take Cannes in 1979, the same year as Apocalypse Now. The comparison that matters is money and venue: a television-backed German film on the festival circuit beside an American studio film in a few hundred air-conditioned houses. Same years. Different checks."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/fassbinder-1980.jpg",
+          "alt": "Rainer Werner Fassbinder in a dark hat and vest over a mesh shirt, holding a glass at a crowded table.",
+          "caption": "Rainer Werner Fassbinder, photographed at the Venice Film Festival in 1980 — the year Heaven’s Gate opened in the United States. The table, the hat, and the glass are what the picture contains. New German Cinema was a contemporaneous argument, funded by television and a filmmakers’ cooperative, not a Paramount slate.",
+          "credit": "Gorup de Besanez / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Rainer_Werner_Fassbinder_1980.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Hong Kong the useful 1970s fact is television, not a sudden 1967 mirror of Bonnie and Clyde. TVB hired young directors who had often studied abroad. Ann Hui, Tsui Hark, and Patrick Tam learned to shoot quickly on 16mm and on tight schedules. The theatrical New Wave is usually dated from 1979: Hui’s The Secret, Tsui’s The Butterfly Murders, and a cluster of other first features. That is the end of this American window, not a subplot inside The Godfather. Brazilian Cinema Novo is older. Glauber Rocha’s Black God, White Devil is 1964. By the 1970s the military dictatorship had scattered the movement; Rocha often worked in exile. It belongs here as a tail running in the same decade, not as a peer assigned to Spielberg."
+        },
+        {
+          "type": "p",
+          "text": "The festival circuit was where those cinemas met. Cannes, Berlin, and the New York Film Festival showed European art films to the same journalists who would, a month later, write about a Paramount opening. Coppola’s Apocalypse Now and Schlöndorff’s The Tin Drum sharing Cannes in 1979 is a date, not a merger. American directors had watched the New Wave. German, Hong Kong, and Brazilian filmmakers had their own studios, censors, and broadcasters to fight. The honest look outward is contemporaneous, not a formula of Western frame plus Asian peer."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Heaven’s Gate, the conglomerates, and a calendar",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Michael Cimino’s The Deer Hunter (1978) won the prizes that buy a director a larger bet. United Artists gave him Heaven’s Gate. The film premiered in November 1980, was pulled, recut, and still failed in American theaters against a cost reported in the tens of millions. Transamerica, tired of being the company that owned that headline, sold United Artists to MGM in 1981. Director-driven packages did not vanish overnight. The public lesson, for conglomerate boards, was that a director’s cut of the profits could also be a director’s cut of the company."
+        },
+        {
+          "type": "p",
+          "text": "The other lesson was already on the calendar. Jaws had shown that summer, television spots, and a wide opening could pull rentals over a line no roadshow had reached so fast. Star Wars had shown that a sentence and a toy line could do it again. The studios that remained — Paramount inside Gulf+Western, Warner inside a communications company, Fox, Universal — kept the logos and learned to slot a few large films rather than to keep a slate of director bets in the 1972 manner. High-concept is the later word. The 1980 fact is simpler: the window this lesson describes had an end. This is not a 1980s chapter. It is the edge where the 1970s bet stopped looking like the future."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/new-hollywood/paramount-tower.jpg",
+          "alt": "The Paramount water tower seen over a wall and trees, mountain-and-stars logo and the later line A Viacom Company.",
+          "caption": "Paramount’s water tower, photographed in 2025 from Hollywood Forever Cemetery. The tank still carries the mountain and stars. The line “A Viacom Company” is later paint. In the years of this lesson the owner was Gulf+Western. The lot remained. The kind of bet the lot made in 1972 is what changed.",
+          "credit": "Joe Mabel / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Paramount_Pictures_water_tower_from_Hollywood_Forever_Cemetery_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If a studio can sell a film in one sentence on television before anyone has seen it, what is it still paying the director for?"
+        }
+      ]
+    }
+  ]
+}
