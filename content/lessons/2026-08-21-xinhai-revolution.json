@@ -1,0 +1,1154 @@
+{
+  "slug": "xinhai-revolution",
+  "date": "2026-08-21",
+  "subject": "history",
+  "related": [],
+  "title": "The 1911 Revolution: ending the Qing without a finished republic",
+  "dek": "A New Army mutiny in Wuchang ended the Qing. A bargain with Yuan Shikai named a republic. A constitution that could bind the man with the army did not follow.",
+  "era": "1911–1912",
+  "reading_minutes": 22,
+  "thumb": {
+    "src": "lessons/xinhai-revolution/hubei-military-government.jpg",
+    "alt": "Soldiers of the Wuchang uprising standing before the Hubei Military Government building, with two large 18-star flags crossed in front of the entrance."
+  },
+  "hero": {
+    "src": "lessons/xinhai-revolution/nanjing-senate.jpg",
+    "alt": "A large group of men in suits standing on the steps of a stone building with three arches; a Chinese banner across the top of the print names the occasion as Provisional President Sun resigning to the Provisional Senate.",
+    "caption": "Sun Yat-sen with the Nanjing Provisional Senate, 1 April 1912. The banner on the print reads that this is the photograph of the provisional president resigning. The Qing had already abdicated. The picture is not a victory parade. It is the bargain made visible: the man the revolutionaries had elected stepping aside so Yuan Shikai could take the presidency in Beijing.",
+    "credit": "Wikimedia Commons / public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_and_Nanjing_Senate.jpg"
+  },
+  "honesty": "Xinhai is a calendar name for 1911 in the sixty-year cycle. The soldiers who mutinied in Wuchang did not need that name. This lesson looks out from late Qing China. Sun Yat-sen did not command the Wuchang mutiny; he was in the United States raising money. The dynasty ended because Yuan Shikai, who held the Beiyang Army, cut a deal. A republic was proclaimed. A constitution that could bind the man with the army was not secured. Casualty figures that cannot be sourced here are omitted. Qiu Jin’s execution in 1907 is named as earlier anti-Qing work, not retold.",
+  "timeline": [
+    {
+      "year": "1895",
+      "label": "Shimonoseki",
+      "detail": "Qing defeat in the First Sino-Japanese War. The Treaty of Shimonoseki ceded Taiwan and forced a large indemnity. The reform-or-revolution argument that follows starts from this shock."
+    },
+    {
+      "year": "1898–1901",
+      "label": "Reform / Boxer",
+      "detail": "The Hundred Days Reform of 1898, then Empress Dowager Cixi’s coup. The Boxer crisis and the Boxer Protocol of 1901 left the court paying indemnities and launching New Policies to save itself."
+    },
+    {
+      "year": "1905",
+      "label": "Exams / Tongmenghui",
+      "detail": "The civil-service examinations were abolished. In Tokyo, Sun Yat-sen, Huang Xing, Song Jiaoren and others formed the Tongmenghui. Minbao became its paper."
+    },
+    {
+      "year": "1908–09",
+      "label": "Puyi",
+      "detail": "Guangxu and Cixi died in November 1908. The child Puyi became the Xuantong Emperor. Prince Chun ruled as regent. Yuan Shikai was retired from high office."
+    },
+    {
+      "year": "May–Sept 1911",
+      "label": "Railways",
+      "detail": "The court nationalized locally financed railway projects and took a four-power loan for the Hukuang lines. Sichuan’s railway protection movement followed. Troops were pulled from Hubei toward Sichuan."
+    },
+    {
+      "year": "10 Oct 1911",
+      "label": "Wuchang",
+      "detail": "After an accidental bomb in Hankou the day before, New Army units in Wuchang mutinied, seized the arsenal, and forced Li Yuanhong to front a Hubei military government."
+    },
+    {
+      "year": "1 Jan 1912",
+      "label": "Nanjing",
+      "detail": "Sun Yat-sen, back from overseas, was inaugurated provisional president of the Republic of China in Nanjing. Li Yuanhong became provisional vice-president."
+    },
+    {
+      "year": "12 Feb 1912",
+      "label": "Abdication",
+      "detail": "Empress Dowager Longyu issued the abdication edict for the six-year-old Xuantong Emperor. Yuan Shikai was already the court’s last general and the revolutionaries’ necessary partner."
+    },
+    {
+      "year": "10 Mar 1912",
+      "label": "Beijing",
+      "detail": "Yuan was sworn in as provisional president in Beijing. The capital stayed where his army was. The Provisional Constitution was promulgated the next day."
+    },
+    {
+      "year": "1913–16",
+      "label": "Song / Hongxian",
+      "detail": "Song Jiaoren was shot at Shanghai railway station on 20 March 1913 and died two days later. Yuan’s monarchy attempt of 1915–16 collapsed. He died in June 1916. Warlord years followed."
+    }
+  ],
+  "read": [
+    {
+      "title": "Chinese Revolution (1911–12) — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
+      "note": "Named encyclopedia entry on the mutiny, the railway crisis, Sun’s return, and Yuan’s bargain. A reference article, not a substitute for a monograph."
+    },
+    {
+      "title": "The Chinese Revolution of 1911 — U.S. Department of State, Office of the Historian",
+      "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+      "note": "U.S. government historical sketch of the Tongmenghui, Wuchang, and recognition of the Republic. Written from Washington’s file. Retired ‘Milestones’ series; still a named public text."
+    },
+    {
+      "title": "Sun Yat-sen — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Sun-Yat-sen",
+      "note": "Biography of the Tongmenghui leader and provisional president. Use it for the overseas career; it will not narrate Wuchang as his field command, because it was not."
+    },
+    {
+      "title": "Yuan Shikai — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Yuan-Shikai",
+      "note": "Biography of the Beiyang commander who took the presidency and later tried to become emperor."
+    },
+    {
+      "title": "Marie-Claire Bergère — Sun Yat-sen (Stanford University Press, 1998)",
+      "url": "https://www.sup.org/books/asian-studies/sun-yat-sen",
+      "note": "Publisher page for the English translation by Janet Lloyd. A standard critical biography: the myth, the overseas networks, and the man who was in Denver in October 1911. Buy or borrow; this capsule does not paste the book."
+    },
+    {
+      "title": "Joseph W. Esherick — Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei (University of Michigan Press)",
+      "url": "https://press.umich.edu/Books/R/Reform-and-Revolution-in-China",
+      "note": "Publisher page for the study that locates 1911 in late-Qing New Policies, provincial elites, and the New Army, rather than in Sun’s itinerary abroad. First issued by University of California Press in 1976."
+    },
+    {
+      "title": "Gordon H. Chang — “American Influences on Sun Yatsen” (Education About Asia / Association for Asian Studies)",
+      "url": "https://www.asianstudies.org/publications/eaa/archives/american-influences-on-sun-yatsen/",
+      "note": "Open essay. Useful on Sun’s 1911 U.S. fundraising tour and on learning of Wuchang from a newspaper rather than from a headquarters he commanded."
+    },
+    {
+      "title": "Agence Rol — crowd in a Hankou street, 1911 (BnF / Gallica)",
+      "url": "https://gallica.bnf.fr/ark:/12148/btv1b6917603m",
+      "note": "French press photograph in the Bibliothèque nationale de France. The street, not a battle painting. Catalogue notice: http://catalogue.bnf.fr/ark:/12148/cb40475660b"
+    }
+  ],
+  "fun_fact": {
+    "title": "The man later called the father of the Republic read about Wuchang in a newspaper",
+    "text": "On 10 October 1911 Sun Yat-sen was in the United States raising money among overseas Chinese. He was in Denver, Colorado. A coded telegram from Huang Xing reached him, but he learned that Wuchang had actually risen from an English-language newspaper. He did not sail straight home to take command of a battle he had not directed. He went first to London and Paris to press the powers not to loan new money to the Qing. By the time he reached Shanghai, in late December, the mutiny was already a string of provincial declarations. The later cult of a founding father has to live with that itinerary."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "After 1895 the court tried to save itself; students in Japan learned how to bury it",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The First Sino-Japanese War of 1894–95 ended with the Treaty of Shimonoseki. Taiwan was ceded. A large indemnity was due. Korea slipped from Qing suzerainty. The defeat was not only a lost campaign. It showed that a neighboring state which had rewritten its army and schools could beat the empire that still recruited officials by the civil-service examinations. From that shock two programs were argued in public, often by people who had known one another and then split."
+        },
+        {
+          "type": "p",
+          "text": "Kang Youwei and Liang Qichao wanted a constitutional monarchy under the Guangxu Emperor. In 1898 they had a hundred days of edicts — the Hundred Days Reform — before Empress Dowager Cixi staged a coup, confined Guangxu, and drove the reformers overseas. In exile they organized to protect the emperor, not to kill the dynasty. Sun Yat-sen had already chosen the other door. A commoner schooled in Hawai‘i and Hong Kong, trained as a physician, he had founded the Xingzhonghui in Honolulu in 1894 after the Qing would not hear his reform petition. Failed risings followed. After 1900 the Boxer crisis and the Boxer Protocol left the court paying another indemnity to the foreign powers and trying, late, to modernize itself in order to survive."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/huang-xing-minbao.jpg",
+          "alt": "Studio group of eight Chinese men in Tokyo, 1905: some in Western suits, some in high-collared tunics; Huang Xing seated at center holding a bowler hat.",
+          "caption": "Huang Xing (seated, center, hat on his lap) with colleagues of Minbao in Tokyo, 1905. The Commons identification puts Chen Tianhua and Zhang Shizhao in the front row and Song Jiaoren standing at back left. This is the overseas student world in which the Tongmenghui was formed that August: a paper, a studio carpet, and a program to replace the Qing with a republic.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Huang_Xing_and_Minbao.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The New Policies of the 1900s were the court’s answer. The examinations were abolished in 1905, which cut the old path from classical study to office. New schools and military academies were opened. Provincial assemblies were promised and, from 1909, seated. A New Army was trained on foreign drill, with Yuan Shikai’s Beiyang divisions as the strongest cluster in the north. None of this was intended to produce a republic. It produced the people who could staff one. Students went to Japan in large numbers. In Tokyo on 20 August 1905, Sun, Huang Xing, Song Jiaoren and others merged older groups — including the Xingzhonghui and Huang’s Huaxinghui — into the Tongmenghui, the Revolutionary Alliance. Minbao carried the arguments. The Three People’s Principles — nationalism, democracy, and a livelihood plank Sun never made into a finished economic program — were the public vocabulary. The work on the ground was also older: secret societies, failed putsches, and women as well as men. Qiu Jin, who had studied in Japan, edited a women’s journal in Shanghai and was executed in 1907 after Xu Xilin’s rising at Anqing. That death belongs in this decade of anti-Qing organizing. It is not a suffrage sequel, and it is not retold here."
+        },
+        {
+          "type": "p",
+          "text": "Guangxu and Cixi died on successive days in November 1908. The child Puyi became the Xuantong Emperor. Prince Chun, his father, served as regent and pushed Yuan Shikai into retirement. The court still talked of a constitution, on a timetable it kept shortening. What it could not do was finish a railway map without foreign money, or keep the New Army’s junior officers from reading the same Tokyo papers as the students."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/puyi-longyu.jpg",
+          "alt": "A small child in Qing court dress sitting on a large chair; to the left, a woman in an elaborate Manchu headdress partly hidden by a table with a vase.",
+          "caption": "The Xuantong Emperor Puyi as a small child, in a 1910 court photograph. The woman with the Manchu headdress, partly behind the table, is identified as Empress Dowager Longyu. In February 1912 it would be her name, not his, on the abdication edict. The picture is a household still. It is not a government.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Emperor_Xuantong_and_Empress_Dowager_Longyu.jpg"
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "A railway crisis, an accidental bomb, and a New Army that mutinied without a single hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the spring of 1911 the Ministry of Posts and Communications, under Sheng Xuanhuai, moved to nationalize locally financed railway projects. A four-power consortium — British, French, German, and American banks — supplied a large loan for the Hukuang lines, the Guangdong–Hankou and Sichuan–Hankou routes that were supposed to tie the interior to the Yangtze. On 9 May the nationalization order went out. Shareholders in Sichuan, who had put provincial money and gentry savings into a railway company that had barely begun to lay track, were offered terms they rejected. The Railway Protection Movement that followed was not a Tongmenghui plot. It was merchants, students, and the provincial assembly against a court that looked as if it were selling the road to foreigners in order to pay old debts. In September the Sichuan authorities, with Zhao Erfeng as the hard edge, broke up the movement in Chengdu. New Army units were ordered in from neighboring Hubei. That transfer thinned the garrison around Wuchang."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/hankou-street.jpg",
+          "alt": "A crowded Hankou street in 1911: a porter with shoulder pole and wooden tubs, men with queues, shop signs in Chinese, and Westerners in pith helmets among the crowd.",
+          "caption": "Hankou, 1911, photographed for the French agency Rol: a street crowd, queues still worn, a porter with tubs, shop signs, and foreign hats in the same frame. Hankou, Hanyang, and Wuchang made up the Wuhan cities on the Yangtze. The uprising began next door in Wuchang. This is the treaty-port street the mutiny did not have to invent.",
+          "credit": "Agence Rol / Bibliothèque nationale de France / public domain",
+          "credit_url": "https://gallica.bnf.fr/ark:/12148/btv1b6917603m"
+        },
+        {
+          "type": "p",
+          "text": "The men who actually took Wuchang were not Sun’s travelling staff. They were New Army soldiers in Hubei, organized in two overlapping groups, the Literary Society and the Gongjinhui, who had been recruiting inside the ranks. Huang Xing and Song Jiaoren were not in the city. Sun was in the United States. A rising had been discussed for early October, then delayed. On 9 October, in a hideout in the Russian concession of Hankou, someone preparing explosives set off a bomb by accident. The blast brought police. Membership lists were found. Arrests followed. On the morning of 10 October three men — Peng Chufan, Liu Fuji, and Yang Hongsheng — were executed. The remaining plotters inside the barracks could wait to be named from the lists, or they could move."
+        },
+        {
+          "type": "p",
+          "text": "They moved. That evening the 8th Engineering Battalion, with Xiong Bingkun among the junior leaders, mutinied and made for the Chuwangtai arsenal, where other comrades were already posted. Artillery and transport units came over. Wu Zhaolin, a company officer with more rank than the first mutineers, was pushed into field command because a mutiny still wanted a chain of command. The Viceroy, Rui Cheng, fled. By the next day Wuchang was in rebel hands; Hankou and Hanyang followed. There is no single hero in that sequence. There is an accident, a list, three executions, and a garrison that decided not to wait its turn."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/wuchang-soldiers.jpg",
+          "alt": "Soldiers in dark New Army uniforms and peaked caps, some with white cloth armbands on the left sleeve, holding rifles with bayonets; a wooden structure behind them.",
+          "caption": "Revolutionary troops at the Wuchang uprising, 1911. Several men wear a white cloth armband on the left sleeve — the field sign used so mutineers could tell one another from loyal units in the same uniform. The photograph is a group of soldiers, not a painting of a named general winning a battle.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Revolutionary_soldiers_at_Wuchang.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/hubei-military-government.jpg",
+          "alt": "A line of soldiers in light uniforms standing before a two-storey Western-style brick building; two large dark flags with rings of stars are crossed in front of the entrance.",
+          "caption": "Posing in front of the Hubei Military Government in Wuchang after the uprising, with the 18-star Iron Blood flags of the rising crossed at the door. The building had been the provincial assembly. The flags are not yet the five-color flag of the Republic. They are the banner of a mutiny that had to look like a government by the next morning.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Hubei_Military_Government.jpg"
+        },
+        {
+          "type": "p",
+          "text": "A government needed a name the provincial assembly and the city’s merchants would recognize. Li Yuanhong was a New Army brigade commander, popular enough with soldiers, not a Tongmenghui member, and not a plotter of the bomb. He was pressed into serving as military governor of Hubei. The later stories about how reluctantly he accepted are less important than the political fact: the mutineers borrowed a non-revolutionary officer because a republic, even a local one, still had to look like command. Telegrams went out asking other provinces to follow. Through October and November, assemblymen, New Army officers, and gentry in province after province declared against the Qing. The map did not wait for Sun."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/li-yuanhong.jpg",
+          "alt": "Studio portrait of Li Yuanhong in a dark high-collared military tunic and peaked cap with a star badge, an aiguillette on his right shoulder.",
+          "caption": "Li Yuanhong in a republican military uniform, photographed around 1915 — later than the mutiny. In October 1911 he was a New Army officer without a revolutionary party card. The mutineers needed his name on the Hubei government. The later portrait is the career that name made possible.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Li_Yuanhong.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Huang Xing reached the Wuhan cities and took a field command in the fighting that followed, the Battle of Yangxia against Beiyang units Yuan was sending south. The revolution did not win that fight on points. It won because other provinces had already peeled away, and because Yuan did not use the Beiyang Army only to restore the court. Nanjing was taken in early December. Delegates from the independent provinces gathered there. Sun, having gone from Denver to London and Paris to argue against new foreign loans to the Qing, reached Shanghai in late December. On 29 December the delegates elected him provisional president. On 1 January 1912, in Nanjing, he was inaugurated and the Republic of China was proclaimed. The calendar of the Republic would number 1912 as Year One. Li Yuanhong was named provisional vice-president. A cabinet sat. Cai Yuanpei took education; Huang Xing was at the center of the military side. The photograph of that first state council is a table, not a constitution."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/nanjing-cabinet.jpg",
+          "alt": "Sun Yat-sen seated at the center of a cloth-covered table with other men in dark suits; papers on the table; a lamp hanging above.",
+          "caption": "Sun Yat-sen chairs the first cabinet meeting of the Nanjing Provisional Government, 5 January 1912. Huang Xing is among the ministers at the table; so are Cai Yuanpei and Wang Chonghui. The republic at this point is a room in Nanjing and a list of offices. Yuan Shikai’s army is still in the north.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Nanjinglinshizhengfu.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/queue-cutting.jpg",
+          "alt": "A man in a dark uniform and peaked cap holding a long braid cut from the head of a younger man in light padded clothing; two older men in robes and skullcaps watch.",
+          "caption": "A revolutionary soldier cutting a man’s queue, 7 November 1911. The Dutch archive that holds the print dates it that day and describes the braid as the Manchu-mandated sign of the old regime. The location is not named beyond China. The act is the point: leaving the Qing could be done with scissors in a street, in the same weeks that provinces were declaring.",
+          "credit": "Spaarnestad Photo / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Revolutie_China_Soldaten_van_het_revolutionaire_Guomindong-leger_knippen_(snijden)_de_vroeger,_SFA002011346.jpg"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "The Yuan bargain, and why a republic was not yet a constitution",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The court, in panic, recalled Yuan Shikai and put the Beiyang Army in his hands. He fought enough to show he could take Wuhan back, and not enough to restore a child emperor. He negotiated with the revolutionaries through Wu Tingfang and others while squeezing the palace. Sun offered the presidency if Yuan would deliver a republic. Yuan offered the palace survival if it would abdicate. On 12 February 1912 Empress Dowager Longyu issued the abdication edict in the name of the Xuantong Emperor. The Articles of Favorable Treatment promised the court a stipend, the right to remain in the Forbidden City for a time, and the rituals of a retired monarchy. The Qing ended as a contract. Puyi was six."
+        },
+        {
+          "type": "p",
+          "text": "Sun resigned. The photograph on the steps of the Provisional Senate records that resignation, not the January inauguration. On 10 March Yuan was sworn in as provisional president in Beijing, among his officers, at the Ministry of Foreign Affairs. The next day the Provisional Constitution of the Republic of China was promulgated. It described a cabinet responsible to a legislature and a president who was not supposed to be a new emperor. The capital remained Beijing because that was where Yuan’s army lived. Nanjing had been a revolutionary choice. It was not a military fact. “Republic” in 1912 meant: no emperor, a flag, a calendar, a senate, and a general who had not been elected in any popular sense. It did not yet mean a rule that could stop that general."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/xinhai-revolution/yuan-sworn-in.jpg",
+          "alt": "Yuan Shikai standing at the center of a group of officers in high-collared uniforms and boots, some with swords, in a curtained interior; he holds a peaked cap in his right hand.",
+          "caption": "Yuan Shikai after being sworn in as provisional president, 10 March 1912, photographed with staff at the Beijing Ministry of Foreign Affairs. The uniforms and swords are the argument. The republic’s second provisional president is still a Beiyang commander standing in a northern ministry, not a Nanjing legislator.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Yuan_Shikai_sworn_in_as_Provisional_President_-_10_March_1912.jpg"
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Sun Yat-sen 孫中山",
+              "dates": "1866–1925",
+              "image": "lessons/xinhai-revolution/sun-provisional-president.jpg",
+              "alt": "Head-and-shoulders portrait of Sun Yat-sen in a dark high-collared tunic, looking at the camera, 1912.",
+              "caption": "Sun as provisional president, 1912, in a high-collared tunic. The portrait is an office image, taken after Wuchang, not a field photograph from 10 October.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Xh3.jpg",
+              "text": "Physician, overseas organizer, head of the Tongmenghui. He spent 1911 on a fundraising circuit in the United States and learned of Wuchang from a newspaper in Denver. Elected provisional president in Nanjing, inaugurated 1 January 1912, he held the office for weeks and then resigned so Yuan would take the Qing down with him. The later cult treats him as founder. The 1911 file treats him as the name a scattered alliance already had, and as the man who could talk to foreign capitals about loans."
+            },
+            {
+              "name": "Yuan Shikai 袁世凱",
+              "dates": "1859–1916",
+              "image": "lessons/xinhai-revolution/yuan-tianjin.jpg",
+              "alt": "Studio cabinet card of Yuan Shikai in late-Qing official robe and hat, with a dragon rank badge on the chest; printed card of Fu Sheng, Photographer, Tientsin.",
+              "caption": "Yuan Shikai as a Qing official, photographed in Tianjin by Fu Sheng, about 1900. The verso of the University of Washington print calls him viceroy of Zhili, afterwards first president of the Republic. The robe is the career the court recalled in 1911.",
+              "credit": "Fu Sheng / University of Washington Libraries, Robert Henry Chandless Photographs / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Yuan_Shikai,_ca_1900_(CHANDLESS_22).jpeg",
+              "text": "Builder of the Beiyang Army, retired by the regent, recalled to save the dynasty. He saved himself. The abdication is his leverage made into an edict. The presidency in Beijing is his army made into a title. In 1915–16 he tried to become emperor under the era name Hongxian and failed. He died in 1916. The warlord years are what his army became once there was no longer one Yuan to hold it."
+            },
+            {
+              "name": "Song Jiaoren 宋教仁",
+              "dates": "1882–1913",
+              "image": "lessons/xinhai-revolution/song-jiaoren.jpg",
+              "alt": "Studio portrait of Song Jiaoren as a young man in a dark Western suit, waistcoat, high collar, and tie, looking at the camera.",
+              "caption": "Song Jiaoren, studio portrait from before his death in 1913. The suit is the parliamentary career he was building, not a battlefield costume.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Sung_Chiao-jen.jpg",
+              "text": "Tongmenghui organizer, then the man who tried to turn the alliance into a parliamentary party. In 1912 he helped merge the Tongmenghui into the Kuomintang and campaigned for a cabinet that would check the president. The 1912–13 elections gave his party the largest bloc in the new National Assembly. On 20 March 1913 he was shot at Shanghai railway station on his way to Beijing. He died on 22 March, not yet thirty-one. Without him the republic lost the person who had treated the Provisional Constitution as a job, not a decoration."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Huang Xing had been the military organizer of the Tongmenghui, the man who stood in the Tokyo photographs and later in the Wuhan fighting. He is in the Nanjing cabinet picture. He is not a fourth founder-statue in this lesson because the unfinished republic is clearer in Song’s murder than in another portrait of a general. Li Yuanhong’s career after Wuchang — vice-president, later president — is what happens when a mutiny’s borrowed name stays in politics. Empress Dowager Longyu’s one state act that still matters is the edict. The child on the throne did not write it."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "Mexico’s civilian was not safe either; Europe was still sending gunboats",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In Mexico the old regime of Porfirio Díaz had already begun to crack in 1910. In May 1911 Díaz resigned. Francisco I. Madero, a civilian who had called for elections, became president that November — the same autumn as Wuchang. In February 1913 he was overthrown and killed. The Mexican Revolution did not end with a finished constitution in 1911 any more than China’s did. The comparison is not a formula about continents. It is the same problem in the same years: removing a long personal regime is not the same work as binding the next man who has troops."
+        },
+        {
+          "type": "p",
+          "text": "Europe, that summer, was still in the gunboat business. In July 1911 Germany sent the Panther to Agadir in a quarrel with France over Morocco — the Agadir Crisis. The Qing court was, at the same moment, borrowing from a four-power banking group to pay for railways it had just seized from its own provinces. The foreign loan and the foreign gunboat were the world in which a Chinese republic had to open. They are contemporaneous facts, not assigned peers."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Song was killed, Yuan tried on a crown, and the army divided",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Kuomintang’s showing in the 1912–13 elections made Song Jiaoren the obvious premier of a cabinet that would have narrowed Yuan’s room. The shooting at Shanghai railway station on 20 March 1913 ended that path. Evidence ran toward people around Yuan’s government; Yuan was never put on trial for it. Sun and Huang tried an armed Second Revolution in the summer of 1913 and lost. Yuan banned the party, hollowed out the assembly, and in 1915 accepted Japan’s Twenty-One Demands in a shortened form that still marked how weak the new state was abroad. In December 1915 he announced a monarchy, with 1916 as the Hongxian era. Provinces rebelled. He cancelled the empire in March 1916 and died on 6 June."
+        },
+        {
+          "type": "p",
+          "text": "What remained was the Beiyang Army without Beiyang’s one manager, and a south that had already learned to declare independence. The warlord years are that split made routine. The Republic of China kept its name, its calendar, and, on paper, its offices. It did not keep a monopoly of force. The student movement of 1919 and the later reorganized Nationalist Party would work in that wreckage. They are the next problems, not this lesson. 1911 ended an empire. It did not finish a republic. That unfinished ground is the fact later politics had to stand on."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If a mutiny still needed a non-revolutionary officer’s name, and a republic still needed Yuan’s army, what did the word republic actually bind in 1912?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Xinhai Revolution",
+      "aliases": [
+        "Xinhai",
+        "1911 Revolution",
+        "Chinese Revolution of 1911",
+        "辛亥革命",
+        "Revolution of 1911"
+      ],
+      "explain": "The 1911–12 collapse of the Qing dynasty and proclamation of the Republic of China, conventionally dated from the Wuchang Uprising of 10 October 1911 to the abdication of 12 February 1912. Xinhai is the year-name in the sixty-year cycle for 1911."
+    },
+    {
+      "term": "Qing",
+      "aliases": [
+        "Qing dynasty",
+        "Manchu dynasty",
+        "Qing court"
+      ],
+      "explain": "Last imperial dynasty of China, 1644–1912, a Manchu ruling house over a mostly Han empire. Ended by the abdication edict of 12 February 1912."
+    },
+    {
+      "term": "Republic of China",
+      "aliases": [
+        "ROC",
+        "the Republic"
+      ],
+      "explain": "State proclaimed in Nanjing on 1 January 1912. In this lesson it is the 1912 republic, not later governments in Nanjing or Taipei."
+    },
+    {
+      "term": "Wuchang Uprising",
+      "aliases": [
+        "Wuchang",
+        "Wuchang mutiny",
+        "Double Ten",
+        "Double Ten Day",
+        "雙十",
+        "武昌起義"
+      ],
+      "explain": "New Army mutiny in Wuchang (one of the Wuhan cities) on 10 October 1911. The date is still marked as the Republic of China’s national day. It was not commanded by Sun Yat-sen."
+    },
+    {
+      "term": "Hankou",
+      "aliases": [
+        "Hankow",
+        "Han-Keou"
+      ],
+      "explain": "Treaty-port city across the Yangtze from Wuchang. The accidental bomb of 9 October 1911 went off in the Russian concession here. Now part of Wuhan."
+    },
+    {
+      "term": "Hanyang",
+      "explain": "The third of the Wuhan cities, with Wuchang and Hankou. It fell to the revolutionaries after Wuchang."
+    },
+    {
+      "term": "Wuhan",
+      "aliases": [
+        "Wuhan cities"
+      ],
+      "explain": "The triple city of Wuchang, Hankou, and Hanyang on the Yangtze in Hubei. The 1911 rising is a Wuhan event with Wuchang as the first mutiny."
+    },
+    {
+      "term": "Sun Yat-sen",
+      "aliases": [
+        "Sun Yat sen",
+        "Sun Zhongshan",
+        "孫中山",
+        "孫文",
+        "Sun Wen",
+        "Sun Yatsen"
+      ],
+      "explain": "Revolutionary organizer (1866–1925), head of the Tongmenghui, provisional president of the Republic of China from 1 January 1912 until he resigned in Yuan’s favour. In Denver during the Wuchang mutiny."
+    },
+    {
+      "term": "Huang Xing",
+      "aliases": [
+        "Huang Hsing",
+        "Huang Keqiang",
+        "黃興",
+        "Keqiang"
+      ],
+      "explain": "Hunanese revolutionary (1874–1916), co-founder of the Huaxinghui and a principal military organizer of the Tongmenghui. Fought at Wuhan after Wuchang; minister in the Nanjing provisional cabinet."
+    },
+    {
+      "term": "Song Jiaoren",
+      "aliases": [
+        "Sung Chiao-jen",
+        "宋教仁"
+      ],
+      "explain": "Revolutionary and parliamentary politician (1882–1913). Helped found the Tongmenghui and later the Kuomintang. Shot at Shanghai railway station on 20 March 1913; died 22 March."
+    },
+    {
+      "term": "Yuan Shikai",
+      "aliases": [
+        "Yuan Shih-kai",
+        "Yuan Shi-kai",
+        "袁世凱",
+        "Yuan"
+      ],
+      "explain": "Qing official and Beiyang Army commander (1859–1916). Recalled in 1911, brokered the abdication, became provisional president in Beijing on 10 March 1912, and tried to become emperor in 1915–16."
+    },
+    {
+      "term": "Li Yuanhong",
+      "aliases": [
+        "Li Yuan-hung",
+        "黎元洪"
+      ],
+      "explain": "New Army officer (1864–1928), not a Tongmenghui plotter, pressed into serving as military governor of Hubei after Wuchang. Provisional vice-president in 1912; later president of the Republic."
+    },
+    {
+      "term": "Puyi",
+      "aliases": [
+        "Pu Yi",
+        "Xuantong",
+        "Xuantong Emperor",
+        "宣統",
+        "溥儀"
+      ],
+      "explain": "Last Qing emperor (1906–1967). Enthroned as a child after 1908. Abdicated, in Longyu’s edict, on 12 February 1912, aged six."
+    },
+    {
+      "term": "Empress Dowager Longyu",
+      "aliases": [
+        "Longyu",
+        "Empress Longyu",
+        "隆裕"
+      ],
+      "explain": "Qing empress dowager (1868–1913) who issued the abdication edict of 12 February 1912 in the child emperor’s name."
+    },
+    {
+      "term": "Empress Dowager Cixi",
+      "aliases": [
+        "Cixi",
+        "Tz’u-hsi",
+        "慈禧"
+      ],
+      "explain": "De facto ruler of the late Qing (1835–1908). Crushed the Hundred Days Reform in 1898, survived the Boxer crisis, and died the day after Guangxu in November 1908."
+    },
+    {
+      "term": "Guangxu Emperor",
+      "aliases": [
+        "Guangxu",
+        "Kuang-hsu",
+        "光緒"
+      ],
+      "explain": "Qing emperor (1871–1908) who backed the Hundred Days Reform of 1898, was confined by Cixi, and died in November 1908."
+    },
+    {
+      "term": "Prince Chun",
+      "aliases": [
+        "Zaifeng",
+        "Regent",
+        "醇親王"
+      ],
+      "explain": "Father of Puyi and prince regent from 1908. Retired Yuan Shikai from high office in 1909; had to recall him in 1911."
+    },
+    {
+      "term": "Kang Youwei",
+      "aliases": [
+        "Kang Yu-wei",
+        "康有為"
+      ],
+      "explain": "Scholar-reformer (1858–1927). A leader of the 1898 Hundred Days. In exile he argued for a constitutional monarchy, not a republic."
+    },
+    {
+      "term": "Liang Qichao",
+      "aliases": [
+        "Liang Ch’i-ch’ao",
+        "梁啟超"
+      ],
+      "explain": "Writer and reformer (1873–1929), Kang’s most famous student. After 1898 he published from exile for constitutional monarchy and a new citizen, against Sun’s republican program."
+    },
+    {
+      "term": "Qiu Jin",
+      "aliases": [
+        "Ch’iu Chin",
+        "秋瑾"
+      ],
+      "explain": "Revolutionary (1875–1907). Studied in Japan, edited a women’s journal in Shanghai, executed in Shaoxing after Xu Xilin’s 1907 Anqing rising. Named here as 1907 anti-Qing work, not retold as a suffrage life."
+    },
+    {
+      "term": "Xu Xilin",
+      "aliases": [
+        "Hsü Hsi-lin",
+        "徐錫麟"
+      ],
+      "explain": "Revolutionary (1873–1907) who assassinated the Anhui governor Enming in Anqing in July 1907. The failed rising led to Qiu Jin’s arrest."
+    },
+    {
+      "term": "Sheng Xuanhuai",
+      "aliases": [
+        "Sheng Hsuan-huai",
+        "盛宣懷"
+      ],
+      "explain": "Minister of Posts and Communications in 1911. Ordered railway nationalization and signed the Hukuang loan. A chief civilian target of the railway protection movement."
+    },
+    {
+      "term": "Zhao Erfeng",
+      "aliases": [
+        "Chao Erh-feng",
+        "趙爾豐"
+      ],
+      "explain": "Qing official who suppressed the Sichuan railway protection movement in Chengdu in September 1911. The crackdown pulled Hubei troops westward."
+    },
+    {
+      "term": "Rui Cheng",
+      "aliases": [
+        "Jui Cheng",
+        "瑞澂"
+      ],
+      "explain": "Viceroy of Huguang in October 1911. Fled Wuchang when the New Army mutinied."
+    },
+    {
+      "term": "Xiong Bingkun",
+      "aliases": [
+        "Hsiung Ping-k’un",
+        "熊秉坤"
+      ],
+      "explain": "Junior leader in the 8th Engineering Battalion of the Hubei New Army. Among those who started the 10 October mutiny and moved on the Chuwangtai arsenal."
+    },
+    {
+      "term": "Wu Zhaolin",
+      "aliases": [
+        "Wu Chao-lin",
+        "吳兆麟"
+      ],
+      "explain": "New Army company officer in Wuchang. Not the original plot’s commander; given field command on 10 October because the mutiny wanted a more senior officer in charge."
+    },
+    {
+      "term": "Peng Chufan",
+      "aliases": [
+        "彭楚藩"
+      ],
+      "explain": "Hubei revolutionary executed on the morning of 10 October 1911 after the Hankou bomb exposed membership lists."
+    },
+    {
+      "term": "Liu Fuji",
+      "aliases": [
+        "Liu Fu-chi",
+        "劉復基"
+      ],
+      "explain": "Hubei revolutionary executed 10 October 1911 after the Hankou lists were seized."
+    },
+    {
+      "term": "Yang Hongsheng",
+      "aliases": [
+        "Yang Hung-sheng",
+        "楊宏勝"
+      ],
+      "explain": "Hubei revolutionary executed 10 October 1911 after the Hankou lists were seized. With Peng and Liu, one of the three names the mutiny moved to avenge."
+    },
+    {
+      "term": "Jiang Yiwu",
+      "aliases": [
+        "Chiang I-wu",
+        "蔣翊武"
+      ],
+      "explain": "Literary Society leader in the Hubei New Army, designated commander of the planned rising. He escaped the 9–10 October round-up."
+    },
+    {
+      "term": "Sun Wu",
+      "aliases": [
+        "孫武"
+      ],
+      "explain": "Gongjinhui organizer in Wuhan, injured in the 9 October Hankou explosion while explosives were being prepared."
+    },
+    {
+      "term": "Cai Yuanpei",
+      "aliases": [
+        "Ts’ai Yuan-p’ei",
+        "蔡元培"
+      ],
+      "explain": "Scholar and Tongmenghui member (1868–1940). Minister of education in the Nanjing provisional cabinet of January 1912."
+    },
+    {
+      "term": "Wang Chonghui",
+      "aliases": [
+        "Wang Ch’ung-hui",
+        "王寵惠"
+      ],
+      "explain": "Jurist (1881–1958). Foreign minister in the first Nanjing cabinet, seated near Sun in the 5 January 1912 photograph."
+    },
+    {
+      "term": "Chen Tianhua",
+      "aliases": [
+        "Ch’en T’ien-hua",
+        "陳天華"
+      ],
+      "explain": "Revolutionary writer (1875–1905), in the 1905 Tokyo Minbao group photograph. Died in Japan that year; named here as a Tongmenghui-generation publicist."
+    },
+    {
+      "term": "Zhang Shizhao",
+      "aliases": [
+        "Chang Shih-chao",
+        "章士釗"
+      ],
+      "explain": "Writer (1881–1973), in the 1905 Tokyo Minbao photograph with Huang Xing."
+    },
+    {
+      "term": "Wu Tingfang",
+      "aliases": [
+        "Wu T’ing-fang",
+        "伍廷芳"
+      ],
+      "explain": "Diplomat and jurist (1842–1922). Represented the revolutionaries in the north–south peace talks that produced Yuan’s presidency and the Qing abdication."
+    },
+    {
+      "term": "Porfirio Díaz",
+      "aliases": [
+        "Diaz",
+        "Porfirio Diaz"
+      ],
+      "explain": "Mexican president and long-time strongman, resigned May 1911. Named as a contemporaneous old regime that fell the same year as Wuchang."
+    },
+    {
+      "term": "Francisco I. Madero",
+      "aliases": [
+        "Madero",
+        "Francisco Madero"
+      ],
+      "explain": "Mexican civilian politician who became president in November 1911 and was killed in February 1913. The unfinished-civilian-republic problem in the same years."
+    },
+    {
+      "term": "Tongmenghui",
+      "aliases": [
+        "Revolutionary Alliance",
+        "United League",
+        "Chinese United League",
+        "同盟會",
+        "中國同盟會"
+      ],
+      "explain": "Secret revolutionary alliance founded in Tokyo on 20 August 1905 by Sun Yat-sen, Huang Xing, Song Jiaoren and others, merging earlier groups including the Xingzhonghui and Huaxinghui. Core of the later Kuomintang."
+    },
+    {
+      "term": "Xingzhonghui",
+      "aliases": [
+        "Revive China Society",
+        "興中會"
+      ],
+      "explain": "Anti-Qing society Sun founded in Honolulu in 1894. Later folded into the Tongmenghui."
+    },
+    {
+      "term": "Huaxinghui",
+      "aliases": [
+        "China Revival Society",
+        "華興會"
+      ],
+      "explain": "Revolutionary society Huang Xing, Song Jiaoren and others organized in Hunan, 1903–04. Merged into the Tongmenghui in Tokyo in 1905."
+    },
+    {
+      "term": "Guangfuhui",
+      "aliases": [
+        "Restoration Society",
+        "光復會"
+      ],
+      "explain": "Anti-Qing revolutionary society based among Zhejiang and Anhui activists. Qiu Jin and Xu Xilin worked in this stream. Parts of it cooperated with, and sometimes quarrelled with, the Tongmenghui."
+    },
+    {
+      "term": "Minbao",
+      "aliases": [
+        "Min Bao",
+        "People’s Journal",
+        "民報"
+      ],
+      "explain": "Tokyo newspaper of the Tongmenghui, launched 1905. The 1905 studio photograph in this lesson is of Huang Xing with Minbao colleagues."
+    },
+    {
+      "term": "Literary Society",
+      "aliases": [
+        "Wenxueshe",
+        "文學社"
+      ],
+      "explain": "Revolutionary group recruiting inside the Hubei New Army. Together with the Gongjinhui it organized the Wuchang rising. Jiang Yiwu was a leading name."
+    },
+    {
+      "term": "Gongjinhui",
+      "aliases": [
+        "Progressive Association",
+        "Co-Progress Society",
+        "共進會"
+      ],
+      "explain": "Revolutionary society with a Yangtze and secret-society base, allied with the Literary Society inside the Hubei New Army. Sun Wu was a Wuhan organizer."
+    },
+    {
+      "term": "New Army",
+      "aliases": [
+        "Xinjun",
+        "新軍"
+      ],
+      "explain": "Late-Qing Western-style forces trained under the New Policies. The Hubei units mutinied at Wuchang. Yuan’s Beiyang divisions were the strongest New Army cluster in the north."
+    },
+    {
+      "term": "Beiyang Army",
+      "aliases": [
+        "Beiyang",
+        "Peiyang Army",
+        "北洋軍"
+      ],
+      "explain": "Yuan Shikai’s New Army in north China, the force that could decide 1911–12. After Yuan’s death in 1916 its factions became warlord armies."
+    },
+    {
+      "term": "New Policies",
+      "aliases": [
+        "Xinzheng",
+        "late Qing reforms",
+        "新政"
+      ],
+      "explain": "Qing reform program after 1901: new schools, abolition of the examinations in 1905, New Army, provincial assemblies, a promised constitution. Intended to save the dynasty. It trained the people who could bury it."
+    },
+    {
+      "term": "civil-service examinations",
+      "aliases": [
+        "examination system",
+        "keju",
+        "科舉"
+      ],
+      "explain": "The old path from classical learning to Qing office. Abolished in 1905. After that date, schools, armies, and overseas study became the new ladders."
+    },
+    {
+      "term": "provincial assemblies",
+      "aliases": [
+        "provincial assembly"
+      ],
+      "explain": "Consultative bodies seated from 1909 as part of the New Policies. In 1911 assemblymen in many provinces were the civilians who declared against the Qing alongside New Army officers."
+    },
+    {
+      "term": "Railway Protection Movement",
+      "aliases": [
+        "railway protection",
+        "Baolu",
+        "保路",
+        "保路運動",
+        "Railway Rights Protection"
+      ],
+      "explain": "1911 protest, strongest in Sichuan, against Qing nationalization of locally financed railways and the transfer of rights toward a foreign loan. The Chengdu crackdown pulled Hubei troops west and thinned the Wuchang garrison."
+    },
+    {
+      "term": "Hukuang loan",
+      "aliases": [
+        "Hukuang Railway",
+        "Huguang Railway",
+        "Hukuang",
+        "four-power loan"
+      ],
+      "explain": "1911 foreign loan from British, French, German, and American banks for the Guangdong–Hankou and Sichuan–Hankou railways. The financial instrument behind railway nationalization."
+    },
+    {
+      "term": "Hubei Military Government",
+      "aliases": [
+        "Hubei military government",
+        "鄂軍都督府"
+      ],
+      "explain": "The revolutionary regime declared in Wuchang after 10 October 1911, with Li Yuanhong as military governor, using the old provincial assembly building. The 18-star flag photograph in this lesson is taken in front of it."
+    },
+    {
+      "term": "Nanjing Provisional Government",
+      "aliases": [
+        "provisional government",
+        "Nanjing government",
+        "Nanking Provisional Government"
+      ],
+      "explain": "Revolutionary national government seated in Nanjing from January 1912, with Sun as provisional president, until Yuan took the presidency in Beijing."
+    },
+    {
+      "term": "Provisional Senate",
+      "aliases": [
+        "Nanjing Senate",
+        "provisional senate",
+        "臨時參議院"
+      ],
+      "explain": "Legislature of the Nanjing republic in early 1912. The 1 April photograph shows Sun resigning to it."
+    },
+    {
+      "term": "provisional president",
+      "aliases": [
+        "Provisional President"
+      ],
+      "explain": "Title Sun held from 1 January 1912 and Yuan from 10 March 1912. Provisional meant the office was supposed to wait on a full constitution and a proper election. It became the prize."
+    },
+    {
+      "term": "abdication edict",
+      "aliases": [
+        "Imperial Edict of Abdication",
+        "abdication",
+        "退位詔書"
+      ],
+      "explain": "Edict issued by Empress Dowager Longyu on 12 February 1912, announcing the Xuantong Emperor’s abdication and authorizing Yuan to organize a republic. The legal end of the Qing."
+    },
+    {
+      "term": "Articles of Favorable Treatment",
+      "aliases": [
+        "Favorable Treatment",
+        "優待條件"
+      ],
+      "explain": "Terms attached to the 1912 abdication: a stipend for the court, continued residence in the Forbidden City for a time, and the rituals of a retired emperor. Abdication as a contract, not a trial."
+    },
+    {
+      "term": "Provisional Constitution",
+      "aliases": [
+        "Provisional Constitution of the Republic of China",
+        "臨時約法"
+      ],
+      "explain": "Promulgated 11 March 1912. It sketched a cabinet responsible to a legislature. It did not control Yuan’s army or keep the capital in Nanjing."
+    },
+    {
+      "term": "Kuomintang",
+      "aliases": [
+        "KMT",
+        "Nationalist Party",
+        "Guomindang",
+        "國民黨"
+      ],
+      "explain": "Party formed in 1912 when Song Jiaoren merged the Tongmenghui with smaller groups for parliamentary elections. Largest bloc in the 1912–13 National Assembly. Not yet the later Leninist party of the 1920s."
+    },
+    {
+      "term": "National Assembly",
+      "aliases": [
+        "parliament",
+        "the assembly"
+      ],
+      "explain": "The elected legislature of 1912–13 in which the Kuomintang won the largest bloc. Song was on his way to it when he was shot."
+    },
+    {
+      "term": "Three People’s Principles",
+      "aliases": [
+        "Sanmin zhuyi",
+        "三民主義"
+      ],
+      "explain": "Sun’s public program: nationalism, democracy, and people’s livelihood. A vocabulary for the Tongmenghui, not a drafted constitution in 1912."
+    },
+    {
+      "term": "queue",
+      "aliases": [
+        "bianzi",
+        "Manchu queue",
+        "pigtail",
+        "辮子"
+      ],
+      "explain": "The braided hairstyle Qing law required of men as a sign of submission to the Manchu dynasty. Cutting it in 1911 was a public way of leaving the old regime. The 7 November photograph in this lesson shows that act."
+    },
+    {
+      "term": "Iron Blood 18-star flag",
+      "aliases": [
+        "18-star flag",
+        "Iron Blood flag",
+        "eighteen-star flag",
+        "鐵血十八星旗"
+      ],
+      "explain": "Banner of the Wuchang rising: a ring of eighteen stars for the provinces of China proper. Crossed in front of the Hubei Military Government in the photograph used as this lesson’s thumbnail. Not the later five-color flag of the Republic."
+    },
+    {
+      "term": "Chuwangtai",
+      "aliases": [
+        "Chuwan Terrace",
+        "楚望台"
+      ],
+      "explain": "Arsenal in Wuchang seized on the night of 10 October 1911. Taking it gave the mutineers rifles and a chance."
+    },
+    {
+      "term": "Battle of Yangxia",
+      "aliases": [
+        "Yangxia"
+      ],
+      "explain": "October–November 1911 fighting around Hankou and Hanyang between revolutionary forces (Huang Xing among the commanders) and Beiyang units. The revolution did not win Wuhan on the battlefield; it won because provinces kept declaring and Yuan bargained."
+    },
+    {
+      "term": "First Sino-Japanese War",
+      "aliases": [
+        "Sino-Japanese War of 1894–95",
+        "1894–95 war"
+      ],
+      "explain": "War of 1894–95 in which Qing forces lost to Meiji Japan. The Treaty of Shimonoseki followed. The before of the 1911 argument."
+    },
+    {
+      "term": "Treaty of Shimonoseki",
+      "aliases": [
+        "Shimonoseki"
+      ],
+      "explain": "1895 treaty ending the First Sino-Japanese War. Taiwan ceded; a large indemnity; Qing influence in Korea broken. The shock that made reform and revolution both thinkable."
+    },
+    {
+      "term": "Hundred Days Reform",
+      "aliases": [
+        "Hundred Days",
+        "Wuxu Reform",
+        "戊戌變法"
+      ],
+      "explain": "June–September 1898 reform edicts under Guangxu, associated with Kang Youwei and Liang Qichao. Ended by Cixi’s coup."
+    },
+    {
+      "term": "Boxer Protocol",
+      "aliases": [
+        "Boxer crisis",
+        "Boxer Rebellion",
+        "Boxer indemnity",
+        "辛丑條約"
+      ],
+      "explain": "1901 settlement after the Boxer crisis: a huge indemnity to the foreign powers and occupation of access routes to Beijing. The New Policies follow from this humiliation."
+    },
+    {
+      "term": "Baohuanghui",
+      "aliases": [
+        "Protect the Emperor Society",
+        "保皇會"
+      ],
+      "explain": "Overseas organization of Kang Youwei’s constitutional monarchists after 1898, in argument with Sun’s republicans for the money and loyalty of Chinese abroad."
+    },
+    {
+      "term": "Second Revolution",
+      "aliases": [
+        "second revolution of 1913"
+      ],
+      "explain": "Failed 1913 armed rising by Sun, Huang Xing and others against Yuan after Song’s assassination. Its failure left Yuan free to crush the KMT in parliament."
+    },
+    {
+      "term": "Twenty-One Demands",
+      "aliases": [
+        "Twenty-One Demands of 1915"
+      ],
+      "explain": "Japanese demands on Yuan’s government in 1915. The shortened acceptance still showed how little the new republic could refuse a foreign power."
+    },
+    {
+      "term": "Hongxian",
+      "aliases": [
+        "Hongxian Emperor",
+        "Hongxian era",
+        "Empire of China (1915–16)",
+        "洪憲"
+      ],
+      "explain": "Era name of Yuan’s attempted monarchy, announced December 1915, cancelled March 1916. The republic’s president tried on a crown and could not make it hold."
+    },
+    {
+      "term": "warlord years",
+      "aliases": [
+        "warlords",
+        "warlord era"
+      ],
+      "explain": "Period after Yuan’s death in 1916 when Beiyang factions and regional armies governed by force. The after of an unfinished republic, not a full later lesson."
+    },
+    {
+      "term": "Agadir Crisis",
+      "aliases": [
+        "Agadir",
+        "Panther’s leap"
+      ],
+      "explain": "July 1911 Franco-German confrontation over Morocco, opened when Germany sent the gunboat Panther to Agadir. The European imperial summer in which the Qing was still taking foreign railway loans."
+    },
+    {
+      "term": "Mexican Revolution",
+      "aliases": [
+        "Mexican Revolution of 1910"
+      ],
+      "explain": "Uprising against Díaz from 1910. Díaz resigned in May 1911; Madero became president that November and was killed in 1913. Named here as a contemporaneous unfinished civilian republic."
+    },
+    {
+      "term": "Forbidden City",
+      "aliases": [
+        "palace"
+      ],
+      "explain": "Imperial palace compound in Beijing. Under the Articles of Favorable Treatment the abdicated court was allowed to remain there for a time."
+    },
+    {
+      "term": "Nanjing",
+      "aliases": [
+        "Nanking"
+      ],
+      "explain": "Former Ming capital on the Yangtze. Taken by revolutionaries in December 1911; seat of Sun’s provisional government. The failed attempt to keep the national capital here is part of the Yuan bargain."
+    },
+    {
+      "term": "Beijing",
+      "aliases": [
+        "Peking",
+        "Beiping"
+      ],
+      "explain": "Qing capital, and Yuan’s. After 10 March 1912 the republic’s president sat here because the Beiyang Army did."
+    },
+    {
+      "term": "Shanghai railway station",
+      "aliases": [
+        "Shanghai Railway Station"
+      ],
+      "explain": "Where Song Jiaoren was shot on 20 March 1913 while boarding a train for Beijing and the new parliament."
+    },
+    {
+      "term": "Denver",
+      "aliases": [
+        "Denver, Colorado"
+      ],
+      "explain": "Colorado city where Sun was fundraising in October 1911. He learned of Wuchang from a newspaper there, not from a field headquarters."
+    },
+    {
+      "term": "Russian concession",
+      "aliases": [
+        "Russian concession of Hankou"
+      ],
+      "explain": "Foreign-administered zone in Hankou. The 9 October 1911 bomb went off in a revolutionary hideout here, which is why Russian police, then Qing authorities, got the membership lists."
+    },
+    {
+      "term": "four-power consortium",
+      "aliases": [
+        "China Consortium",
+        "four-power group"
+      ],
+      "explain": "British, French, German, and American banks behind the 1911 Hukuang railway loan. The foreign money in the railway crisis."
+    },
+    {
+      "term": "military governor",
+      "aliases": [
+        "dudu",
+        "都督"
+      ],
+      "explain": "Title Li Yuanhong took in Hubei after Wuchang: a provincial military head of a declared republic. Other provinces copied the form."
+    },
+    {
+      "term": "Ministry of Posts and Communications",
+      "aliases": [
+        "minister of Posts and Communications"
+      ],
+      "explain": "Late-Qing central ministry. Sheng Xuanhuai headed it in 1911 when railway nationalization and the Hukuang loan were pushed through."
+    },
+    {
+      "term": "Ministry of Foreign Affairs",
+      "aliases": [
+        "Beijing Ministry of Foreign Affairs"
+      ],
+      "explain": "The Beijing ministry in whose rooms Yuan was photographed with his officers on 10 March 1912 after taking the oath as provisional president."
+    },
+    {
+      "term": "8th Engineering Battalion",
+      "aliases": [
+        "Engineering Battalion",
+        "eighth engineering battalion"
+      ],
+      "explain": "Hubei New Army unit that opened the Wuchang mutiny on the evening of 10 October 1911 and moved on the Chuwangtai arsenal."
+    },
+    {
+      "term": "Enming",
+      "aliases": [
+        "En Ming"
+      ],
+      "explain": "Manchu governor of Anhui, killed by Xu Xilin in Anqing in July 1907. The failed rising led to Qiu Jin’s arrest and execution."
+    },
+    {
+      "term": "Panther",
+      "aliases": [
+        "SMS Panther"
+      ],
+      "explain": "German gunboat sent to Agadir in July 1911. The ship that made the Agadir Crisis visible."
+    },
+    {
+      "term": "Fu Sheng",
+      "aliases": [
+        "Fulong Photography Studio",
+        "Fu Sheng, Photographer"
+      ],
+      "explain": "Tianjin studio that made the circa-1900 cabinet card of Yuan Shikai used in this lesson. The printed English line on the mount reads ‘Fu Sheng, Photographer, City North East Wall Street Tientsin.’"
+    },
+    {
+      "term": "Agence Rol",
+      "explain": "French press-photography agency. The 1911 Hankou street photograph in this lesson is an Agence Rol print now in the Bibliothèque nationale de France."
+    },
+    {
+      "term": "Bibliothèque nationale de France",
+      "aliases": [
+        "BnF",
+        "Gallica"
+      ],
+      "explain": "French national library. Holds the Agence Rol 1911 Hankou photograph (EST EI-13)."
+    },
+    {
+      "term": "University of Washington Libraries",
+      "aliases": [
+        "Chandless Photographs",
+        "Robert Henry Chandless Photographs"
+      ],
+      "explain": "Holds the Fu Sheng cabinet card of Yuan Shikai (PH Coll 214.61) used in this lesson."
+    },
+    {
+      "term": "Anqing",
+      "explain": "Anhui city. Site of Xu Xilin’s 1907 rising. Qiu Jin was arrested after it failed."
+    },
+    {
+      "term": "Chengdu",
+      "explain": "Sichuan capital. Center of the 1911 railway protection movement and of Zhao Erfeng’s September crackdown."
+    },
+    {
+      "term": "Hubei",
+      "explain": "Province on the middle Yangtze. Wuchang was its capital. The New Army mutiny of 10 October 1911 began here."
+    },
+    {
+      "term": "Sichuan",
+      "aliases": [
+        "Szechwan"
+      ],
+      "explain": "Province whose railway shareholders led the 1911 Railway Protection Movement. The Qing transfer of Hubei troops toward Sichuan thinned the Wuchang garrison."
+    },
+    {
+      "term": "Guangdong–Hankou",
+      "aliases": [
+        "Canton–Hankou",
+        "Hankou-Guangdong Railway"
+      ],
+      "explain": "One of the two Hukuang railway routes whose rights the 1911 foreign loan pledged. Locally backed in Hubei, Hunan, and Guangdong."
+    },
+    {
+      "term": "Sichuan–Hankou",
+      "aliases": [
+        "Sichuan-Hankou Railway"
+      ],
+      "explain": "The other Hukuang route. Barely begun, and the line Sichuan shareholders thought they still owned when the court nationalized it."
+    },
+    {
+      "term": "Spaarnestad Photo",
+      "explain": "Dutch picture archive (now with the Nationaal Archief’s collections) that holds the 7 November 1911 queue-cutting photograph. The Dutch caption anachronistically says ‘Guomindong army’; the print is dated 1911, before the Kuomintang existed under that name."
+    }
+  ]
+}
