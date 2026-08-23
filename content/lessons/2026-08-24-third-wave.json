@@ -1,0 +1,850 @@
+{
+  "slug": "third-wave",
+  "date": "2026-08-24",
+  "subject": "feminism",
+  "related": [
+    "first-wave",
+    "second-wave"
+  ],
+  "title": "Third Wave (c. 1991–2010s): after the backlash, many feminisms",
+  "dek": "A televised harassment hearing, a 1992 essay in Ms., riot-grrrl zines, and a legal name for compounded harm made feminism look like several projects at once. The number was later. The fights were not one movement with a single face.",
+  "era": "c. 1991–early 2010s",
+  "reading_minutes": 18,
+  "thumb": {
+    "src": "lessons/third-wave/anita-hill-1991.jpg",
+    "alt": "Anita Hill seated at a witness table, speaking into a microphone, 11 October 1991."
+  },
+  "hero": {
+    "src": "lessons/third-wave/anita-hill-1991.jpg",
+    "alt": "Black-and-white photograph of Anita Hill at a Senate witness table, leaning toward a microphone, papers and a glass of water in front of her, other people seated in rows behind, 11 October 1991.",
+    "caption": "Anita Hill testifying before the Senate Judiciary Committee, 11 October 1991. She is at the witness table, speaking into a microphone, with stacked papers and a glass of water in front of her. The committee that questioned her that weekend was all male. The confirmation of Clarence Thomas went through four days later. This is the public event many later writers treated as the start of a third wave. It is a hearing room, not a march.",
+    "credit": "R. Michael Jenkins / CQ Roll Call Photograph Collection, Library of Congress. No known restrictions on publication.",
+    "credit_url": "https://www.loc.gov/item/2019646369/"
+  },
+  "honesty": "“Third wave” is a later Anglo-American classroom and magazine name, not what most of the people in this lesson called themselves in 1991. The dates are a convenience: Anita Hill’s testimony and Rebecca Walker’s Ms. essay at one end, the early 2010s at the other, before hashtag feminism became a different media ecology. The United States is the spine because the numbering is. Riot grrrl is a scene, not a synonym for the whole span. Intersectionality is a legal concept that escaped the academy; it is not a personality. Other countries’ 1990s feminisms are contemporaneous — not copies of an American original. 1990s press portraits are often still in copyright. The photographs here are a congressional collection image with no known restrictions, a Creative Commons concert picture, a later Creative Commons portrait (captioned as later), and a U.S. government photograph from Beijing. Where a free picture could not be found, the lesson does without.",
+  "timeline": [
+    {
+      "year": "1989",
+      "label": "Intersection",
+      "detail": "Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex,” University of Chicago Legal Forum. A legal paper about how employment-discrimination doctrine missed Black women. The word intersectionality is here. The who-counts problem is older."
+    },
+    {
+      "year": "1991",
+      "label": "Backlash / Hill / zines",
+      "detail": "Susan Faludi, Backlash. Anita Hill testifies, 11 October; Clarence Thomas confirmed 15 October, 52–48. Riot grrrl meetings, shows, and zines in Olympia and Washington, D.C. Crenshaw, “Mapping the Margins.”"
+    },
+    {
+      "year": "1992",
+      "label": "The name",
+      "detail": "Rebecca Walker, “Becoming the Third Wave,” Ms., January/February. Third Wave Direct Action Corporation founded. U.S. elections later nicknamed the Year of the Woman: four new women enter the Senate, including Carol Moseley Braun."
+    },
+    {
+      "year": "1995",
+      "label": "Beijing",
+      "detail": "Fourth World Conference on Women, Beijing, 4–15 September. Governments adopt the Beijing Declaration and Platform for Action. A parallel NGO Forum meets in Huairou. Not an American meeting with foreign guests."
+    },
+    {
+      "year": "1996–98",
+      "label": "Taiwan statutes",
+      "detail": "After the murder of Peng Wan-ru in 1996, Taiwan passes a Sexual Assault Crime Prevention Act (1997) and a Domestic Violence Prevention Act (1998). The Awakening Foundation had already been lobbying Civil Code family law."
+    },
+    {
+      "year": "1999–2000",
+      "label": "Parité / Manifesta",
+      "detail": "France revises the Constitution for equal access of women and men to elective office (1999) and passes a parité law (2000). Jennifer Baumgardner and Amy Richards publish Manifesta in the United States."
+    },
+    {
+      "year": "early 2010s",
+      "label": "A later ecology",
+      "detail": "The numbered “third wave” is already a classroom label. Hashtag campaigns and #MeToo belong to a later media system. They are the after, not a fourth-wave lesson in disguise."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Anita Hill — opening statement, 11 October 1991 (C-SPAN)",
+      "url": "https://www.youtube.com/watch?v=-QbVKSvm274",
+      "note": "Official C-SPAN upload of Hill’s opening statement to the Senate Judiciary Committee. About twenty minutes. The full hearing is in C-SPAN’s library; this is the statement, not a documentary about it."
+    },
+    {
+      "title": "Hillary Rodham Clinton — remarks, Fourth World Conference on Women, Beijing, 5 September 1995 (Clinton Presidential Library)",
+      "url": "https://commons.wikimedia.org/wiki/File:First_Lady_Hillary_Rodham_Clinton%27s_Remarks_to_the_Fourth_Women%27s_Conference_in_Beijing,_China.webm",
+      "note": "U.S. government video of the speech, held on Wikimedia Commons as a public-domain federal work. The line later quoted everywhere is in this recording. The conference was larger than the speech."
+    }
+  ],
+  "read": [
+    {
+      "title": "Kimberlé Crenshaw — “Demarginalizing the Intersection of Race and Sex” (1989)",
+      "url": "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/",
+      "note": "University of Chicago Legal Forum, open on Chicago Unbound. The employment-discrimination paper that names intersectionality. Read this before treating the word as a slogan."
+    },
+    {
+      "title": "Kimberlé Crenshaw — “Mapping the Margins” (Stanford Law Review, 1991)",
+      "url": "https://www.jstor.org/stable/1229039",
+      "note": "JSTOR record for the 1991 article on violence against women of color. Library access; this capsule does not paste the PDF from a random host."
+    },
+    {
+      "title": "Rebecca Walker — “Becoming the Third Wave,” educational excerpt (TeachRock)",
+      "url": "https://teachrock.org/lesson/third-wave-womens-rights-and-music-in-the-1990s/",
+      "note": "A licensed classroom excerpt of the January/February 1992 Ms. essay, with a lesson around it. The essay itself is still in copyright; this is not a pirate scan of the magazine."
+    },
+    {
+      "title": "Beijing Declaration and Platform for Action (UN Women text)",
+      "url": "https://www.un.org/womenwatch/daw/beijing/platform/",
+      "note": "The official conference documents, 4–15 September 1995. Twelve “critical areas of concern,” not a press release."
+    },
+    {
+      "title": "Beijing Declaration and Platform for Action — PDF",
+      "url": "https://www.un.org/womenwatch/daw/beijing/pdf/BDPfA%20E.pdf",
+      "note": "The same text as a single file from UN Women / WomenWatch."
+    },
+    {
+      "title": "Hillary Rodham Clinton — remarks, Beijing, 5 September 1995 (White House archives)",
+      "url": "https://clintonwhitehouse3.archives.gov/WH/EOP/First_Lady/html/generalspeeches/1995/plenary.html",
+      "note": "The White House transcript of the speech. “Human rights are women’s rights” is in this text. It is one address at a conference of 189 governments."
+    },
+    {
+      "title": "Susan Faludi — Backlash: The Undeclared War Against American Women (Crown, 1991)",
+      "url": "https://search.worldcat.org/title/23016353",
+      "note": "WorldCat record for the first edition, ISBN 0-517-57698-8. Still in copyright; buy or borrow. This is the catalog, not a scan."
+    },
+    {
+      "title": "Jennifer Baumgardner and Amy Richards — Manifesta (Farrar, Straus and Giroux, 2000)",
+      "url": "https://us.macmillan.com/books/9780374532307/manifesta/",
+      "note": "Publisher page for the book that tried to describe young U.S. feminism at the turn of the century. In copyright."
+    },
+    {
+      "title": "Judith Butler — Gender Trouble (Routledge, 1990)",
+      "url": "https://www.routledge.com/Gender-Trouble-Feminism-and-the-Subversion-of-Identity/Butler/p/book/9780415389556",
+      "note": "Publisher page. Adjacent theory, not a third-wave founding text. In copyright."
+    },
+    {
+      "title": "Fourth World Conference on Women, Beijing 1995 — UN WomenWatch",
+      "url": "https://www.un.org/womenwatch/daw/beijing/fwcwn.html",
+      "note": "UN institutional page for the conference, the NGO Forum, and follow-up."
+    },
+    {
+      "title": "Awakening Foundation — about (婦女新知基金會)",
+      "url": "https://www.awakening.org.tw/english",
+      "note": "The foundation’s own English account of its work from the martial-law magazine through 1990s lobbying. Institutional memory, not a secondary textbook."
+    }
+  ],
+  "fun_fact": {
+    "title": "The committee that questioned her had no women on it",
+    "text": "When Anita Hill testified on 11 October 1991, every member of the Senate Judiciary Committee was a man. There were two women in the whole Senate that year: Nancy Kassebaum of Kansas and Barbara Mikulski of Maryland. Neither sat on the committee. In 1992 the press named the elections the Year of the Woman. Four new women arrived in the Senate in January 1993 — Barbara Boxer and Dianne Feinstein of California, Patty Murray of Washington, and Carol Moseley Braun of Illinois, the first Black woman elected to that body. The nickname is journalism. The arithmetic is the record: an all-male panel on television, then a small change in who held the seats."
+  },
+  "glossary": [
+    {
+      "term": "third wave",
+      "explain": "A later Anglo-American label for feminist work roughly from 1991 through the early 2010s. Rebecca Walker’s 1992 Ms. essay is the usual christening. Most people in the work did not carry membership cards.",
+      "aliases": [
+        "Third Wave",
+        "third-wave",
+        "third-wave feminism"
+      ]
+    },
+    {
+      "term": "Rebecca Walker",
+      "explain": "American writer, born 1969. “Becoming the Third Wave,” Ms., January/February 1992. Co-founder, with Shannon Liss, of the Third Wave Direct Action Corporation. Alice Walker is her mother; that fact is biography, not a job description."
+    },
+    {
+      "term": "Becoming the Third Wave",
+      "explain": "Rebecca Walker’s essay in Ms., January/February 1992, written after the Hill–Thomas hearings. It ends: she is not a postfeminism feminist; she is the Third Wave."
+    },
+    {
+      "term": "Ms.",
+      "explain": "U.S. feminist magazine, first standalone issue 1972. Walker’s essay ran in the January/February 1992 issue of the relaunched, ad-free Ms. The magazine is a second-wave institution publishing a younger writer.",
+      "aliases": [
+        "Ms. magazine",
+        "Ms magazine"
+      ]
+    },
+    {
+      "term": "Anita Hill",
+      "explain": "American lawyer and professor, born 1956. In October 1991 she testified that Clarence Thomas had sexually harassed her when she worked for him at the Department of Education and the EEOC. She was then on the faculty at the University of Oklahoma."
+    },
+    {
+      "term": "Anita Hill hearings",
+      "explain": "Senate Judiciary Committee hearings, 11–13 October 1991, on Hill’s sexual-harassment allegations against Supreme Court nominee Clarence Thomas. Televised. Thomas was confirmed 15 October, 52–48.",
+      "aliases": [
+        "Hill hearings",
+        "Hill–Thomas hearings",
+        "Clarence Thomas hearings"
+      ]
+    },
+    {
+      "term": "Clarence Thomas",
+      "explain": "U.S. jurist, born 1948. Nominated to the Supreme Court in 1991 to succeed Thurgood Marshall. Denied Hill’s allegations; described the process as a “high-tech lynching.” Confirmed 52–48 on 15 October 1991."
+    },
+    {
+      "term": "Senate Judiciary Committee",
+      "explain": "U.S. Senate committee that handles judicial nominations. In October 1991 every member was a man. Joseph Biden of Delaware chaired it.",
+      "aliases": [
+        "Judiciary Committee"
+      ]
+    },
+    {
+      "term": "Joseph Biden",
+      "explain": "U.S. senator from Delaware in 1991; chair of the Judiciary Committee during the Hill hearings. Later U.S. president. The chairmanship is the fact this lesson needs.",
+      "aliases": [
+        "Joe Biden",
+        "Biden"
+      ]
+    },
+    {
+      "term": "Thurgood Marshall",
+      "explain": "Supreme Court justice, 1967–1991, the first Black justice. Thomas was nominated to the seat he left."
+    },
+    {
+      "term": "George H. W. Bush",
+      "explain": "U.S. president who nominated Clarence Thomas in 1991.",
+      "aliases": [
+        "George Bush",
+        "President Bush"
+      ]
+    },
+    {
+      "term": "Equal Employment Opportunity Commission",
+      "explain": "U.S. federal agency that enforces workplace civil-rights statutes. Hill and Thomas both worked there. Sexual harassment was already within its mandate.",
+      "aliases": [
+        "EEOC"
+      ]
+    },
+    {
+      "term": "Department of Education",
+      "explain": "U.S. federal department. Hill worked in its Office for Civil Rights when she first worked for Thomas.",
+      "aliases": [
+        "U.S. Department of Education"
+      ]
+    },
+    {
+      "term": "University of Oklahoma",
+      "explain": "Public university. Hill was a law professor there in 1991."
+    },
+    {
+      "term": "Title VII",
+      "explain": "Title VII of the Civil Rights Act of 1964, the U.S. employment-discrimination statute. By 1986 the Supreme Court had read it to cover sexual harassment. The Hill hearings were not the invention of that law. They were a public lesson in whether anyone believed it."
+    },
+    {
+      "term": "sexual harassment",
+      "explain": "Unwelcome sexual conduct that is made a condition of work or that creates a hostile workplace. U.S. law already named it before 1991. The hearings made the phrase ordinary television language."
+    },
+    {
+      "term": "backlash",
+      "explain": "Faludi’s 1991 name for a 1980s cultural and political reaction that treated feminist gains as excess and blamed them for women’s unhappiness. The conservative turn itself is already in the Second Wave lesson’s last years."
+    },
+    {
+      "term": "Susan Faludi",
+      "explain": "American journalist. Backlash: The Undeclared War Against American Women (Crown, 1991). A named diagnosis of the 1980s, published the same year as the Hill hearings."
+    },
+    {
+      "term": "Backlash",
+      "explain": "Susan Faludi’s 1991 book. Subtitle: The Undeclared War Against American Women. A later name for a mood already in motion.",
+      "aliases": [
+        "Backlash: The Undeclared War Against American Women"
+      ]
+    },
+    {
+      "term": "postfeminism",
+      "explain": "A 1980s–90s media claim that feminism had succeeded and was no longer needed, or had become the problem. Walker’s essay refuses the word.",
+      "aliases": [
+        "post-feminism",
+        "postfeminism feminist"
+      ]
+    },
+    {
+      "term": "intersectionality",
+      "explain": "Kimberlé Crenshaw’s name, from 1989, for the way race and sex (and other structures) compound so that a person at the overlap can disappear from laws and movements built on a single axis. In the 1989 paper it is a problem in employment-discrimination doctrine, illustrated with cases in which Black women lost because an employer hired white women and Black men. It is a legal concept, not a mood."
+    },
+    {
+      "term": "Kimberlé Crenshaw",
+      "explain": "American legal scholar, born 1959. “Demarginalizing the Intersection of Race and Sex” (1989); “Mapping the Margins” (1991). The usual source for the word intersectionality. Combahee had already described interlocking oppressions without that word.",
+      "aliases": [
+        "Crenshaw",
+        "Kimberle Crenshaw"
+      ]
+    },
+    {
+      "term": "Demarginalizing the Intersection of Race and Sex",
+      "explain": "Crenshaw’s 1989 article in the University of Chicago Legal Forum. Employment discrimination, single-axis doctrine, Black women. The named origin of “intersectionality.”",
+      "aliases": [
+        "Demarginalizing"
+      ]
+    },
+    {
+      "term": "Mapping the Margins",
+      "explain": "Crenshaw’s 1991 Stanford Law Review article. Subtitle: Intersectionality, Identity Politics, and Violence against Women of Color. Battering, rape, and how feminist and antiracist politics each miss women who live in both.",
+      "aliases": [
+        "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color"
+      ]
+    },
+    {
+      "term": "DeGraffenreid v. General Motors",
+      "explain": "Employment-discrimination case Crenshaw uses in the 1989 paper. Black women alleged they were not hired or were laid off because they were Black and women. The court treated race and sex as separate claims. GM hired women (who were white) and Black people (who were men). The overlap had no place to stand.",
+      "aliases": [
+        "DeGraffenreid"
+      ]
+    },
+    {
+      "term": "Combahee River Collective",
+      "explain": "Black feminist lesbian socialist collective, Boston, 1974–1980. Their April 1977 statement is in the Second Wave capsule. Pointer, not a reprint: interlocking racial, sexual, heterosexual, and class oppression. Crenshaw’s later word names a problem they had already stated.",
+      "aliases": [
+        "Combahee"
+      ]
+    },
+    {
+      "term": "Combahee River Collective Statement",
+      "explain": "April 1977. The who-counts document of the previous Monday lesson. Third-wave writers inherited it even when they did not cite it.",
+      "aliases": [
+        "Combahee statement"
+      ]
+    },
+    {
+      "term": "riot grrrl",
+      "explain": "A feminist punk scene, especially Olympia, Washington, and Washington, D.C., from about 1991. Zines, shows, meetings, “girls to the front.” Bikini Kill and Bratmobile are the bands most often named. A scene with a growl in the spelling. Not a synonym for third-wave feminism.",
+      "aliases": [
+        "Riot Grrrl",
+        "riot grrl"
+      ]
+    },
+    {
+      "term": "zine",
+      "explain": "A small, usually photocopied magazine made by its editors and handed out or mailed. Short for fanzine. Riot grrrl’s method: you did not wait for a New York house to print you.",
+      "aliases": [
+        "zines",
+        "fanzine"
+      ]
+    },
+    {
+      "term": "Bikini Kill",
+      "explain": "Punk band formed in Olympia, Washington, 1990: Kathleen Hanna, Kathi Wilcox, Tobi Vail, Billy Karren. A riot-grrrl band. Not the whole scene and not the whole wave."
+    },
+    {
+      "term": "Kathleen Hanna",
+      "explain": "Musician and zine writer, born 1968. Bikini Kill’s singer. Associated with early riot-grrrl meetings and with the “Riot Grrrl Manifesto” printed in Bikini Kill no. 2 (1991).",
+      "aliases": [
+        "Hanna"
+      ]
+    },
+    {
+      "term": "Kathi Wilcox",
+      "explain": "Bassist of Bikini Kill."
+    },
+    {
+      "term": "Tobi Vail",
+      "explain": "Drummer of Bikini Kill; also a zine writer. The band is a four-person fact, not a solo."
+    },
+    {
+      "term": "Billy Karren",
+      "explain": "Guitarist of Bikini Kill in the early 1990s."
+    },
+    {
+      "term": "Bratmobile",
+      "explain": "Riot-grrrl band, Olympia and D.C., associated with Allison Wolfe, Molly Neuman, and Erin Smith. Named here so Bikini Kill is not the only band in the sentence."
+    },
+    {
+      "term": "Riot Grrrl Manifesto",
+      "explain": "Statement printed in Bikini Kill no. 2, 1991, often titled that later. It starts from records, books, and fanzines that include girls, and from the refusal to wait. A zine page, not an office platform.",
+      "aliases": [
+        "riot grrrl manifesto"
+      ]
+    },
+    {
+      "term": "girls to the front",
+      "explain": "A riot-grrrl practice at shows: girls asked to come to the front of the room so they could see, be seen, and not be shoved by a male pit. A method, not a metaphor.",
+      "aliases": [
+        "girl to the front"
+      ]
+    },
+    {
+      "term": "DIY",
+      "explain": "Do-it-yourself. In this lesson: photocopying zines, booking shows, recording without waiting for a major label. A method borrowed from punk."
+    },
+    {
+      "term": "Jennifer Baumgardner",
+      "explain": "American writer. Co-author, with Amy Richards, of Manifesta (2000).",
+      "aliases": [
+        "Baumgardner"
+      ]
+    },
+    {
+      "term": "Amy Richards",
+      "explain": "American writer and organizer. Co-author of Manifesta (2000); later work with the Third Wave Foundation.",
+      "aliases": [
+        "Richards"
+      ]
+    },
+    {
+      "term": "Manifesta",
+      "explain": "Jennifer Baumgardner and Amy Richards, Manifesta: Young Women, Feminism, and the Future (Farrar, Straus and Giroux, 2000). A U.S. attempt to describe the generation after the second wave. A book, not a census.",
+      "aliases": [
+        "Manifesta: Young Women, Feminism, and the Future"
+      ]
+    },
+    {
+      "term": "Shannon Liss",
+      "explain": "Organizer. Co-founded the Third Wave Direct Action Corporation with Rebecca Walker in 1992. Later known as Shannon Liss-Riordan.",
+      "aliases": [
+        "Shannon Liss-Riordan"
+      ]
+    },
+    {
+      "term": "Third Wave Direct Action Corporation",
+      "explain": "Organization founded in 1992 by Rebecca Walker and Shannon Liss to get young women into political work. Later the Third Wave Foundation; today’s descendant is the Third Wave Fund.",
+      "aliases": [
+        "Third Wave Foundation",
+        "Third Wave Fund"
+      ]
+    },
+    {
+      "term": "bell hooks",
+      "explain": "Writer (Gloria Jean Watkins, 1952–2021). Ain’t I a Woman (1981) is already in the Second Wave window. In the 1990s she published Teaching to Transgress (1994) and, in 2000, Feminism is for Everybody. A through-line, not a third-wave founder. She kept the name lowercase.",
+      "aliases": [
+        "hooks",
+        "Gloria Jean Watkins"
+      ]
+    },
+    {
+      "term": "Teaching to Transgress",
+      "explain": "bell hooks, Teaching to Transgress: Education as the Practice of Freedom (Routledge, 1994). A 1990s book, read in classrooms that also read third-wave essays.",
+      "aliases": [
+        "Teaching to Transgress: Education as the Practice of Freedom"
+      ]
+    },
+    {
+      "term": "Feminism is for Everybody",
+      "explain": "bell hooks, 2000 (South End Press). A short book that tries to explain feminism without requiring a graduate seminar. Dated at the end of this lesson’s window.",
+      "aliases": [
+        "Feminism Is for Everybody",
+        "Feminism is for Everybody: Passionate Politics"
+      ]
+    },
+    {
+      "term": "Judith Butler",
+      "explain": "American philosopher, born 1956. Gender Trouble (1990). Adjacent theory: gender as performed under constraint. Not “the third wave,” and not a substitute for Hill, Walker, or Crenshaw.",
+      "aliases": [
+        "Butler"
+      ]
+    },
+    {
+      "term": "Gender Trouble",
+      "explain": "Judith Butler, Gender Trouble: Feminism and the Subversion of Identity (Routledge, 1990). A theory book that circulated on campuses in the same years. Adjacent, not a founding pamphlet.",
+      "aliases": [
+        "Gender Trouble: Feminism and the Subversion of Identity"
+      ]
+    },
+    {
+      "term": "sex-positive feminism",
+      "explain": "A current that treated sexual speech, pornography, and queer practice as sites of freedom as well as harm. It argued with late-second-wave anti-porn campaigns. Third-wave writing is often described as more sex-positive. The description is a tendency, not a vote.",
+      "aliases": [
+        "sex-positive",
+        "sex positive feminism"
+      ]
+    },
+    {
+      "term": "Women Against Pornography",
+      "explain": "Organization founded in New York in 1979. Already in the Second Wave lesson. The argument continued into the 1990s; it did not restart as a third-wave invention.",
+      "aliases": [
+        "WAP"
+      ]
+    },
+    {
+      "term": "Bust",
+      "explain": "Independent feminist magazine, first issue 1993. One of the small print projects that carried girl culture and sex-positive writing outside Ms.",
+      "aliases": [
+        "Bust magazine"
+      ]
+    },
+    {
+      "term": "Bitch",
+      "explain": "Independent feminist magazine, first issue 1996, founded by Lisa Jervis, Benjamin Shaykin, and Andi Zeisler. Pop-culture criticism. In copyright; named as a publication, not reproduced.",
+      "aliases": [
+        "Bitch magazine"
+      ]
+    },
+    {
+      "term": "Alice Walker",
+      "explain": "American writer; author of The Color Purple. Rebecca Walker’s mother. Named because Ms. said so and because the younger Walker writes in that fact. Not a third-wave figure."
+    },
+    {
+      "term": "Fourth World Conference on Women",
+      "explain": "United Nations conference, Beijing, 4–15 September 1995. 189 governments. Produced the Beijing Declaration and Platform for Action. The official meeting. The NGO Forum was nearby, in Huairou.",
+      "aliases": [
+        "Beijing conference",
+        "Beijing 1995",
+        "UN Fourth World Conference on Women"
+      ]
+    },
+    {
+      "term": "Beijing Declaration",
+      "explain": "Document adopted by governments at Beijing in September 1995, paired with the Platform for Action."
+    },
+    {
+      "term": "Platform for Action",
+      "explain": "The 1995 Beijing plan: twelve critical areas of concern, from poverty and education to violence, armed conflict, the economy, power, human rights, media, the environment, and the girl child. A UN document, not a U.S. statute.",
+      "aliases": [
+        "Beijing Platform for Action"
+      ]
+    },
+    {
+      "term": "Huairou",
+      "explain": "District outside Beijing. Site of the 1995 NGO Forum on Women, parallel to the official UN conference. Tens of thousands of non-governmental delegates. Not a footnote to the hall with the flags.",
+      "aliases": [
+        "NGO Forum",
+        "NGO Forum on Women"
+      ]
+    },
+    {
+      "term": "Hillary Rodham Clinton",
+      "explain": "U.S. First Lady in 1995. She addressed the Beijing conference on 5 September. The line “human rights are women’s rights, and women’s rights are human rights” is hers in that speech. She did not run the conference.",
+      "aliases": [
+        "Hillary Clinton",
+        "Clinton"
+      ]
+    },
+    {
+      "term": "Sharon Farmer",
+      "explain": "White House photographer. She made the 5 September 1995 Beijing photographs used in this capsule. U.S. government work."
+    },
+    {
+      "term": "Awakening Foundation",
+      "explain": "Taiwanese feminist organization (婦女新知基金會). Magazine from 1982; foundation after martial law was lifted in 1987. In the 1990s it lobbied family-law reform and trained women for public life.",
+      "aliases": [
+        "婦女新知",
+        "婦女新知基金會",
+        "Awakening"
+      ]
+    },
+    {
+      "term": "Peng Wan-ru",
+      "explain": "Taiwanese feminist and Democratic Progressive Party official (彭婉如). Murdered in 1996. The killing became a public catalyst for sexual-assault legislation the next year.",
+      "aliases": [
+        "彭婉如"
+      ]
+    },
+    {
+      "term": "Sexual Assault Crime Prevention Act",
+      "explain": "Taiwan statute, 1997, passed after Peng Wan-ru’s murder and years of feminist lobbying.",
+      "aliases": [
+        "Sexual Assault Prevention Act"
+      ]
+    },
+    {
+      "term": "Domestic Violence Prevention Act",
+      "explain": "Taiwan statute, 1998. A 1990s women’s-movement law, not an import of a U.S. wave name."
+    },
+    {
+      "term": "Civil Code",
+      "explain": "Taiwan’s civil law. The family chapters treated married women’s residence, property, and children’s surnames as the husband’s default. Awakening and allied groups spent the 1990s trying to rewrite those chapters.",
+      "aliases": [
+        "Book of Family"
+      ]
+    },
+    {
+      "term": "Huggy Bear",
+      "explain": "British riot-grrrl band, early 1990s. Evidence that the scene was not only Olympia. Named so the U.S. bands are not the whole map."
+    },
+    {
+      "term": "Loaded",
+      "explain": "British men’s magazine, launched 1994. A flagship of 1990s “lad” culture. The tabloid counterpart was the “ladette.”",
+      "aliases": [
+        "Loaded magazine"
+      ]
+    },
+    {
+      "term": "ladette",
+      "explain": "British tabloid word, mid-1990s, for young women who drank, smoked, and were sexually blunt in public. Sometimes claimed as agency, sometimes used as a moral panic. Contemporaneous with third-wave years; not a chapter of Ms.",
+      "aliases": [
+        "ladettes"
+      ]
+    },
+    {
+      "term": "parité",
+      "explain": "French campaign in the 1990s for equal numbers of women and men in elective office. Constitutional revision, 8 July 1999; election law, 6 June 2000.",
+      "aliases": [
+        "parite",
+        "parité law"
+      ]
+    },
+    {
+      "term": "Year of the Woman",
+      "explain": "U.S. press name for the 1992 elections, after the Hill hearings. Four new women senators, including Carol Moseley Braun. A headline, not a revolution in the body’s sex ratio."
+    },
+    {
+      "term": "Carol Moseley Braun",
+      "explain": "Illinois Democrat; elected to the U.S. Senate in 1992. First Black woman in that body.",
+      "aliases": [
+        "Carol Moseley-Braun",
+        "Moseley Braun"
+      ]
+    },
+    {
+      "term": "Barbara Boxer",
+      "explain": "California Democrat; elected to the U.S. Senate in 1992."
+    },
+    {
+      "term": "Dianne Feinstein",
+      "explain": "California Democrat; elected to the U.S. Senate in 1992."
+    },
+    {
+      "term": "Patty Murray",
+      "explain": "Washington Democrat; elected to the U.S. Senate in 1992."
+    },
+    {
+      "term": "Nancy Kassebaum",
+      "explain": "Republican senator from Kansas in 1991. One of two women in the Senate during the Hill hearings. Not on the Judiciary Committee."
+    },
+    {
+      "term": "Barbara Mikulski",
+      "explain": "Democratic senator from Maryland in 1991. The other woman in the Senate that year. Not on the Judiciary Committee."
+    },
+    {
+      "term": "Tarana Burke",
+      "explain": "American organizer. She used “Me Too” as a phrase for survivors of sexual violence in 2006, in community work, not on Twitter. The 2017 hashtag is later and larger.",
+      "aliases": [
+        "Burke"
+      ]
+    },
+    {
+      "term": "#MeToo",
+      "explain": "Hashtag that spread globally in 2017 after public accusations against Harvey Weinstein. A later media ecology than zines and C-SPAN. This lesson names it as after, not as a fourth-wave chapter.",
+      "aliases": [
+        "Me Too",
+        "MeToo",
+        "hashtag feminism"
+      ]
+    },
+    {
+      "term": "Harvey Weinstein",
+      "explain": "Film producer. Public accusations against him in 2017 helped ignite the #MeToo cascade. Named only as a date in the after."
+    },
+    {
+      "term": "Roe v. Wade",
+      "explain": "U.S. Supreme Court decision, 1973, already treated in the Second Wave capsule. It still stood during the third-wave years. Dobbs (2022) is later.",
+      "aliases": [
+        "Roe"
+      ]
+    },
+    {
+      "term": "Equal Rights Amendment",
+      "explain": "The U.S. ERA’s extended deadline expired 30 June 1982. That failure is the Second Wave lesson’s ending, not this one’s opening tour.",
+      "aliases": [
+        "ERA"
+      ]
+    },
+    {
+      "term": "Title IX",
+      "explain": "Title IX of the Education Amendments of 1972. Already in the previous Monday lesson. Campus sex-discrimination fights in the 1990s stood on this statute."
+    },
+    {
+      "term": "Olympia",
+      "explain": "City in Washington state. One of the two early riot-grrrl centers, with Washington, D.C."
+    },
+    {
+      "term": "First Wave",
+      "explain": "Later label for the suffrage-era fights in this archive’s Monday lesson of 16 August 2026. The who-counts problem did not end when the vote arrived."
+    },
+    {
+      "term": "Second Wave",
+      "explain": "Later label for the 1963–1982 span in this archive’s Monday lesson of 17 August 2026. Consciousness-raising, Title IX, Roe, Combahee, the ERA’s failure. This lesson starts after that failure, not inside it."
+    },
+    {
+      "term": "R. Michael Jenkins",
+      "explain": "CQ Roll Call staff photographer. He made the 11 October 1991 Anita Hill photograph used as this capsule’s hero.",
+      "aliases": [
+        "Jenkins"
+      ]
+    },
+    {
+      "term": "CQ Roll Call",
+      "explain": "U.S. congressional news organization. Staff photographs in the Library of Congress collection used here carry the advisory “no known restrictions on publication.”",
+      "aliases": [
+        "Congressional Quarterly"
+      ]
+    },
+    {
+      "term": "Jonathan Charles",
+      "explain": "Photographer of the 1991 Bikini Kill outdoor picture used in this lesson. Flickr, CC BY-SA 2.0."
+    },
+    {
+      "term": "Mohamed Badarne",
+      "explain": "Photographer of the 2018 Kimberlé Crenshaw portrait used here. Taken for the Heinrich Böll Foundation. CC BY-SA 2.0."
+    },
+    {
+      "term": "Heinrich Böll Foundation",
+      "explain": "German political foundation. Source of the 2018 Crenshaw photograph.",
+      "aliases": [
+        "Heinrich-Böll-Stiftung",
+        "Böll Foundation"
+      ]
+    },
+    {
+      "term": "Tavi Gevinson",
+      "aliases": [
+        "Tavi"
+      ],
+      "explain": "American writer, born 1996. Style Rookie blog from 2008; Rookie magazine from 2011. Named in this lesson only to say she is not stretched backward into 1991. She belongs with a later media system."
+    },
+    {
+      "term": "Democratic Progressive Party",
+      "aliases": [
+        "DPP"
+      ],
+      "explain": "Taiwanese political party. Peng Wan-ru held a party post in its women’s organization when she was murdered in 1996. Named as her workplace, not as the women’s movement."
+    },
+    {
+      "term": "Comoros",
+      "explain": "Island country in the Indian Ocean. Its country placard is readable in the 5 September 1995 Beijing photograph used in this lesson. Evidence that the hall was a UN meeting of states, not a U.S. rally."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "What the second wave won, and what a 1991 book called the backlash",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Second Wave capsule in this archive ends in 1982, when the Equal Rights Amendment’s extended deadline expired three states short. That lesson already covers the ground this one should not tour again: Betty Friedan’s book as a public starting point, consciousness-raising as a method, Title IX, Roe v. Wade, the Combahee River Collective Statement of April 1977, Houston, Phyllis Schlafly, and the conservative turn that put Ronald Reagan and Margaret Thatcher in office. Those last years are the floor this lesson walks onto. They are not a second visit to the same rooms."
+        },
+        {
+          "type": "p",
+          "text": "By the late 1980s a public story said feminism had been tried. Magazines ran features on women who had “had it all” and were exhausted. The word postfeminism circulated as if the remaining task were to relax. In 1991 Susan Faludi, then a reporter, published Backlash: The Undeclared War Against American Women. She argued that the 1980s had produced a cultural and political reaction — in news, in Hollywood, in Washington — that blamed feminism for unhappiness it had not caused. The book is a named source for that diagnosis. It is not a census of every country. It is not a claim that organizing had stopped. Faludi was writing about a mood that treated women’s gains as the problem."
+        },
+        {
+          "type": "p",
+          "text": "The who-counts fight was unfinished. The Combahee River Collective had already written, in 1977, that racial, sexual, heterosexual, and class oppression lock together, and that they would not choose which liberation to stand in line for. That statement is in the Second Wave lesson. It is the parent of much that later gets called intersectionality. The later word is Kimberlé Crenshaw’s. The problem is older. A third-wave story that pretends Black feminists arrived in 1991 is repeating the error the previous lesson tried to correct."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "A hearing on television, a sentence in Ms., a scene with a growl, and a legal word",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On 11 October 1991 Anita Hill sat at a witness table in Washington and testified before the Senate Judiciary Committee. Hill was a law professor at the University of Oklahoma. She had worked for Clarence Thomas at the U.S. Department of Education and at the Equal Employment Opportunity Commission. Thomas, a federal appeals judge, had been nominated to the Supreme Court by President George H. W. Bush to succeed Thurgood Marshall. Hill told the committee that Thomas had sexually harassed her in those workplaces — comments, pressure, a pattern she said she had not made public because she feared for her career. Every member of the committee that questioned her was a man. Joseph Biden of Delaware chaired it. The hearings were televised. Thomas denied the allegations and described the process as a “high-tech lynching for uppity Blacks.” On 15 October the Senate confirmed him, 52 to 48."
+        },
+        {
+          "type": "p",
+          "text": "The hearings were a public school. Millions of people watched a Black woman describe sexual harassment to a panel of white men, and watched a Black man answer in the language of racial persecution. Viewers did not agree about who was telling the truth. They did agree, in large numbers, that the subject was now national. Sexual harassment was already in U.S. law; Title VII of the Civil Rights Act had been read to cover it. What the hearings changed was the audience. A private injury, of the kind second-wave organizers had called political, was now a weekend of C-SPAN."
+        },
+        {
+          "type": "p",
+          "text": "Rebecca Walker, then twenty-two, wrote about that audience in Ms. magazine’s January/February 1992 issue. The essay is titled “Becoming the Third Wave.” Walker is Alice Walker’s daughter; the magazine said so, and the fact is true, and it is not her whole biography. She described the hearings as a test of whether a woman’s account could matter when it cut across race and party. She ended with a refusal: she was not a postfeminism feminist. She was the Third Wave. The sentence named a generation that did not feel finished. It did not, by itself, found an organization. In 1992 Walker and Shannon Liss did found the Third Wave Direct Action Corporation — later the Third Wave Foundation — to put young women into electoral and community work."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/third-wave/bikini-kill-1991.jpg",
+          "alt": "Two musicians performing outdoors under a white park gazebo, 1991: a woman at a microphone holding a red bass guitar, another member playing guitar, amplifiers on the wooden floor, trees behind the railings.",
+          "caption": "Bikini Kill playing outdoors in 1991. Kathleen Hanna is at the microphone — that is the identification used on the Wikimedia Commons crop of this photograph — with a red bass in her hands. Another member plays guitar. Amplifiers sit on the floor of a park gazebo. This is a show in daylight, not a press conference, and not a picture of “the third wave.” It is a picture of one method: you booked a room, you played, you handed people paper.",
+          "credit": "Jonathan Charles / Flickr / CC BY-SA 2.0",
+          "credit_url": "https://www.flickr.com/photos/jonathancharles/1330123908/"
+        },
+        {
+          "type": "p",
+          "text": "The same years, in Olympia, Washington, and in Washington, D.C., young women in punk scenes were photocopying zines, booking shows, and holding meetings they called riot grrrl. Bikini Kill — Kathleen Hanna, Kathi Wilcox, Tobi Vail, Billy Karren — was one band in that scene. Bratmobile was another. The method was DIY. You did not wait for a New York house to print you. You ran off a stack of copies, handed them out at a show, and told girls to come to the front of the room so they could see and be seen. A manifesto printed in Bikini Kill no. 2 in 1991 started from records, books, and fanzines that included girls, and from the refusal to be a polite guest in someone else’s pit. Riot grrrl was a scene with chapters and a growl in the spelling. It was not a synonym for third-wave feminism. Treating Kathleen Hanna as the face of a decade is the flattening this lesson is trying not to do."
+        },
+        {
+          "type": "p",
+          "text": "In 1989 Kimberlé Crenshaw, a legal scholar, published “Demarginalizing the Intersection of Race and Sex” in the University of Chicago Legal Forum. In 1991 she published “Mapping the Margins” in the Stanford Law Review. The first paper is about employment-discrimination doctrine. The second is about violence against women of color. Together they gave a name, intersectionality, to a problem courts and movements kept missing. Third-wave writing used the word. The word is a tool. It is not a slogan, and it is not a personality."
+        },
+        {
+          "type": "p",
+          "text": "How it showed, if you want a list instead of a face: zines and other independent media, including Bust (1993) and Bitch (1996); leftover fights from the late-1970s sex wars, with sex-positive writers arguing against the anti-porn campaigns already named in the previous lesson; girl culture as a market, a joke, and a serious claim; campus feminism standing on Title IX, women’s studies, and arguments about date rape and consent. The critique, from Black feminists and from people outside the United States, was that “third wave” was a U.S. magazine label. It grouped very different work under a number. It made some young white women in media the face of a decade that was not only theirs."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "A crowded field, then three things to look at closely",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A gallery of three portraits is the wrong picture. Name them, then stop treating the names as the era. Anita Hill at a microphone. Rebecca Walker in Ms. Kimberlé Crenshaw on the law review. Kathleen Hanna in a gazebo. Jennifer Baumgardner and Amy Richards at the end of the decade, trying to write the generation down in Manifesta. Shannon Liss at the new organization. Susan Faludi on the 1980s, published in 1991. bell hooks in the 1990s classroom with Teaching to Transgress, and in 2000 with Feminism is for Everybody — a through-line from the previous lesson, not a mascot invented in 1992. Judith Butler’s Gender Trouble, 1990, as adjacent theory: gender as something done under constraint, not a third-wave membership card. Hillary Rodham Clinton at a United Nations lectern in Beijing, which is not the same thing as American feminism going abroad. Peng Wan-ru in Taipei, whose death is a Taiwanese political fact. Tavi Gevinson’s later blog and magazine sit at the far edge of this window and belong with a later media system; they are not stretched backward to make a 1991 story look complete."
+        },
+        {
+          "type": "p",
+          "text": "Slow down for three, as examples inside the field, not as the field. The Hill hearings as a public school. Riot grrrl as a method — zines, shows, a room rearranged. Intersectionality as a legal concept that escaped the academy."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "A weekend of C-SPAN, a photocopier, and a traffic accident in the law",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The school: for one long weekend the country sat in on a sexual-harassment seminar it had not enrolled in. Hill had to be believed as a lawyer and disbelieved as a woman; believed as a Black witness to workplace harm and suspected as a traitor to a Black nominee. Thomas’s “lynching” sentence named a real American crime and used it to close the subject of sex. The committee had no women on it, which was not a metaphor. People who had never read a feminist pamphlet learned the phrase “sexual harassment” from a split screen. That is what a public school looks like. It is also why the hearings cannot be filed only under “feminism” or only under “race.” The overlap was the lesson, whether or not the senators wanted one."
+        },
+        {
+          "type": "p",
+          "text": "The method: riot grrrl treated culture as a workplace. If the pit at a show shoved girls back, you put them in front. If music magazines did not write about you, you wrote the magazine. A zine is a political fact because it is cheap, local, and under your own name. Chapters met in living rooms. Some of the meetings were about rape and incest; some were about guitar chords. When commercial media discovered the scene around 1992 and 1993, some participants stopped talking to reporters. That retreat is part of the method too. A scene that can be summarized as “girl power” on a magazine cover has already lost the photocopier. Bikini Kill is the band in the photograph. The method is the stack of paper."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/third-wave/crenshaw-2018.jpg",
+          "alt": "Later color portrait of Kimberlé Crenshaw, 2018, looking to the side, black sleeveless top, silver hoop earrings and chain necklaces, dark background.",
+          "caption": "Kimberlé Crenshaw photographed in Berlin in 2018, not in 1989. The legal papers this lesson is about are thirty years older than this picture. The portrait is here because a free, clearly licensed photograph of her exists, and because 1990s press pictures often do not. It is a later photograph of the same person. It is not a picture of the University of Chicago Legal Forum.",
+          "credit": "Mohamed Badarne / Heinrich Böll Foundation / Flickr / CC BY-SA 2.0",
+          "credit_url": "https://www.flickr.com/photos/boellstiftung/40901215153/"
+        },
+        {
+          "type": "p",
+          "text": "The legal concept: Crenshaw asked what happens when a rule against race discrimination and a rule against sex discrimination are written as if those were two separate lines. In DeGraffenreid v. General Motors, Black women said they were left out of jobs and then first in line for layoffs. The court looked at GM’s record and saw that the company hired women (who were white) and hired Black people (who were men). Each single-axis claim failed. The harm was at the overlap, so the law had no plaintiff. Crenshaw’s image was a traffic intersection: injury can come from more than one direction, and a person standing in the crossing is not “half” of each street. In the 1991 paper she took the same tool to shelters, rape law, and movement politics — to rooms that said “women” and meant a white woman, or said “Black community” and treated talking about gender violence as disloyalty. Third-wave essays borrowed the word. The word does not belong to a wave. It belongs to a doctrinal problem that was already true when Combahee wrote in 1977, and that Crenshaw specified for lawyers in 1989."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Beijing was a world conference; Taipei, London, and Paris were not waiting for a U.S. name",
+      "blocks": [
+        {
+          "type": "figure",
+          "src": "lessons/third-wave/beijing-1995.jpg",
+          "alt": "Hillary Rodham Clinton in a pink jacket at a United Nations lectern, 5 September 1995, with a banner behind her reading United Nations Fourth World Conference on Women, Beijing, 4–15 September 1995, red flowers along the stage, country placards in the audience.",
+          "caption": "The Fourth World Conference on Women, Beijing, 5 September 1995. Hillary Rodham Clinton is at the United Nations lectern in a pink jacket. The banner behind the stage names the meeting: United Nations, Fourth World Conference on Women, Beijing, 4–15 September 1995. Red flowers run along the stage. Country placards sit on the tables in the hall; one that can be read in this frame is Comoros. This is a government conference with 189 delegations. It is not an American rally held abroad, and it is not a portrait of “global feminism” reduced to one speaker.",
+          "credit": "Sharon Farmer / White House Photograph Office, William J. Clinton Presidential Library. U.S. government work, public domain.",
+          "credit_url": "https://www.clintonlibrary.gov/galleries/hillary-rodham-clinton-beijing-photo-gallery"
+        },
+        {
+          "type": "p",
+          "text": "From 4 to 15 September 1995 the United Nations held the Fourth World Conference on Women in Beijing. One hundred and eighty-nine governments adopted a Beijing Declaration and a Platform for Action: twelve “critical areas of concern,” from poverty and education to violence, the economy, power, and the girl child. A parallel NGO Forum met in Huairou, with tens of thousands of people who were not sitting behind country flags. Hillary Rodham Clinton addressed the official conference on 5 September and said that human rights are women’s rights, and women’s rights are human rights. The sentence travelled. The document is longer than the sentence. Taiwanese feminist groups, including the Awakening Foundation, were not treated as a national delegation; some Taiwan organizations were denied accreditation, which is part of the 1995 record, not a detail to skip so the map looks tidy."
+        },
+        {
+          "type": "p",
+          "text": "In Taipei the 1990s women’s movement was a legislative movement, not a reprint of Ms. The Awakening Foundation, which had begun as a magazine in 1982 and become a foundation after martial law ended in 1987, spent the decade on the Civil Code’s family chapters — residence, property, children’s names — and on getting women into public life. In 1995 it delivered a family-law draft to the legislature with a large petition behind it. In November 1996 Peng Wan-ru, a feminist official in the Democratic Progressive Party, was murdered. The next years produced a Sexual Assault Crime Prevention Act (1997) and a Domestic Violence Prevention Act (1998). Those statutes are Taiwanese political facts. They do not need a U.S. wave number to be real."
+        },
+        {
+          "type": "p",
+          "text": "In Britain the same years held more than one current. Huggy Bear played riot-grrrl shows. Loaded magazine, launched in 1994, sold a “lad” culture of drinking and sex as comedy. Tabloids answered with the “ladette”: a young woman who drank, smoked, and was blunt in public. Some of the women so named treated it as freedom. Some of the coverage treated it as a joke at feminism’s expense. Either way it is contemporaneous. It is not a British branch office of Olympia. In France the 1990s argument that can be dated without stretching is parité: a campaign for equal numbers of women and men on electoral lists. The Constitution was revised on 8 July 1999. A law followed on 6 June 2000. That is a 1990s feminism about who sits in the assembly. It is not a translation of “riot grrrl.”"
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Hashtag campaigns used a different machine",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the early 2010s “third wave” was already a heading in a syllabus. The media ecology had changed. Tarana Burke used the phrase “Me Too” in 2006 in community work with survivors. In 2017 the hashtag #MeToo travelled across platforms after public accusations against Harvey Weinstein, and millions of people used it to name assaults that had not had a Senate hearing. That cascade is real. It is also a different machine from a photocopied zine, a C-SPAN weekend, or a UN platform. It does not make Burke a fourth-wave mascot in this paragraph, and it does not rewind the 1990s as a rehearsal. The unfinished business is obvious: who is believed, whose harm counts as public, what the law can see when two structures hit at once. The next lesson, if there is one, will need its own sources. This one stops before it pretends to be that lesson."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "When a movement is numbered a third time, whose work has to fit the number in order to be remembered, and whose work is treated as a local exception?"
+        }
+      ]
+    }
+  ]
+}

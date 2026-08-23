@@ -107,6 +107,7 @@ If the site 404s after the first push, open Settings → Pages and set Source to
 
 ## Lessons
 
+- [Third Wave](https://huirumay28.github.io/capsules/lessons/third-wave/)
 - [Second Wave](https://huirumay28.github.io/capsules/lessons/second-wave/)
 - [First Wave](https://huirumay28.github.io/capsules/lessons/first-wave/)
 - [British Invasion](https://huirumay28.github.io/capsules/lessons/british-invasion/)
