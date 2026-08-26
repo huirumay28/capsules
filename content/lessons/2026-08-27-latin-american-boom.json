@@ -1,0 +1,777 @@
+{
+  "slug": "latin-american-boom",
+  "date": "2026-08-27",
+  "subject": "literature",
+  "related": [
+    "high-modernism"
+  ],
+  "title": "The Latin American Boom (c. 1962–1975): novels that traveled",
+  "dek": "In the 1960s a cluster of Spanish-language novels left regional markets and entered translation circuits in Barcelona, Paris, Madrid, and New York. The Boom was a publishing and translation event as much as a style — and “magical realism” never fit every book on the shelf.",
+  "era": "c. 1962–1975",
+  "reading_minutes": 24,
+  "thumb": {
+    "src": "lessons/latin-american-boom/garcia-marquez.jpg",
+    "alt": "Close-up portrait of Gabriel García Márquez smiling, white mustache, thin glasses, dark suit."
+  },
+  "hero": {
+    "src": "lessons/latin-american-boom/barcelona-gothic.jpg",
+    "alt": "Narrow stone street in Barcelona’s Gothic Quarter with arched openings, pedestrians, and warm evening light on the facades.",
+    "caption": "Barcelona’s Gothic Quarter, photographed in 2016. The Boom’s Spanish publishing hub was this city: Seix Barral’s Biblioteca Breve prize and Carlos Barral’s lists helped move Latin American novels into a European and then a global book trade. The photograph is a street, not a boardroom. The address of the market is the point.",
+    "credit": "Richard Mortel / Flickr / Wikimedia Commons / CC BY 2.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Gothic_Quarter,_Barcelona_(3)_(31215331786).jpg"
+  },
+  "honesty": "“Latin American Boom” is a later critical and marketing name for a mid-1960s to mid-1970s surge in the international circulation of Spanish-language novels from Latin America. The writers did not form a single school or share one style. “Magical realism” is a critical and marketing term with a longer genealogy — including Alejo Carpentier’s lo real maravilloso — and it fits some Boom books better than others. This lesson treats the Boom as novels, prizes, translators, and Cold War cultural circuits, not as a tropical brand. High modernism is an earlier Thursday in this archive; its experiments with time and form are named here only where the narrative method honestly overlaps. Existentialism is the previous literature Thursday; it is not repeated as a Paris café lesson.",
+  "timeline": [
+    {
+      "year": "1949–55",
+      "label": "Precursors",
+      "detail": "Carpentier’s prologue on lo real maravilloso (1949). Juan Rulfo’s Pedro Páramo (1955) as a hinge novel of place and the dead. Borges already a master of the short form."
+    },
+    {
+      "year": "1959–61",
+      "label": "Circuits open",
+      "detail": "Cuban Revolution; Casa de las Américas founded in Havana (1959). Borges shares the 1961 Prix Formentor with Beckett — prestige for Spanish-language letters before the Boom label sticks."
+    },
+    {
+      "year": "1962–63",
+      "label": "Early Boom novels",
+      "detail": "Fuentes’s The Death of Artemio Cruz (1962). Vargas Llosa’s La ciudad y los perros wins Seix Barral’s Biblioteca Breve (1962) and appears as a book in 1963. Cortázar’s Rayuela (1963)."
+    },
+    {
+      "year": "1966–67",
+      "label": "Translation / Macondo",
+      "detail": "Rabassa’s Hopscotch (1966) wins a U.S. National Book Award for translation. Cien años de soledad published in Buenos Aires by Sudamericana (1967)."
+    },
+    {
+      "year": "1970",
+      "label": "English solitude",
+      "detail": "Rabassa’s One Hundred Years of Solitude appears in English. García Márquez later says he prefers the translation to his Spanish — a checkable boast about English as much as about Rabassa."
+    },
+    {
+      "year": "c. 1971–75",
+      "label": "The label thins",
+      "detail": "Sales cool; political fights harden; critics begin to speak of a post-Boom. This lesson’s core stops here."
+    },
+    {
+      "year": "1982 / 1990s",
+      "label": "After-edges",
+      "detail": "García Márquez’s Nobel (1982) is after the core Boom years. McOndo and the Crack generation later refuse the Boom’s export brand — named only as After, not as a full 1990s lesson."
+    }
+  ],
+  "read": [
+    {
+      "title": "Gabriel García Márquez — One Hundred Years of Solitude (Penguin UK catalogue)",
+      "url": "https://www.penguin.co.uk/books/57241/one-hundred-years-of-solitude-by-gabriel-garcia-marquez-trans-gregory-rabassa/9780141184999",
+      "note": "Legal edition listing for the Rabassa translation. Buy or borrow; this capsule does not paste the novel."
+    },
+    {
+      "title": "Julio Cortázar — Hopscotch (Penguin Random House catalogue)",
+      "url": "https://www.penguinrandomhouse.com/books/32202/hopscotch-by-julio-cortazar/",
+      "note": "Catalogue record for Rayuela in Rabassa’s English (National Book Award for Translation, 1967). Library copies exist; this is not a pirated PDF."
+    },
+    {
+      "title": "Mario Vargas Llosa — La ciudad y los perros / The Time of the Hero (Penguin Random House catalogue)",
+      "url": "https://www.penguinrandomhouse.com/books/579475/la-ciudad-y-los-perros--the-time-of-the-hero-by-mario-vargas-llosa/",
+      "note": "Legal trade listing for the 1963 novel (Biblioteca Breve 1962). Not a full-text dump."
+    },
+    {
+      "title": "One Hundred Years of Solitude — Britannica",
+      "url": "https://www.britannica.com/topic/One-Hundred-Years-of-Solitude",
+      "note": "Short reference entry on the 1967 novel. Check dates and outline here; read the book elsewhere legally."
+    },
+    {
+      "title": "Latin American literature — Britannica",
+      "url": "https://www.britannica.com/art/Latin-American-literature",
+      "note": "Encyclopedia map of periods and names, including Boom context. Useful orientation; not a substitute for the novels."
+    },
+    {
+      "title": "Gabriel García Márquez — Nobel Prize in Literature 1982 (Nobel Foundation)",
+      "url": "https://www.nobelprize.org/prizes/literature/1982/marquez/facts/",
+      "note": "Official Nobel facts page. The 1982 prize is an After-edge for this lesson’s core Boom years."
+    }
+  ],
+  "fun_fact": {
+    "title": "García Márquez waited years for Rabassa — then preferred the English",
+    "text": "Gregory Rabassa’s first major translation job was Julio Cortázar’s Rayuela, published in English as Hopscotch (1966); it won a U.S. National Book Award for translation. When García Márquez wanted One Hundred Years of Solitude rendered into English, Cortázar urged him to wait until Rabassa was free. García Márquez waited. The English book appeared in 1970. He later said he preferred Rabassa’s English to his own Spanish — a remark Rabassa waved toward the English language rather than toward himself. The Boom’s Anglophone life ran through a translator’s calendar as much as through a novelist’s desk."
+  },
+  "glossary": [
+    {
+      "term": "Latin American Boom",
+      "aliases": [
+        "Boom",
+        "the Boom",
+        "el Boom"
+      ],
+      "explain": "Critical and marketing name for the mid-1960s to mid-1970s international surge of Latin American novels in Spanish and in translation. A publishing event and a set of books, not a single school."
+    },
+    {
+      "term": "magical realism",
+      "aliases": [
+        "magic realism",
+        "realismo mágico",
+        "realismo magico"
+      ],
+      "explain": "Critical and marketing label for fiction that treats extraordinary events in a matter-of-fact tone. It fits some Boom novels (especially García Márquez) better than others (Cortázar, Vargas Llosa). Older and wider than the Boom."
+    },
+    {
+      "term": "lo real maravilloso",
+      "aliases": [
+        "lo real maravilloso americano",
+        "the marvelous real",
+        "marvelous realism"
+      ],
+      "explain": "Alejo Carpentier’s phrase, elaborated in his 1949 prologue to The Kingdom of This World: the marvelous as something encountered in American history and landscape, not only invented as fantasy. A precursor vocabulary for later “magical realism” talk."
+    },
+    {
+      "term": "Seix Barral",
+      "explain": "Barcelona publisher. Under Carlos Barral in the 1960s it promoted Latin American novelists through lists and the Biblioteca Breve prize; a key Spanish hub of the Boom’s European circulation."
+    },
+    {
+      "term": "Biblioteca Breve",
+      "explain": "Literary prize of Seix Barral. Vargas Llosa’s La ciudad y los perros won in 1962 (book 1963). A concrete prize date often used to mark the Boom’s publishing takeoff."
+    },
+    {
+      "term": "Casa de las Américas",
+      "aliases": [
+        "Casa de las Americas"
+      ],
+      "explain": "Havana cultural institution founded in 1959 after the Cuban Revolution. Publisher, magazine, prize house, and meeting point on the Cold War cultural map many Boom writers argued over."
+    },
+    {
+      "term": "regionalismo",
+      "aliases": [
+        "regionalism"
+      ],
+      "explain": "Earlier twentieth-century Latin American fiction centered on local landscape, custom, and rural or provincial life. The Boom’s international novels are often described against this prior horizon."
+    },
+    {
+      "term": "criollismo",
+      "explain": "Related earlier tendency emphasizing Creole local color and national types. Named here as Before, not as a full lesson."
+    },
+    {
+      "term": "high modernism",
+      "aliases": [
+        "High modernism"
+      ],
+      "explain": "Earlier twentieth-century formal experiment treated in this archive’s Thursday lesson of that name. Named here where Boom narrative method — overlapping time, reader choice — honestly invites comparison."
+    },
+    {
+      "term": "existentialism",
+      "explain": "Previous literature Thursday in this archive (c. 1943–1960 Paris). Named only as the prior capsule; not repeated as a café syllabus."
+    },
+    {
+      "term": "Jorge Luis Borges",
+      "aliases": [
+        "Borges"
+      ],
+      "explain": "Argentine writer (1899–1986). Master of the short fiction and essay before the Boom’s long-novel fame; shared the 1961 Prix Formentor with Beckett."
+    },
+    {
+      "term": "Juan Rulfo",
+      "aliases": [
+        "Rulfo"
+      ],
+      "explain": "Mexican writer (1917–1986). Pedro Páramo (1955) is treated here as a hinge novel between regional place and later Boom experiments with time and the dead."
+    },
+    {
+      "term": "Pedro Páramo",
+      "aliases": [
+        "Pedro Paramo"
+      ],
+      "explain": "Rulfo’s 1955 novel. A son enters a town of ghosts; place and the dead share the page. Precursor hinge, not a Boom marketing title."
+    },
+    {
+      "term": "Alejo Carpentier",
+      "aliases": [
+        "Carpentier"
+      ],
+      "explain": "Cuban novelist and musicologist (1904–1980). Articulated lo real maravilloso; a precursor often filed beside, not inside, the Boom’s core cohort."
+    },
+    {
+      "term": "The Kingdom of This World",
+      "aliases": [
+        "El reino de este mundo"
+      ],
+      "explain": "Carpentier novel, 1949. Its prologue is a usual source for lo real maravilloso."
+    },
+    {
+      "term": "Gabriel García Márquez",
+      "aliases": [
+        "García Márquez",
+        "Garcia Marquez",
+        "Gabo"
+      ],
+      "explain": "Colombian novelist (1927–2014). One Hundred Years of Solitude (1967); Nobel Prize in Literature 1982 (after the core Boom years)."
+    },
+    {
+      "term": "Julio Cortázar",
+      "aliases": [
+        "Cortázar",
+        "Cortazar"
+      ],
+      "explain": "Argentine writer (1914–1984). Rayuela / Hopscotch (1963); short stories including the one behind Antonioni’s Blow-Up. Formal experiment and Paris–Buenos Aires traffic."
+    },
+    {
+      "term": "Mario Vargas Llosa",
+      "aliases": [
+        "Vargas Llosa"
+      ],
+      "explain": "Peruvian novelist (1936–2025). La ciudad y los perros / The Time of the Hero (1963); later a major post-Boom career and the 2010 Nobel. Often the Boom’s realist and political-novel pole."
+    },
+    {
+      "term": "Carlos Fuentes",
+      "aliases": [
+        "Fuentes"
+      ],
+      "explain": "Mexican novelist (1928–2012). The Death of Artemio Cruz (1962); Aura (1962). History, power, and compact fantastic tales in the same years."
+    },
+    {
+      "term": "José Donoso",
+      "aliases": [
+        "Donoso",
+        "Jose Donoso"
+      ],
+      "explain": "Chilean novelist (1924–1996). Named among the Boom cohort; The Obscene Bird of Night (1970) is a later core exhibit often cited beside the “big four.”"
+    },
+    {
+      "term": "Guillermo Cabrera Infante",
+      "aliases": [
+        "Cabrera Infante"
+      ],
+      "explain": "Cuban writer (1929–2005). Tres tristes tigres (1967) and a baroque, nightlife Havana prose; Boom-adjacent, not a Macondo twin."
+    },
+    {
+      "term": "Gregory Rabassa",
+      "aliases": [
+        "Rabassa"
+      ],
+      "explain": "American translator (1922–2016). Hopscotch (1966); One Hundred Years of Solitude (1970). A central courier of the Boom into English."
+    },
+    {
+      "term": "Carlos Barral",
+      "aliases": [
+        "Barral"
+      ],
+      "explain": "Spanish poet and editor at Seix Barral. Promoted Latin American novelists from Barcelona in the 1960s."
+    },
+    {
+      "term": "One Hundred Years of Solitude",
+      "aliases": [
+        "Cien años de soledad",
+        "Cien anos de soledad",
+        "100 Years of Solitude"
+      ],
+      "explain": "García Márquez novel, Buenos Aires (Sudamericana), 1967. Seven generations of the Buendía family in Macondo; circular and overlapping time; the Boom’s most famous single book."
+    },
+    {
+      "term": "Macondo",
+      "explain": "Fictional town in One Hundred Years of Solitude. Founded, peopled, and finally erased in the novel’s weather and memory."
+    },
+    {
+      "term": "Buendía",
+      "aliases": [
+        "Buendia",
+        "Buendía family"
+      ],
+      "explain": "Family at the center of One Hundred Years of Solitude. Repeated names across generations are part of how the book makes time feel recursive."
+    },
+    {
+      "term": "Hopscotch",
+      "aliases": [
+        "Rayuela"
+      ],
+      "explain": "Cortázar novel, 1963. Chapters can be read in more than one order; Paris and Buenos Aires share the book. English by Rabassa, 1966."
+    },
+    {
+      "term": "The Time of the Hero",
+      "aliases": [
+        "La ciudad y los perros",
+        "The City and the Dogs"
+      ],
+      "explain": "Vargas Llosa novel, 1963 (Biblioteca Breve 1962). Cadets in a Lima military academy; overlapping viewpoints; a crime and a cover-up."
+    },
+    {
+      "term": "The Death of Artemio Cruz",
+      "aliases": [
+        "La muerte de Artemio Cruz"
+      ],
+      "explain": "Fuentes novel, 1962. A dying Mexican power broker remembered in shifting persons and tenses; Revolution to business empire."
+    },
+    {
+      "term": "Aura",
+      "explain": "Fuentes novella, 1962. A short, uncanny Mexico City narrative often filed beside the Boom’s longer books."
+    },
+    {
+      "term": "Blow-Up",
+      "aliases": [
+        "Las babas del diablo",
+        "Blow-Up stories"
+      ],
+      "explain": "Cortázar’s story “Las babas del diablo” (1959) was adapted by Michelangelo Antonioni as the film Blow-Up (1966). Named here as Cortázar’s short-form traffic into a wider arts public."
+    },
+    {
+      "term": "Michelangelo Antonioni",
+      "aliases": [
+        "Antonioni"
+      ],
+      "explain": "Italian filmmaker. Blow-Up (1966) adapted Cortázar’s story; named because the film is how many non-Spanish readers first met the title."
+    },
+    {
+      "term": "Sudamericana",
+      "aliases": [
+        "Editorial Sudamericana"
+      ],
+      "explain": "Buenos Aires publisher. Issued the first edition of Cien años de soledad in 1967."
+    },
+    {
+      "term": "Prix Formentor",
+      "aliases": [
+        "Formentor Prize",
+        "International Publishers’ Prize"
+      ],
+      "explain": "International publishers’ prize. Borges shared it with Beckett in 1961 — a prestige marker for Spanish-language letters just before the Boom label."
+    },
+    {
+      "term": "Samuel Beckett",
+      "aliases": [
+        "Beckett"
+      ],
+      "explain": "Named here only as Borges’s 1961 Formentor co-winner, not as a Boom novelist."
+    },
+    {
+      "term": "Cuban Revolution",
+      "explain": "1959 political rupture. A horizon many Boom writers supported, debated, or later broke over; not a single cause of novelistic style."
+    },
+    {
+      "term": "Cold War",
+      "explain": "Geopolitical frame for magazines, prizes, travel, and cultural funding that helped move Latin American books through Havana, Paris, Barcelona, and New York."
+    },
+    {
+      "term": "McOndo",
+      "explain": "1990s anthology and slogan (McOndo, 1996) associated with a younger generation refusing the Boom’s export “magical” brand. Named only in After."
+    },
+    {
+      "term": "Crack",
+      "aliases": [
+        "Crack generation",
+        "generación del Crack"
+      ],
+      "explain": "Mexican 1990s writers’ manifesto and cohort reacting against Boom inheritance and magical-realist expectation. Named only in After."
+    },
+    {
+      "term": "Nobel Prize",
+      "aliases": [
+        "Nobel",
+        "Nobel Prize in Literature"
+      ],
+      "explain": "García Márquez received the literature prize in 1982 — after this lesson’s core Boom years. Place it in After."
+    },
+    {
+      "term": "nouveau roman",
+      "aliases": [
+        "French nouveau roman"
+      ],
+      "explain": "French “new novel” of the 1950s–60s (Robbe-Grillet and others). By the Boom years its Paris prestige was fading; named as a same-time European comparison."
+    },
+    {
+      "term": "Alain Robbe-Grillet",
+      "aliases": [
+        "Robbe-Grillet"
+      ],
+      "explain": "French novelist associated with the nouveau roman. Named as a marker of that fading Paris fashion."
+    },
+    {
+      "term": "Chinua Achebe",
+      "aliases": [
+        "Achebe"
+      ],
+      "explain": "Nigerian novelist (1930–2013). Things Fall Apart (1958) was already famous when Boom novels toured; a same-time African comparison, not a Boom twin."
+    },
+    {
+      "term": "Things Fall Apart",
+      "explain": "Achebe’s 1958 novel. Named as an already-canonical African novel during the Boom’s takeoff years."
+    },
+    {
+      "term": "Wole Soyinka",
+      "aliases": [
+        "Soyinka"
+      ],
+      "explain": "Nigerian writer (b. 1934). Plays and poetry across the 1960s independence years; named as a contemporaneous African literary public, not as magical realism."
+    },
+    {
+      "term": "postmodernism",
+      "aliases": [
+        "US postmodern experiment",
+        "American postmodernism"
+      ],
+      "explain": "Loose name for 1960s–70s U.S. experimental fiction (Pynchon and others) running in the same decades as the Boom. A parallel market of long, difficult novels — not a source code for Macondo."
+    },
+    {
+      "term": "Thomas Pynchon",
+      "aliases": [
+        "Pynchon"
+      ],
+      "explain": "American novelist. Gravity’s Rainbow (1973) sits near the Boom’s later years as a concrete U.S. experimental long novel."
+    },
+    {
+      "term": "Gravity’s Rainbow",
+      "aliases": [
+        "Gravity's Rainbow"
+      ],
+      "explain": "Pynchon novel, 1973. Named as a same-time U.S. doorstop of experimental ambition."
+    },
+    {
+      "term": "Paris",
+      "explain": "Translation and exile hub. Cortázar lived there; many Boom careers passed through French and Spanish European circuits."
+    },
+    {
+      "term": "Madrid",
+      "explain": "Spanish capital and publishing city named as a translation and distribution hub beside Barcelona."
+    },
+    {
+      "term": "Barcelona",
+      "explain": "Catalan city; Seix Barral’s base and a center of the Boom’s Spanish publishing story."
+    },
+    {
+      "term": "Buenos Aires",
+      "explain": "Argentine capital. Cortázar’s other city in Rayuela; Sudamericana’s home for the first Cien años edition."
+    },
+    {
+      "term": "Havana",
+      "aliases": [
+        "La Habana"
+      ],
+      "explain": "Cuban capital. Site of Casa de las Américas and a political-cultural magnet after 1959."
+    },
+    {
+      "term": "Lima",
+      "explain": "Peruvian capital. Setting of The Time of the Hero’s military academy world."
+    },
+    {
+      "term": "Mexico City",
+      "aliases": [
+        "Ciudad de México",
+        "Ciudad de Mexico"
+      ],
+      "explain": "Setting and workplace associated with Fuentes; a major Spanish-language literary capital of the Boom years."
+    },
+    {
+      "term": "Aracataca",
+      "explain": "Colombian town of García Márquez’s childhood. Often named as a real-world hinge toward Macondo; the train tracks and church are later photographs of place, not of the novel."
+    },
+    {
+      "term": "Cartagena",
+      "aliases": [
+        "Cartagena de Indias"
+      ],
+      "explain": "Colombian Caribbean city. Later associated with García Márquez’s life and public image; the walls photograph in this lesson is a city fact, not a Macondo map."
+    },
+    {
+      "term": "National Book Award",
+      "explain": "U.S. prize. Rabassa’s Hopscotch translation won in the translation category (1967 award for 1966 book)."
+    },
+    {
+      "term": "Richard Mortel",
+      "explain": "Photographer of the 2016 Barcelona Gothic Quarter image used as this lesson’s hero."
+    },
+    {
+      "term": "Escla",
+      "explain": "Wikimedia photographer of the Casa de las Américas building image."
+    },
+    {
+      "term": "Jose Lara",
+      "aliases": [
+        "José Lara"
+      ],
+      "explain": "Photographer of the CC-licensed García Márquez portrait used as this lesson’s thumbnail."
+    },
+    {
+      "term": "The Cosmonaut",
+      "explain": "Photographer of the Plaza de Mayo panorama used in this lesson."
+    },
+    {
+      "term": "Ralf Treinen",
+      "aliases": [
+        "Ralf.treinen"
+      ],
+      "explain": "Photographer of the rue de Seine, Paris, image."
+    },
+    {
+      "term": "Óscar Badillo Pérez",
+      "aliases": [
+        "Oscar Badillo Perez"
+      ],
+      "explain": "Photographer of the Aracataca train-tracks image."
+    },
+    {
+      "term": "Manuel González Olaechea",
+      "aliases": [
+        "Manuel González Olaechea y Franco",
+        "Manuel Gonzalez Olaechea"
+      ],
+      "explain": "Photographer of the Vargas Llosa portrait used here."
+    },
+    {
+      "term": "Bernard Gotfryd",
+      "aliases": [
+        "Gotfryd"
+      ],
+      "explain": "Photographer of the 1987 Carlos Fuentes portrait (Library of Congress collection; treated as public domain on Commons)."
+    },
+    {
+      "term": "ProtoplasmaKid",
+      "explain": "Photographer of the aerial Zócalo image of Mexico City."
+    },
+    {
+      "term": "Joe Ross",
+      "explain": "Photographer of the Cartagena city walls image."
+    },
+    {
+      "term": "Plaza de Mayo",
+      "explain": "Central square in Buenos Aires. The panorama in this lesson stands for Cortázar’s Argentine city, not for a single novel scene."
+    },
+    {
+      "term": "Zócalo",
+      "aliases": [
+        "Zocalo",
+        "Plaza de la Constitución"
+      ],
+      "explain": "Mexico City’s main square. The aerial photograph stands for Fuentes’s capital, not for a page of Artemio Cruz."
+    },
+    {
+      "term": "rue de Seine",
+      "aliases": [
+        "Rue de Seine"
+      ],
+      "explain": "Street in Paris’s 6th arrondissement. Used here as a concrete Paris address for Cortázar’s European half of Rayuela."
+    },
+    {
+      "term": "Vedado",
+      "explain": "Havana neighborhood where the Casa de las Américas building stands."
+    },
+    {
+      "term": "Leaf Storm",
+      "aliases": [
+        "La hojarasca"
+      ],
+      "explain": "García Márquez novella, 1955. Named as an earlier book before One Hundred Years of Solitude."
+    },
+    {
+      "term": "The Autumn of the Patriarch",
+      "aliases": [
+        "El otoño del patriarca",
+        "El otono del patriarca"
+      ],
+      "explain": "García Márquez novel, 1975. A dictator novel at the edge of this lesson’s Boom center."
+    },
+    {
+      "term": "The Obscene Bird of Night",
+      "aliases": [
+        "El obsceno pájaro de la noche",
+        "El obsceno pajaro de la noche"
+      ],
+      "explain": "Donoso novel, 1970. Often cited beside the Boom’s core shelf; named as a Donoso exhibit."
+    },
+    {
+      "term": "Tres tristes tigres",
+      "aliases": [
+        "Three Trapped Tigers"
+      ],
+      "explain": "Cabrera Infante novel, 1967. Havana nightlife prose; Boom-adjacent."
+    },
+    {
+      "term": "Virginia Woolf",
+      "aliases": [
+        "Woolf"
+      ],
+      "explain": "Novelist named here only as high modernism’s prior Thursday — a comparison of narrative method, not a Boom character."
+    },
+    {
+      "term": "James Joyce",
+      "aliases": [
+        "Joyce"
+      ],
+      "explain": "Novelist named here only as high modernism’s prior Thursday — Dublin as a formal precedent for experimenting with time, not as Macondo’s twin."
+    },
+    {
+      "term": "Dublin",
+      "explain": "City of Joyce’s Ulysses. Named only in a negative comparison: Macondo is not Dublin."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Regional novels, master short forms, and translation hubs",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Before the Boom became a press word, much Spanish-American fiction was still read primarily inside national or regional markets. Regionalismo and criollismo had taught readers to expect landscape, custom, and local types as the novel’s job. That older horizon matters because the Boom’s international fame was partly a contrast effect: long, ambitious novels that claimed world attention rather than only a provincial mirror. The contrast was never absolute. Earlier masters were already on the table. Jorge Luis Borges had remade the short story and the essay as philosophical machines; his 1961 Prix Formentor, shared with Samuel Beckett, was a prestige signal for Spanish-language letters before “Boom” stuck as a label. Juan Rulfo’s Pedro Páramo (1955) sits as a hinge: a Mexican novel of a town dense with the dead, where place is not scenery but the structure of the book. It is not a Boom marketing title. It is a prior technique of haunting that later readers cannot unread when they open Macondo."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/latin-american-boom/aracataca-tracks.jpg",
+          "alt": "Single railroad track running through green brush toward a low horizon under a pale sky in Aracataca, Colombia.",
+          "caption": "Train tracks in Aracataca, Colombia, photographed in the 2010s. García Márquez grew up in this town; later publicity often treated it as a real-world hinge toward Macondo. The rails and weeds are a place photograph. They are not a page from Cien años de soledad.",
+          "credit": "Óscar Badillo Pérez / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:V%C3%ADas_del_tren_en_Aracataca.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The other Before is institutional geography. Paris and Madrid had long been translation and exile hubs for Spanish-language writers. Barcelona’s publishing houses — especially Seix Barral under Carlos Barral — would become decisive in the 1960s. After 1959, Havana’s Casa de las Américas offered prizes, a magazine, and a revolutionary cultural address on the Cold War map. Those circuits did not invent novelistic talent. They changed who could find a book, in which language, and with which prize sticker on the cover."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "Prizes, translations, and a political horizon",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The trigger is not a single manifesto. It is a pile-up of publication and translation dates. Carlos Fuentes’s The Death of Artemio Cruz appeared in 1962; his compact Aura belongs to the same year. Mario Vargas Llosa’s La ciudad y los perros won Seix Barral’s Biblioteca Breve in 1962 and was published as a book in 1963 — a Spanish prize launching a Peruvian novel into a wider Hispanic market. Julio Cortázar’s Rayuela appeared in 1963. Gabriel García Márquez’s Cien años de soledad was issued in Buenos Aires by Sudamericana in 1967; Gregory Rabassa’s English One Hundred Years of Solitude followed in 1970. Around them: José Donoso, Guillermo Cabrera Infante, and others who shared the traveling shelf without sharing one style. Spanish publishing in Barcelona, Argentine publishing in Buenos Aires, French and English translation desks, university reading lists in the United States — those are the Boom’s machinery."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/latin-american-boom/casa-americas.jpg",
+          "alt": "Grey Art Deco Casa de las Américas building in Havana with a tall clock tower and a relief map of the Americas on the facade; pedestrians cross the street.",
+          "caption": "Casa de las Américas, Vedado, Havana. Founded in 1959, the institution was a prize house, publisher, and meeting point. Boom writers argued for, against, and about the Cuban Revolution as a political horizon. The building is that horizon made of concrete and a map relief — not a claim that Havana caused magical realism.",
+          "credit": "Escla / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Casa_de_las_Am%C3%A9ricas.JPG"
+        },
+        {
+          "type": "p",
+          "text": "The Cuban Revolution belongs in the Trigger section as politics, not as a style gene. Many writers initially saw Havana as a hope; Casa de las Américas institutionalized a hemispheric conversation; later breaks and disillusionments were just as public. Treat the Revolution as an argument the novels and the interviews kept having — censorship, commitment, travel bans, prizes — rather than as the secret cause of overlapping time or of Remedio’s ascent with the laundry. Cold War cultural circuits (magazines, congresses, funding, suspicion) moved manuscripts and reputations. The Boom is what happened when those circuits and a set of extraordinary novels met."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "Long novels, several methods — and three to read slowly",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Name the shelf without flattening it. García Márquez: Leaf Storm earlier, then One Hundred Years of Solitude (1967), later The Autumn of the Patriarch (1975) at the edge of this lesson’s center. Cortázar: Rayuela (1963), short stories that include “Las babas del diablo,” the seed of Antonioni’s film Blow-Up (1966). Vargas Llosa: The Time of the Hero (1963), then expanding social canvases that stay closer to historical and institutional realism than to Macondo’s weather. Fuentes: The Death of Artemio Cruz and Aura (both 1962). Donoso and Cabrera Infante complicate any postcard of “the Boom equals magical realism.” Editors and translators matter: Carlos Barral in Barcelona; Gregory Rabassa in English, who reached García Márquez after Cortázar’s Hopscotch had already proved what a translation could do. High modernism’s earlier Thursday — Woolf, Joyce, broken ordinary time — is useful here only as a comparison of narrative method: Boom novels often make chronology itself the experiment, and Rayuela makes the reader’s path through chapters part of the form. That is kinship with modernist experiment, not a claim that Macondo is Dublin."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Gabriel García Márquez",
+              "dates": "1927–2014",
+              "image": "lessons/latin-american-boom/garcia-marquez.jpg",
+              "alt": "Gabriel García Márquez smiling in thin glasses and a dark suit, white mustache, later-life portrait.",
+              "caption": "Portrait by Jose Lara (CC BY-SA 2.0). A later public face than 1967 — the man the Nobel photograph memory kept.",
+              "credit": "Jose Lara / Flickr / Wikimedia Commons / CC BY-SA 2.0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Gabriel_Garcia_Marquez.jpg",
+              "text": "Colombian novelist and journalist. One Hundred Years of Solitude made Macondo a world address. The 1982 Nobel comes after this lesson’s core dates; place the prize in After."
+            },
+            {
+              "name": "Julio Cortázar",
+              "dates": "1914–1984",
+              "text": "Argentine novelist and short-story writer, long based in Paris. Rayuela asks the reader to choose a path through chapters. A free Boom-era studio portrait is hard to license cleanly for this capsule; the Paris and Buenos Aires city photographs carry his geography instead."
+            },
+            {
+              "name": "Mario Vargas Llosa",
+              "dates": "1936–2025",
+              "image": "lessons/latin-american-boom/vargas-llosa.jpg",
+              "alt": "Mario Vargas Llosa in a dark jacket and open-collar shirt, looking slightly aside.",
+              "caption": "Portrait by Manuel González Olaechea (CC BY 3.0). A later public image of the novelist whose 1963 debut helped mark the Boom’s prize years.",
+              "credit": "Manuel González Olaechea y Franco / Wikimedia Commons / CC BY 3.0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Mario_Vargas_Llosa.jpg",
+              "text": "Peruvian novelist. The Time of the Hero is a military-academy novel of overlapping voices, not a magical-realist exhibit. He is essential to the Boom and a reminder that the Boom was never one style."
+            },
+            {
+              "name": "Carlos Fuentes",
+              "dates": "1928–2012",
+              "image": "lessons/latin-american-boom/fuentes-1987.jpg",
+              "alt": "Carlos Fuentes in 1987, grey hair, dark sweater, hand raised near his chin, indoor portrait.",
+              "caption": "Bernard Gotfryd photograph, 1987 (Library of Congress collection; public domain on Commons). Later than Artemio Cruz, still the face of the Mexican Boom novelist.",
+              "credit": "Bernard Gotfryd / Library of Congress / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Carlos_Fuentes_1987.jpg",
+              "text": "Mexican novelist and essayist. The Death of Artemio Cruz rebuilds a life and a nation in shifting grammatical persons; Aura shows how compact uncanny fiction sat beside the doorstop novels."
+            }
+          ]
+        },
+        {
+          "type": "figure",
+          "src": "lessons/latin-american-boom/plaza-mayo.jpg",
+          "alt": "Wide panorama of Buenos Aires’s Plaza de Mayo with the pink Cabildo and Cathedral flanks, trees, and open paved square.",
+          "caption": "Plaza de Mayo, Buenos Aires. Cortázar’s Rayuela splits its life between Paris and Buenos Aires; this square is the Argentine capital as a public fact. The panorama is a city, not a chapter number.",
+          "credit": "The Cosmonaut / Wikimedia Commons / CC BY-SA 2.5 ca",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Plaza_de_Mayo_panorama.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/latin-american-boom/paris-rue-de-seine.jpg",
+          "alt": "Looking up the rue de Seine in Paris toward a cross street, pale stone buildings, parked cars, and a café banner.",
+          "caption": "Rue de Seine, Paris 6th arrondissement. Cortázar’s European decades make Paris half of Rayuela’s geography. The street photograph is an address for exile and translation culture, not a claim that the Boom was a French movement.",
+          "credit": "Ralf.treinen / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Paris,_Rue_de_Seine.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Deepen three objects. First, One Hundred Years of Solitude. The Buendía family repeats names across generations until chronology feels like a loop rather than a ladder. Macondo is founded, thrives, suffers war and foreign companies, and is finally wiped as if memory itself could be stormed away. Extraordinary events — a flying carpet, a girl rising with the laundry — are narrated in the same deadpan register as marriages and murders. That register is why the book became the classroom exhibit for “magical realism.” Honesty still requires a limit: the label’s genealogy runs through Carpentier’s lo real maravilloso and through earlier fantastic writing; and Vargas Llosa’s academy novel or Cortázar’s hopscotch structure are Boom books that do not live or die by that label."
+        },
+        {
+          "type": "p",
+          "text": "Second, Rayuela / Hopscotch. Cortázar prints a table of instructions: one path reads the chapters in order; another hops through a different sequence. Paris and Buenos Aires are not only settings; they are reading climates. The novel’s experiment is the reader’s agency inside a long form — closer, as narrative method, to high modernism’s formal risks than to a tropical brand. Rabassa’s 1966 English version won a National Book Award for translation and became the reason García Márquez was willing to wait for the same translator."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/latin-american-boom/zocalo.jpg",
+          "alt": "Aerial view of Mexico City’s Zócalo: the wide paved square, the Metropolitan Cathedral, and the National Palace under a blue sky.",
+          "caption": "Aerial view of the Zócalo (Plaza de la Constitución), Mexico City. Fuentes’s Boom years are inseparable from this capital’s history and power. The photograph is the square and its monuments — not a still from Artemio Cruz.",
+          "credit": "ProtoplasmaKid / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constituci%C3%B3n_-_Z%C3%B3calo_de_la_Ciudad_de_M%C3%A9xico_-_7.tif"
+        },
+        {
+          "type": "p",
+          "text": "Third, the Boom as a market and translation event. Seix Barral’s prizes and lists, Sudamericana’s 1967 first edition, Rabassa’s English, French and other European translations, U.S. university courses — these made “Latin American literature” a traveling category. The books are real achievements. The category was also sold. Holding both facts at once is the point of this Thursday."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "Other long novels, other publics",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "While Boom novels were crossing the Atlantic, other literatures were not waiting for a Barcelona cue card. In the United States, postmodern experiment produced its own difficult doorstops; Thomas Pynchon’s Gravity’s Rainbow (1973) is a concrete same-decade comparison of scale and formal excess, not a source for Macondo. In Africa, Chinua Achebe’s Things Fall Apart (1958) was already famous when the Boom took off, and Wole Soyinka’s plays and public voice marked Nigerian letters through independence and after. From Latin America looking out, those books were contemporaneous world-literary facts: other languages, other empires ending or mutating, other claims on the long novel and the public stage. In Paris, the French nouveau roman associated with Alain Robbe-Grillet was losing the prestige slot it had held in the 1950s; the Boom’s Spanish-language energy was not a sequel to that fashion."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/latin-american-boom/cartagena-walls.jpg",
+          "alt": "Stone fortification walls of Cartagena, Colombia, with a small white lighthouse tower and people walking along the rampart under a blue sky.",
+          "caption": "City walls of Cartagena, Colombia. A Caribbean port later tied to García Márquez’s public life. Placed here as a Colombian city fact beside the “elsewhere” reminder that Boom fame was international — and that Colombia is not only Macondo.",
+          "credit": "Joe Ross / Flickr / Wikimedia Commons / CC BY-SA 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Las_Murallas,_the_walls_of_Cartagena,_Colombia_(23957251843).jpg"
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Post-Boom, Nobel edge, later refusals",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the early 1970s the Boom label was already thinning under slower sales, aesthetic fatigue, and political fracture. What followed is usually called the post-Boom: writers who inherited an international audience without wanting to repeat Macondo on demand. García Márquez’s 1982 Nobel Prize in Literature belongs in this After paragraph — a global coronation slightly after the core Boom years this lesson maps. Still later, in the 1990s, the McOndo anthology and Mexico’s Crack generation made short, explicit refusals of the export brand of magical realism. Those refusals are a coda, not a second full lesson. The useful after is this: the novels remain; the postcard was always smaller than the shelf."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If a novel’s international life depends on a prize list and a translator’s calendar, what exactly are we praising when we praise “the Boom” — the sentences, or the shipping?"
+        }
+      ]
+    }
+  ]
+}
