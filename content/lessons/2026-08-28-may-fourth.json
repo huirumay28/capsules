@@ -1,0 +1,832 @@
+{
+  "slug": "may-fourth",
+  "date": "2026-08-28",
+  "subject": "history",
+  "related": [
+    "xinhai-revolution",
+    "war-of-resistance"
+  ],
+  "title": "May Fourth (1919): Shandong, a student march, and a treaty China would not sign",
+  "dek": "Beijing students marched on 4 May 1919 after Paris awarded German rights in Shandong to Japan. Strikes and boycotts followed. The Beiyang cabinet dismissed three officials. Chinese delegates left Versailles unsigned.",
+  "era": "1915–1921 (core: May–June 1919)",
+  "reading_minutes": 22,
+  "thumb": {
+    "src": "lessons/may-fourth/tiananmen-march.jpg",
+    "alt": "A dense crowd facing Tiananmen in Beijing, with Chinese banners held above the heads, 4 May 1919."
+  },
+  "hero": {
+    "src": "lessons/may-fourth/tiananmen-march.jpg",
+    "alt": "Crowds gathered before the Tiananmen gate in Beijing during the 4 May 1919 demonstration, banners raised among the heads.",
+    "caption": "Tiananmen, 4 May 1919. Roughly three thousand students from thirteen Beijing schools gathered here to protest the Shandong decision at the Paris Peace Conference. The banner text in the densest part of the crowd includes the characters for a citizens’ assembly. This is a street photograph of a political morning, not a later memorial sculpture.",
+    "credit": "Wikimedia Commons / public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Chinese_protestors_march_against_the_Treaty_of_Versailles_(May_4,_1919).jpg"
+  },
+  "honesty": "May Fourth names a day and a wider season. The political movement of May–June 1919 (Shandong, strikes, the unsigned treaty) sits beside the New Culture Movement that had already been arguing in magazines since 1915. This capsule keeps those two threads distinct and does not treat every later use of “May Fourth spirit” as the same event. Casualty and crowd figures that cannot be sourced here are omitted. The earlier Xinhai Revolution capsule is named only as background; the War of Resistance capsule is later.",
+  "timeline": [
+    {
+      "year": "1915",
+      "label": "Twenty-One Demands / New Youth",
+      "detail": "Japan presented the Twenty-One Demands to Yuan Shikai’s government. In Shanghai, Chen Duxiu launched Youth Magazine, soon retitled New Youth (Xin Qingnian / La Jeunesse)."
+    },
+    {
+      "year": "1917",
+      "label": "China enters the war",
+      "detail": "The Beiyang government declared war on Germany. Chinese labourers went to Europe in the Chinese Labour Corps. Cai Yuanpei’s Peking University gathered Chen Duxiu, Hu Shi, Li Dazhao and others."
+    },
+    {
+      "year": "1918",
+      "label": "Armistice / secret notes",
+      "detail": "The war in Europe ended. Japan already held German positions in Shandong taken in 1914. Sino-Japanese notes and loans under Duan Qirui’s Anhui clique kept Shandong entangled with Tokyo’s wartime leverage."
+    },
+    {
+      "year": "18 Jan 1919",
+      "label": "Paris opens",
+      "detail": "The Paris Peace Conference began. Chinese delegates, including Lu Zhengxiang and V. K. Wellington Koo (Gu Weijun), argued for the return of Shandong."
+    },
+    {
+      "year": "30 Apr 1919",
+      "label": "Shandong to Japan",
+      "detail": "The Council of Four settled German rights in Shandong on Japan. News reached Beijing as a public humiliation of an Allied co-belligerent that had expected restitution."
+    },
+    {
+      "year": "4 May 1919",
+      "label": "Tiananmen",
+      "detail": "Students marched from Tiananmen toward the Legation Quarter, then to Cao Rulin’s house at Zhaojialou. The house was set on fire; Zhang Zongxiang was beaten. Arrests followed."
+    },
+    {
+      "year": "3–5 Jun 1919",
+      "label": "Mass arrests",
+      "detail": "Beijing police arrested large numbers of students. Sidney Gamble photographed Tsinghua students taken into custody on 4 June. The crackdown widened the movement beyond campus."
+    },
+    {
+      "year": "5–12 Jun 1919",
+      "label": "Shanghai strikes",
+      "detail": "Merchants, workers, and students in Shanghai and other cities joined strikes and a boycott of Japanese goods. The commercial center, not only Beijing classrooms, now held the government’s attention."
+    },
+    {
+      "year": "10 Jun 1919",
+      "label": "Three dismissed",
+      "detail": "President Xu Shichang’s government dismissed Cao Rulin, Zhang Zongxiang, and Lu Zongyu—the three officials students had branded traitors."
+    },
+    {
+      "year": "28 Jun 1919",
+      "label": "No Chinese signature",
+      "detail": "At Versailles, the Chinese delegation refused to sign the Treaty of Versailles. Japan still held Shandong for the moment; the refusal was a diplomatic fact forced by domestic pressure."
+    },
+    {
+      "year": "1921–22",
+      "label": "Washington",
+      "detail": "At the Washington Conference, Japan agreed to return Shandong leasehold rights to China under arrangements concluded in 1922. The 1919 street fight had not ended Japanese presence; it had kept the file open."
+    }
+  ],
+  "read": [
+    {
+      "title": "May Fourth Movement — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/May-Fourth-Movement",
+      "note": "Named encyclopedia entry on the protests, Shandong, and the cultural aftermath. A starting reference, not a monograph."
+    },
+    {
+      "title": "The May Fourth Movement — Asia for Educators (Columbia)",
+      "url": "http://afe.easia.columbia.edu/special/china_1900_mayfourth.htm",
+      "note": "Teaching overview with dates and the New Culture context. Useful for classroom orientation."
+    },
+    {
+      "title": "Shantung Question — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Shantung-Question",
+      "note": "Britannica’s entry on the Shandong (Shantung) dispute from 1919 through the Washington settlement."
+    },
+    {
+      "title": "V. K. Wellington Koo — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/V-K-Wellington-Koo",
+      "note": "Biography of the Chinese diplomat who argued Shandong at Paris and later held high offices in the Republic."
+    },
+    {
+      "title": "Chow Tse-tsung — The May Fourth Movement (Harvard University Press)",
+      "url": "https://www.hup.harvard.edu/books/9780674557512",
+      "note": "Publisher page for a standard English-language study of intellectual currents and the 1919 crisis. Buy or borrow; this capsule does not paste the book."
+    },
+    {
+      "title": "Rana Mitter — A Bitter Revolution (Oxford University Press)",
+      "url": "https://global.oup.com/academic/product/a-bitter-revolution-9780192806055",
+      "note": "Publisher page for a later synthesis of May Fourth’s long cultural and political afterlife. Named for further reading."
+    },
+    {
+      "title": "Sidney D. Gamble Photographs — Duke University Libraries",
+      "url": "https://repository.duke.edu/dc/gamble",
+      "note": "Digitized collection including May–June 1919 Beijing street photographs used in contemporary surveys. Primary visual source, not a narrative history."
+    }
+  ],
+  "watch": [
+    {
+      "title": "The May 4th Movement — China: A Century of Revolution (excerpt contexts vary by upload)",
+      "url": "https://www.youtube.com/results?search_query=May+Fourth+Movement+1919+documentary",
+      "note": "Search landing for documentary footage and lectures. Prefer a named public broadcaster or university talk over anonymous clips; verify the title card before treating any upload as authoritative."
+    }
+  ],
+  "fun_fact": {
+    "title": "The Chinese Labour Corps had already paid in Europe",
+    "text": "China’s claim at Paris rested partly on wartime service: tens of thousands of Chinese labourers worked behind Allied lines in France and elsewhere under the Chinese Labour Corps. The Shandong decision treated that contribution as irrelevant to German leaseholds Japan had seized in 1914. Students in Beijing were not inventing a grievance from a newspaper alone; they were answering a settlement that ignored a labour army China had already sent."
+  },
+  "glossary": [
+    {
+      "term": "May Fourth Movement",
+      "aliases": [
+        "May Fourth",
+        "五四运动",
+        "五四運動",
+        "五四"
+      ],
+      "explain": "Political and cultural movement named for the 4 May 1919 Beijing student demonstration against the Shandong decision, widening into strikes and a Chinese refusal to sign Versailles. Often paired with, but not identical to, the New Culture Movement."
+    },
+    {
+      "term": "New Culture Movement",
+      "aliases": [
+        "新文化运动",
+        "新文化運動"
+      ],
+      "explain": "Intellectual reform current from about 1915, centered on magazines such as New Youth, vernacular writing, science, and democracy. It supplied people and vocabulary to May Fourth; it did not begin on 4 May."
+    },
+    {
+      "term": "Shandong Problem",
+      "aliases": [
+        "Shantung Question",
+        "Shandong Question",
+        "山东问题",
+        "山東問題"
+      ],
+      "explain": "Dispute over former German leaseholds and privileges in Shandong province. Japan seized them in 1914; Paris awarded them to Japan in 1919; Washington arrangements in 1922 provided for return to China."
+    },
+    {
+      "term": "Treaty of Versailles",
+      "aliases": [
+        "Versailles Treaty",
+        "Versailles"
+      ],
+      "explain": "Peace treaty with Germany signed 28 June 1919. Articles on Shandong (often cited as Article 156 and neighbors) transferred German rights there to Japan. China did not sign."
+    },
+    {
+      "term": "Paris Peace Conference",
+      "aliases": [
+        "Paris conference",
+        "Paris 1919"
+      ],
+      "explain": "1919 conference of the victorious Allies. China’s delegates sought Shandong’s return and an end to unequal arrangements; the Council of Four decided otherwise on Shandong."
+    },
+    {
+      "term": "Twenty-One Demands",
+      "aliases": [
+        "21 Demands",
+        "二十一条",
+        "二十一條"
+      ],
+      "explain": "Japanese demands presented to Yuan Shikai’s government in 1915, expanding Japanese privileges in China including Shandong. A standing reference in 1919 slogans."
+    },
+    {
+      "term": "Beiyang government",
+      "aliases": [
+        "Beijing government",
+        "北洋政府"
+      ],
+      "explain": "The internationally recognized Republican government in Beijing during the warlord years, dominated by Beiyang Army factions. In 1919 under President Xu Shichang, with Anhui-clique leverage from Duan Qirui’s prior cabinets."
+    },
+    {
+      "term": "Peking University",
+      "aliases": [
+        "Beida",
+        "Beijing University",
+        "北京大学",
+        "北京大學",
+        "北大"
+      ],
+      "explain": "National university in Beijing. Under chancellor Cai Yuanpei it became the main campus of New Culture debate and a core of the 4 May march."
+    },
+    {
+      "term": "New Youth",
+      "aliases": [
+        "Xin Qingnian",
+        "La Jeunesse",
+        "新青年",
+        "Youth Magazine",
+        "青年杂志",
+        "青年雜誌"
+      ],
+      "explain": "Magazine founded by Chen Duxiu in 1915 as Youth Magazine, retitled New Youth. Primary print vehicle for vernacular reform, science, democracy, and literary experiment."
+    },
+    {
+      "term": "baihua",
+      "aliases": [
+        "vernacular Chinese",
+        "白话",
+        "白話"
+      ],
+      "explain": "Written vernacular Chinese promoted by Hu Shi and others against classical wenyan for modern prose, education, and magazines."
+    },
+    {
+      "term": "wenyan",
+      "aliases": [
+        "classical Chinese",
+        "文言"
+      ],
+      "explain": "Classical written Chinese of the examination and elite prose tradition. New Culture writers argued it blocked mass literacy and modern argument."
+    },
+    {
+      "term": "Mr. Science and Mr. Democracy",
+      "aliases": [
+        "Mr. Democracy",
+        "Mr. Science",
+        "德先生",
+        "赛先生",
+        "賽先生"
+      ],
+      "explain": "Chen Duxiu’s nicknames for democracy and science as the reforms China needed. Slogan vocabulary of New Culture, repeated around May Fourth."
+    },
+    {
+      "term": "Chinese Labour Corps",
+      "aliases": [
+        "CLC",
+        "华工",
+        "華工"
+      ],
+      "explain": "Chinese labourers recruited to work for the Allies in Europe during World War I. Their service underpinned China’s claim to a seat and to restitution at Paris."
+    },
+    {
+      "term": "Legation Quarter",
+      "aliases": [
+        "Dongjiaominxiang",
+        "东交民巷",
+        "東交民巷"
+      ],
+      "explain": "Foreign diplomatic district in Beijing. Students on 4 May tried to enter it and were blocked; Boxer Protocol arrangements still limited Chinese police power there."
+    },
+    {
+      "term": "Zhaojialou",
+      "aliases": [
+        "Zhao Family Building",
+        "赵家楼",
+        "趙家樓"
+      ],
+      "explain": "Cao Rulin’s residence in Beijing. Students went there on 4 May 1919; the house was burned and Zhang Zongxiang was assaulted on the premises."
+    },
+    {
+      "term": "Nishihara Loans",
+      "aliases": [
+        "西原借款"
+      ],
+      "explain": "Series of Japanese loans to Duan Qirui’s government during World War I. Critics treated them as mortgaging Chinese interests, including railways and Shandong-related leverage."
+    },
+    {
+      "term": "Anhui clique",
+      "aliases": [
+        "Anfu Club",
+        "皖系"
+      ],
+      "explain": "Beiyang faction associated with Duan Qirui. Dominated cabinets that negotiated closely with Japan during the war years; a political target of May Fourth anger."
+    },
+    {
+      "term": "Washington Conference",
+      "aliases": [
+        "Washington Naval Conference",
+        "1921–22"
+      ],
+      "explain": "International conference in Washington, D.C., 1921–22. Produced arrangements under which Japan returned Shandong leasehold rights to China in 1922."
+    },
+    {
+      "term": "March First Movement",
+      "aliases": [
+        "Samil Movement",
+        "3.1 Movement",
+        "삼일운동",
+        "三一运动",
+        "三一運動"
+      ],
+      "explain": "Korean independence protests beginning 1 March 1919 against Japanese colonial rule. Contemporaneous with China’s May crisis; another colonized public answering the postwar order."
+    },
+    {
+      "term": "Chen Duxiu",
+      "aliases": [
+        "陈独秀",
+        "陳獨秀"
+      ],
+      "explain": "Editor of New Youth (1879–1942). Later a founder of the Chinese Communist Party (1921). Central New Culture voice; not the street commander of 4 May."
+    },
+    {
+      "term": "Hu Shi",
+      "aliases": [
+        "Hu Shih",
+        "胡适",
+        "胡適"
+      ],
+      "explain": "Scholar and essayist (1891–1962). Leading advocate of baihua; professor at Peking University; present in the New Culture cohort photographed with Cai Yuanpei and Li Dazhao in 1920."
+    },
+    {
+      "term": "Lu Xun",
+      "aliases": [
+        "Zhou Shuren",
+        "鲁迅",
+        "魯迅",
+        "周树人",
+        "周樹人"
+      ],
+      "explain": "Writer (1881–1936). “Diary of a Madman” (1918) and other New Youth fiction made vernacular satire a public weapon. Often filed with May Fourth literature though he was not a 4 May march marshal."
+    },
+    {
+      "term": "Cai Yuanpei",
+      "aliases": [
+        "蔡元培"
+      ],
+      "explain": "Educator (1868–1940). Chancellor of Peking University who hired Chen Duxiu, Hu Shi, Li Dazhao and defended a plural faculty. Resigned briefly amid the 1919 crisis, then returned."
+    },
+    {
+      "term": "Li Dazhao",
+      "aliases": [
+        "李大钊",
+        "李大釗"
+      ],
+      "explain": "Librarian and professor at Peking University (1888–1927). Early Chinese Marxist; New Youth contributor; later co-founder of the CCP. Photographed with Cai and Hu in March 1920."
+    },
+    {
+      "term": "V. K. Wellington Koo",
+      "aliases": [
+        "Gu Weijun",
+        "Wellington Koo",
+        "顾维钧",
+        "顧維鈞"
+      ],
+      "explain": "Diplomat (1888–1985). Chinese delegate at Paris who argued Shandong before the conference; later premier and ambassador. The face of China’s legal case abroad."
+    },
+    {
+      "term": "Lu Zhengxiang",
+      "aliases": [
+        "Lou Tseng-Tsiang",
+        "陆征祥",
+        "陸徵祥"
+      ],
+      "explain": "Chinese foreign minister and head of the Paris delegation. Presided over the mission that ultimately withheld China’s signature on 28 June 1919."
+    },
+    {
+      "term": "Cao Rulin",
+      "aliases": [
+        "曹汝霖"
+      ],
+      "explain": "Official (1877–1966), communications minister among other posts. Labeled a pro-Japanese collaborator by protesters; his Zhaojialou house was burned on 4 May; dismissed 10 June 1919."
+    },
+    {
+      "term": "Zhang Zongxiang",
+      "aliases": [
+        "章宗祥"
+      ],
+      "explain": "Diplomat and official (1879–1962), associated with Japan postings. Beaten at Cao’s house on 4 May; dismissed 10 June 1919."
+    },
+    {
+      "term": "Lu Zongyu",
+      "aliases": [
+        "陆宗舆",
+        "陸宗輿"
+      ],
+      "explain": "Official (1876–1941) tied to Sino-Japanese financial arrangements. Third of the “three traitors” dismissed on 10 June 1919."
+    },
+    {
+      "term": "Xu Shichang",
+      "aliases": [
+        "徐世昌"
+      ],
+      "explain": "President of the Republic in Beijing (1855–1939) during the May Fourth crisis. Ordered the 10 June dismissals under nationwide pressure."
+    },
+    {
+      "term": "Duan Qirui",
+      "aliases": [
+        "段祺瑞"
+      ],
+      "explain": "Anhui-clique leader (1865–1936). Premier in the war years; associated with the Nishihara Loans and Japan-facing policy that May Fourth crowds denounced."
+    },
+    {
+      "term": "Yuan Shikai",
+      "aliases": [
+        "袁世凯",
+        "袁世凱"
+      ],
+      "explain": "First formal president after the Qing abdication (1859–1916). Accepted much of the Twenty-One Demands framework in 1915. Named here as Before; see the Xinhai capsule for 1911–12."
+    },
+    {
+      "term": "Fu Sinian",
+      "aliases": [
+        "傅斯年"
+      ],
+      "explain": "Peking University student leader (1896–1950) active in the 4 May demonstration and later a major scholar and academic administrator."
+    },
+    {
+      "term": "Luo Jialun",
+      "aliases": [
+        "罗家伦",
+        "羅家倫"
+      ],
+      "explain": "Student activist and writer (1897–1969) who helped draft the 4 May manifesto circulating among Beijing students."
+    },
+    {
+      "term": "Diary of a Madman",
+      "aliases": [
+        "A Madman's Diary",
+        "狂人日记",
+        "狂人日記"
+      ],
+      "explain": "Lu Xun short story published in New Youth in 1918. Vernacular fiction that reads ritual culture as cannibalism; a New Culture exhibit often taught beside May Fourth."
+    },
+    {
+      "term": "Boxer Protocol",
+      "aliases": [
+        "Xinchou Treaty",
+        "辛丑条约",
+        "辛丑條約"
+      ],
+      "explain": "1901 settlement after the Boxer War. Among other terms, it entrenched foreign privileges in Beijing’s Legation Quarter—the district students could not freely enter on 4 May."
+    },
+    {
+      "term": "warlord years",
+      "aliases": [
+        "Warlord Era",
+        "军阀时代",
+        "軍閥時代"
+      ],
+      "explain": "Period after Yuan Shikai’s death (1916) when regional armies dominated Chinese politics. May Fourth’s Beijing government was one claimant among armed factions."
+    },
+    {
+      "term": "Chinese Communist Party",
+      "aliases": [
+        "CCP",
+        "CPC",
+        "共产党",
+        "共產黨"
+      ],
+      "explain": "Party founded in 1921. Several New Culture figures (Chen Duxiu, Li Dazhao) moved into Marxism after 1919; founding is After, not the march itself."
+    },
+    {
+      "term": "Kuomintang",
+      "aliases": [
+        "KMT",
+        "Nationalist Party",
+        "国民党",
+        "國民黨"
+      ],
+      "explain": "Nationalist party reorganized in the early 1920s under Sun Yat-sen’s late career. Competed with and briefly allied with the CCP; named only as later political weather."
+    },
+    {
+      "term": "Sidney D. Gamble",
+      "aliases": [
+        "Sidney Gamble"
+      ],
+      "explain": "American sociologist and photographer (1890–1968) who documented Beijing life and photographed student arrests and demonstrations in June 1919."
+    },
+    {
+      "term": "Jiang Menglin",
+      "aliases": [
+        "蒋梦麟",
+        "蔣夢麟"
+      ],
+      "explain": "Educator (1886–1964). Appears with Cai Yuanpei, Hu Shi, and Li Dazhao in a March 1920 photograph; later president of Peking University."
+    },
+    {
+      "term": "Woodrow Wilson",
+      "aliases": [
+        "Wilson"
+      ],
+      "explain": "U.S. president (1856–1924) at the Paris Peace Conference. His self-determination rhetoric raised Chinese expectations that Shandong would return; the Council of Four decision did not match those expectations."
+    },
+    {
+      "term": "Sun Yat-sen",
+      "aliases": [
+        "Sun Zhongshan",
+        "孙中山",
+        "孫中山"
+      ],
+      "explain": "Tongmenghui leader and provisional president in 1912 (1866–1925). Named here only as the earlier revolutionary generation; see the Xinhai capsule."
+    },
+    {
+      "term": "Reginald Dyer",
+      "aliases": [
+        "General Dyer"
+      ],
+      "explain": "British Indian Army officer (1864–1927) who ordered the firing at Jallianwala Bagh, Amritsar, on 13 April 1919."
+    },
+    {
+      "term": "Jallianwala Bagh massacre",
+      "aliases": [
+        "Amritsar massacre",
+        "Jallianwala Bagh"
+      ],
+      "explain": "13 April 1919 killing of hundreds of civilians in Amritsar when troops fired on a crowd in an enclosed garden. Named in Elsewhere as a contemporaneous imperial crisis."
+    },
+    {
+      "term": "Egyptian Revolution of 1919",
+      "aliases": [
+        "Egypt 1919"
+      ],
+      "explain": "Nationwide uprising in Egypt in 1919 against the British protectorate, contemporaneous with May Fourth and March First."
+    },
+    {
+      "term": "Council of Four",
+      "aliases": [
+        "Big Four"
+      ],
+      "explain": "Lloyd George, Clemenceau, Orlando, and Wilson deciding major Paris Peace Conference questions, including Shandong’s assignment to Japan."
+    },
+    {
+      "term": "Boxer War",
+      "aliases": [
+        "Boxer Rebellion",
+        "Boxer Uprising"
+      ],
+      "explain": "1899–1901 crisis ending in the Boxer Protocol. Background to Legation Quarter privileges still blocking students in 1919."
+    },
+    {
+      "term": "War of Resistance",
+      "aliases": [
+        "Second Sino-Japanese War",
+        "抗日战争",
+        "抗日戰爭"
+      ],
+      "explain": "Full-scale Sino-Japanese war from 1937 (earlier local fighting from 1931). Later capsule in this archive; named only as the longer Japanese advance after Washington’s paper settlement."
+    },
+    {
+      "term": "Xinhai Revolution",
+      "aliases": [
+        "1911 Revolution",
+        "辛亥革命"
+      ],
+      "explain": "1911–12 revolution that ended Qing rule. Prior Friday capsule in this archive; May Fourth’s republic is that revolution’s unfinished sequel."
+    },
+    {
+      "term": "Tsinghua School",
+      "aliases": [
+        "Tsinghua",
+        "Qinghua",
+        "清华",
+        "清華",
+        "清华大学",
+        "清華大學"
+      ],
+      "explain": "School in Beijing (later Tsinghua University). Site of the photographed Japanese-goods bonfire and of student arrests Gamble recorded on 4 June 1919."
+    },
+    {
+      "term": "Qunyi Book Company",
+      "aliases": [
+        "群益书社",
+        "群益書社"
+      ],
+      "explain": "Shanghai publisher that printed New Youth in its early years."
+    },
+    {
+      "term": "Rowlatt Act",
+      "aliases": [
+        "Rowlatt Bills"
+      ],
+      "explain": "1919 British Indian legislation extending wartime emergency powers. Context for the Amritsar-season protests named in Elsewhere."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A magazine war on classical prose, and a province already under Japanese guns",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1919 the Qing had been gone for eight years, but the republic that replaced it had not settled who ruled. Yuan Shikai was dead. Provincial armies bargained and fought. The internationally recognized government sat in Beijing and still had to borrow, still had to answer foreign ministries, and still lived with the unequal treaties the Qing had signed. Students who had grown up reading about the 1911 Revolution now watched cabinets rotate under warlord pressure. The earlier capsule on the Xinhai Revolution ends with that bargain: a dynasty gone, an army still in charge. May Fourth begins further down the same road."
+        },
+        {
+          "type": "p",
+          "text": "The Beiyang Army that Yuan had built had split into cliques. Duan Qirui’s Anhui faction used Japanese money and munitions during the World War and left a paper trail students could quote. When cabinets changed, the Shandong file and the loan file did not vanish. Readers of Shanghai and Beijing papers in 1918–19 already knew the names Cao Rulin and Zhang Zongxiang as men who handled Japan-facing business for the state. The 4 May crowd did not invent those names from rumor alone."
+        },
+        {
+          "type": "p",
+          "text": "Japan had taken Germany’s positions in Shandong in 1914, early in the World War. In 1915 Tokyo presented the Twenty-One Demands to Yuan’s government. Chinese public memory kept that file open. During the war, Duan Qirui’s Anhui clique took Japanese loans—the Nishihara Loans among them—that critics read as selling leverage over railways and Shandong-related interests. When China entered the war against Germany in 1917, the wager was explicit: Allied victory should mean the return of German rights in China to China. Chinese labourers in the Chinese Labour Corps went to Europe on that implicit promise."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/xin-qingnian-cover.jpg",
+          "alt": "Cover of New Youth (Xin Qingnian / La Jeunesse), volume 2 number 1, September 1916, naming Chen Duxiu as editor and listing essays including Li Dazhao’s “Youth.”",
+          "caption": "New Youth, vol. 2 no. 1 (September 1916), published in Shanghai by the Qunyi Book Company. The red masthead still carries the French subtitle La Jeunesse. Chen Duxiu is named as editor. The contents list includes Chen’s “New Youth,” Li Dazhao’s “Youth,” and a Hu Shi translation. This is the print culture already running before anyone marched to Tiananmen.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E9%9D%92%E5%B9%B4%E5%B0%81%E9%9D%A2.jpg"
+        },
+        {
+          "type": "p",
+          "text": "At the same time a different fight was underway in Chinese print. In 1915 Chen Duxiu founded Youth Magazine in Shanghai and soon renamed it New Youth. The magazine attacked classical wenyan as a dead circuit for modern argument, promoted baihua, and borrowed the nicknames “Mr. Science” and “Mr. Democracy.” Cai Yuanpei, chancellor of Peking University, hired Chen as a dean, brought Hu Shi back from American study to teach, and kept Li Dazhao in the library. Lu Xun’s “Diary of a Madman” appeared in New Youth in 1918. None of that was yet a street movement. It was a faculty and a subscriber list teaching readers to distrust inherited authority—including the authority that would soon sign, or refuse to sign, a European peace."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/cai-yuanpei.jpg",
+          "alt": "Studio portrait of Cai Yuanpei in a dark high-collared jacket, facing slightly left.",
+          "caption": "Cai Yuanpei, Library of Congress portrait (undated crop). The man who made Peking University a hiring hall for New Culture editors and professors. Without that campus, 4 May would have been a thinner march.",
+          "credit": "Library of Congress / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Cai_Yuanpei-loc-nodate-crop.jpg"
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "Paris gave Shandong to Japan; Beijing answered in the street",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Paris Peace Conference opened in January 1919. China’s delegation—Lu Zhengxiang at its head, with V. K. Wellington Koo among the eloquent younger diplomats—asked for the return of German rights in Shandong and for relief from the broader unequal order. Japan arrived with wartime seizures and with Allied secret understandings already in hand. On 30 April 1919 the Council of Four awarded German privileges in Shandong to Japan. Woodrow Wilson’s public language about self-determination did not cover this file. The news hit Beijing as betrayal: China had joined the Allies and sent labourers; the peace still transferred a Chinese province’s stolen leases to another empire."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/versailles-hall-1919.jpg",
+          "alt": "The Hall of Mirrors at the Palace of Versailles filled with officials and furniture arranged for the 1919 peace treaty ceremonies.",
+          "caption": "Hall of Mirrors, Versailles, 1919. The room where the German treaty was staged. China’s drama that spring was whether its delegates would put a signature on a text that wrote Shandong over to Japan.",
+          "credit": "U.S. Signal Corps / National Archives / Wikimedia Commons / no known restrictions",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Versailles_-_Hall_of_Mirrors_1919.jpg"
+        },
+        {
+          "type": "p",
+          "text": "On the afternoon of 4 May, about three thousand students from thirteen Beijing schools gathered at Tiananmen. Slogans demanded external sovereignty and the removal of “national traitors” at home—Cao Rulin, Zhang Zongxiang, and Lu Zongyu. The march moved toward the Legation Quarter and was stopped; Boxer Protocol geography still made that district a foreign-policed island. The crowd then went to Cao Rulin’s house at Zhaojialou. The house was set on fire. Zhang Zongxiang, found there, was beaten. Police arrested students. Within days the protest was no longer only a Peking University story. Telegrams, newspapers, and student unions carried it to Tianjin, Shanghai, and provincial cities."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/beijing-students-parade.jpg",
+          "alt": "A long column of Beijing students marching in the street during the May Fourth protests of 1919.",
+          "caption": "Beijing students in column during the May Fourth protests, 1919. A second street view beside the Tiananmen crowd photograph: the movement as a parade of school uniforms and banners, not only a static square.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Beijing_students_protesting_the_Treaty_of_Versailles_(May_4,_1919).jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/may-fourth-students.jpg",
+          "alt": "Group of May Fourth Movement students posing outdoors in dark school uniforms and caps.",
+          "caption": "Students associated with the May Fourth Movement, period photograph. Faces and school caps rather than a panoramic square: the generation New Youth had been addressing in print now stood in formation for the camera.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:May_Fourth_Movement_students.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Early June raised the cost. On 3–5 June Beijing authorities arrested students in large numbers. Sidney D. Gamble, photographing for social-survey work, recorded Tsinghua students taken into custody on 4 June. The arrests did not end the movement. They advertised it. In Shanghai, merchants closed shops, workers struck, and students stayed out of class—the “three strikes” that turned a capital demonstration into a national commercial emergency. Boycotts of Japanese goods spread; at Tsinghua School, students burned Japanese merchandise in a courtyard bonfire that was itself photographed as politics."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/arrested-students.jpg",
+          "alt": "Uniformed young men walking in a Beijing street under escort during the student arrests of 4 June 1919, with shop fronts and a motorcar behind them.",
+          "caption": "4 June 1919, Beijing—Sidney D. Gamble’s photograph labeled as Tsinghua students under arrest. The light uniforms and peaked caps are school and drill dress of the period; the street, the motorcar, and the shop fronts fix the date in a commercial city, not a battlefield.",
+          "credit": "Sidney D. Gamble / Duke University Libraries / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Arrested_Students_Going_to_Jail.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/burn-japanese-goods-tsinghua.jpg",
+          "alt": "A large circle of people surrounding a bonfire of goods on the grounds of Tsinghua School in 1919.",
+          "caption": "Burning Japanese goods at Tsinghua School, 1919. Boycott as spectacle: a cleared circle, a fire in the middle, institutional buildings behind. Economic pressure with an audience.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Burn_Japanese_goods,_Tsinghua_School,_1919.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/female-students-demo.jpg",
+          "alt": "Female students standing in a group during a May Fourth demonstration in 1919.",
+          "caption": "Female students in a 1919 demonstration linked to May Fourth. The movement’s public face was never only male Beida cadres; women’s schools and associations joined marches and boycotts as the protest widened.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Female_students_participate_in_demonstration_as_part_of_the_May_Fourth_Movement,_in_1919.jpg"
+        },
+        {
+          "type": "p",
+          "text": "On 10 June the Beijing government dismissed Cao Rulin, Zhang Zongxiang, and Lu Zongyu. Strikes eased because the named domestic targets had fallen. The Shandong clause in the draft treaty did not disappear. What remained was the signature. Chinese students and workers in France surrounded the delegation with petitions and threats of shame. On 28 June 1919, when other Allied representatives signed in the Hall of Mirrors, the Chinese delegates did not. Japan still occupied the leaseholds and would for three more years. The refusal was nonetheless a diplomatic fact produced by a domestic movement that had begun with a student march two months earlier and had learned, in Shanghai especially, how to close a city."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/june-demo-1.jpg",
+          "alt": "Students demonstrating in a Beijing street in early June 1919, photographed for Sidney Gamble’s survey work.",
+          "caption": "Student demonstration, 4–5 June 1919, from the Gamble survey photographs. The June days matter as much as 4 May: arrests, wider marches, and the turn toward Shanghai’s strikes.",
+          "credit": "Sidney D. Gamble / Duke University Libraries / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Student_Demonstrations,_June_4th_and_5th,_1919_1.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/wellington-koo.jpg",
+          "alt": "Photogravure portrait of Chinese diplomat V. K. Wellington Koo in formal Western dress.",
+          "caption": "V. K. Wellington Koo (Gu Weijun), Library of Congress photogravure. The diplomat who put China’s Shandong case into the language of the Paris conference. The unsigned treaty was also his file.",
+          "credit": "Library of Congress / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Chinese_diplomat_V.K._Wellington_Koo_LCCN2016650287.jpg"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "Editors, a vernacular, and three careers that outlived the march",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "May Fourth is often taught as if the magazine and the march were one thing. They were neighbors. Chen Duxiu had already spent years telling young readers to drop classical habits. Hu Shi had already published the case for baihua. Lu Xun had already put cannibalism into a madman’s diary as a judgment on ritual culture. On 4 May, student organizers such as Fu Sinian and Luo Jialun turned that trained anger toward a specific diplomatic text and three named officials. The “how it showed up” is concrete: telegrams, school unions, shop closures, bonfires of imports, and a foreign ministry that discovered it could not sign in peace."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/cai-hu-li-1920.jpg",
+          "alt": "Four men standing outdoors in March 1920: Jiang Menglin, Cai Yuanpei, Hu Shi, and Li Dazhao, left to right.",
+          "caption": "14 March 1920, Beijing (Wofosi). Left to right: Jiang Menglin, Cai Yuanpei, Hu Shi, Li Dazhao. A New Culture faculty line-up photographed less than a year after the march—administration, vernacular reform, and early Marxism in one frame.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Jiang_Menglin,_Cai_Yuanpei,_Hu_Shih_and_Li_Dazhao.jpg"
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Chen Duxiu 陈独秀",
+              "dates": "1879–1942",
+              "image": "lessons/may-fourth/chen-duxiu.jpg",
+              "alt": "Young Chen Duxiu in a dark jacket, studio portrait.",
+              "caption": "Chen Duxiu as a young man. The face of New Youth’s masthead long before he became a party founder.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Chen_Duxiu_young.jpg",
+              "text": "Anhui-born essayist and editor who founded New Youth and turned it into the decade’s loudest Chinese magazine of reform. At Peking University he held a dean’s post under Cai Yuanpei. He was not the field marshal of the 4 May march; he was the man whose pages had already taught students to treat Confucius, classical prose, and meek diplomacy as problems with names. After 1919 he moved into Marxism and helped found the Chinese Communist Party in 1921, then lost that leadership in the later 1920s. For this capsule he matters as the editor who made “Mr. Science” and “Mr. Democracy” portable slogans."
+            },
+            {
+              "name": "Hu Shi 胡适",
+              "dates": "1891–1962",
+              "image": "lessons/may-fourth/hu-shi.jpg",
+              "alt": "Portrait of Hu Shi in a dark jacket and tie, facing the camera.",
+              "caption": "Hu Shi (Hu Shih). The vernacular program’s most cited advocate among the Beida faculty.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Hu_Shih.jpg",
+              "text": "Educated in part in the United States, Hu returned to Peking University as a professor and argued that China needed literature and argument in the language people spoke. His essays for New Youth made baihua a program, not a taste. He was photographed in 1920 with Cai Yuanpei and Li Dazhao; he was not a street fighter of 4 May. His later career—diplomacy, scholarship, Taiwan academic leadership—belongs to After. Here he is the reason a political crisis arrived in a reading public already primed to distrust classical authority."
+            },
+            {
+              "name": "Lu Xun 鲁迅",
+              "dates": "1881–1936",
+              "image": "lessons/may-fourth/lu-xun-1930.jpg",
+              "alt": "Lu Xun seated at a desk in 1930, short hair, mustache, looking toward the camera.",
+              "caption": "Lu Xun, 1930. A later portrait than 1918–19; the writer New Youth readers already knew from “Diary of a Madman.”",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:LuXun1930.jpg",
+              "text": "Zhou Shuren wrote under the name Lu Xun. “Diary of a Madman,” published in New Youth in 1918, used vernacular fiction to accuse ritual China of eating its young. He was in Beijing during the May Fourth years and became the movement’s most durable literary name, though he did not command the Tiananmen column. Read him here as evidence that May Fourth’s “culture” had already produced a style—cold, concrete, anti-ceremonial—before the Shandong telegram arrived."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Diplomacy had its own cast. Wellington Koo argued Shandong as a legal and moral claim in Paris. Lu Zhengxiang headed a delegation that finally withheld the signature. Xu Shichang’s presidency dismissed the three officials when Shanghai’s strikes made academic arrests look cheap. The movement’s power was not that students invented foreign policy. It was that they could raise the domestic price of accepting a humiliating clause until the foreign ministry blinked."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "Korea’s March First, India’s Amritsar spring, and a peace that redistributed colonies",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "May Fourth was not China’s private quarrel with a map. In March 1919, two months earlier, Koreans had launched the March First Movement against Japanese colonial rule—mass readings of a declaration of independence, protests in Seoul and the provinces, and a Japanese crackdown that filled prisons. Chinese students reading about Shandong already knew Japan as an empire with a Korean colony next door. The same spring’s imperial police problem had more than one address."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/may-fourth/korea-independence-1919.jpg",
+          "alt": "A large crowd in light clothing gathered in an open square with mountains behind, from a 1919 publication on Korean independence.",
+          "caption": "Crowd scene reproduced in the 1919 French pamphlet L’Indépendance de la Corée et la Paix. A visual from the Korean independence agitation of that year—the March First season—running beside China’s May crisis under the same Japanese imperial horizon.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Ind%C3%A9pendance_de_la_Cor%C3%A9e_et_la_Paix-02.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In India, 13 April 1919 brought the Jallianwala Bagh massacre at Amritsar: troops under Brigadier-General Reginald Dyer fired on a crowd gathered in an enclosed garden, killing hundreds. The shooting followed agitation against the Rowlatt Act’s emergency powers. Egypt’s 1919 revolution against the British protectorate filled the same months with strikes, petitions, and rural unrest. Paris spoke about nationality in the conference halls; several empires answered mass politics with ordinances and rifles in cities they still administered."
+        },
+        {
+          "type": "p",
+          "text": "Inside Europe the German treaty redistributed colonies and borderlands while revolutions and republics scrambled the map. Chinese newspapers followed Versailles as both a European settlement and a test of whether “China among the Allies” meant anything. The unsigned Chinese page is easier to understand when set beside Korea’s March protests and India’s Amritsar spring: different empires, same year, publics that refused to treat the peace as a closed file."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Vernacular stuck; parties formed; Shandong returned on paper in 1922",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Baihua did not retreat when the strikes ended. Schoolbooks, newspapers, and fiction increasingly used the vernacular New Youth had championed. “May Fourth” became a label for a generation and a style of cultural politics, sometimes stretched far beyond May–June 1919. That stretch is historical fact and also a risk: later parties and textbooks drafted the day for their own lineages."
+        },
+        {
+          "type": "p",
+          "text": "Student unions and commercial boycott habits outlasted June. So did a sharper split among intellectuals who had shared New Youth pages. The question was no longer only classical versus vernacular. It was which organization could claim the nationalist public May Fourth had revealed—party cells, liberal associations, or the reconstituted Kuomintang. That fight fills the 1920s; this capsule only marks the fork."
+        },
+        {
+          "type": "p",
+          "text": "Organizationally the aftermath split. Some New Culture figures moved toward Marxism; Chen Duxiu and Li Dazhao helped found the Chinese Communist Party in 1921. Others stayed with liberal reform, scholarship, or the reorganized Kuomintang under Sun Yat-sen’s last years. The warlord map did not vanish. What changed was the available public: students, merchants, and workers had practiced a national boycott and watched a cabinet dismiss officials under pressure."
+        },
+        {
+          "type": "p",
+          "text": "Shandong’s legal status shifted again at the Washington Conference of 1921–22. Japan agreed to arrangements returning the former German leasehold rights to China in 1922. That settlement did not cancel Japanese power in the region for all time—the later War of Resistance capsule begins from a longer Japanese advance—but it closed the specific 1919 Versailles clause that students had marched against. The street had not expelled Japanese forces in June 1919. It had kept Chinese refusal audible until another conference rewrote the paper."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If a student march could stop a signature but not immediately empty Japanese barracks in Shandong, what exactly did May Fourth win—and who got to inherit that win in the decades that followed?"
+        }
+      ]
+    }
+  ]
+}
