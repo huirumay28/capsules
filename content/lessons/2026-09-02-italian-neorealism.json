@@ -1,0 +1,728 @@
+{
+  "slug": "italian-neorealism",
+  "date": "2026-09-02",
+  "subject": "film",
+  "related": [
+    "french-new-wave",
+    "taiwan-new-cinema"
+  ],
+  "title": "Italian Neorealism (c. 1943–1952): streets after the studios go dark",
+  "dek": "Fascism collapsed, Cinecittà was bombed and then filled with refugees, and Italian filmmakers took cameras into ruined streets with non-professionals and thin budgets. Critics later named the cluster neorealism — a fuzzy historians’ label for about a decade of films that treated occupation, unemployment, and ordinary faces as cinema’s subject.",
+  "era": "c. 1943–1952",
+  "reading_minutes": 23,
+  "thumb": {
+    "src": "lessons/italian-neorealism/de-sica-1962.jpg",
+    "alt": "Vittorio De Sica at Schiphol Airport in 1962, in a dark coat, looking down while standing near a counter."
+  },
+  "hero": {
+    "src": "lessons/italian-neorealism/rome-colosseum-1944.jpg",
+    "alt": "Two British soldiers resting on stone blocks outside the Colosseum in Rome, June 1944, with the amphitheatre rising behind them.",
+    "caption": "British soldiers on leave outside the Colosseum, Rome, June 1944 — weeks after the city was liberated. This is an official War Office photograph of wartime Rome’s streets and monuments, not a still from Rome Open City. Neorealist cameras worked in the same ruined, occupied, then liberated city in these years.",
+    "credit": "Tanner (Capt), War Office / Imperial War Museums / public domain (UK Government)",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:British_soldiers_visit_the_Colosseum_while_on_leave_in_Rome,_June_1944._TR1960.jpg"
+  },
+  "honesty": "“Italian neorealism” is a critics’ and historians’ name with fuzzy edges, not a membership card and not a single manifesto that every director signed. Luchino Visconti’s Ossessione (1943) is often cited as a precursor made under fascism; Roberto Rossellini’s Rome Open City (1945) is the usual wartime hinge that international audiences noticed; Vittorio De Sica’s Bicycle Thieves (1948) and Umberto D. (1952) mark the postwar peak and late austerity. By the early 1950s the cluster was already sliding into comedy, melodrama, and what later writers called “pink neorealism.” Location shooting, non-professionals, and poverty stories were habits and pressures, not a checklist every film passed. French New Wave filmmakers later claimed these films as ancestors; Taiwan New Cinema is a much later relative that also turned local streets into form — influence traveled, but Rome 1945 is not Taipei 1982. Film stills are usually still in copyright, so the pictures here are portraits, wartime exteriors, a later Cinecittà gate, and a free Porta Portese photograph, captioned as what they actually show. No AI people.",
+  "timeline": [
+    {
+      "year": "1937–43",
+      "label": "Cinecittà / white telephones",
+      "detail": "Mussolini’s Cinecittà opens in 1937. Studio genres and “white telephone” comedies dominate; Visconti’s Ossessione (1943) already looks unlike that polish."
+    },
+    {
+      "year": "1943–45",
+      "label": "War hinge",
+      "detail": "Allied invasion of Italy, fall of fascism in the south, German occupation of Rome, liberation of the capital (June 1944). Cinecittà is damaged and later used as a displaced-persons camp."
+    },
+    {
+      "year": "1945–46",
+      "label": "Open City / Paisan / Shoeshine",
+      "detail": "Rossellini’s Rome Open City (1945) and Paisan (1946). De Sica’s Shoeshine (1946). International festivals and critics begin to group the films."
+    },
+    {
+      "year": "1948",
+      "label": "Bicycle Thieves / La Terra Trema",
+      "detail": "De Sica’s Bicycle Thieves. Visconti’s La Terra Trema in Sicily with non-professional fishermen. Christian Democrats defeat the Popular Front in Italy’s April elections — the political weather around the screens."
+    },
+    {
+      "year": "1948–50",
+      "label": "Germany Year Zero / Miracle in Milan",
+      "detail": "Rossellini’s Germany Year Zero (1948) in ruined Berlin. De Sica and Zavattini’s Miracle in Milan (1951) bends neorealism toward fable."
+    },
+    {
+      "year": "1952–55",
+      "label": "Late edge / pink turn",
+      "detail": "Umberto D. (1952) as late austerity. Commercial comedy and melodrama reclaim audiences; “pink neorealism” and later comedies inherit the street look without the same social bite. Fellini and Antonioni move past the label."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Rome Open City — Criterion film page",
+      "url": "https://www.criterion.com/films/975-rome-open-city",
+      "note": "Rossellini, 1945. Licensed home-video edition. This capsule does not link a pirated full film."
+    },
+    {
+      "title": "Paisan — Criterion film page",
+      "url": "https://www.criterion.com/films/2415-paisan",
+      "note": "Rossellini, 1946. Six episodes of liberation Italy. Licensed edition."
+    },
+    {
+      "title": "Roberto Rossellini’s War Trilogy — Criterion box set",
+      "url": "https://www.criterion.com/boxsets/689-roberto-rossellini-s-war-trilogy",
+      "note": "Rome Open City, Paisan, and Germany Year Zero together. Licensed catalogue page."
+    },
+    {
+      "title": "Bicycle Thieves — Criterion film page",
+      "url": "https://www.criterion.com/films/210-bicycle-thieves",
+      "note": "De Sica, 1948. Spine #374. Licensed edition."
+    },
+    {
+      "title": "Umberto D. — Criterion film page",
+      "url": "https://www.criterion.com/films/371-umberto-d",
+      "note": "De Sica, 1952. Late neorealist austerity; licensed edition."
+    },
+    {
+      "title": "BFI — Rome, Open City feature",
+      "url": "https://www.bfi.org.uk/features/rome-open-city-roberto-rossellinis-great-leap-realism-screen",
+      "note": "Essay on Rossellini’s wartime hinge and how neorealism was named afterward."
+    },
+    {
+      "title": "BFI — 10 great Italian neorealist films",
+      "url": "https://www.bfi.org.uk/lists/10-great-italian-neorealist-films",
+      "note": "Curated overview of titles across the fuzzy decade, not a piracy link."
+    },
+    {
+      "title": "Criterion Current — Rome Open City: A Star Is Born",
+      "url": "https://www.criterion.com/current/posts/1356-rome-open-city-a-star-is-born",
+      "note": "Essay on Magnani, Amidei, Fellini’s script help, and the film’s making."
+    },
+    {
+      "title": "Criterion Current — Germany Year Zero essay",
+      "url": "https://www.criterion.com/current/posts/1358-germany-year-zero-the-humanity-of-the-defeated",
+      "note": "Essay on the third War Trilogy film and postwar Berlin."
+    }
+  ],
+  "fun_fact": {
+    "title": "Cinecittà housed refugees among the sets",
+    "text": "Mussolini opened Cinecittà — “cinema city” — outside Rome in 1937 as a flagship studio. Allied bombing damaged the complex; after liberation the Allies and relief agencies used parts of it as a displaced-persons camp. Refugees slept in sound stages and among props while Italy’s commercial film industry was still scrambling. The same years that critics later called neorealist were years when Europe’s largest studio lot was also emergency housing. The photograph here is a later entrance exterior, not a 1945 camp interior — the institutional fact is the point.",
+    "image": {
+      "src": "lessons/italian-neorealism/cinecitta-entrance.jpg",
+      "alt": "The monumental entrance gate of Cinecittà studios in Rome, with the name carved in stone and a tree at left.",
+      "caption": "Cinecittà’s entrance, photographed in 2011. The gate is later tourist and studio architecture. In 1945–47 parts of this complex housed displaced persons after wartime damage — the industrial backdrop for the decade when Italian cameras left the soundstage for the street.",
+      "credit": "JRibaX / Wikimedia Commons / CC BY-SA 3.0",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Cinecitt%C3%A0_-_Entrance.jpg"
+    }
+  },
+  "glossary": [
+    {
+      "term": "Italian neorealism",
+      "explain": "Critics’ and historians’ name for a fuzzy cluster of Italian films roughly 1943–1952: location shooting, working-class stories, often non-professionals, made in the wreckage and aftermath of fascism and World War II.",
+      "aliases": [
+        "neorealism",
+        "Italian Neo-Realism",
+        "Neorealismo",
+        "neorealismo"
+      ]
+    },
+    {
+      "term": "white telephone films",
+      "explain": "Fascist-era Italian studio comedies and light dramas associated with glamorous interiors and white prop telephones — the polished escapism neorealist films were later said to reject.",
+      "aliases": [
+        "telefoni bianchi",
+        "white telephone",
+        "white-telephone"
+      ]
+    },
+    {
+      "term": "Cinecittà",
+      "explain": "Major Roman film studio complex opened under Mussolini in 1937. Bombed in the war, used afterward as a displaced-persons camp, then rebuilt as Italy’s Hollywood.",
+      "aliases": [
+        "Cinecitta",
+        "Cinema City"
+      ]
+    },
+    {
+      "term": "Ossessione",
+      "explain": "Luchino Visconti’s 1943 debut feature, adapted without rights from James M. Cain’s The Postman Always Rings Twice. Often cited as a neorealist precursor made under fascism."
+    },
+    {
+      "term": "Rome Open City",
+      "explain": "Roberto Rossellini’s 1945 film about Resistance and German occupation in Rome. International breakthrough often treated as neorealism’s wartime hinge.",
+      "aliases": [
+        "Roma città aperta",
+        "Roma, città aperta",
+        "Open City"
+      ]
+    },
+    {
+      "term": "Paisan",
+      "explain": "Rossellini’s 1946 episodic film following the Allied advance up the Italian peninsula in six stories.",
+      "aliases": [
+        "Paisà",
+        "Paisa"
+      ]
+    },
+    {
+      "term": "Germany Year Zero",
+      "explain": "Rossellini’s 1948 War Trilogy finale, set in ruined Berlin and centered on a boy amid black markets and moral collapse.",
+      "aliases": [
+        "Germania anno zero",
+        "Deutschland im Jahre Null"
+      ]
+    },
+    {
+      "term": "War Trilogy",
+      "explain": "Common grouping of Rome Open City, Paisan, and Germany Year Zero.",
+      "aliases": [
+        "Rossellini War Trilogy",
+        "Rossellini’s War Trilogy"
+      ]
+    },
+    {
+      "term": "Bicycle Thieves",
+      "explain": "Vittorio De Sica’s 1948 film about a Roman worker and his son searching for a stolen bicycle needed for a job. Cesare Zavattini among the writers.",
+      "aliases": [
+        "Ladri di biciclette",
+        "The Bicycle Thief"
+      ]
+    },
+    {
+      "term": "Umberto D.",
+      "explain": "De Sica’s 1952 film about an elderly pensioner and his dog in Rome — often treated as late, austere neorealism.",
+      "aliases": [
+        "Umberto D"
+      ]
+    },
+    {
+      "term": "Shoeshine",
+      "explain": "De Sica’s 1946 film about two boys shining shoes for American soldiers and drifting into crime and reformatory life.",
+      "aliases": [
+        "Sciuscià",
+        "Sciuscia"
+      ]
+    },
+    {
+      "term": "La Terra Trema",
+      "explain": "Visconti’s 1948 Sicily film about fishermen, shot with non-professionals speaking dialect, loosely after Giovanni Verga.",
+      "aliases": [
+        "The Earth Trembles",
+        "La terra trema"
+      ]
+    },
+    {
+      "term": "Miracle in Milan",
+      "explain": "De Sica and Zavattini’s 1951 film that bends neorealist poverty into fable and fantasy.",
+      "aliases": [
+        "Miracolo a Milano"
+      ]
+    },
+    {
+      "term": "Bitter Rice",
+      "explain": "Giuseppe De Santis’s 1949 rice-field melodrama — popular, sexy, and often filed at the edge of neorealism.",
+      "aliases": [
+        "Riso amaro"
+      ]
+    },
+    {
+      "term": "pink neorealism",
+      "explain": "Later label for early-1950s Italian films that kept street textures and ordinary faces while softening into comedy and romance as audiences tired of grim stories.",
+      "aliases": [
+        "neorealismo rosa",
+        "pink neo-realism"
+      ]
+    },
+    {
+      "term": "Roberto Rossellini",
+      "explain": "Director (1906–1977). Rome Open City, Paisan, Germany Year Zero; later films with Ingrid Bergman; major influence on French New Wave critics.",
+      "aliases": [
+        "Rossellini"
+      ]
+    },
+    {
+      "term": "Vittorio De Sica",
+      "explain": "Actor-director (1901–1974). Shoeshine, Bicycle Thieves, Miracle in Milan, Umberto D., usually with Cesare Zavattini writing.",
+      "aliases": [
+        "De Sica"
+      ]
+    },
+    {
+      "term": "Luchino Visconti",
+      "explain": "Director (1906–1976). Ossessione (1943), La Terra Trema (1948); later Senso, Rocco and His Brothers, The Leopard — aristocratic Marxist who helped invent the look.",
+      "aliases": [
+        "Visconti"
+      ]
+    },
+    {
+      "term": "Cesare Zavattini",
+      "explain": "Screenwriter and theorist (1902–1989). Partner to De Sica; essay “Some Ideas on the Cinema” (1952/53) argued for filming everyday duration instead of invented plots.",
+      "aliases": [
+        "Zavattini"
+      ]
+    },
+    {
+      "term": "Federico Fellini",
+      "explain": "Writer-director (1920–1993). Script help on Rome Open City and Paisan; early features (Variety Lights, The White Sheik, I Vitelloni) sit at neorealism’s edge before La Strada and the later fantasy films.",
+      "aliases": [
+        "Fellini"
+      ]
+    },
+    {
+      "term": "Michelangelo Antonioni",
+      "explain": "Director (1912–2007). Documentaries and early features in the neorealist years; later Il Grido and the 1960s modernism (L’Avventura) leave the label behind.",
+      "aliases": [
+        "Antonioni"
+      ]
+    },
+    {
+      "term": "Anna Magnani",
+      "explain": "Actress (1908–1973). Pina in Rome Open City; face of wartime Rome for international audiences.",
+      "aliases": [
+        "Magnani"
+      ]
+    },
+    {
+      "term": "Aldo Fabrizi",
+      "explain": "Actor (1905–1990). The priest Don Pietro in Rome Open City.",
+      "aliases": [
+        "Fabrizi"
+      ]
+    },
+    {
+      "term": "Lamberto Maggiorani",
+      "explain": "Non-professional lead of Bicycle Thieves; a factory worker cast as Antonio Ricci.",
+      "aliases": [
+        "Maggiorani"
+      ]
+    },
+    {
+      "term": "Enzo Staiola",
+      "explain": "Child actor who plays Bruno, Antonio’s son, in Bicycle Thieves.",
+      "aliases": [
+        "Staiola"
+      ]
+    },
+    {
+      "term": "Carlo Battisti",
+      "explain": "Linguistics professor cast as the title pensioner in Umberto D.",
+      "aliases": [
+        "Battisti"
+      ]
+    },
+    {
+      "term": "Sergio Amidei",
+      "explain": "Screenwriter closely tied to Rome Open City and other Rossellini projects.",
+      "aliases": [
+        "Amidei"
+      ]
+    },
+    {
+      "term": "Suso Cecchi d’Amico",
+      "explain": "Screenwriter on Bicycle Thieves and many later Italian classics.",
+      "aliases": [
+        "Suso Cecchi d'Amico",
+        "Cecchi d’Amico",
+        "Cecchi d'Amico"
+      ]
+    },
+    {
+      "term": "Giuseppe De Santis",
+      "explain": "Director of Bitter Rice (1949) and other socially edged melodramas of the period.",
+      "aliases": [
+        "De Santis"
+      ]
+    },
+    {
+      "term": "Alberto Lattuada",
+      "explain": "Director; co-directed Variety Lights with Fellini; part of the wider postwar field.",
+      "aliases": [
+        "Lattuada"
+      ]
+    },
+    {
+      "term": "Pietro Germi",
+      "explain": "Director whose early dramas sit near neorealism before later comedies.",
+      "aliases": [
+        "Germi"
+      ]
+    },
+    {
+      "term": "Giovanni Verga",
+      "explain": "Nineteenth-century Sicilian novelist (I Malavoglia); literary source behind Visconti’s La Terra Trema.",
+      "aliases": [
+        "Verga"
+      ]
+    },
+    {
+      "term": "James M. Cain",
+      "explain": "American novelist; The Postman Always Rings Twice was the unlicensed source for Visconti’s Ossessione.",
+      "aliases": [
+        "Cain"
+      ]
+    },
+    {
+      "term": "André Bazin",
+      "explain": "French critic who championed Rossellini and De Sica; later a founding figure around Cahiers du Cinéma.",
+      "aliases": [
+        "Bazin"
+      ]
+    },
+    {
+      "term": "Cahiers du Cinéma",
+      "explain": "French film magazine whose young critics treated Italian neorealism as a living model before making French New Wave films.",
+      "aliases": [
+        "Cahiers"
+      ]
+    },
+    {
+      "term": "French New Wave",
+      "explain": "French late-1950s/early-1960s cluster. Related capsule: many of its filmmakers watched and argued about Rossellini and De Sica.",
+      "aliases": [
+        "Nouvelle Vague"
+      ]
+    },
+    {
+      "term": "Taiwan New Cinema",
+      "explain": "Taiwanese 1980s cluster (Hou, Yang, and others). A later relative that also put local streets and history on screen; not a 1940s contemporary.",
+      "aliases": [
+        "台灣新電影"
+      ]
+    },
+    {
+      "term": "location shooting",
+      "explain": "Filming in real streets, apartments, and workplaces instead of only on studio sets — a neorealist habit strengthened by ruined studios and thin money.",
+      "aliases": [
+        "location filming",
+        "shot on location"
+      ]
+    },
+    {
+      "term": "non-professional actors",
+      "explain": "Casting people without star careers for faces and speech that looked local — Maggiorani in Bicycle Thieves, Sicilian fishermen in La Terra Trema — while stars like Magnani still appear.",
+      "aliases": [
+        "nonprofessionals",
+        "non-professionals"
+      ]
+    },
+    {
+      "term": "Christian Democracy",
+      "explain": "Centrist Catholic party that dominated postwar Italian governments after defeating the left in 1948; the political climate around late neorealist production and reception.",
+      "aliases": [
+        "Christian Democrats",
+        "Democrazia Cristiana",
+        "DC"
+      ]
+    },
+    {
+      "term": "Italian Communist Party",
+      "explain": "Major left party in postwar Italy; many neorealist artists were sympathetic to the left while making films inside a Christian Democrat–dominated republic.",
+      "aliases": [
+        "PCI",
+        "Partito Comunista Italiano"
+      ]
+    },
+    {
+      "term": "Allied occupation of Italy",
+      "explain": "Allied control and presence in liberated Italy from 1943 onward — the military and black-market backdrop of Shoeshine and Paisan.",
+      "aliases": [
+        "Allied Military Government",
+        "AMGOT"
+      ]
+    },
+    {
+      "term": "German occupation of Rome",
+      "explain": "September 1943 to June 1944: the immediate setting of Rome Open City’s Resistance story.",
+      "aliases": [
+        "Nazi occupation of Rome"
+      ]
+    },
+    {
+      "term": "Liberation of Rome",
+      "explain": "Allied entry into Rome on 4 June 1944, after which Rossellini’s Open City could be finished and shown.",
+      "aliases": [
+        "Rome liberated"
+      ]
+    },
+    {
+      "term": "Marshall Plan",
+      "explain": "U.S. postwar aid to Western Europe. Italian reconstruction and American cultural presence are part of the 1948–52 context around the films.",
+      "aliases": [
+        "European Recovery Program"
+      ]
+    },
+    {
+      "term": "Hollywood studio system",
+      "explain": "Vertically integrated U.S. majors still dominating world screens in the 1940s — the commercial cinema neorealism was not.",
+      "aliases": [
+        "studio system"
+      ]
+    },
+    {
+      "term": "Mexican Golden Age",
+      "explain": "Roughly 1930s–1950s peak of Mexican studio filmmaking (Emilio Fernández, María Félix, Pedro Infante) running in the same calendar years.",
+      "aliases": [
+        "Época de Oro",
+        "Golden Age of Mexican cinema"
+      ]
+    },
+    {
+      "term": "Ealing Studios",
+      "explain": "British studio known for wartime and postwar comedies and dramas; British documentary tradition sat beside it.",
+      "aliases": [
+        "Ealing comedies",
+        "Ealing"
+      ]
+    },
+    {
+      "term": "British documentary movement",
+      "explain": "UK nonfiction tradition (Grierson and after) that treated ordinary work and war as screen subjects in years overlapping neorealism.",
+      "aliases": [
+        "Griersonian documentary",
+        "Crown Film Unit"
+      ]
+    },
+    {
+      "term": "Soviet socialist realism",
+      "explain": "Official Soviet aesthetic continuity after the war: affirmative, state-aligned stories — a different “realism” from Italian street films.",
+      "aliases": [
+        "socialist realism"
+      ]
+    },
+    {
+      "term": "Japanese postwar cinema",
+      "explain": "Kurosawa, Ozu, Mizoguchi and studio peers rebuilding under Occupation in the same years Bicycle Thieves traveled the world.",
+      "aliases": [
+        "Japanese cinema 1940s",
+        "postwar Japanese film"
+      ]
+    },
+    {
+      "term": "verismo",
+      "explain": "Italian literary and operatic realism tradition (Verga and others) that Visconti and critics sometimes linked to neorealist ambitions."
+    },
+    {
+      "term": "Some Ideas on the Cinema",
+      "explain": "Zavattini’s 1952/53 interview-essay arguing that cinema should stay with everyday facts instead of inventing spectacular plots.",
+      "aliases": [
+        "Some ideas on the cinema"
+      ]
+    },
+    {
+      "term": "Ingrid Bergman",
+      "explain": "Swedish-American star whose films with Rossellini (Stromboli and after) followed the War Trilogy and scandalized the U.S. press.",
+      "aliases": [
+        "Bergman"
+      ]
+    },
+    {
+      "term": "Porta Portese",
+      "explain": "Roman gate and flea-market area; among the postwar street locations associated with Bicycle Thieves’ search across the city."
+    },
+    {
+      "term": "Valle Aurina / Po Valley",
+      "explain": "Northern Italian landscapes in various postwar films; Visconti’s later and other directors’ rural work sat beside Rome-centered titles.",
+      "aliases": [
+        "Po Valley"
+      ]
+    },
+    {
+      "term": "Aci Trezza",
+      "explain": "Sicilian fishing village used as location for La Terra Trema.",
+      "aliases": [
+        "Acitrezza"
+      ]
+    },
+    {
+      "term": "Don Pietro",
+      "explain": "Priest character played by Aldo Fabrizi in Rome Open City, drawn partly from Resistance priest stories."
+    },
+    {
+      "term": "Pina",
+      "explain": "Anna Magnani’s character in Rome Open City, whose death in the street became one of the movement’s most quoted images — still copyrighted as a film frame, so not reproduced here."
+    },
+    {
+      "term": "Antonio Ricci",
+      "explain": "The unemployed bill-poster father in Bicycle Thieves, played by Lamberto Maggiorani.",
+      "aliases": [
+        "Ricci"
+      ]
+    },
+    {
+      "term": "Bruno",
+      "explain": "Antonio’s son in Bicycle Thieves, played by Enzo Staiola — the child’s witness is central to the film’s force."
+    },
+    {
+      "term": "Flike",
+      "explain": "Umberto’s dog in Umberto D., companion in a film about pension cuts and dignity.",
+      "aliases": [
+        "Flag"
+      ]
+    },
+    {
+      "term": "Honorary Academy Award",
+      "explain": "Bicycle Thieves received a special Honorary Academy Award in 1950 recognizing its achievement before the foreign-language Oscar category existed in its modern form.",
+      "aliases": [
+        "Honorary Oscar",
+        "Special Academy Award"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Fascist polish, Cinecittà, then rubble",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Before critics had a word for neorealism, Italian screens had a studio habit. Under Fascism the state treated cinema as a prestige weapon. Cinecittà opened in 1937 on the southeastern edge of Rome as a modern factory for features, newsreels, and training. Much of what audiences bought was light: comedies and melodramas later nicknamed white telephone films, after the pale prop phones that signaled luxury apartments and problems that could still be solved with charm. Directors such as Alessandro Blasetti had already mixed location work and populist history into the 1930s; Roberto Rossellini himself made wartime documentaries and features inside the regime’s industry. The “before” is not a blank stage. It is a polished commercial cinema with a state roof over it, interrupted by war."
+        },
+        {
+          "type": "p",
+          "text": "Material facts then broke the roof. Allied bombing damaged Cinecittà. After Rome’s liberation in June 1944, parts of the studio complex were used as a displaced-persons camp — refugees sleeping among sets while the commercial industry scrambled for stock, electricity, and money. German occupation of the capital (September 1943–June 1944), civil war in the north, black markets, and unemployment were not abstract themes. They were the streets filmmakers walked. When cameras left the soundstage, it was partly aesthetic argument and partly because the soundstage was wrecked, occupied, or unaffordable."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/rome-rubble-1944.jpg",
+          "alt": "A multi-story building in Rome with its facade torn open by bombing, rubble in the street, and a fascist slogan painted on a remaining wall.",
+          "caption": "Bomb-damaged building in Rome, 1944, from a German wartime photograph. The broken floors and street rubble are the physical city Rossellini’s crew worked in as Rome Open City was prepared and shot. This is not a film still; it is the documentary weather of the same months.",
+          "credit": "Rauchwetter, PK / German Federal Archive / Wikimedia Commons / CC BY-SA 3.0 DE",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-476-2094-17A,_Italien,_Rom,_zerst%C3%B6rtes_Geb%C3%A4ude.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Politics after liberation did not pause for art. Christian Democrats and Communists competed to define the new republic; the April 1948 elections confirmed Christian Democrat dominance and narrowed the left’s path through institutions. Neorealist films were made inside that fight — sometimes with left sympathies, sometimes with Catholic producers, almost always with commercial distributors who still needed tickets sold. The “before” that matters for this lesson is therefore double: a fascist-era studio gloss, and a ruined, occupied, then contested city that made gloss hard to afford."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "A fuzzy decade: from Ossessione to Umberto D.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Historians usually open the cluster before the war ends. Luchino Visconti’s Ossessione (1943), shot while Fascism still held the peninsula, adapted James M. Cain’s The Postman Always Rings Twice without securing the rights and filled the frame with sweat, roadside bars, and bodies that did not look like white-telephone glamour. It is a precursor more than a membership card: melodrama and crime story, already allergic to studio polish. The international hinge arrives with Roberto Rossellini’s Rome Open City (1945), prepared as the Germans left and finished as Liberation Rome tried to eat and rebuild. Anna Magnani and Aldo Fabrizi — professionals with Roman stage and comedy roots — play a widow and a priest inside a Resistance plot that felt to foreign viewers like newsreel heat. Sergio Amidei and a young Federico Fellini were among those shaping the script. The film’s raw stock shortages and stolen electricity became legend; the useful fact is simpler: it showed occupation Rome as a place where people hid neighbors and died in streets that still looked like themselves."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/rossellini-1951.jpg",
+          "alt": "Black-and-white portrait of Roberto Rossellini in a suit and tie, looking slightly off-camera.",
+          "caption": "Roberto Rossellini in a 1951 press portrait. Not a frame from Rome Open City. By this date the War Trilogy was already behind him and the Ingrid Bergman collaboration was underway.",
+          "credit": "Wikimedia Commons / public domain (U.S. publication, copyright not renewed)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Roberto_Rossellini.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Rossellini followed with Paisan (1946), six episodes climbing the peninsula with Allied soldiers and Italian civilians, and Germany Year Zero (1948), which moved the camera into ruined Berlin through a child’s errands and bad counsel. Together the three films are the War Trilogy critics still shelf as a set. Beside them, Vittorio De Sica — already a star actor — directed Shoeshine (1946) about boys working American boots and falling into reformatory logic, then Bicycle Thieves (1948), written with Cesare Zavattini and others, in which a bill-poster’s stolen bicycle becomes a whole city’s indifference. Visconti’s La Terra Trema (1948) took non-professional fishermen in Aci Trezza and Sicilian dialect onto the screen after Verga. These titles do not share one producer or one manifesto. They share a few years, a preference for streets over telephone comedies, and a critical press eager to name what it was seeing."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/cinecitta-entrance.jpg",
+          "alt": "Stone entrance gate of Cinecittà with the studio name in capital letters.",
+          "caption": "Cinecittà entrance, 2011 photograph. In the mid-1940s this studio city was damaged and partly a refugee camp — the industrial opposite of the street shoots that defined the neorealist years.",
+          "credit": "JRibaX / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Cinecitt%C3%A0_-_Entrance.jpg"
+        },
+        {
+          "type": "p",
+          "text": "By the early 1950s the energy was already changing. De Sica and Zavattini’s Miracle in Milan (1951) tipped into fable; Umberto D. (1952) pushed austere observation of a pensioner’s rooms and a maid’s morning chores until even sympathetic producers flinched at the box office. Audiences drifted toward comedy and melodrama. Writers later coined pink neorealism for films that kept ordinary faces and outdoor light while sanding off the political grain. Fellini’s early features and Antonioni’s first steps sit on that edge: still contiguous with documentary texture, already headed somewhere else. The era’s useful dates are therefore rough — c. 1943 to c. 1952 — not a union’s start and stop."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "Rossellini, De Sica–Zavattini, Visconti — and a wider crew",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The field is wider than three auteurs. Giuseppe De Santis’s Bitter Rice (1949) packed melodrama and sex into Po Valley rice fields and sold tickets. Alberto Lattuada, Pietro Germi, and others made dramas that critics sometimes pulled into the label and sometimes left adjacent. Anna Magnani’s face traveled farther than any theory pamphlet. Child performers and non-professionals — Enzo Staiola as Bruno, Lamberto Maggiorani as Antonio Ricci, Carlo Battisti as Umberto, Visconti’s fishermen — are part of the industrial method, not folklore. Suso Cecchi d’Amico’s scripts, Amidei’s collaborations, and Zavattini’s essays show that writing rooms mattered as much as handheld legend. Listing names is a way to refuse the lone-genius postcard."
+        },
+        {
+          "type": "p",
+          "text": "Deepen Rossellini first. Rome Open City braids a Resistance organizer, Magnani’s Pina, and Fabrizi’s Don Pietro through German roundups and betrayal. Paisan’s episodes refuse a single hero’s arc: Florence, the Po marshes, Sicily, a monastery — contact and miscommunication as the liberation advances. Germany Year Zero watches Edmund in a flattened Berlin where black-market teenagers and a former teacher replace any comforting moral map. Location noise, mixed casts, and a documentary adjacency are concrete choices: stay with a stairwell, a street arrest, a boy’s errand, until politics arrives as lived duration rather than speech."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/de-sica-1962.jpg",
+          "alt": "Vittorio De Sica in a coat at Schiphol Airport in March 1962, looking down near a souvenir counter.",
+          "caption": "Vittorio De Sica at Schiphol, 22 March 1962 — years after Bicycle Thieves and Umberto D. An airport press photograph, not a still from the Roman streets he filmed with Zavattini.",
+          "credit": "Harry Pot / Anefo / Nationaal Archief / Wikimedia Commons / CC BY-SA 3.0 NL",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Vittorio_De_Sica_(1962).jpg"
+        },
+        {
+          "type": "p",
+          "text": "Deepen De Sica with Zavattini second. Shoeshine ties kids’ labor for Allied boots to a justice system that breaks friendship. Bicycle Thieves follows Antonio and Bruno across pawnshops, markets, churches, and police indifference after a bicycle theft that should be minor and is not. Maggiorani’s stiff walk and Staiola’s watching face are the film’s argument: unemployment is a route through a city, not a statistic. Zavattini’s later “Some Ideas on the Cinema” (published in Italian in 1952, in Sight and Sound in 1953) pushed the ethic further — stay with the everyday until it yields drama without inventing a spectacular plot. Umberto D. almost obeys that brief: a retired civil servant, a landlady’s eviction pressure, a dog named Flike, and long ordinary mornings. Producers who had backed earlier hits found the severity hard to sell. That commercial flinch is part of how the era ends."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/zavattini-1980.jpg",
+          "alt": "Cesare Zavattini seated outdoors in 1980, older, in a light jacket, looking toward the camera.",
+          "caption": "Cesare Zavattini in 1980, long after the De Sica collaborations. A Dutch press photograph of the screenwriter-theorist who wanted films to excavate ordinary duration.",
+          "credit": "Hans van Dijk / Anefo / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Cesare_Zavattini_(1980).jpg"
+        },
+        {
+          "type": "p",
+          "text": "Deepen Visconti third. Ossessione’s heat and roadside poverty announced a different body politics under Fascism. La Terra Trema (1948), financed partly with left hopes, went to Sicily, used non-professionals, and let dialect stand — then struggled with audiences who needed Italian subtitles for their own country’s speech. Visconti’s later career (Senso, Rocco and His Brothers, The Leopard) is melodrama, history, and aristocratic Marxism more than street neorealism; the early films remain the hinge that shows the label was always broader than Rome’s unemployed. Fellini’s script work on Rossellini, then Variety Lights and I Vitelloni, and Antonioni’s early documentaries and features, mark the exit ramps: same years, other destinations."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/visconti-1972.jpg",
+          "alt": "Luchino Visconti in 1972, older, smoking, in a dark jacket, photographed in black and white.",
+          "caption": "Luchino Visconti in 1972, photographed by Marisa Rastellini. A late portrait of the director of Ossessione and La Terra Trema — decades after the neorealist hinge, not a frame from those films.",
+          "credit": "Marisa Rastellini / Mondadori / Wikimedia Commons / public domain (Italy)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Luchino_Visconti_1972.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/italian-neorealism/porta-portese.jpg",
+          "alt": "The Porta Portese gate in Rome, brick and stone arch beside a multi-story building under a blue sky.",
+          "caption": "Porta Portese, Rome, in a later free photograph. The gate and nearby flea market sit in the same working-class geography Bicycle Thieves walks through; this image is an exterior landmark, not a copyrighted film frame.",
+          "credit": "Everydayand / Wikimedia Commons / CC0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Porta_Portese,_Rome.jpg"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "Elsewhere",
+      "title": "Same years on other screens",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Look out from Rome without turning the map into a worksheet. In the United States the Hollywood studio system still dominated world bookings through the late 1940s: star contracts, genre factories, and — after 1948’s Paramount Decree — a vertical integration problem that would later feed New Hollywood. That American industrial mode is what Italian neorealist films were not, even when Bicycle Thieves won a special Honorary Academy Award in 1950 and American critics took notice."
+        },
+        {
+          "type": "p",
+          "text": "In Japan, Occupation and reconstruction framed studio work by Kurosawa, Ozu, Mizoguchi, and their peers — postwar cinema under different censors and different ruins. Mexico’s Golden Age (Época de Oro) was still packing cinemas with Fernández, Infante, and Félix vehicles in the same calendar stretch. Britain’s documentary tradition and Ealing’s wartime-to-postwar comedies treated ordinary speech and national recovery in another accent. Soviet screens continued socialist realism’s affirmative state aesthetic — a “realism” aimed at building consensus, not at following a stolen bicycle through indifferent police stations. These are contemporaneous facts, not assigned peer franchises."
+        },
+        {
+          "type": "p",
+          "text": "What traveled from Italy was influence, not a template. André Bazin and the future Cahiers du Cinéma writers treated Rossellini and De Sica as proof that cinema could think in long looks at contingent life; that argument helped feed French New Wave practice a decade later. Much later still, Taiwan New Cinema filmmakers worked their own streets and histories under martial-law thaw — a related capsule on this site — after watching world cinema that included Italian titles among many others. Honest relatedness means saying the debt without pretending 1945 Rome and 1982 Taipei share a syllabus."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Comedy returns, pink neorealism, long afterlives",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the mid-1950s Italian commercial cinema had largely moved on. Comedies, melodramas, and prestige literary adaptations paid bills; “pink” variants kept outdoor light and vernacular faces while dropping much of the political severity. Fellini’s La Strada (1954) and Nights of Cabiria (1957), Antonioni’s modern interiors, Visconti’s historical spectacles, and later Pasolini’s own street ethics are aftermaths, not sequels with the same membership rules. Internationally the films never stopped circulating: festival retrospectives, Criterion restorations, film-school syllabi, and directors from France to Iran to Latin America who borrowed habits of location and non-professional casting. The label remains useful if you keep it fuzzy — a decade’s pressure and style, not a club that expired with a stamp."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If a film follows a stolen bicycle, a pensioner’s morning, or a boy’s errand through ruined streets longer than a studio plot would usually allow, what social fact is it asking you to notice that a faster, prettier story would skip?"
+        }
+      ]
+    }
+  ]
+}
