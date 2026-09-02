@@ -1,0 +1,572 @@
+{
+  "slug": "harlem-renaissance",
+  "date": "2026-09-03",
+  "subject": "literature",
+  "related": [
+    "high-modernism"
+  ],
+  "title": "The Harlem Renaissance (c. 1919–1935): Black arts after the Great Migration",
+  "dek": "After World War I, Black writers, editors, and artists concentrated in Harlem and other northern cities produced a surge of poems, novels, magazines, and criticism. The period’s own keywords included New Negro; “Harlem Renaissance” is a later label for a scene that was never only Harlem.",
+  "era": "c. 1919–1935",
+  "reading_minutes": 26,
+  "thumb": {
+    "src": "lessons/harlem-renaissance/langston-hughes.jpg",
+    "alt": "Portrait of Langston Hughes in a dark suit and patterned tie, looking slightly aside, photographed in 1936."
+  },
+  "hero": {
+    "src": "lessons/harlem-renaissance/schomburg-135th.jpg",
+    "alt": "Brick facade of the former New York Public Library 135th Street Branch in Harlem, with arched windows and stone steps.",
+    "caption": "The former 135th Street Branch of the New York Public Library in Harlem — later the Schomburg Center for Research in Black Culture. In the 1920s this library was already a meeting point for readers, editors, and collectors of Black history and literature. The photograph is later; the address is the point.",
+    "credit": "Mcmillin24 / Wikimedia Commons / CC BY-SA 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:NYPL_Former_135th_Street_Branch,_Manhattan.jpg"
+  },
+  "honesty": "“Harlem Renaissance” is a later critical and teaching name. In the 1920s people more often said New Negro, Negro Renaissance, or simply named magazines, salons, and streets. The arts boom was real; the geographic label can overstate Harlem as the only stage. Chicago’s South Side, Washington, D.C., and other cities had their own Black literary and musical scenes in the same years. The dates here run roughly from the postwar Red Summer and early magazine decade through the mid-1930s, when Depression economics and new political pressures changed the publishing and patronage map. This lesson is about literature and print culture first — poems, novels, anthologies, Crisis and Opportunity — with music and nightlife named as context, not as a nightclub tour. High modernism is an earlier Thursday in this archive; it overlaps these years in London and Paris but is a different public and a different set of books. Existentialism and the Latin American Boom are later literature capsules and are not repeated here.",
+  "timeline": [
+    {
+      "year": "1910–19",
+      "label": "Migration and magazines",
+      "detail": "The Great Migration accelerates Black movement from the South to northern cities. The Crisis (NAACP, founded 1910 under W. E. B. Du Bois’s early editorship) and, later, Opportunity (National Urban League, 1923) become major print venues for poems, essays, and fiction."
+    },
+    {
+      "year": "1919",
+      "label": "Red Summer / McKay",
+      "detail": "Racial violence across U.S. cities in the “Red Summer.” Claude McKay’s sonnet “If We Must Die” circulates widely that year as a response poem — militant, formal, and quotable."
+    },
+    {
+      "year": "1921–25",
+      "label": "Locke, Hughes, Cullen",
+      "detail": "Jessie Fauset’s editorial work at The Crisis; Shuffle Along (1921) on Broadway as a visible Black musical hit; Alain Locke’s Survey Graphic Harlem issue (March 1925) and book The New Negro (1925); Langston Hughes’s “The Negro Speaks of Rivers” (1921 in The Crisis) and The Weary Blues (1926)."
+    },
+    {
+      "year": "1926–28",
+      "label": "Novels and debates",
+      "detail": "Carl Van Vechten’s Nigger Heaven (1926) sparks argument over white patronage and Harlem as spectacle. McKay’s Home to Harlem (1928). Fire!! (1926), the short-lived younger artists’ magazine. Countee Cullen’s Color (1925) and later volumes keep formal lyric prestige in view."
+    },
+    {
+      "year": "1920s–30s",
+      "label": "Hurston and folklore",
+      "detail": "Zora Neale Hurston publishes stories and folklore collecting in the late 1920s and early 1930s; Mules and Men appears in 1935. Their Eyes Were Watching God (1937) sits just after this lesson’s core window — named in After."
+    },
+    {
+      "year": "1929–35",
+      "label": "Crash and thinning",
+      "detail": "The stock-market crash cuts patronage and magazine budgets. By the mid-1930s many writers disperse into Federal Writers’ Project work, journalism, or other cities. Critics later periodize a “Renaissance” ending here."
+    },
+    {
+      "year": "1930s–40s",
+      "label": "After-edges",
+      "detail": "Négritude crystallizes among Black students in Paris (Césaire, Senghor, Damas). Wright’s Native Son (1940) marks a harder naturalist turn often placed after the Renaissance label. Named only as After."
+    }
+  ],
+  "read": [
+    {
+      "title": "Langston Hughes — “The Negro Speaks of Rivers” (Poetry Foundation)",
+      "url": "https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers",
+      "note": "Full text of the 1921 Crisis poem. A short primary read before any biography page."
+    },
+    {
+      "title": "Langston Hughes — “The Weary Blues” (Poetry Foundation)",
+      "url": "https://www.poetryfoundation.org/poems/47347/the-weary-blues",
+      "note": "Title poem of the 1926 collection. Listen for blues cadence on the page without treating the poem as a music lesson."
+    },
+    {
+      "title": "Alain Locke (ed.) — The New Negro (Internet Archive)",
+      "url": "https://archive.org/details/newnegro00lock",
+      "note": "1925 anthology scan. Primary table of contents for the period’s own showcase of essays, poems, and fiction — public-domain circulation, not a pirated modern edition."
+    },
+    {
+      "title": "Countee Cullen — “Heritage” (Poets.org / Academy of American Poets)",
+      "url": "https://poets.org/poem/heritage",
+      "note": "Legal text of Cullen’s long lyric on Africa, Christianity, and double belonging — a formal counterweight to Hughes’s blues line."
+    },
+    {
+      "title": "The Crisis (Modernist Journals Project)",
+      "url": "https://modjourn.org/journal/crisis/",
+      "note": "Digitized run of the NAACP magazine. Use it to see poems and essays in their original issue context."
+    },
+    {
+      "title": "Harlem Renaissance — Britannica",
+      "url": "https://www.britannica.com/event/Harlem-Renaissance-American-literature-and-art",
+      "note": "Compact encyclopedia map of dates, names, and arts beyond literature. Orientation only."
+    },
+    {
+      "title": "Zora Neale Hurston — Their Eyes Were Watching God (HarperCollins catalogue)",
+      "url": "https://www.harpercollins.com/products/their-eyes-were-watching-god-zora-neale-hurston",
+      "note": "Legal trade listing for the 1937 novel — an After-edge for this capsule’s core years. Buy or borrow; this capsule does not paste the book."
+    }
+  ],
+  "fun_fact": {
+    "title": "Hughes’s “The Negro Speaks of Rivers” was written on a train to Mexico",
+    "text": "Langston Hughes was nineteen, riding the train to visit his father in Mexico, when he drafted “The Negro Speaks of Rivers.” The poem appeared in The Crisis in June 1921. The rivers named — Euphrates, Congo, Nile, Mississippi — are a geographic claim stitched into a few short lines: Black history as deep time, not only as American crisis news. Jessie Fauset and the Crisis circle helped put the poem in front of a national Black readership years before The Weary Blues made Hughes a book-length name."
+  },
+  "glossary": [
+    {
+      "term": "Harlem Renaissance",
+      "aliases": [
+        "Negro Renaissance",
+        "the Renaissance"
+      ],
+      "explain": "Later label for the roughly 1919–1935 flowering of Black literature, art, and performance centered in Harlem but not limited to it. Period actors more often said New Negro or named specific magazines and salons."
+    },
+    {
+      "term": "New Negro",
+      "aliases": [
+        "the New Negro"
+      ],
+      "explain": "Period phrase for assertive, urban, politically and culturally self-conscious Black identity after World War I and the Great Migration. Title keyword of Alain Locke’s 1925 anthology."
+    },
+    {
+      "term": "Great Migration",
+      "explain": "Mass movement of African Americans from the rural South to northern and Midwestern cities, accelerating in the 1910s–1920s. It concentrated readers, workers, and artists in places like Harlem and Chicago’s South Side."
+    },
+    {
+      "term": "The Crisis",
+      "aliases": [
+        "Crisis magazine",
+        "The Crisis magazine"
+      ],
+      "explain": "NAACP magazine founded in 1910. Under early Du Bois editorship and Jessie Fauset’s literary work it published poems, stories, and essays that reached a national Black audience."
+    },
+    {
+      "term": "Opportunity",
+      "aliases": [
+        "Opportunity magazine"
+      ],
+      "explain": "National Urban League magazine launched in 1923. Sponsored contests and published younger writers; a second major print gate beside The Crisis."
+    },
+    {
+      "term": "The New Negro",
+      "aliases": [
+        "The New Negro: An Interpretation"
+      ],
+      "explain": "1925 anthology edited by Alain Locke, expanded from the March 1925 Survey Graphic Harlem issue. A curated showcase of essays, poems, fiction, and art that helped define the period’s public image."
+    },
+    {
+      "term": "Alain Locke",
+      "aliases": [
+        "Alain LeRoy Locke"
+      ],
+      "explain": "Philosopher, critic, and editor (1885–1954). First Black Rhodes Scholar. Editor of The New Negro (1925); key taste-maker arguing for art as a path to recognition."
+    },
+    {
+      "term": "Langston Hughes",
+      "explain": "Poet, fiction writer, and playwright (1901–1967). “The Negro Speaks of Rivers” (1921); The Weary Blues (1926). Central voice linking blues and jazz rhythms to free-verse and vernacular English."
+    },
+    {
+      "term": "The Weary Blues",
+      "explain": "Hughes’s 1926 debut poetry collection (Knopf). Title poem stages a blues pianist on Lenox Avenue; the book made Hughes a national literary name."
+    },
+    {
+      "term": "The Negro Speaks of Rivers",
+      "aliases": [
+        "Negro Speaks of Rivers"
+      ],
+      "explain": "Hughes poem first published in The Crisis (June 1921). Short lyric mapping Black historical memory onto named rivers."
+    },
+    {
+      "term": "Zora Neale Hurston",
+      "explain": "Novelist, folklorist, and anthropologist (1891–1960). Associated with Harlem and with southern fieldwork; stories and folklore in the late 1920s–1930s; Mules and Men (1935); Their Eyes Were Watching God (1937)."
+    },
+    {
+      "term": "Their Eyes Were Watching God",
+      "explain": "Hurston’s 1937 novel. Often taught as a Harlem Renaissance book; its publication date sits just after this lesson’s core window, so it is treated here as an After-edge."
+    },
+    {
+      "term": "Mules and Men",
+      "explain": "Hurston’s 1935 folklore collection from Florida and New Orleans fieldwork — vernacular tales and hoodoo material presented as collected speech."
+    },
+    {
+      "term": "Claude McKay",
+      "explain": "Jamaican-born poet and novelist (1889–1948). “If We Must Die” (1919); Home to Harlem (1928). Moved between radical politics, sonnet form, and proletarian nightlife fiction."
+    },
+    {
+      "term": "If We Must Die",
+      "explain": "McKay sonnet of 1919, widely reprinted during and after Red Summer. Shakespearean form used for a call to dignified resistance."
+    },
+    {
+      "term": "Home to Harlem",
+      "explain": "McKay’s 1928 novel of working-class Harlem life, jazz, labor, and desire — a bestseller that also drew criticism for its nightlife focus."
+    },
+    {
+      "term": "Countee Cullen",
+      "explain": "Poet (1903–1946). Color (1925) and later volumes; “Heritage.” Favored traditional lyric forms and was often contrasted with Hughes’s blues vernacular."
+    },
+    {
+      "term": "Heritage",
+      "explain": "Cullen’s long poem asking what Africa means to a Christian, American Black speaker — formal meter, unresolved double consciousness."
+    },
+    {
+      "term": "Jessie Fauset",
+      "aliases": [
+        "Jessie Redmon Fauset"
+      ],
+      "explain": "Novelist and literary editor at The Crisis (c. 1919–1926). Mentored and published younger poets including Hughes; wrote novels of middle-class Black life such as There Is Confusion (1924)."
+    },
+    {
+      "term": "W. E. B. Du Bois",
+      "aliases": [
+        "Du Bois",
+        "W.E.B. Du Bois"
+      ],
+      "explain": "Sociologist, activist, and early editor of The Crisis. His earlier Souls of Black Folk (1903) and “talented tenth” vocabulary shaped debates the Renaissance writers inherited and argued with."
+    },
+    {
+      "term": "Carl Van Vechten",
+      "explain": "White writer and photographer (1880–1964). Patron and networker in Harlem circles; his 1926 novel Nigger Heaven intensified debates about white spectatorship. Later photographed many Black artists (LOC Van Vechten Collection)."
+    },
+    {
+      "term": "Nigger Heaven",
+      "explain": "Van Vechten’s 1926 Harlem novel. Popular and controversial; criticized for exoticizing Black nightlife even as it publicized Harlem to white readers."
+    },
+    {
+      "term": "Fire!!",
+      "aliases": [
+        "Fire!! magazine",
+        "Fire!"
+      ],
+      "explain": "1926 one-issue magazine by younger Harlem artists (Wallace Thurman, Hughes, Hurston, Aaron Douglas, and others). Deliberately brasher than Crisis respectability politics."
+    },
+    {
+      "term": "Marcus Garvey",
+      "explain": "Jamaican-born organizer (1887–1940) of the Universal Negro Improvement Association (UNIA). Mass parades and Black nationalist rhetoric in 1920s Harlem formed a political backdrop many literary figures defined themselves with or against."
+    },
+    {
+      "term": "UNIA",
+      "aliases": [
+        "Universal Negro Improvement Association"
+      ],
+      "explain": "Garvey’s mass organization; peaked in the early 1920s with conventions and parades in Harlem."
+    },
+    {
+      "term": "Schomburg Center",
+      "aliases": [
+        "Schomburg Center for Research in Black Culture",
+        "135th Street library"
+      ],
+      "explain": "Research library in Harlem that grew from the 135th Street Branch collections and from Arturo Schomburg’s materials. A physical address for Black bibliographic life."
+    },
+    {
+      "term": "Arturo Schomburg",
+      "aliases": [
+        "Arthur Schomburg"
+      ],
+      "explain": "Puerto Rican Black bibliophile and curator (1874–1938) whose collection became a core of the Schomburg Center."
+    },
+    {
+      "term": "Shuffle Along",
+      "explain": "1921 Broadway musical by Noble Sissle and Eubie Blake (book by Flournoy Miller and Aubrey Lyles). A commercial breakthrough for Black musical theatre that raised Harlem’s visibility downtown."
+    },
+    {
+      "term": "Red Summer",
+      "explain": "1919 wave of white-on-Black race riots and lynchings across U.S. cities. Immediate political context for McKay’s “If We Must Die” and for postwar New Negro militancy."
+    },
+    {
+      "term": "Bronzeville",
+      "aliases": [
+        "Chicago Black Belt",
+        "Black Belt"
+      ],
+      "explain": "Names for Chicago’s South Side Black neighborhood and cultural district. Contemporaneous literary and musical scene often overshadowed when “Harlem” is used as a synecdoche for the whole era."
+    },
+    {
+      "term": "Négritude",
+      "aliases": [
+        "Negritude"
+      ],
+      "explain": "Francophone Black literary-political movement associated with Aimé Césaire, Léopold Sédar Senghor, and Léon Damas, crystallizing in 1930s Paris. An After/elsewhere edge relative to the U.S. Renaissance years."
+    },
+    {
+      "term": "high modernism",
+      "aliases": [
+        "High modernism"
+      ],
+      "explain": "Earlier Capsules literature lesson (c. 1910–30): Eliot, Joyce, Woolf, and related experiments with form in London/Paris circuits. Overlaps the Renaissance calendar without sharing its magazines or publics."
+    },
+    {
+      "term": "Josephine Baker",
+      "explain": "American-born dancer and entertainer (1906–1975) who became a star in 1920s Paris. Named here as a contemporaneous Black performance career on the European stage — not as a Harlem novelist."
+    },
+    {
+      "term": "Jean Toomer",
+      "explain": "Writer (1894–1967) of Cane (1923), a hybrid of prose and verse set largely in Georgia and Washington, D.C. Often grouped with the Renaissance though Toomer resisted fixed racial labels."
+    },
+    {
+      "term": "Cane",
+      "explain": "Toomer’s 1923 book — sketches, poems, and narratives. A formal outlier frequently taught beside Harlem-centered work."
+    },
+    {
+      "term": "Nella Larsen",
+      "explain": "Novelist (1891–1964) of Quicksand (1928) and Passing (1929). Compact novels of race, class, and gender in and beyond Harlem."
+    },
+    {
+      "term": "Passing",
+      "explain": "Larsen’s 1929 novel about racial passing and middle-class Black life in New York — psychological and social, not pastoral."
+    },
+    {
+      "term": "Wallace Thurman",
+      "explain": "Editor and novelist (1902–1934) associated with Fire!! and with The Blacker the Berry (1929), which attacked colorism inside Black communities."
+    },
+    {
+      "term": "Aaron Douglas",
+      "explain": "Painter and illustrator (1899–1979) whose geometric silhouettes became visual signatures of New Negro publications including The New Negro and Fire!!."
+    },
+    {
+      "term": "Federal Writers’ Project",
+      "aliases": [
+        "FWP"
+      ],
+      "explain": "New Deal program employing writers in the 1930s. Many Black authors, including Hurston for a time, did folklore and guidebook work as magazine patronage shrank."
+    },
+    {
+      "term": "Survey Graphic",
+      "explain": "Social-work magazine whose March 1925 “Harlem: Mecca of the New Negro” issue, guest-edited by Locke, preceded the book The New Negro."
+    },
+    {
+      "term": "Lenox Avenue",
+      "aliases": [
+        "Malcolm X Boulevard"
+      ],
+      "explain": "Major north–south avenue in Harlem; appears by name in Hughes’s “The Weary Blues” as the blues piano’s address."
+    },
+    {
+      "term": "Cotton Club",
+      "explain": "Segregated Harlem nightclub (Black performers, mostly white audiences) famous in the 1920s. Named as a nightlife fact in the era’s economy of spectacle — not as a writers’ salon."
+    },
+    {
+      "term": "talented tenth",
+      "explain": "Du Bois’s earlier phrase for an educated Black leadership class. Renaissance debates often turned on whether art should uplift that class’s image or speak vernacular street life."
+    },
+    {
+      "term": "Aimé Césaire",
+      "aliases": [
+        "Aimé Cesaire"
+      ],
+      "explain": "Martinican poet and politician; Cahier d’un retour au pays natal (1939) is a landmark of Négritude — After/elsewhere relative to this lesson’s U.S. core."
+    },
+    {
+      "term": "Léopold Sédar Senghor",
+      "aliases": [
+        "Leopold Senghor",
+        "Léopold Senghor"
+      ],
+      "explain": "Senegalese poet and later president; co-architect of Négritude in Paris student circles of the 1930s."
+    },
+    {
+      "term": "Richard Wright",
+      "explain": "Novelist (1908–1960). Native Son (1940) often marks a harder Chicago-naturalist turn after Renaissance aesthetics — After, not core."
+    },
+    {
+      "term": "Native Son",
+      "explain": "Wright’s 1940 novel. Frequently used by critics as a boundary stone after the Harlem Renaissance periodization."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Migration, magazines, and a northern address book",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The literary surge later called the Harlem Renaissance did not begin with a manifesto. It began with people moving. From the 1910s into the 1920s, the Great Migration pulled hundreds of thousands of African Americans out of the Jim Crow South toward industrial jobs and denser Black neighborhoods in New York, Chicago, Detroit, Philadelphia, and elsewhere. Harlem — especially the blocks around 135th Street and Lenox and Seventh Avenues — became one of the densest of those destinations. Landlords and speculators had opened former white housing stock to Black tenants; churches, theatres, and storefronts followed. By the early 1920s a reader could walk between a library branch, a magazine office, a UNIA meeting, and a cabaret without leaving a few avenues."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/harlem-leapfrog.jpg",
+          "alt": "Black children playing leapfrog in a Harlem street, photograph circa 1930.",
+          "caption": "Children playing leapfrog in a Harlem street, photographed around 1930 (National Archives). The Renaissance was argued in magazines and salons; it also happened on sidewalks where a new density of Black households made a public visible to itself.",
+          "credit": "U.S. National Archives and Records Administration / Wikimedia Commons / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Black_children_playing_leap_frog_in_a_Harlem_street,_ca._1930_-_NARA_-_541880.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Print infrastructure already existed. The Crisis, the NAACP magazine launched in 1910, reached a national Black audience with news, argument, and — under literary editor Jessie Fauset — poems and fiction. Opportunity followed in 1923 from the National Urban League and ran contests that paid younger writers in cash and attention. Those magazines mattered more than any single bookstore: they were monthly proof that Black writing had an address list. Behind them sat earlier intellectual furniture — Du Bois’s Souls of Black Folk (1903), debates over Booker T. Washington’s industrial program, and the wartime service and postwar betrayals that made “New Negro” sound like a political claim, not a fashion label."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/marcus-garvey.jpg",
+          "alt": "Portrait of Marcus Garvey in military-style uniform with peaked cap, 1922.",
+          "caption": "Marcus Garvey in 1922. His Universal Negro Improvement Association staged mass parades and sold a Black nationalist program from Harlem. Many Renaissance writers disagreed with Garvey; few could ignore that he had already organized a crowd.",
+          "credit": "Associated Press / Wikimedia Commons / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Marcus_Garvey_(1922).jpg"
+        },
+        {
+          "type": "p",
+          "text": "Politics pressed from every side. The Red Summer of 1919 brought white-on-Black riots and lynchings across multiple cities. Claude McKay’s sonnet “If We Must Die,” published that year, answered in Shakespearean form: dignified resistance, no soft ending. Marcus Garvey’s UNIA filled Harlem streets with uniforms and pageantry in the early 1920s, offering a mass alternative to NAACP respectability politics. The literary “Renaissance” grew in that argumentative weather — uplift versus vernacular, integration versus separatism, patronage versus independence — not in a vacuum of pure aesthetics."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "New Negro print culture, 1919 to the mid-1930s",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Call the core years roughly 1919 to 1935. On one edge: postwar violence, Migration density, and McKay’s circulating sonnet. On the other: the Depression’s cuts to patronage, the thinning of magazine budgets, and the turn of many writers toward New Deal employment or other cities. Between those poles sits a concrete publishing run. Hughes’s “The Negro Speaks of Rivers” appears in The Crisis in 1921. Jean Toomer’s Cane (1923) mixes verse and prose outside a simple Harlem postcard. Shuffle Along (1921) proves Black musical theatre can sell on Broadway. Locke’s Survey Graphic Harlem issue (March 1925) and the book The New Negro (1925) package essays, poems, fiction, and art as a national exhibit. Hughes’s The Weary Blues (1926), Cullen’s Color (1925), Larsen’s Quicksand (1928) and Passing (1929), McKay’s Home to Harlem (1928), and Hurston’s folklore work through Mules and Men (1935) fill out a shelf that is poems and novels and anthropology at once."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/new-negro-cover.jpg",
+          "alt": "Dust jacket of the first edition of Alain Locke’s anthology The New Negro (1925), with colorful geometric illustration.",
+          "caption": "First-edition cover of Alain Locke’s The New Negro (1925), with design work associated with Winold Reiss and the book’s visual program. The anthology is the period’s own curated bookshelf — less a school than a table of contents.",
+          "credit": "Winold Reiss, Miguel Covarrubias, Aaron Douglas (cover art) / Wikimedia Commons / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:First_Edition_Cover_of_The_New_Negro_(1925).jpg"
+        },
+        {
+          "type": "p",
+          "text": "What held the scene together was not one style. Hughes pushed blues and jazz rhythms into poetry and defended vernacular speech. Cullen kept sonnets and traditional meters and asked, in “Heritage,” what Africa could mean to a Christian American. Larsen wrote compact novels of class and racial passing. Thurman and the Fire!! group (1926) needled older respectability politics. Locke argued that art excellence itself was a political instrument. White patrons and brokers — including Carl Van Vechten, whose Nigger Heaven (1926) sold widely and offended widely — shaped audiences and resentments at the same time. Nightclubs such as the Cotton Club hired Black performers for largely white rooms; that economy of spectacle sat beside, and sometimes funded, the quieter economy of little magazines and prize contests."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/harlem-135-7th.jpg",
+          "alt": "Northwest corner of West 135th Street and Seventh Avenue in Harlem, brick buildings and street traffic under a clear sky.",
+          "caption": "Northwest corner of West 135th Street and Seventh Avenue, photographed in 2006. In the 1920s this corridor was part of the neighborhood’s everyday map — library, residences, businesses — not a metaphor. The modern snapshot is a place-holder for an address, not a claim that the street still looks like 1925.",
+          "credit": "Aude / Wikimedia Commons / CC BY-SA 2.5",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Harlem_135_st_7th_ave.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Harlem was the brand and not the whole map. Chicago’s South Side — Bronzeville, the “Black Belt” — sustained newspapers, clubs, and writers in the same decades. Washington, D.C., and other cities had salons and campuses of their own. When later syllabi say “Harlem Renaissance,” they are often using a neighborhood name as shorthand for a multi-city Black arts boom whose print capital happened to be unusually visible in upper Manhattan."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "Poems, anthologies, novels — and four to read slowly",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On the page the Renaissance looks like several methods at once. There are Crisis and Opportunity poems meant to be clipped and memorized. There is Locke’s anthology as a curated national exhibit. There are novels of middle-class manners (Fauset, Larsen) and novels of proletarian nightlife (McKay). There is Toomer’s hybrid Cane. There is Hurston’s insistence that southern Black speech and folklore are literary material, not dialect comedy. Deepen a few works and the “movement” becomes a set of checkable books instead of a mood."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Langston Hughes",
+              "dates": "1901–1967",
+              "image": "lessons/harlem-renaissance/langston-hughes.jpg",
+              "alt": "Carl Van Vechten portrait of Langston Hughes, 1936.",
+              "caption": "Langston Hughes, photographed by Carl Van Vechten in 1936 (Library of Congress).",
+              "credit": "Carl Van Vechten / Library of Congress / Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Langston_Hughes_1936.jpg",
+              "text": "Poet of “The Negro Speaks of Rivers” (Crisis, 1921) and The Weary Blues (1926). Made blues cadence and Lenox Avenue into literary addresses without abandoning craft."
+            },
+            {
+              "name": "Zora Neale Hurston",
+              "dates": "1891–1960",
+              "image": "lessons/harlem-renaissance/zora-neale-hurston.jpg",
+              "alt": "Carl Van Vechten portrait of Zora Neale Hurston, 1938.",
+              "caption": "Zora Neale Hurston, photographed by Carl Van Vechten in 1938 (Library of Congress). The date is late for the core Renaissance window; the career begins earlier.",
+              "credit": "Carl Van Vechten / Library of Congress / Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Zora_Neale_Hurston_(1938).jpg",
+              "text": "Story writer, folklorist, novelist. Harlem participant and southern fieldworker; Mules and Men (1935). Their Eyes Were Watching God (1937) belongs in After by calendar."
+            },
+            {
+              "name": "Claude McKay",
+              "dates": "1889–1948",
+              "image": "lessons/harlem-renaissance/claude-mckay.jpg",
+              "alt": "Portrait of Claude McKay from about 1920, facing forward in a suit.",
+              "caption": "Claude McKay, portrait associated with his early 1920s publications (Internet Archive / public domain scan lineage).",
+              "credit": "Unknown photographer / Internet Archive scan lineage / Wikimedia Commons / Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Claude_McKay_1920.jpg",
+              "text": "Jamaican-born poet of “If We Must Die” (1919) and novelist of Home to Harlem (1928). Sonnets and street novels in the same career."
+            },
+            {
+              "name": "Alain Locke",
+              "dates": "1885–1954",
+              "image": "lessons/harlem-renaissance/alain-locke.jpg",
+              "alt": "Painted portrait of Alain Locke in a dark suit and tie.",
+              "caption": "Alain Locke, portrait by Betsy Graves Reyneau (National Archives collection). Editor of The New Negro and a central critic-organizer of the period’s public image.",
+              "credit": "Betsy Graves Reyneau / U.S. National Archives / Wikimedia Commons / Public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Alain_Locke_-_NARA_-_559203.jpg",
+              "text": "Philosopher-editor. Survey Graphic Harlem issue (1925) and The New Negro anthology made “New Negro” a table of contents, not only a slogan."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Hughes’s “The Negro Speaks of Rivers” is only a few sentences long and still does major work: it places Black historical memory on the Euphrates, Congo, Nile, and Mississippi, so that American racism is not the first chapter of the story. The Weary Blues, as title poem and as 1926 book, stages a blues musician on Lenox Avenue and lets the piano’s syncopation shape the line breaks. Read aloud, the poem is an argument that popular Black music belongs inside “serious” literature — an argument Cullen’s camp did not always accept."
+        },
+        {
+          "type": "p",
+          "text": "Locke’s The New Negro is the period’s exhibit catalog. It gathers Du Bois and James Weldon Johnson beside younger poets, prints Aaron Douglas’s visual language, and frames art as evidence for political recognition. It is also a gatekeeping document: what Locke includes becomes “the movement” for many later readers. McKay’s Home to Harlem (1928) sold extremely well and drew fire — including from Du Bois — for dwelling on cabarets, labor, and sex. That fight is the Renaissance in miniature: who gets to define the public image of Black life, and for which audience."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/countee-cullen.jpg",
+          "alt": "Portrait of Countee Cullen in a suit, photographed by Carl Van Vechten.",
+          "caption": "Countee Cullen, photographed by Carl Van Vechten (Library of Congress Van Vechten Collection). Color (1925) and “Heritage” kept traditional lyric prestige inside the New Negro conversation.",
+          "credit": "Carl Van Vechten / Library of Congress / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Counteecullen.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Cullen’s “Heritage” asks what Africa means when the speaker’s daily religion and schooling are Christian and American. The poem’s formal control is part of its meaning: Cullen refused the idea that Black poetry must sound like blues to be authentic. Hurston, working partly inside Harlem networks and partly on southern collecting trips, treated folklore as literature with authors in the oral tradition. Mules and Men (1935) is fieldwork as book; Their Eyes Were Watching God (1937) — just after this lesson’s core dates — turns that ear for speech into a novel of a woman’s life in Florida. Name also, without full essays here: Jessie Fauset’s editorial gatekeeping; Nella Larsen’s Passing; Wallace Thurman’s Fire!! and colorism novel The Blacker the Berry; Aaron Douglas on dust jackets and magazine pages."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "High modernism, Chicago, and Paris stages",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The same calendar that holds The Weary Blues also holds high modernism’s London and Paris experiments — Eliot’s The Waste Land (1922), Joyce’s Ulysses (1922), Woolf’s Mrs Dalloway (1925). Those books share a decade with Locke and Hughes without sharing a public. White modernist networks and New Negro magazines occasionally overlapped through patrons, parties, and expatriate travel, but the Crisis subscriber list was not the Criterion subscriber list. Capsules already has a Thursday on high modernism; keep it adjacent, not collapsed. The useful comparison is institutional: little magazines, anthologies, and prestige fights happening in parallel, aimed at different readers."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/paris-seine.jpg",
+          "alt": "Narrow Rue de Seine in Paris with parked cars, shopfronts, and multi-story buildings.",
+          "caption": "Rue de Seine, Paris (modern photograph). In the 1920s Paris was also a stage for Black American performers and, by the 1930s, for Francophone students who would name Négritude. The street is a reminder that “elsewhere” is a set of addresses, not a vague abroad.",
+          "credit": "Ralf.treinen / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Paris,_Rue_de_Seine.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Paris specifically mattered in two different ways. Josephine Baker, born in St. Louis, became a sensation in 1920s Paris music halls — a Black American star whose career ran through European revue economies rather than through Crisis poetry contests. Separately, in the 1930s, Caribbean and African students in Paris (Aimé Césaire, Léopold Sédar Senghor, Léon Damas) began the conversations later labeled Négritude. That movement’s landmark texts, including Césaire’s Cahier d’un retour au pays natal (1939), sit at the edge of or after this lesson’s U.S. window. They are not a copy of Harlem; they are another Black literary politics in French, reading surrealism and colonial schooling through their own archives."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/harlem-renaissance/josephine-baker.jpg",
+          "alt": "Studio portrait of Josephine Baker looking over her shoulder, photographed by Henri Manuel.",
+          "caption": "Josephine Baker, photographed by Henri Manuel. Her Paris stardom in the 1920s is contemporaneous with the Harlem literary boom and belongs to a different industry — revue and celebrity — that still shaped how Europe imagined Black modernity.",
+          "credit": "Henri Manuel / Wikimedia Commons / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9phine_Baker_-_photo_Henri_Manuel.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Inside the United States, Chicago’s South Side was not a satellite of 135th Street. Bronzeville supported the Chicago Defender, clubs that incubated jazz careers, and writers who would later dominate 1940s protest fiction. Richard Wright’s major fame comes after this lesson’s core dates, but the city’s Black Belt institutions were already contemporaneous with Harlem’s. Washington, D.C., Howard University circles, and other campuses likewise produced editors and poets who appear in the same magazines. “Harlem Renaissance” as a course title is convenient; the 1920s Black literary map was multi-city."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Depression thinning, Hurston’s 1937 novel, harder turns",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The 1929 crash damaged the patronage and magazine economy that had floated contests, parties, and small print runs. By the mid-1930s many writers were on the move — into Federal Writers’ Project folklore and guidebook work, into journalism, into other regions. Critics later drew a period line here and called what came before a Renaissance. Lines like that are teaching tools; careers ignored them. Hurston’s Their Eyes Were Watching God appears in 1937, just outside many syllabi’s “1920s Harlem” frame, and is still one of the most taught novels associated with the era’s people. Wright’s Native Son (1940) is often staged as a break toward Chicago naturalism and protest — another After-edge, not a weekly lesson of its own here."
+        },
+        {
+          "type": "p",
+          "text": "Internationally, Négritude’s 1930s–40s texts and postwar decolonization literature reopen questions the New Negro debates had already posed: who controls the image of Black life, which language counts as literary, and whether art should persuade a hostile majority or speak first to a Black public. Later recoveries — rediscovery of Hurston, renewed teaching of Larsen and Toomer, archival work at the Schomburg Center — continually revise which Renaissance books stay in print. The label remains useful if you remember it is a label: a later name for a real cluster of magazines, streets, and books."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If “Harlem Renaissance” is a later classroom name, what changes when you read the same years under the period’s own banner — New Negro — and keep Chicago and Paris in the same frame instead of treating Harlem as the only stage?"
+        }
+      ]
+    }
+  ]
+}
