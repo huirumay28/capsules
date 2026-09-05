@@ -1,0 +1,439 @@
+{
+  "slug": "asch-conformity",
+  "date": "2026-09-06",
+  "subject": "psych",
+  "related": ["bystander-genovese", "cognitive-dissonance"],
+  "title": "Conformity: the concept, then Asch’s line judgments at Swarthmore in the 1950s",
+  "dek": "What conformity means — changing judgment or behavior toward a group norm when private evidence points elsewhere — then Solomon Asch’s line-judgment experiments with male college students, a unanimous wrong majority, and the stubborn fact of independence.",
+  "era": "concept mid-century social psychology; experiments early–mid 1950s; SciAm 1955; monograph 1956",
+  "reading_minutes": 20,
+  "thumb": {
+    "src": "lessons/asch-conformity/swarthmore-parrish.jpg",
+    "alt": "Parrish Hall at Swarthmore College, a large stone campus building with trees in front."
+  },
+  "hero": {
+    "src": "lessons/asch-conformity/swarthmore-parrish.jpg",
+    "alt": "Parrish Hall, the central stone building on the Swarthmore College campus, photographed in 2007.",
+    "caption": "Parrish Hall, Swarthmore College, photographed in 2007. Solomon Asch ran his classic line-judgment conformity studies with male college students at Swarthmore and other campuses in the early and mid-1950s. This is the place later — a campus landmark — not a photograph of Asch’s laboratory room.",
+    "credit": "Kungming2 / Wikimedia Commons / CC BY 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Swarthmore_Parrish_Hall.jpg"
+  },
+  "honesty": "This lesson presents conformity as a concept first, then Asch’s line-judgment experiments as a case study. The core numbers follow Asch’s own reports: about one-third of responses on critical trials matched the wrong majority; roughly three-quarters of participants conformed at least once; about one-quarter never conformed; alone, error rates were near zero. Asch framed the work as studies of independence and conformity. Textbooks often overstate yielding and understate independence (Friend, Rafferty, and Bramel 1990; later reviews). The samples were mostly young men in American colleges; the task was an artificial lab judgment; deception was used; cultural and historical replications vary. This is a mechanism under specific conditions, not a universal law of human weakness.",
+  "timeline": [
+    {
+      "year": "1935",
+      "label": "Sherif’s autokinetic work",
+      "detail": "Muzafer Sherif studied how people form norms when judging an ambiguous moving light. Asch later asked what happens when the physical evidence is clear and the group is still wrong."
+    },
+    {
+      "year": "1951",
+      "label": "First published report",
+      "detail": "Asch published “Effects of group pressure upon the modification and distortion of judgments” in Harold Guetzkow’s Groups, Leadership and Men. The line-judgment paradigm was on the record."
+    },
+    {
+      "year": "1952",
+      "label": "Social Psychology textbook",
+      "detail": "Asch’s Social Psychology (Prentice-Hall) set out his broader Gestalt-influenced view of social influence, with independence as a serious research problem alongside conformity."
+    },
+    {
+      "year": "1955",
+      "label": "Scientific American",
+      "detail": "“Opinions and Social Pressure” summarized the program for a wide audience. The same year, Richard Crutchfield published a different conformity apparatus in American Psychologist, and Deutsch and Gerard distinguished normative from informational influence."
+    },
+    {
+      "year": "1956",
+      "label": "The monograph",
+      "detail": "Psychological Monographs published “Studies of independence and conformity: I. A minority of one against a unanimous majority,” the fullest report of methods, numbers, variations, and interviews."
+    },
+    {
+      "year": "1960s",
+      "label": "Obedience as a different question",
+      "detail": "Stanley Milgram’s obedience studies, shaped in part by Asch’s questions about social pressure, asked what people do under authority commands — a different mechanism from peer-majority conformity."
+    },
+    {
+      "year": "1990",
+      "label": "Textbook critique",
+      "detail": "Friend, Rafferty, and Bramel documented how social-psychology textbooks increasingly exaggerated conformity and neglected Asch’s emphasis on independence."
+    },
+    {
+      "year": "1996",
+      "label": "Bond and Smith meta-analysis",
+      "detail": "Rod Bond and Peter B. Smith meta-analyzed 133 Asch-type line-judgment studies from 17 countries. Conformity varied by culture and had declined in U.S. samples since the 1950s."
+    }
+  ],
+  "read": [
+    {
+      "title": "Solomon E. Asch — “Opinions and Social Pressure” (Scientific American, November 1955)",
+      "url": "https://www.scientificamerican.com/article/opinions-and-social-pressure/",
+      "note": "Asch’s own accessible summary of the line-judgment program. Publisher page; full text may sit behind Scientific American’s gate. DOI: 10.1038/scientificamerican1155-31."
+    },
+    {
+      "title": "Solomon E. Asch — “Studies of independence and conformity: I. A minority of one against a unanimous majority” (Psychological Monographs, 1956)",
+      "url": "https://doi.org/10.1037/h0093718",
+      "note": "The full monograph: methods, critical-trial data, variations (ally, majority size, private response), and interview material. Abstract/DOI public; PDF often behind APA access."
+    },
+    {
+      "title": "“Conformity” — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/conformity",
+      "note": "Public overview of conformity, Asch’s line task, normative influence, and later cultural work including Bond and Smith."
+    },
+    {
+      "title": "Solomon Asch — Encyclopaedia Britannica biography",
+      "url": "https://www.britannica.com/biography/Solomon-Asch",
+      "note": "Short public biography of Asch and his influence on later social psychology, including Milgram."
+    },
+    {
+      "title": "Rod Bond and Peter B. Smith — “Culture and conformity” (Psychological Bulletin, 1996)",
+      "url": "https://doi.org/10.1037/0033-2909.119.1.111",
+      "note": "Meta-analysis of 133 Asch-type studies across 17 countries. Collectivist contexts showed higher conformity; U.S. rates declined after the 1950s. Abstract/DOI public."
+    },
+    {
+      "title": "Richard S. Crutchfield — “Conformity and character” (American Psychologist, 1955)",
+      "url": "https://doi.org/10.1037/h0040237",
+      "note": "Contemporaneous conformity work with a different apparatus: booths and signal lights instead of live confederates. Abstract/DOI public."
+    },
+    {
+      "title": "Axel Franzen and Sebastian Mader — “The power of social influence” (PLOS ONE, 2023)",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294325",
+      "note": "Open-access modern replication and extension of the Asch line task, with an error rate near the classic one-third in the standard condition."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "conformity",
+      "explain": "Changing one’s judgment or behavior toward a group norm, even when private evidence points elsewhere. In Asch’s line studies, conformity meant matching the majority’s wrong answer on a clear perceptual task.",
+      "aliases": ["social conformity", "yielding"]
+    },
+    {
+      "term": "independence",
+      "explain": "Reporting one’s own judgment against a wrong majority. Asch treated independence as a central finding, not a footnote. About one-quarter of his participants never yielded on critical trials.",
+      "aliases": ["nonconformity"]
+    },
+    {
+      "term": "normative social influence",
+      "explain": "Going along with a group to gain acceptance or avoid rejection, even when privately sure the group is wrong. Deutsch and Gerard (1955) named this mechanism. Asch’s unambiguous lines make normative pressure the main engine.",
+      "aliases": ["normative influence"]
+    },
+    {
+      "term": "informational social influence",
+      "explain": "Using others’ answers as evidence about reality when uncertain. Stronger when the task is ambiguous. In Asch’s interviews, some participants doubted their eyes even though the lines were clear.",
+      "aliases": ["informational influence"]
+    },
+    {
+      "term": "Solomon Asch",
+      "explain": "Polish-born American social psychologist (1907–1996). Designed the line-judgment conformity experiments in the 1950s while at Swarthmore College. Framed the program as studies of independence and conformity.",
+      "aliases": ["Solomon E. Asch", "Asch"]
+    },
+    {
+      "term": "Swarthmore College",
+      "explain": "Liberal arts college in Swarthmore, Pennsylvania, where Asch conducted much of the classic line-judgment work with male college students in the early and mid-1950s."
+    },
+    {
+      "term": "Opinions and Social Pressure",
+      "explain": "Asch’s November 1955 Scientific American article summarizing the conformity program for a general audience. Often the first text students meet.",
+      "aliases": ["Opinions and social pressure"]
+    },
+    {
+      "term": "Psychological Monographs 1956",
+      "explain": "Venue for Asch’s full report, “Studies of independence and conformity: I. A minority of one against a unanimous majority.” The densest primary source on methods, numbers, and interviews."
+    },
+    {
+      "term": "Studies of independence and conformity",
+      "explain": "Full title shorthand for Asch’s 1956 Psychological Monographs paper. The subtitle names the design: a minority of one against a unanimous majority."
+    },
+    {
+      "term": "line-judgment task",
+      "explain": "Asch’s experimental task: match a standard line to one of three comparison lines. One comparison matches; the other two clearly do not. Simple enough that alone, people almost never err.",
+      "aliases": ["line judgment", "Asch line task"]
+    },
+    {
+      "term": "confederate",
+      "explain": "A research accomplice who pretends to be a naive participant. In Asch’s paradigm, confederates unanimously gave scripted wrong answers on critical trials.",
+      "aliases": ["accomplice", "actor"]
+    },
+    {
+      "term": "naive participant",
+      "explain": "The real subject who does not know the others are confederates. Seated to answer near last, after hearing the majority.",
+      "aliases": ["critical subject", "naive subject"]
+    },
+    {
+      "term": "critical trial",
+      "explain": "A trial on which the confederates unanimously give the wrong answer. Asch used 12 critical trials in an 18-trial series. Conformity rates are calculated on these trials.",
+      "aliases": ["critical trials"]
+    },
+    {
+      "term": "unanimous majority",
+      "explain": "When every confederate gives the same wrong answer. Unanimity was the engine of Asch’s effect; breaking it with one correct dissenter sharply reduced conformity."
+    },
+    {
+      "term": "ally effect",
+      "explain": "When one confederate gives the correct answer, conformity by the naive participant drops sharply (in Asch’s reports, toward about 5%). A single ally breaks the unanimous majority.",
+      "aliases": ["true partner", "partner effect"]
+    },
+    {
+      "term": "distortion of action",
+      "explain": "Asch’s interview category: the participant knew the correct answer but went along publicly to avoid standing out."
+    },
+    {
+      "term": "distortion of judgment",
+      "explain": "Asch’s interview category: the participant came to distrust their own perception and concluded the majority must be right."
+    },
+    {
+      "term": "distortion of perception",
+      "explain": "Asch’s rarest interview category: a small minority seemed to believe the majority’s wrong line actually matched. Most yielding was not this."
+    },
+    {
+      "term": "Muzafer Sherif",
+      "explain": "Social psychologist whose 1930s autokinetic studies showed norm formation under ambiguity. Asch’s clear-line task asked a different question: what happens when the evidence is obvious?",
+      "aliases": ["Sherif"]
+    },
+    {
+      "term": "autokinetic effect",
+      "explain": "An optical illusion in which a stationary point of light in a dark room appears to move. Sherif used it to study how groups invent norms when physical reality is unclear."
+    },
+    {
+      "term": "Richard Crutchfield",
+      "explain": "Psychologist who in 1955 published a conformity apparatus using cubicles and experimenter-controlled signal lights, testing several naive participants at once without live confederates.",
+      "aliases": ["Crutchfield", "Richard S. Crutchfield"]
+    },
+    {
+      "term": "Crutchfield situation",
+      "explain": "Crutchfield’s 1955 procedure: participants in separate booths see panel lights they believe are others’ answers. The experimenter controls the lights and can display a false unanimous majority."
+    },
+    {
+      "term": "Deutsch and Gerard",
+      "explain": "Morton Deutsch and Harold B. Gerard’s 1955 paper distinguishing normative social influence from informational social influence — a conceptual map often used to interpret Asch."
+    },
+    {
+      "term": "Friend, Rafferty, and Bramel",
+      "explain": "Authors of a 1990 European Journal of Social Psychology critique showing textbooks increasingly overstated Asch conformity and underplayed independence.",
+      "aliases": ["Friend Rafferty Bramel"]
+    },
+    {
+      "term": "Bond and Smith",
+      "explain": "Rod Bond and Peter B. Smith’s 1996 Psychological Bulletin meta-analysis of 133 Asch-type studies from 17 countries. Linked higher conformity to collectivist cultural contexts and found declining U.S. rates over time.",
+      "aliases": ["Rod Bond", "Peter B. Smith"]
+    },
+    {
+      "term": "Stanley Milgram",
+      "explain": "Social psychologist whose early-1960s obedience experiments asked how people respond to authority commands. Related to Asch as a social-pressure question, but authority versus peer majority is a different mechanism.",
+      "aliases": ["Milgram"]
+    },
+    {
+      "term": "obedience",
+      "explain": "Compliance with direct orders from an authority figure. Milgram’s question. Distinct from Asch’s peer-majority conformity, though both show situational social pressure."
+    },
+    {
+      "term": "Groups, Leadership and Men",
+      "explain": "1951 Carnegie Press volume edited by Harold Guetzkow that included Asch’s first published report of the group-pressure line-judgment findings."
+    },
+    {
+      "term": "Harold Guetzkow",
+      "explain": "Editor of Groups, Leadership and Men (1951), the book in which Asch’s early conformity chapter appeared."
+    },
+    {
+      "term": "Scientific American",
+      "explain": "Popular science magazine that published Asch’s 1955 essay “Opinions and Social Pressure,” bringing the line experiments to a broad readership."
+    },
+    {
+      "term": "American Psychologist",
+      "explain": "APA journal that published Crutchfield’s 1955 article “Conformity and character,” describing his booth-and-lights conformity apparatus."
+    },
+    {
+      "term": "Psychological Bulletin",
+      "explain": "APA review journal that published Bond and Smith’s 1996 culture-and-conformity meta-analysis."
+    },
+    {
+      "term": "Gestalt psychology",
+      "explain": "Perceptual and cognitive tradition that shaped Asch’s thinking: people grasp structured wholes, not only isolated sensations. Asch resisted reducing social influence to blind submission."
+    },
+    {
+      "term": "deception in research",
+      "explain": "Asch’s confederates and cover story (a “vision” or perception test) hid the true aim. Standard mid-century practice; later ethics boards tightened rules on deception and debriefing."
+    },
+    {
+      "term": "public compliance",
+      "explain": "Outward agreement with the group without private acceptance. Matches many of Asch’s “distortion of action” interviews: people knew the answer and went along anyway."
+    },
+    {
+      "term": "private acceptance",
+      "explain": "Genuine change in what one believes. Less common in Asch’s clear-line setting than public compliance; more expected when informational influence is strong."
+    },
+    {
+      "term": "collectivism",
+      "explain": "Cultural orientation emphasizing group harmony and interdependence. In Bond and Smith’s meta-analysis, more collectivist national contexts tended to show higher Asch-type conformity."
+    },
+    {
+      "term": "individualism",
+      "explain": "Cultural orientation emphasizing personal autonomy. Associated in Bond and Smith (1996) with lower average conformity on Asch-type tasks."
+    },
+    {
+      "term": "bystander effect",
+      "explain": "Finding that people are often less likely to help when others are present. Another group-presence mechanism; related here as social pressure altering individual action, not as the same process as Asch conformity."
+    },
+    {
+      "term": "cognitive dissonance",
+      "explain": "Festinger’s theory that inconsistent cognitions create discomfort people work to reduce. Related here where group commitment and social support shape how people handle conflict between evidence and belonging — a different mechanism from peer-majority line matching."
+    },
+    {
+      "term": "social support",
+      "explain": "In Asch, even one correct ally reduces conformity. In Festinger’s prophecy work, fellow believers help sustain a disconfirmed belief. Same phrase, different jobs: ally for independence versus cushion for persistence."
+    }
+  ],
+  "fun_fact": {
+    "title": "One ally was enough to break the spell",
+    "text": "Asch found that a unanimous wrong majority was doing most of the work. When he instructed even one confederate to give the correct answer on the critical trials, conformity by the naive participant fell sharply — in his reports, from roughly a third of critical-trial responses down toward about five percent. The participant did not need a majority of allies. One person saying the obvious out loud changed the situation. That is why Asch kept insisting the studies were about independence as well as conformity: the same people who yielded to unanimity often stood firm once unanimity cracked."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "The concept",
+      "title": "What conformity means: moving toward the group when your own evidence says otherwise",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Conformity is a change in judgment or behavior toward a group norm, even when private evidence points elsewhere. The person sees one thing, hears the group say another, and then moves — in speech, in writing, or in action — toward the group. The move can be thin or deep. Sometimes it is public compliance only: the person still knows the group is wrong and goes along to avoid standing out. Sometimes it involves real doubt: the person begins to treat others’ answers as information about what is true. Either way, the defining feature is the shift toward the group against the pull of one’s own evidence."
+        },
+        {
+          "type": "p",
+          "text": "Social psychologists usually split the pressure into two kinds. Normative social influence is the wish for acceptance and the fear of rejection. Informational social influence is the use of other people as evidence when the world is unclear. Morton Deutsch and Harold Gerard named that distinction in 1955, the same year Solomon Asch summarized his line experiments for Scientific American. The two mechanisms are not mutually exclusive. A task can be clear and still produce doubt once a roomful of peers disagrees. But the distinction matters for reading any study. If the physical answer is ambiguous, informational influence has more room to work. If the answer is obvious, normative pressure is doing more of the lifting — and any informational doubt that appears is itself a product of the social conflict."
+        },
+        {
+          "type": "p",
+          "text": "Independence belongs in the definition as much as yielding does. Asch did not set out to prove that “everyone caves.” He set out to measure when people hold to what they see and when they do not. Later textbooks often flattened that program into a morality play about human weakness. The concept, stated carefully, is narrower and more useful: under specified group conditions, some people some of the time will match a wrong majority; many responses will still be independent; and small changes in the group — especially a break in unanimity — can change the rate dramatically. That is the claim. The line-judgment case puts it on the ground."
+        }
+      ]
+    },
+    {
+      "id": "lab",
+      "kicker": "The mechanism",
+      "title": "How Asch built a minority of one against a unanimous majority",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Solomon Asch, working at Swarthmore College in the early 1950s, wanted a situation in which the physical evidence was clear and the social evidence was wrong. Earlier work by Muzafer Sherif had used the autokinetic effect — a stationary point of light that seems to move in a dark room — to show how groups form norms when reality is ambiguous. Asch flipped the problem. He gave people a line-matching task so easy that, alone, they almost never erred. Then he placed one naive participant among confederates who, on critical trials, unanimously chose the wrong comparison line."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/asch-conformity/line-judgment-diagram.png",
+          "alt": "Original schematic diagram of a standard line beside three comparison lines labeled A, B, and C, one of which matches the standard.",
+          "caption": "Schematic of the line-judgment task, drawn for this lesson. A standard line is matched against three comparison lines; only one comparison is equal in length. This is an original diagram, not a reproduction of Asch’s published figures. In the experiments, differences were large enough that alone, error rates were near zero.",
+          "credit": "Original diagram for Capsules / CC BY 4.0",
+          "credit_url": "https://huirumay28.github.io/capsules/lessons/asch-conformity/"
+        },
+        {
+          "type": "p",
+          "text": "The classic series used 18 trials. On 12 of them — the critical trials — the confederates all gave the same wrong answer. The naive participant answered near last, after hearing the majority. Early reports described groups of roughly seven to nine men; the 1955 Scientific American summary reported results from 123 male students at three colleges (Asch noted that series did not include his own Swarthmore sample). Control participants judging alone made mistakes less than about one percent of the time. Under group pressure, about one-third of the responses on critical trials matched the wrong majority. Roughly three-quarters of participants conformed at least once. About one-quarter never conformed on any critical trial. Those are Asch’s own orders of magnitude; later popular retellings sometimes inflate them."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/asch-conformity/college-classroom-students-1956.jpg",
+          "alt": "Students seated at desks in a mid-1950s college classroom, photographed from the front of the room.",
+          "caption": "College classroom with students, Fairleigh Dickinson University, Teaneck, New Jersey, 1956 — the same decade as Asch’s published reports. Photographed by Gottscho-Schleisner. This is a period American college classroom, not Asch’s Swarthmore session and not a recreation of the confederate seating plan.",
+          "credit": "Gottscho-Schleisner Collection / Library of Congress / no known restrictions",
+          "credit_url": "https://www.loc.gov/item/2018728563/"
+        },
+        {
+          "type": "p",
+          "text": "Variations showed what drove the effect. Majority size mattered up to a point: one opposing confederate produced little conformity; two or three raised it sharply; adding still more did not keep multiplying the rate. A single dissenting confederate who gave the correct answer cut conformity dramatically — toward about five percent in Asch’s reports. Private written answers reduced public yielding. Post-experiment interviews sorted motives. Some participants said they knew they were wrong and went along anyway (distortion of action). Some said they came to doubt their eyes (distortion of judgment). A smaller number seemed to accept the majority’s line as matching (distortion of perception). The interviews are why Asch refused a single story about “the conforming subject.” People arrived at the same wrong answer by different routes — and many never arrived there at all."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "The case",
+      "title": "Swarthmore, male college students, and the wrong line said out loud",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Picture the cover story as the participants heard it. Young men are recruited for what seems to be a study of visual discrimination. They sit in a classroom with several others. Cards appear: a standard line, then three comparison lines labeled for easy calling. Each man announces his match in seat order. The first trials are ordinary. Everyone agrees. Then, on a critical trial, the men ahead of the naive participant all pick a line that is clearly wrong. The discrepancy is not subtle. Alone, the same participant would almost never make that error. Now he has to speak after a unanimous wrong majority has already spoken."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/asch-conformity/swarthmore-mccabe.jpg",
+          "alt": "McCabe Library at Swarthmore College, a modern brick-and-glass campus building seen from outside.",
+          "caption": "McCabe Library, Swarthmore College, photographed in 2020. Asch’s line studies are tied to Swarthmore and to other American campuses of the early Cold War years. This later campus building marks the institution and place; it is not the 1950s classroom where confederates gave wrong answers.",
+          "credit": "Buidhe / Wikimedia Commons / CC BY-SA 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:McCabe_library,_Swarthmore_College.jpg"
+        },
+        {
+          "type": "p",
+          "text": "What happened next varied by person, which is the point Asch wanted recorded. Some participants stuck with what they saw on every critical trial. Some yielded once or twice and then recovered. Some yielded often. Across the pooled critical trials, wrong majority-matching answers ran at about one-third. That headline number is real and surprising. It is also incomplete. Most answers were still correct. A substantial minority of people never yielded. And when Asch planted one ally who said the correct line, the social situation changed enough that conformity collapsed for many who would otherwise have gone along. The case is not “college students cannot trust their eyes.” The case is “a unanimous peer majority can pull a measurable share of public answers off an easy truth — and independence remains common, especially once unanimity breaks.”"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/asch-conformity/college-classroom-1956.jpg",
+          "alt": "Empty mid-1950s college classroom with rows of desks facing a chalkboard and windows.",
+          "caption": "College classroom interior, Fairleigh Dickinson, Teaneck, 1956, Gottscho-Schleisner Collection. Asch’s sessions used ordinary instructional rooms and public oral answers. This is the furniture and decade — desks, board, daylight — not a documented photograph of an Asch trial in progress.",
+          "credit": "Gottscho-Schleisner Collection / Library of Congress / no known restrictions",
+          "credit_url": "https://www.loc.gov/item/2018728561/"
+        },
+        {
+          "type": "p",
+          "text": "The same decade’s social psychology was already linking group presence to individual judgment in other ways. The bystander-effect literature still lay ahead, but the shared problem is recognizable: other people change what a person feels responsible for saying or doing. Cognitive-dissonance fieldwork from the same years showed another group mechanism — social support helping people hold a belief after disconfirmation. Asch’s contribution sits beside those findings without being identical to them. His question was peer judgment on a clear fact. Festinger’s Seekers case asked how commitment and fellow believers reshape a failed prophecy. Later bystander experiments asked how the presence of others inhibits helping. All three are about social pressure and group conditions. Only Asch’s design put a minority of one against a scripted unanimous majority on a line length anyone could see."
+        },
+        {
+          "type": "p",
+          "text": "Asch published the program in stages: a 1951 chapter in Guetzkow’s Groups, Leadership and Men; discussion in his 1952 Social Psychology; the 1955 Scientific American essay “Opinions and Social Pressure”; and the 1956 Psychological Monographs report with the fullest tables and interviews. He kept returning to a double finding. The capacity to call white black under group pressure was, in his words, a matter of concern. The capacity for independence under the same pressure was also real, often costly, and scientifically central. Any honest case study has to carry both sentences."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Contemporaneous elsewhere",
+      "title": "Crutchfield’s booths and lights, 1955",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "While Asch was refining the live-confederate line paradigm, Richard S. Crutchfield at Berkeley published a different apparatus in American Psychologist in 1955 under the title “Conformity and character.” Instead of seating one naive participant among a roomful of trained actors, Crutchfield placed several naive participants in separate cubicles. Each faced a panel of signal lights supposedly showing the other participants’ answers. In reality the experimenter controlled the lights and could display a false unanimous majority. Participants believed they were answering last. Multiple people could be tested in one session, with no live confederates to train and schedule."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/asch-conformity/college-classroom-desks-1961.jpg",
+          "alt": "Rows of student desks in a college classroom, facing forward, mid-century institutional interior.",
+          "caption": "Classroom no. 120, Queens College, photographed in 1961 by Samuel H. Gottscho. Crutchfield’s 1955 method replaced the shared table with cubicles and lights; Asch kept face-to-face oral answers. Both belong to the same mid-century effort to measure conformity under controlled majority pressure. This room is institutional furniture of the era, not Crutchfield’s booths.",
+          "credit": "Gottscho-Schleisner Collection / Library of Congress / no known restrictions",
+          "credit_url": "https://www.loc.gov/item/2018732098/"
+        },
+        {
+          "type": "p",
+          "text": "Crutchfield still found substantial conformity, including on tasks beyond simple line matching. His design answered a practical criticism of Asch: live majorities are expensive and hard to standardize. It also changed the social texture. Asch’s participants spoke aloud under the eyes of peers; Crutchfield’s sat alone with lights. Later commentators noted that public embarrassment may have been stronger in Asch’s room. The comparison is useful because it is contemporaneous and methodological, not a forced East-West parable. Two American labs in the mid-1950s asked how a person responds when the group — real or simulated — is unanimously wrong. Asch kept the human majority visible. Crutchfield automated the majority and multiplied throughput. Both belong to the same research moment."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Replications, culture, textbook myths, and the road to obedience research",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Asch paradigm replicated often enough to become a teaching staple, but the size of the effect is not a constant. In 1996, Rod Bond and Peter B. Smith published a Psychological Bulletin meta-analysis of 133 studies using Asch-type line judgment tasks, drawn from 17 countries. Conformity was generally higher in more collectivist cultural contexts than in more individualist ones. Within the United States, effect sizes declined from the 1950s onward. Those findings do not erase Asch; they locate him. A 1950s American male college sample under a unanimous wrong majority is one estimate, not the human average for all places and decades."
+        },
+        {
+          "type": "p",
+          "text": "Textbook culture often moved the other way — toward a simpler story. Friend, Rafferty, and Bramel argued in 1990 that social-psychology texts increasingly accentuated conformity and minimized independence, despite Asch’s own framing and interview evidence. Later reviews found the distortion persistent: many texts still under-report that most critical-trial answers were independent and that a sizable minority never yielded. The popular lesson became “people are sheep.” Asch’s lesson was closer to “unanimous majorities can move public judgment on clear facts, independence is common, and one ally matters.” Teaching the second version takes a few more sentences. It is also more accurate."
+        },
+        {
+          "type": "p",
+          "text": "Limits remain binding. The classic samples were young men in colleges. The task was a brief lab judgment with no material stake. Confederates and cover stories meant deception. Cultural scripts about disagreement differ. Modern replications sometimes change incentives, gender composition, or political opinion items; a 2023 open-access study by Axel Franzen and Sebastian Mader still found an error rate near one-third in a standard line condition, while also showing that incentives and item type can shift rates. The paradigm shaped social psychology by giving researchers a clean way to manipulate majority pressure. It does not license claims about every committee, classroom, or nation."
+        },
+        {
+          "type": "p",
+          "text": "Asch’s questions also fed a neighboring research line. Stanley Milgram, who had worked in settings influenced by Asch’s concerns, asked what people do when an authority figure commands harmful action. That is obedience, not peer-majority conformity. The mechanisms differ: a white-coated experimenter giving orders is not the same as six peers mis-matching a line. Still, both programs made situational social pressure measurable, and both are easy to over-moralize. Keep them adjacent, not collapsed. Asch measured how a unanimous peer majority pulls answers on a clear fact. Milgram measured how authority commands pull action. The shared inheritance is a research style. The questions are not the same."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If a unanimous group is clearly wrong about something you can see for yourself, what would it take — one ally, a chance to answer privately, a higher cost for being wrong, a different culture of disagreement — for you to trust your own evidence out loud, and how would you know whether you were showing independence or only a different kind of social influence?"
+        }
+      ]
+    }
+  ]
+}
