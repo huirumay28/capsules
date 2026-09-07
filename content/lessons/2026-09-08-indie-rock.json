@@ -1,0 +1,912 @@
+{
+  "slug": "indie-rock",
+  "date": "2026-09-08",
+  "subject": "music",
+  "related": [
+    "post-punk",
+    "punk",
+    "psychedelia"
+  ],
+  "title": "Indie rock (c. 1983–1994): independent labels, college radio, and guitars that stayed off the majors",
+  "dek": "After post-punk’s first stretch, a decade of small labels, student radio, and guitar groups built a parallel circuit in Manchester, Athens, New York, London, Dunedin, and Brisbane. The press called it indie and college rock. The majors arrived at the end of the decade and renamed a lot of it alternative.",
+  "era": "c. 1983–1994",
+  "reading_minutes": 22,
+  "thumb": {
+    "src": "lessons/indie-rock/salford-lads-club.jpg",
+    "alt": "Red-brick Salford Lads Club on a corner, with white lettering on the facade and a clear sky."
+  },
+  "hero": {
+    "src": "lessons/indie-rock/salford-lads-club.jpg",
+    "alt": "The red-brick Salford Lads Club building on Coronation Street, Ordsall, with white lettering across the upper storey.",
+    "caption": "Salford Lads Club, Coronation Street, Ordsall, photographed by Peter McDermott on 18 May 2017. In December 1985 Stephen Wright photographed Morrissey, Johnny Marr, Andy Rourke, and Mike Joyce outside this building for the inner sleeve of The Queen Is Dead (Rough Trade, June 1986). The brick and the lettering are the club. The 1985 photograph is still in copyright; this later street view stands in for the address.",
+    "credit": "Peter McDermott / Wikimedia Commons / CC BY-SA 2.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Salford_Lads_Club_-_geograph.org.uk_-_5428806.jpg"
+  },
+  "honesty": "“Indie rock” and “college rock” are press and radio labels, not a single sound and not a membership card. This lesson covers roughly 1983–1994: independent distribution and student radio in Britain and the United States, with Dunedin’s Flying Nun and Brisbane’s Go-Betweens as contemporaneous scenes, not as a required pairing. It is not a grunge lesson (Sub Pop and Nevermind are named only as the commercial hinge that renamed much of this circuit “alternative”). It is not Britpop, not the 2000s indie revival, and not a full shoegaze catalogue — Loveless is named as one Creation peak inside the window. Band photographs from the 1980s are usually still in copyright, so the pictures here are buildings and streets — Salford Lads Club, Rough Trade on Talbot Road, the 40 Watt Club, the University of Georgia Arch, Dunedin Railway Station, a Shimokitazawa street — captioned as later or place photographs. Where a free picture could not be found, the lesson does without. No AI people.",
+  "timeline": [
+    {
+      "year": "1981–82",
+      "label": "Labels before the word stuck",
+      "detail": "Roger Shepherd founds Flying Nun Records in Christchurch, New Zealand, in 1981; The Clean’s “Tally Ho!” is an early single. In Athens, Georgia, Bill Berry, Peter Buck, Mike Mills, and Michael Stipe — University of Georgia students — form R.E.M. and issue Chronic Town on I.R.S. in 1982. In Manchester, Morrissey and Johnny Marr begin writing as The Smiths. Rough Trade Records, spun from Geoff Travis’s Ladbroke Grove shop (opened 1976), is already distributing independent 45s through the Rough Trade Cartel."
+    },
+    {
+      "year": "1983–84",
+      "label": "The hinge years",
+      "detail": "The Smiths’ “Hand in Glove” appears on Rough Trade in May 1983; “This Charming Man” follows in October; the debut album The Smiths arrives in February 1984. R.E.M.’s Murmur (I.R.S., 12 April 1983) becomes a college-radio landmark and later tops critics’ lists over Thriller in some year-end polls. College stations in the United States treat arpeggiated guitars and opaque vocals as a programming category — “college rock” — rather than a major-label playlist."
+    },
+    {
+      "year": "1985–87",
+      "label": "Catalogues and cassettes",
+      "detail": "The Smiths issue Meat Is Murder (1985) and The Queen Is Dead (June 1986); the Salford Lads Club photograph for the inner sleeve is taken in December 1985. NME’s C86 cassette (1986) freezes a British indie guitar snapshot and turns a mail-order tape into a genre shorthand. Sonic Youth move from New York’s downtown circuit toward SST. The Pixies form in Boston; Come On Pilgrim appears on 4AD in 1987. R.E.M. finish their I.R.S. run with Document (1987) and prepare a Warner Bros. deal."
+    },
+    {
+      "year": "1988–91",
+      "label": "Peaks and major-label doors",
+      "detail": "Sonic Youth’s Daydream Nation (SST, October 1988). Pixies’ Surfer Rosa (4AD, 1988) and Doolittle (1989). R.E.M. release Green (Warner Bros., 1988). My Bloody Valentine’s Loveless (Creation, 4 November 1991) costs Alan McGee’s label a fortune and defines a London–Thames Valley shoegaze peak. Creation, 4AD, Matador, Touch and Go, and Dischord keep separate catalogues while majors shop the college charts."
+    },
+    {
+      "year": "1992–94",
+      "label": "Slanted, then renamed",
+      "detail": "Pavement’s Slanted and Enchanted (Matador, April 1992) becomes a US indie-rock reference LP. Nirvana’s Nevermind (DGC, 1991) and the “alternative” chart rewrite the commercial story; many of the same listeners and stations are involved, but the word on the packaging changes. By the mid-1990s Britpop and major-label alternative absorb press attention. This lesson stops before that absorption becomes the main subject."
+    }
+  ],
+  "listen": [
+    {
+      "title": "The Smiths — Hand in Glove (1983)",
+      "url": "https://www.youtube.com/watch?v=kvJH5bfZT1k",
+      "note": "YouTube Topic upload on The Smiths - Topic: Hand in Glove (2011 Remaster). First Rough Trade single, May 1983. Official label audio of the studio track, not a later concert film. If the file moves, search the title plus Rough Trade or 2011 Remaster."
+    },
+    {
+      "title": "The Smiths — This Charming Man (1983)",
+      "url": "https://www.youtube.com/watch?v=UpjaTtNVwEs",
+      "note": "YouTube Topic upload: This Charming Man (2008 Remaster). Rough Trade single, October 1983. Official studio audio. Marr’s guitar figure is the argument; Morrissey’s vocal sits on top without a stadium chorus."
+    },
+    {
+      "title": "R.E.M. — Radio Free Europe (1983)",
+      "url": "https://www.youtube.com/watch?v=njoIPDlA7gs",
+      "note": "Official upload on remhq: Radio Free Europe (Remastered 2006) from Murmur (I.R.S., 1983). Studio album version, not the earlier Hib-Tone independent single. Official audio from the band’s channel."
+    },
+    {
+      "title": "Sonic Youth — Teen Age Riot (1988)",
+      "url": "https://www.youtube.com/watch?v=10rLJjBLQZ8",
+      "note": "Official upload on the Sonic Youth channel from Daydream Nation (SST, 1988). Studio recording. Official audio, not a later festival film. If the file moves, search the title plus Daydream Nation."
+    },
+    {
+      "title": "Pixies — Debaser (1989)",
+      "url": "https://www.youtube.com/watch?v=HvldypUz9w8",
+      "note": "Official upload on PixiesOfficial from Doolittle (4AD, 1989). Studio recording. Black Francis’s vocal and Kim Deal’s bass are the method. Official audio."
+    },
+    {
+      "title": "Pixies — Where Is My Mind? (1988)",
+      "url": "https://www.youtube.com/watch?v=49FB9hhoO6c",
+      "note": "Official upload on PixiesOfficial from Surfer Rosa (4AD, 1988), produced by Steve Albini. Studio recording. Official audio; later film placements are not this lesson’s subject."
+    },
+    {
+      "title": "My Bloody Valentine — Only Shallow (1991)",
+      "url": "https://www.youtube.com/watch?v=wdXGll5sc6Y",
+      "note": "Official upload on the my bloody valentine channel: only shallow (visualiser) from Loveless (Creation, 1991). Studio recording. Official audio/visualiser, not a concert film."
+    },
+    {
+      "title": "Pavement — Summer Babe (Winter Version) (1992)",
+      "url": "https://www.youtube.com/watch?v=skGqpC0WYSk",
+      "note": "Upload on the Pavement channel: Summer Babe (Winter Version) from Spiral Stairs / early Matador catalogue, the opening track of Slanted and Enchanted (Matador, 1992). Studio recording. If the file moves, search the title plus Slanted and Enchanted."
+    },
+    {
+      "title": "The Clean — Anything Could Happen",
+      "url": "https://www.youtube.com/watch?v=7tf1wzg4rdE",
+      "note": "Official upload on the Flying Nun Records channel. The Clean were among Flying Nun’s first groups in Dunedin/Christchurch from 1981. Studio recording from the label’s catalogue. Use this for the Flying Nun sound; “Tally Ho!” (1981) is the early single named in the text when a stable official upload is harder to pin."
+    },
+    {
+      "title": "The Go-Betweens — Cattle and Cane (1983)",
+      "url": "https://www.youtube.com/watch?v=ygz2RP-_bOs",
+      "note": "YouTube Topic upload on The Go-Betweens - Topic: Cattle And Cane. Brisbane group, London recording years; the song is from Before Hollywood (1983). Official Topic audio of the studio track. If the file moves, search the title plus Before Hollywood."
+    }
+  ],
+  "fun_fact": {
+    "title": "C86 began as a free NME cassette, then became a genre name people argued about",
+    "text": "In May 1986 the British weekly New Musical Express mailed a cassette, C86, to readers who collected coupons and paid postage. Twenty-two tracks from small British labels — Primal Scream, The Wedding Present, The Pastels, and others — sat on one tape. The project was a snapshot of indie distribution that year, not a manifesto. Within months “C86” was being used as shorthand for jangly, melodic guitar groups, and several of the bands on the tape rejected the box. The useful fact is logistical: a music paper, a mail-order cassette, and independent labels could still define a season of listening before “alternative” became a Billboard format."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "After post-punk’s first stretch, the independent 45 was still the unit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The post-punk capsule ends around 1984: Joy Division gone, New Order moving toward dance records, PiL changing shape, Factory building a club. What did not end was the independent label, the shop that stocked imports, or the student radio station that refused the commercial rock playlist. In Britain those shops and labels already had a network — Geoff Travis’s Rough Trade shop (Kensington Park Road from 1976, then Talbot Road from 1982) and Rough Trade Records (from 1978), plus the Rough Trade Cartel that distributed other independents’ 45s to shops that would take them. In the United States the parallel circuit was college radio: non-commercial campus stations whose music directors built playlists from promo copies, zines, and word of mouth rather than from Billboard’s Album Rock chart."
+        },
+        {
+          "type": "p",
+          "text": "The word “indie” first attached to the business fact — independent manufacture and distribution — and only later hardened into a guitar sound. Factory, Mute, Fiction, and Rough Trade had already proved that a label outside the majors could chart. What changed in the mid-1980s was the volume of guitar groups that treated that circuit as home rather than as a stepping stone, and the American student stations that made “college rock” a measurable audience. Rolling Stone, CMJ, and the British weeklies began to treat those charts as news. The majors noticed later."
+        },
+        {
+          "type": "p",
+          "text": "Two 1983 records mark the hinge without being the same music. In Manchester, The Smiths put “Hand in Glove” out on Rough Trade in May and “This Charming Man” in October; Johnny Marr’s trebly, arpeggiated guitar and Morrissey’s literary, celibate, Mancunian voice became a template for British indie identity. In Athens, Georgia, R.E.M.’s Murmur appeared on I.R.S. on 12 April 1983: Peter Buck’s jangle, Mike Mills’s melodic bass, Bill Berry’s drums, and Michael Stipe’s deliberately unclear diction. College stations made Murmur a campus fact. Critics’ year-end lists sometimes ranked it above Michael Jackson’s Thriller. That comparison is a press story, not a sales story. It tells you where the parallel circuit’s prestige sat."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "Manchester, Athens, New York, London: catalogues, not a committee",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Do not start with one capital. Manchester, Athens, New York’s downtown, and London’s independent labels made records in overlapping years. They shared distributors, John Peel, CMJ charts, and a few producers. They did not share a sound. The useful way through is catalogues and rooms."
+        },
+        {
+          "type": "p",
+          "text": "In Manchester, The Smiths — Morrissey, Johnny Marr, Andy Rourke, Mike Joyce — stayed on Rough Trade for their studio albums. The Smiths (February 1984), Meat Is Murder (February 1985), The Queen Is Dead (June 1986), and Strangeways, Here We Come (September 1987) are the LP run. Marr’s guitar borrowed from 1960s jangle and from Nile Rodgers’s funk economy without making a funk record. Morrissey’s lyrics named kitchens, bus stops, Oscar Wilde, and the North without pretending to be a stadium anthem. “How Soon Is Now?” (1985) used a vibrato guitar figure that became as identifiable as any riff of the decade. In December 1985 Stephen Wright photographed the four of them outside Salford Lads Club on Coronation Street in Ordsall; the picture went into The Queen Is Dead’s packaging. The club was a real boys’ club founded in 1903. The photograph made the brick famous. The group split in 1987 after lawsuits and exhaustion. Rough Trade’s later financial crisis is another story; the mid-1980s Smiths catalogue is this lesson’s British centre."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/indie-rock/coronation-street-ordsall.jpg",
+          "alt": "Terraced brick houses on Coronation Street in Ordsall, Salford, with parked cars and a clear sky.",
+          "caption": "Coronation Street, Ordsall, photographed in April 2020. Salford Lads Club sits on this street. The Smiths’ December 1985 sleeve session used the club facade a short walk from these terraces. The street name is older than the band; the music fact is the 1985 photograph and The Queen Is Dead (1986).",
+          "credit": "Ardfern / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Coronation_Street,_Ordsall,_April_2020_(02).jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/indie-rock/rough-trade-talbot.jpg",
+          "alt": "Shopfront of Rough Trade Records on Talbot Road, London, with browsing customers visible through the glass.",
+          "caption": "Rough Trade’s shop on Talbot Road, Notting Hill, photographed by Chris Whippet on 30 April 2009. Geoff Travis opened the first shop on Kensington Park Road in 1976; the shop moved round the corner to Talbot Road in 1982 after the shop and Rough Trade Records separated as businesses. The Smiths’ Rough Trade years used the label, not this later photograph. The glass and the stock are the continuity: an independent shop that stocked what the majors did not push.",
+          "credit": "Chris Whippet / Wikimedia Commons / CC BY-SA 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Rough_Trade_Records,_Talbot_Road_-_geograph.org.uk_-_1279495.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Athens, Georgia, R.E.M. built a career from the 40 Watt Club circuit and from I.R.S. Records, the label associated with Miles Copeland and Jay Boberg. Chronic Town (1982), Murmur (1983), Reckoning (1984), Fables of the Reconstruction (1985), Lifes Rich Pageant (1986), and Document (1987) are the I.R.S. spine. Buck’s Rickenbacker jangle and Stipe’s murky early vocals gave college programmers a sound they could own. By Document — “The One I Love,” “It’s the End of the World as We Know It (And I Feel Fine)” — the group was already crossing into commercial radio. In 1988 they signed to Warner Bros. and released Green. The deal is the hinge many histories name: a college-rock band taking major money without dropping the arpeggios overnight. Automatic for the People (1992) sits at the edge of this lesson. The earlier I.R.S. records are the indie fact."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/indie-rock/forty-watt-club.jpg",
+          "alt": "Night exterior of the 40 Watt Club in Athens, Georgia, with a lit vertical sign and people on the sidewalk.",
+          "caption": "The 40 Watt Club, Athens, Georgia, photographed in a later decade (CC0). The club moved addresses across the 1980s; a 1989 location is documented separately on Wikimedia. R.E.M., the B-52’s, and a dense local scene used Athens rooms like this. The neon and the queue are the venue. The 1980–87 I.R.S. catalogue is the music fact.",
+          "credit": "TarheelBornBred / Wikimedia Commons / CC0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:40_Watt_Club.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/indie-rock/uga-arch.jpg",
+          "alt": "The iron Arch gateway at the University of Georgia in Athens, with brick pillars and trees behind.",
+          "caption": "The Arch at the University of Georgia, Athens, photographed by JJonahJackalope. Berry, Buck, Mills, and Stipe were UGA students when R.E.M. formed in 1980. The Arch is the campus landmark, not a venue. It marks the town-and-gown geography that fed Athens’s clubs and college radio.",
+          "credit": "JJonahJackalope / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:The_Arch,_UGA.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In New York, Sonic Youth — Thurston Moore, Kim Gordon, Lee Ranaldo, with Steve Shelley on drums from the mid-1980s — treated alternate guitar tunings and feedback as composition, not accident. Daydream Nation (SST, 1988) is the double album to slow down for: “Teen Age Riot,” “Silver Rocket,” “Total Trash.” SST, Greg Ginn’s label out of the Black Flag hardcore world, pressed a wide American underground. Sonic Youth signed to Geffen’s DGC for Goo (1990). The move mirrors R.E.M.’s Warner step: the indie catalogue first, the major second. Across the same years Boston’s Pixies — Black Francis (Charles Thompson), Kim Deal, Joey Santiago, David Lovering — recorded for 4AD, Ivo Watts-Russell’s London label. Come On Pilgrim (1987), Surfer Rosa (1988, Steve Albini), and Doolittle (1989, Gil Norton) fixed quiet-loud dynamics and surreal Catholic-sci-fi lyrics as an export. Kurt Cobain later named the Pixies as a model; that influence belongs to the next commercial chapter. The 4AD records belong here."
+        },
+        {
+          "type": "p",
+          "text": "In London and the Thames Valley, Creation Records (Alan McGee) and the shoegaze cluster pushed guitars into noise and blur. My Bloody Valentine’s Loveless (4 November 1991), largely the work of Kevin Shields with Bilinda Butcher, Debbie Googe, and Colm Ó Cíosóig, took years and nearly broke Creation’s finances. “Only Shallow” and “Soon” are the tracks that show the method: guitars treated as massed texture, vocals recessed. Ride, Slowdive, Lush, and Chapterhouse shared bills and press tags; Loveless is the expensive peak inside this lesson’s window. Dinosaur Jr (J Mascis) in Massachusetts, Hüsker Dü and The Replacements in the Minneapolis orbit, and Beat Happening on Calvin Johnson’s K Records in Olympia filled other shelves. Name them so the map is not only four cities. Deepen the Smiths, R.E.M., Sonic Youth, Pixies, and Loveless because those catalogues still structure how people teach the decade."
+        }
+      ]
+    },
+    {
+      "id": "sound",
+      "kicker": "How it sounded",
+      "title": "Jangle, noise, and the independent 12-inch",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "If you need a short listening grammar: British indie of the Smiths/C86 corridor favoured bright, trebly guitars, melodic bass, and vocals that refused American stadium grain. American college rock favoured the same jangle (R.E.M.) or turned up dissonance and volume (Sonic Youth, Pixies). Shoegaze recessed the voice and stacked guitars until chords became noise bands. None of these rules were clean. The Go-Betweens wrote literate pop from Brisbane via London. The Clean’s Flying Nun singles were short and sharp. Pavement’s early Matador records sounded like rehearsals left on the tape, on purpose."
+        },
+        {
+          "type": "p",
+          "text": "The unit of commerce was still the independent single and the college chart, not the stadium. CMJ New Music Report tabulated what campus stations played. John Peel’s BBC Radio 1 show kept British independents audible nationally. Fanzines and later glossy monthlies (Forced Exposure, Option, Melody Maker’s indie pages) argued over purity when a group signed up. That argument is part of the era’s sociology: “indie” meant a contract and a distributor before it meant a strumming pattern. When R.E.M. and Sonic Youth took major deals, the argument intensified. The records did not become worthless. The word got harder to use."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Dunedin and Brisbane were not waiting for a London memo",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Flying Nun Records began in Christchurch in 1981 under Roger Shepherd. The Dunedin sound — The Clean, The Chills, The Verlaines, Tall Dwarfs, and others — used cheap studios, short songs, and a South Island geography far from EMI’s London offices. “Tally Ho!” and the early Clean EPs travelled through import shops and Peel playlists. The point is not that New Zealand copied Manchester. The point is that independent pressing and a local scene could build a catalogue at the same time Rough Trade and I.R.S. were building theirs. Dunedin Railway Station in the photograph below is the city’s landmark, not a studio. It stands for the place the records came from."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/indie-rock/dunedin-railway-station.jpg",
+          "alt": "Ornate Dunedin Railway Station with twin towers and a busy forecourt under a blue sky.",
+          "caption": "Dunedin Railway Station, New Zealand, in a public-domain photograph. Flying Nun’s early roster was tied to Dunedin and Christchurch scenes from 1981 onward. The station is civic architecture, not a venue. The music fact is the label and groups such as The Clean, The Chills, and The Verlaines.",
+          "credit": "DLiebisch / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Dunedin_Railway_Station.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Brisbane, The Go-Betweens — Robert Forster and Grant McLennan at the core — wrote songs that critics later filed beside literate indie pop without the group ever being a Manchester satellite. Before Hollywood (1983) holds “Cattle and Cane,” McLennan’s memory of Queensland childhood set to a clean guitar figure. They recorded and released through British and Australian arrangements across the 1980s. Contemporaneous, not derivative: same independent-era problem (how to get a record pressed and heard), different weather and class accents."
+        },
+        {
+          "type": "p",
+          "text": "Tokyo’s Shimokitazawa district later became a byword for small live houses and record shops; Japanese indie and city-pop adjacent scenes in the 1980s–90s ran on their own label and university circuits. The street photograph is a later view of that geography, not a claim that Shimokitazawa invented C86. It is here as one more contemporaneous urban map where independent gigs and shops clustered — useful, not mandatory."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/indie-rock/shimokitazawa-street.jpg",
+          "alt": "A narrow Shimokitazawa street lined with small shops, wires overhead, and pedestrians.",
+          "caption": "A street in Shimokitazawa, Tokyo, photographed in 2015 by Aw1805. Small live houses and record shops made the district a later landmark of Tokyo’s independent gig economy. The 2015 street is not a 1985 bill. It stands for the kind of dense, low-rent music geography indie scenes needed — contemporaneous in type with Athens clubs and Ladbroke Grove shops, not a copy of them.",
+          "credit": "Aw1805 / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Shimokitazawa_Street_2015.jpg"
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "When “alternative” bought the chart, indie kept the word and lost the monopoly",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nirvana’s Nevermind (DGC, September 1991) and the early-1990s alternative boom did not invent the college audience. They sold it at scale. Billboard’s Modern Rock charts, MTV’s 120 Minutes, and major-label A&R departments harvested the same stations and clubs this lesson describes. Pavement’s Slanted and Enchanted (Matador, 1992) still sounded handmade; major radio increasingly did not need handmade. Britpop in mid-1990s Britain and the packaged “alternative” aisle in American chains rewrote the shop labels. Independent labels continued — Matador, Merge, Touch and Go, later Kill Rock Stars and others — but the press story moved."
+        },
+        {
+          "type": "p",
+          "text": "What remains from 1983–1994 is infrastructure knowledge: a shop, a distributor, a campus transmitter, and a weekly paper could still make a career before playlist software and streaming aggregates. The Smiths’ Rough Trade years, R.E.M.’s I.R.S. years, Daydream Nation on SST, the Pixies on 4AD, Loveless on Creation, Flying Nun’s Dunedin catalogue, and the Go-Betweens’ Brisbane–London axis are the concrete objects. The next music capsules can take grunge, Britpop, or electronic/hyperpop as separate eras. This one stops when the parallel circuit is absorbed into a mass-market name."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If “indie” began as a fact about who pressed and distributed the record, what is left of the word once the same guitars sit on a major-label video budget?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie rock",
+      "explain": "Press and fan name for guitar music tied to independent labels and, later, a sound. In this lesson, roughly 1983–1994."
+    },
+    {
+      "term": "college rock",
+      "explain": "US/Canadian campus-radio category for music ignored by commercial Album Rock playlists in the 1980s–90s."
+    },
+    {
+      "term": "independent label",
+      "explain": "A record company outside the major-label system that presses and distributes its own catalogue."
+    },
+    {
+      "term": "Rough Trade Records",
+      "explain": "British independent label spun from Geoff Travis’s shop; issued The Smiths’ studio albums."
+    },
+    {
+      "term": "Rough Trade (shop)",
+      "explain": "Record shop opened by Geoff Travis in Ladbroke Grove in 1976; moved to Talbot Road in 1982."
+    },
+    {
+      "term": "Geoff Travis",
+      "explain": "Founder of the Rough Trade shop and a central figure in Rough Trade Records."
+    },
+    {
+      "term": "Rough Trade Cartel",
+      "explain": "Distribution network that moved independent labels’ records into specialist shops."
+    },
+    {
+      "term": "The Smiths",
+      "explain": "Manchester group, 1982–1987: Morrissey, Johnny Marr, Andy Rourke, Mike Joyce.",
+      "aliases": [
+        "Smiths"
+      ]
+    },
+    {
+      "term": "Morrissey",
+      "explain": "Smiths singer and co-writer."
+    },
+    {
+      "term": "Johnny Marr",
+      "explain": "Smiths guitarist and co-writer."
+    },
+    {
+      "term": "Andy Rourke",
+      "explain": "Smiths bassist."
+    },
+    {
+      "term": "Mike Joyce",
+      "explain": "Smiths drummer."
+    },
+    {
+      "term": "Hand in Glove",
+      "explain": "Smiths’ first Rough Trade single, May 1983."
+    },
+    {
+      "term": "This Charming Man",
+      "explain": "Smiths Rough Trade single, October 1983."
+    },
+    {
+      "term": "The Smiths (album)",
+      "explain": "Debut LP, Rough Trade, February 1984."
+    },
+    {
+      "term": "Meat Is Murder",
+      "explain": "Smiths LP, Rough Trade, 1985."
+    },
+    {
+      "term": "The Queen Is Dead",
+      "explain": "Smiths LP, Rough Trade, June 1986."
+    },
+    {
+      "term": "Strangeways, Here We Come",
+      "explain": "Final Smiths studio LP, Rough Trade, 1987."
+    },
+    {
+      "term": "How Soon Is Now?",
+      "explain": "Smiths track/single (1985) known for Marr’s vibrato guitar figure.",
+      "aliases": [
+        "How Soon Is Now"
+      ]
+    },
+    {
+      "term": "Salford Lads Club",
+      "explain": "Boys’ club on Coronation Street, Ordsall; site of the December 1985 Smiths photograph used in The Queen Is Dead packaging.",
+      "aliases": [
+        "the Salford Lads Club"
+      ]
+    },
+    {
+      "term": "Stephen Wright",
+      "explain": "Photographer of the Salford Lads Club Smiths session, December 1985."
+    },
+    {
+      "term": "Coronation Street, Ordsall",
+      "explain": "Salford street where Salford Lads Club stands (not the television set)."
+    },
+    {
+      "term": "R.E.M.",
+      "explain": "Athens, Georgia, group formed 1980: Bill Berry, Peter Buck, Mike Mills, Michael Stipe.",
+      "aliases": [
+        "REM",
+        "R.E.M"
+      ]
+    },
+    {
+      "term": "Bill Berry",
+      "explain": "R.E.M. drummer."
+    },
+    {
+      "term": "Peter Buck",
+      "explain": "R.E.M. guitarist; arpeggiated “jangle” style."
+    },
+    {
+      "term": "Mike Mills",
+      "explain": "R.E.M. bassist and singer."
+    },
+    {
+      "term": "Michael Stipe",
+      "explain": "R.E.M. lead singer."
+    },
+    {
+      "term": "Chronic Town",
+      "explain": "R.E.M. debut EP, I.R.S., 1982."
+    },
+    {
+      "term": "Murmur",
+      "explain": "R.E.M. debut LP, I.R.S., 12 April 1983."
+    },
+    {
+      "term": "Reckoning",
+      "explain": "R.E.M. LP, I.R.S., 1984."
+    },
+    {
+      "term": "Fables of the Reconstruction",
+      "explain": "R.E.M. LP, I.R.S., 1985."
+    },
+    {
+      "term": "Lifes Rich Pageant",
+      "explain": "R.E.M. LP, I.R.S., 1986."
+    },
+    {
+      "term": "Document",
+      "explain": "R.E.M. LP, I.R.S., 1987."
+    },
+    {
+      "term": "Green",
+      "explain": "R.E.M. Warner Bros. LP, 1988."
+    },
+    {
+      "term": "Automatic for the People",
+      "explain": "R.E.M. Warner Bros. LP, 1992; named at the edge of this lesson."
+    },
+    {
+      "term": "Radio Free Europe",
+      "explain": "R.E.M. song; Hib-Tone single earlier, Murmur album version 1983."
+    },
+    {
+      "term": "I.R.S. Records",
+      "explain": "US label that issued R.E.M.’s 1982–87 catalogue; associated with Miles Copeland and Jay Boberg."
+    },
+    {
+      "term": "Miles Copeland",
+      "explain": "Music executive linked to I.R.S. Records."
+    },
+    {
+      "term": "Jay Boberg",
+      "explain": "I.R.S. executive often named with the label’s college-rock years."
+    },
+    {
+      "term": "40 Watt Club",
+      "explain": "Athens, Georgia, music venue central to the local scene."
+    },
+    {
+      "term": "University of Georgia",
+      "explain": "Athens university; R.E.M.’s members were students there."
+    },
+    {
+      "term": "The Arch (UGA)",
+      "explain": "Iron gateway landmark at the University of Georgia.",
+      "aliases": [
+        "UGA Arch",
+        "the Arch"
+      ]
+    },
+    {
+      "term": "Sonic Youth",
+      "explain": "New York group: Thurston Moore, Kim Gordon, Lee Ranaldo, Steve Shelley (from mid-1980s)."
+    },
+    {
+      "term": "Thurston Moore",
+      "explain": "Sonic Youth guitarist."
+    },
+    {
+      "term": "Kim Gordon",
+      "explain": "Sonic Youth bassist/guitarist/singer."
+    },
+    {
+      "term": "Lee Ranaldo",
+      "explain": "Sonic Youth guitarist."
+    },
+    {
+      "term": "Steve Shelley",
+      "explain": "Sonic Youth drummer from the mid-1980s."
+    },
+    {
+      "term": "Daydream Nation",
+      "explain": "Sonic Youth double LP, SST, 1988."
+    },
+    {
+      "term": "Teen Age Riot",
+      "explain": "Opening song on Daydream Nation."
+    },
+    {
+      "term": "Goo",
+      "explain": "Sonic Youth DGC/Geffen LP, 1990."
+    },
+    {
+      "term": "SST Records",
+      "explain": "Independent label founded by Greg Ginn; issued Daydream Nation."
+    },
+    {
+      "term": "Greg Ginn",
+      "explain": "Black Flag guitarist and SST founder."
+    },
+    {
+      "term": "Pixies",
+      "explain": "Boston group: Black Francis, Kim Deal, Joey Santiago, David Lovering."
+    },
+    {
+      "term": "Black Francis",
+      "explain": "Pixies singer/guitarist (Charles Thompson); later Frank Black.",
+      "aliases": [
+        "Frank Black"
+      ]
+    },
+    {
+      "term": "Charles Thompson",
+      "explain": "Birth name of Black Francis."
+    },
+    {
+      "term": "Kim Deal",
+      "explain": "Pixies bassist/singer; later The Breeders."
+    },
+    {
+      "term": "Joey Santiago",
+      "explain": "Pixies guitarist."
+    },
+    {
+      "term": "David Lovering",
+      "explain": "Pixies drummer."
+    },
+    {
+      "term": "Come On Pilgrim",
+      "explain": "Pixies mini-LP, 4AD, 1987."
+    },
+    {
+      "term": "Surfer Rosa",
+      "explain": "Pixies LP, 4AD, 1988; produced by Steve Albini."
+    },
+    {
+      "term": "Doolittle",
+      "explain": "Pixies LP, 4AD, 1989."
+    },
+    {
+      "term": "Debaser",
+      "explain": "Pixies song on Doolittle."
+    },
+    {
+      "term": "Where Is My Mind?",
+      "explain": "Pixies song on Surfer Rosa."
+    },
+    {
+      "term": "Steve Albini",
+      "explain": "Producer/engineer of Surfer Rosa; later recorded many indie and alternative albums."
+    },
+    {
+      "term": "Gil Norton",
+      "explain": "Producer of Doolittle."
+    },
+    {
+      "term": "4AD",
+      "explain": "London independent label founded by Ivo Watts-Russell; issued the Pixies’ late-1980s records."
+    },
+    {
+      "term": "Ivo Watts-Russell",
+      "explain": "Founder of 4AD."
+    },
+    {
+      "term": "My Bloody Valentine",
+      "explain": "Group led by Kevin Shields; Loveless (Creation, 1991).",
+      "aliases": [
+        "MBV"
+      ]
+    },
+    {
+      "term": "Kevin Shields",
+      "explain": "My Bloody Valentine guitarist/producer."
+    },
+    {
+      "term": "Bilinda Butcher",
+      "explain": "My Bloody Valentine guitarist/singer."
+    },
+    {
+      "term": "Debbie Googe",
+      "explain": "My Bloody Valentine bassist."
+    },
+    {
+      "term": "Colm Ó Cíosóig",
+      "explain": "My Bloody Valentine drummer.",
+      "aliases": [
+        "Colm O Ciosoig",
+        "Colm Ó Ciosoig"
+      ]
+    },
+    {
+      "term": "Loveless",
+      "explain": "My Bloody Valentine LP, Creation, 4 November 1991."
+    },
+    {
+      "term": "Only Shallow",
+      "explain": "Opening song on Loveless."
+    },
+    {
+      "term": "Creation Records",
+      "explain": "British independent label founded by Alan McGee; issued Loveless."
+    },
+    {
+      "term": "Alan McGee",
+      "explain": "Creation Records founder."
+    },
+    {
+      "term": "shoegaze",
+      "explain": "Press name for early-1990s British guitar groups that recessed vocals and stacked effects; Loveless is a peak example."
+    },
+    {
+      "term": "Ride",
+      "explain": "British shoegaze-associated group named in passing."
+    },
+    {
+      "term": "Slowdive",
+      "explain": "British shoegaze-associated group named in passing."
+    },
+    {
+      "term": "Lush",
+      "explain": "British indie/shoegaze-associated group named in passing."
+    },
+    {
+      "term": "Chapterhouse",
+      "explain": "British shoegaze-associated group named in passing."
+    },
+    {
+      "term": "Pavement",
+      "explain": "US indie group; Slanted and Enchanted (Matador, 1992)."
+    },
+    {
+      "term": "Slanted and Enchanted",
+      "explain": "Pavement LP, Matador, April 1992."
+    },
+    {
+      "term": "Summer Babe (Winter Version)",
+      "explain": "Pavement track opening Slanted and Enchanted."
+    },
+    {
+      "term": "Matador Records",
+      "explain": "New York independent label; issued Pavement’s early LPs."
+    },
+    {
+      "term": "Dinosaur Jr",
+      "explain": "Massachusetts group led by J Mascis; named among US indie peers."
+    },
+    {
+      "term": "J Mascis",
+      "explain": "Dinosaur Jr guitarist/singer."
+    },
+    {
+      "term": "Hüsker Dü",
+      "explain": "Minneapolis group on SST; named among US underground peers."
+    },
+    {
+      "term": "The Replacements",
+      "explain": "Minneapolis group; named among US college-rock peers."
+    },
+    {
+      "term": "Beat Happening",
+      "explain": "Olympia group on K Records; named among US indie peers."
+    },
+    {
+      "term": "Calvin Johnson",
+      "explain": "K Records founder; Beat Happening member."
+    },
+    {
+      "term": "K Records",
+      "explain": "Olympia independent label."
+    },
+    {
+      "term": "C86",
+      "explain": "NME cassette compilation, 1986; later a shorthand for jangly British indie."
+    },
+    {
+      "term": "New Musical Express",
+      "explain": "British music weekly (NME) that issued C86.",
+      "aliases": [
+        "NME"
+      ]
+    },
+    {
+      "term": "Primal Scream",
+      "explain": "Scottish group; appeared on C86 in an early form."
+    },
+    {
+      "term": "The Wedding Present",
+      "explain": "British indie group associated with the C86 moment."
+    },
+    {
+      "term": "The Pastels",
+      "explain": "Scottish indie group associated with the C86 moment."
+    },
+    {
+      "term": "Flying Nun Records",
+      "explain": "New Zealand independent label founded by Roger Shepherd in 1981."
+    },
+    {
+      "term": "Roger Shepherd",
+      "explain": "Founder of Flying Nun Records."
+    },
+    {
+      "term": "Dunedin sound",
+      "explain": "Name for the early-1980s Flying Nun–linked scene in Dunedin and related South Island groups."
+    },
+    {
+      "term": "The Clean",
+      "explain": "New Zealand group; early Flying Nun single “Tally Ho!” (1981)."
+    },
+    {
+      "term": "Tally Ho!",
+      "explain": "Early Clean single on Flying Nun, 1981.",
+      "aliases": [
+        "Tally Ho"
+      ]
+    },
+    {
+      "term": "Anything Could Happen",
+      "explain": "Clean song used here via the Flying Nun channel upload."
+    },
+    {
+      "term": "The Chills",
+      "explain": "Dunedin/Flying Nun group named among the Dunedin sound."
+    },
+    {
+      "term": "The Verlaines",
+      "explain": "Dunedin/Flying Nun group named among the Dunedin sound."
+    },
+    {
+      "term": "Tall Dwarfs",
+      "explain": "New Zealand Flying Nun–linked duo named among the Dunedin sound."
+    },
+    {
+      "term": "The Go-Betweens",
+      "explain": "Brisbane group led by Robert Forster and Grant McLennan."
+    },
+    {
+      "term": "Robert Forster",
+      "explain": "Go-Betweens singer/guitarist."
+    },
+    {
+      "term": "Grant McLennan",
+      "explain": "Go-Betweens singer/guitarist."
+    },
+    {
+      "term": "Before Hollywood",
+      "explain": "Go-Betweens LP, 1983."
+    },
+    {
+      "term": "Cattle and Cane",
+      "explain": "Go-Betweens song from Before Hollywood."
+    },
+    {
+      "term": "CMJ",
+      "explain": "College Music Journal; tabulated US college-radio airplay."
+    },
+    {
+      "term": "John Peel",
+      "explain": "BBC Radio 1 DJ who played independent British and import records."
+    },
+    {
+      "term": "Warner Bros. Records",
+      "explain": "Major label that signed R.E.M. in 1988."
+    },
+    {
+      "term": "DGC",
+      "explain": "Geffen imprint that issued Sonic Youth’s Goo and Nirvana’s Nevermind."
+    },
+    {
+      "term": "Geffen",
+      "explain": "Major label/parent associated with DGC."
+    },
+    {
+      "term": "Nirvana",
+      "explain": "Aberdeen/Seattle group; Nevermind (1991) named as the commercial hinge out of this lesson."
+    },
+    {
+      "term": "Nevermind",
+      "explain": "Nirvana LP, DGC, 1991."
+    },
+    {
+      "term": "Kurt Cobain",
+      "explain": "Nirvana singer/guitarist; publicly cited the Pixies as an influence."
+    },
+    {
+      "term": "alternative",
+      "explain": "Commercial/radio name that absorbed much of the college/indie audience in the early 1990s."
+    },
+    {
+      "term": "Britpop",
+      "explain": "Mid-1990s British guitar-pop boom; named as after this lesson’s window."
+    },
+    {
+      "term": "post-punk",
+      "explain": "Earlier music capsule (c. 1977–1984); the independent infrastructure this lesson inherits."
+    },
+    {
+      "term": "punk",
+      "explain": "Earlier music capsule (c. 1974–1978)."
+    },
+    {
+      "term": "Factory Records",
+      "explain": "Manchester post-punk label; named as prior independent infrastructure."
+    },
+    {
+      "term": "Mute",
+      "explain": "British independent label named among late-1970s indie founders."
+    },
+    {
+      "term": "Fiction Records",
+      "explain": "British independent label named among late-1970s indie founders."
+    },
+    {
+      "term": "Black Flag",
+      "explain": "SST-related hardcore group; context for Greg Ginn’s label."
+    },
+    {
+      "term": "The B-52’s",
+      "explain": "Athens group named among the local scene around the 40 Watt."
+    },
+    {
+      "term": "Shimokitazawa",
+      "explain": "Tokyo district known for small live houses and record shops."
+    },
+    {
+      "term": "jangle",
+      "explain": "Guitar style using bright arpeggios; associated with R.E.M. and related college rock."
+    },
+    {
+      "term": "Billboard",
+      "explain": "US chart publisher; Modern Rock/alternative formats later tracked this audience."
+    },
+    {
+      "term": "120 Minutes",
+      "explain": "MTV program that aired alternative and college-linked videos.",
+      "aliases": [
+        "MTV’s 120 Minutes",
+        "MTV 120 Minutes"
+      ]
+    },
+    {
+      "term": "Forced Exposure",
+      "explain": "US underground music zine named among the era’s press."
+    },
+    {
+      "term": "Option",
+      "explain": "US music magazine named among the era’s press."
+    },
+    {
+      "term": "Melody Maker",
+      "explain": "British music weekly; covered indie alongside NME."
+    },
+    {
+      "term": "Oscar Wilde",
+      "explain": "Irish writer; named among Morrissey’s lyrical references."
+    },
+    {
+      "term": "Nile Rodgers",
+      "explain": "Chic guitarist; named as a rhythmic influence on Marr’s economy, not as a guest."
+    },
+    {
+      "term": "Thriller",
+      "explain": "Michael Jackson LP, 1982; named only because some 1983 critics’ lists ranked Murmur above it."
+    },
+    {
+      "term": "Merge Records",
+      "explain": "Later US indie label named among labels that continued after 1994."
+    },
+    {
+      "term": "Touch and Go",
+      "explain": "Chicago independent label named among the era’s peers."
+    },
+    {
+      "term": "Dischord",
+      "explain": "Washington, D.C., independent label named among the era’s peers."
+    },
+    {
+      "term": "Kill Rock Stars",
+      "explain": "Olympia-area label named among later indie continuity."
+    },
+    {
+      "term": "Ladbroke Grove",
+      "explain": "West London district where the first Rough Trade shop opened."
+    },
+    {
+      "term": "Talbot Road",
+      "explain": "Notting Hill street of Rough Trade’s shop from 1982."
+    },
+    {
+      "term": "Christchurch",
+      "explain": "New Zealand city where Flying Nun was founded."
+    },
+    {
+      "term": "Dunedin",
+      "explain": "New Zealand city central to the Flying Nun “Dunedin sound.”"
+    },
+    {
+      "term": "Brisbane",
+      "explain": "Australian city where The Go-Betweens formed."
+    },
+    {
+      "term": "Athens, Georgia",
+      "explain": "US city of R.E.M. and the 40 Watt Club scene."
+    },
+    {
+      "term": "Manchester",
+      "explain": "English city of The Smiths."
+    },
+    {
+      "term": "Boston",
+      "explain": "US city where the Pixies formed."
+    },
+    {
+      "term": "Minneapolis",
+      "explain": "US city associated with Hüsker Dü and The Replacements."
+    },
+    {
+      "term": "Olympia, Washington",
+      "explain": "US city of K Records and Beat Happening."
+    }
+  ]
+}
