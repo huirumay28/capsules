@@ -1,0 +1,1051 @@
+{
+  "slug": "soviet-montage",
+  "date": "2026-09-09",
+  "subject": "film",
+  "related": [
+    "french-new-wave",
+    "italian-neorealism"
+  ],
+  "title": "Soviet montage (c. 1919–1930): workshops, collision editing, and the end of the experiment",
+  "dek": "After the Civil War, Soviet film schools and studios turned editing itself into an argument. Lev Kuleshov’s workshop, Sergei Eisenstein’s collision montages, Dziga Vertov’s kino-eye documentaries, and Vsevolod Pudovkin’s linkage cutting taught generations how shots make meaning. By the early 1930s sound, socialist realism, and Stalin’s cultural clamp closed much of that experimental window.",
+  "era": "c. 1919–1930",
+  "reading_minutes": 24,
+  "thumb": {
+    "src": "lessons/soviet-montage/eisenstein-1920s.jpg",
+    "alt": "Black-and-white portrait of Sergei Eisenstein as a young man, facing slightly left, early 1920s Moscow."
+  },
+  "hero": {
+    "src": "lessons/soviet-montage/odessa-port-1905.jpg",
+    "alt": "Wide postcard view of Odessa’s burned port after the June 1905 unrest, with ruined warehouses and ship remains along the waterfront.",
+    "caption": "Postcard view of Odessa’s burned port after the June 1905 disturbances during the battleship Potemkin mutiny. Eisenstein’s 1925 film later staged a fictional Odessa Steps massacre on the same city’s famous staircase; this photograph records the historical harbor damage, not a frame from the film.",
+    "credit": "Unknown photographer / Wikimedia Commons / public domain (postcard c. 1905)",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Odessa_Potemkin_mutiny.jpg"
+  },
+  "honesty": "“Soviet montage” is a historians’ and critics’ cluster with fuzzy edges, not a single school that every 1920s Soviet director joined and not a membership card. Useful dates run roughly from Lev Kuleshov’s postwar workshop experiments through Eisenstein’s Strike (1925), Battleship Potemkin (1925), and October (1928), Vertov’s Man with a Movie Camera (1929), and Pudovkin’s Mother (1926) and related features — then into the early 1930s, when sound cinema, socialist realism as official aesthetic, and Stalin-era cultural tightening narrowed experimental montage’s room to work. Constructivist and Lef circles, VGIK teaching, Goskino production, FEKS in Leningrad, Esther Shub’s compilation films, and Alexander Dovzhenko’s Ukrainian features sit inside or beside the label depending on the critic. Film stills from later restorations are often still managed as commercial assets even when the underlying silent negatives are public domain in some jurisdictions; this lesson prefers portraits, a public-domain Potemkin frame already on Commons, a Man with a Movie Camera frame, a 1905 Odessa postcard, a later photograph of the Potemkin Stairs, and a Cabinet of Dr. Caligari set still for the contemporaneous Weimar screen — each captioned as what it actually shows. No AI people.",
+  "timeline": [
+    {
+      "year": "1919–21",
+      "label": "Workshop after Civil War",
+      "detail": "Civil War and War Communism leave studios short of stock and electricity. Lev Kuleshov gathers students in Moscow and demonstrates that viewers read emotion from the order of shots — the “Kuleshov effect.” The State Film Technicum lineage that becomes VGIK begins training directors for a new industry."
+    },
+    {
+      "year": "1922–24",
+      "label": "NEP cinema / Lef pressure",
+      "detail": "The New Economic Policy reopens commercial distribution beside state production. Lef and constructivist writers push art toward production and fact. Kuleshov’s The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks (1924) turns American stereotypes into comic montage pedagogy."
+    },
+    {
+      "year": "1925–26",
+      "label": "Strike / Potemkin / Mother",
+      "detail": "Eisenstein’s Strike (1925) and Battleship Potemkin (1925) make collision montage internationally famous; the Odessa Steps sequence becomes the textbook example. Pudovkin’s Mother (1926), adapted from Gorky, models “linkage” montage that builds a continuous emotional line rather than Eisenstein’s dialectical shocks."
+    },
+    {
+      "year": "1927–28",
+      "label": "October / End of St. Petersburg / FEKS",
+      "detail": "Eisenstein’s October (1928) restages 1917 for the tenth anniversary with dense intellectual montage. Pudovkin’s The End of St. Petersburg (1927) and Storm Over Asia (1928) continue narrative montage. Kozintsev and Trauberg’s FEKS group in Leningrad make eccentric, circus-inflected silents beside the Moscow “big three.”"
+    },
+    {
+      "year": "1929",
+      "label": "Man with a Movie Camera",
+      "detail": "Dziga Vertov, with Elizaveta Svilova editing and Mikhail Kaufman shooting, releases Man with a Movie Camera — a city symphony and manifesto of kino-eye that refuses staged fiction. Esther Shub’s compilation method and Dovzhenko’s Earth (1930) mark neighboring peaks as the silent era ends."
+    },
+    {
+      "year": "1930–34",
+      "label": "Sound, socialist realism, clamp",
+      "detail": "Sound arrives; experimental montage looks politically risky. The 1932 Central Committee decree on literary organizations and the 1934 Writers’ Congress codify socialist realism. Eisenstein’s Bezhin Meadow is stopped; Vertov is sidelined from features. Montage survives as craft inside film schools and as influence abroad, not as an open experimental license at home."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Battleship Potemkin — Criterion Current essay",
+      "url": "https://www.criterion.com/current/posts/112-battleship-potemkin",
+      "note": "Licensed Criterion essay on Eisenstein’s 1925 film and the Odessa Steps sequence. Not a piracy full-film link."
+    },
+    {
+      "title": "Strike — Criterion Current essay",
+      "url": "https://www.criterion.com/current/posts/111-strike",
+      "note": "Essay on Eisenstein’s 1925 factory film and early montage practice. Licensed catalogue writing."
+    },
+    {
+      "title": "October — Criterion Current essay",
+      "url": "https://www.criterion.com/current/posts/113-october",
+      "note": "Essay on Eisenstein’s 1928 anniversary film and intellectual montage. Licensed page."
+    },
+    {
+      "title": "Man with a Movie Camera — Criterion Current essay",
+      "url": "https://www.criterion.com/current/posts/794-man-with-a-movie-camera-the-world-as-kino-eye",
+      "note": "Jonathan Rosenbaum on Vertov’s 1929 kino-eye city film. Licensed essay."
+    },
+    {
+      "title": "Earth — Criterion Current essay",
+      "url": "https://www.criterion.com/current/posts/646-earth",
+      "note": "Essay on Alexander Dovzhenko’s 1930 Ukrainian film, often shelved beside the montage decade. Licensed page."
+    },
+    {
+      "title": "Battleship Potemkin — Criterion Channel title page",
+      "url": "https://www.criterionchannel.com/battleship-potemkin",
+      "note": "Licensed streaming catalogue entry for Potemkin when the title is in rotation. Subscription service; not a free pirate stream."
+    },
+    {
+      "title": "Battleship Potemkin — BFI film page",
+      "url": "https://www.bfi.org.uk/film/9c02c20b-1487-52c8-bbfc-0849e204fe59/battleship-potemkin",
+      "note": "BFI catalogue note on Eisenstein’s mutiny film and its Sight and Sound canon status."
+    },
+    {
+      "title": "BFI — Where to begin with Sergei Eisenstein",
+      "url": "https://www.bfi.org.uk/features/where-begin-sergei-eisenstein",
+      "note": "Curated entry guide to Eisenstein’s features and theory writing. Essay page, not a full-film pirate link."
+    },
+    {
+      "title": "MoMA — Battleship Potemkin collection entry",
+      "url": "https://www.moma.org/collection/works/305815",
+      "note": "Museum collection page describing Potemkin’s five-part structure and montage method. Institutional catalogue."
+    }
+  ],
+  "fun_fact": {
+    "title": "The Odessa Steps massacre was staged for the camera",
+    "text": "Eisenstein’s Battleship Potemkin (1925) builds its most quoted sequence on the real Potemkin Stairs in Odessa: soldiers advance, a baby carriage rolls, close-ups collide. Historians of 1905 record a mutiny on the battleship and unrest in the port city, including fires at the harbor — but not this exact staircase massacre as filmed. The sequence is constructed cinema: extras, angles, and cutting that invent a public memory so strong that later visitors sometimes treat the film’s event as documentary fact. The postcard of the burned port and the later photograph of the stairs on this page are place evidence; the marching soldiers still is a public-domain frame from the film itself.",
+    "image": {
+      "src": "lessons/soviet-montage/potemkin-odessa-steps.jpg",
+      "alt": "Wide shot from Battleship Potemkin showing ranks of soldiers descending the Odessa Steps as a crowd flees below.",
+      "caption": "Public-domain frame from Sergei Eisenstein’s Battleship Potemkin (Goskino, 1925): Tsarist soldiers march down the Odessa Steps. The staircase is real; this massacre choreography is a 1925 film construction, not a documentary record of June 1905.",
+      "credit": "Sergei Eisenstein / Goskino / Wikimedia Commons / public domain (film first shown 1925)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Potemkinmarch.jpg"
+    }
+  },
+  "glossary": [
+    {
+      "term": "Soviet montage",
+      "explain": "Historians’ and critics’ name for roughly 1919–1930 Soviet film practice and theory that treated editing — the join between shots — as the main source of meaning, emotion, and ideology.",
+      "aliases": [
+        "Soviet montage theory",
+        "montage theory",
+        "Russian montage"
+      ]
+    },
+    {
+      "term": "montage",
+      "explain": "In this lesson’s sense: assembling meaning by cutting shots together. French and English film talk also use the word more loosely for editing in general."
+    },
+    {
+      "term": "Kuleshov effect",
+      "explain": "Workshop demonstration associated with Lev Kuleshov: the same neutral face cut against different objects (a bowl of soup, a child, a corpse) is read by viewers as different emotions — proof that order creates meaning.",
+      "aliases": [
+        "Kuleshov Effect"
+      ]
+    },
+    {
+      "term": "Lev Kuleshov",
+      "explain": "Soviet director and teacher (1899–1970) whose Moscow workshop after the Civil War trained editors and actors and made the Kuleshov effect famous.",
+      "aliases": [
+        "Kuleshov",
+        "Lev Vladimirovich Kuleshov"
+      ]
+    },
+    {
+      "term": "Sergei Eisenstein",
+      "explain": "Soviet director and theorist (1898–1948) of Strike, Battleship Potemkin, October, and later sound films; the loudest advocate of collision and intellectual montage.",
+      "aliases": [
+        "Eisenstein",
+        "Sergei Mikhailovich Eisenstein",
+        "S. M. Eisenstein"
+      ]
+    },
+    {
+      "term": "Dziga Vertov",
+      "explain": "Born David/Denis Kaufman (1896–1954); documentary filmmaker of the kino-eye group, Kinoks, and Man with a Movie Camera (1929).",
+      "aliases": [
+        "Vertov",
+        "David Kaufman",
+        "Denis Kaufman"
+      ]
+    },
+    {
+      "term": "Vsevolod Pudovkin",
+      "explain": "Soviet director and theorist (1893–1953) of Mother, The End of St. Petersburg, and Storm Over Asia; argued for “linkage” montage that builds a continuous narrative line.",
+      "aliases": [
+        "Pudovkin",
+        "V. I. Pudovkin"
+      ]
+    },
+    {
+      "term": "Grigori Alexandrov",
+      "explain": "Eisenstein collaborator (1903–1983) on silent features who later directed popular musicals such as Jolly Fellows under sound-era studio demands.",
+      "aliases": [
+        "Alexandrov",
+        "Grigory Aleksandrov"
+      ]
+    },
+    {
+      "term": "Alexander Dovzhenko",
+      "explain": "Ukrainian Soviet director (1894–1956) of Zvenigora, Arsenal, and Earth — poetic features often grouped with the montage decade though his rhythm differs from Eisenstein’s shocks.",
+      "aliases": [
+        "Dovzhenko",
+        "Oleksandr Dovzhenko"
+      ]
+    },
+    {
+      "term": "Esther Shub",
+      "explain": "Editor and compilation filmmaker (1894–1959), also Esfir Shub; The Fall of the Romanov Dynasty (1927) built history from found newsreel and archive.",
+      "aliases": [
+        "Esfir Shub",
+        "Shub",
+        "Esfir"
+      ]
+    },
+    {
+      "term": "Mikhail Kaufman",
+      "explain": "Cinematographer (1897–1980), Vertov’s brother, who shot Man with a Movie Camera and appears in it as the cameraman figure.",
+      "aliases": [
+        "Moisey Kaufman",
+        "Kaufman"
+      ]
+    },
+    {
+      "term": "Elizaveta Svilova",
+      "explain": "Editor (1900–1975) of Vertov’s films, including Man with a Movie Camera; also Vertov’s partner.",
+      "aliases": [
+        "Svilova",
+        "Yelizaveta Svilova"
+      ]
+    },
+    {
+      "term": "Grigori Kozintsev",
+      "explain": "Co-founder of FEKS in Leningrad; later directed Shakespeare adaptations. With Trauberg made eccentric 1920s silents.",
+      "aliases": [
+        "Kozintsev"
+      ]
+    },
+    {
+      "term": "Leonid Trauberg",
+      "explain": "FEKS co-founder with Kozintsev; Leningrad experimental silent collaborator.",
+      "aliases": [
+        "Trauberg"
+      ]
+    },
+    {
+      "term": "FEKS",
+      "explain": "Factory of the Eccentric Actor — Leningrad group (Kozintsev, Trauberg and others) mixing circus, variety, and film against psychological naturalism.",
+      "aliases": [
+        "Factory of the Eccentric Actor",
+        "Feks"
+      ]
+    },
+    {
+      "term": "Boris Barnet",
+      "explain": "Director associated with Kuleshov’s circle and lively NEP-era features such as The House on Trubnaya.",
+      "aliases": [
+        "Barnet"
+      ]
+    },
+    {
+      "term": "Yakov Protazanov",
+      "explain": "Pre-Revolutionary and Soviet director whose career bridges tsarist studio craft and 1920s Soviet production — a reminder that not every Soviet film was a montage manifesto.",
+      "aliases": [
+        "Protazanov"
+      ]
+    },
+    {
+      "term": "Yevgeni Bauer",
+      "explain": "Pre-Revolutionary Russian director of elaborate melodramas; Kuleshov acted in Bauer’s Za schastem (1917) before the Soviet workshop years.",
+      "aliases": [
+        "Bauer",
+        "Evgeni Bauer"
+      ]
+    },
+    {
+      "term": "Strike",
+      "explain": "Eisenstein’s 1925 feature about a factory strike and its bloody suppression; early showcase for montage of attractions and metaphorical cutting.",
+      "aliases": [
+        "Stachka"
+      ]
+    },
+    {
+      "term": "Battleship Potemkin",
+      "explain": "Eisenstein’s 1925 film about the 1905 mutiny on the Potemkin; five parts climaxing in the Odessa Steps sequence.",
+      "aliases": [
+        "Potemkin",
+        "Bronenosets Potemkin",
+        "The Battleship Potemkin"
+      ]
+    },
+    {
+      "term": "October",
+      "explain": "Eisenstein’s 1928 film restaging the 1917 October Revolution for the tenth anniversary; dense with intellectual montage.",
+      "aliases": [
+        "Oktyabr",
+        "October: Ten Days That Shook the World"
+      ]
+    },
+    {
+      "term": "Mother",
+      "explain": "Pudovkin’s 1926 adaptation of Gorky’s novel; model of emotional “linkage” montage around a mother’s political awakening.",
+      "aliases": [
+        "Mat"
+      ]
+    },
+    {
+      "term": "The End of St. Petersburg",
+      "explain": "Pudovkin’s 1927 feature following a peasant into wartime and revolutionary Petrograd.",
+      "aliases": [
+        "End of St. Petersburg",
+        "The End of Saint Petersburg"
+      ]
+    },
+    {
+      "term": "Storm Over Asia",
+      "explain": "Pudovkin’s 1928 film set in Mongolia/Central Asia under intervention and revolution; also titled The Heir to Genghis Khan.",
+      "aliases": [
+        "The Heir to Genghis Khan",
+        "Potomok Chingis-Khana"
+      ]
+    },
+    {
+      "term": "Man with a Movie Camera",
+      "explain": "Vertov’s 1929 silent city symphony documenting a day of Soviet urban life while showing camerawork and editing as labor.",
+      "aliases": [
+        "Chelovek s kinoapparatom",
+        "The Man with a Movie Camera"
+      ]
+    },
+    {
+      "term": "Earth",
+      "explain": "Dovzhenko’s 1930 film about collectivization and a Ukrainian village; lyrical neighbor to the montage decade.",
+      "aliases": [
+        "Zemlya"
+      ]
+    },
+    {
+      "term": "The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks",
+      "explain": "Kuleshov’s 1924 comedy about an American visitor’s Soviet stereotypes — workshop montage turned entertainment.",
+      "aliases": [
+        "Mr. West",
+        "Mr West"
+      ]
+    },
+    {
+      "term": "The Fall of the Romanov Dynasty",
+      "explain": "Esther Shub’s 1927 compilation feature assembled from newsreel and archive to narrate 1917’s lead-up.",
+      "aliases": [
+        "Fall of the Romanov Dynasty"
+      ]
+    },
+    {
+      "term": "Odessa Steps",
+      "explain": "Sequence in Battleship Potemkin where soldiers fire on a crowd on Odessa’s giant staircase; a constructed massacre that became the world’s shorthand for montage power.",
+      "aliases": [
+        "Odessa Steps sequence",
+        "Potemkin Stairs sequence"
+      ]
+    },
+    {
+      "term": "Potemkin Stairs",
+      "explain": "Real monumental staircase in Odessa (Odesa) used as location for Eisenstein’s massacre sequence; also called the Boulevard Steps or Primorsky Stairs.",
+      "aliases": [
+        "Potemkin Steps",
+        "Odessa staircase",
+        "Primorsky Stairs"
+      ]
+    },
+    {
+      "term": "kino-eye",
+      "explain": "Vertov’s program: the camera as a mechanical eye that should capture life “unawares,” then reorganize it through editing rather than staged fiction.",
+      "aliases": [
+        "Kino-Eye",
+        "kinoglaz",
+        "Kino-Glaz"
+      ]
+    },
+    {
+      "term": "Kinoks",
+      "explain": "Vertov’s documentary group (“cinema-eyes”) that issued manifestos against acted cinema and for radical documentary montage.",
+      "aliases": [
+        "Kinoiki",
+        "kinoki"
+      ]
+    },
+    {
+      "term": "montage of attractions",
+      "explain": "Eisenstein’s early theatre-and-film idea: aggressive, calculated shocks (attractions) assembled to produce a planned audience effect.",
+      "aliases": [
+        "Montage of Attractions"
+      ]
+    },
+    {
+      "term": "intellectual montage",
+      "explain": "Eisenstein’s term for cutting that aims at an idea or concept — for example, colliding strikers with a slaughterhouse to argue that workers are treated as cattle.",
+      "aliases": [
+        "Intellectual montage"
+      ]
+    },
+    {
+      "term": "collision montage",
+      "explain": "Eisenstein’s dialectical claim that meaning arises from conflict between shots, not from smooth continuity.",
+      "aliases": [
+        "dialectical montage"
+      ]
+    },
+    {
+      "term": "linkage montage",
+      "explain": "Pudovkin’s contrasting emphasis: shots linked like bricks to build a continuous emotional and narrative structure.",
+      "aliases": [
+        "constructive montage",
+        "building-block montage"
+      ]
+    },
+    {
+      "term": "metric montage",
+      "explain": "Eisenstein category: cutting by absolute length of shots regardless of content, for rhythmic pressure."
+    },
+    {
+      "term": "rhythmic montage",
+      "explain": "Eisenstein category: cutting that follows movement and visual rhythm inside the shots."
+    },
+    {
+      "term": "tonal montage",
+      "explain": "Eisenstein category: cutting guided by the emotional “tone” or dominant feeling of shots."
+    },
+    {
+      "term": "overtonal montage",
+      "explain": "Eisenstein category: higher-order combination of metric, rhythmic, and tonal pressures."
+    },
+    {
+      "term": "continuity editing",
+      "explain": "Hollywood and related classical practice that hides cuts to preserve spatiotemporal clarity — the foil Soviet theorists often argued against.",
+      "aliases": [
+        "continuity style",
+        "classical continuity"
+      ]
+    },
+    {
+      "term": "VGIK",
+      "explain": "All-Union State Institute of Cinematography in Moscow — the main Soviet film school whose ancestry includes the 1919 State Film Technicum.",
+      "aliases": [
+        "Gerasimov Institute",
+        "State Film Institute",
+        "VTIK"
+      ]
+    },
+    {
+      "term": "Goskino",
+      "explain": "Soviet state film organization/distribution apparatus that financed and released many 1920s features.",
+      "aliases": [
+        "Sovkino"
+      ]
+    },
+    {
+      "term": "Proletkult",
+      "explain": "Proletarian culture organization after 1917; Eisenstein worked in its theatre before film, developing attractions thinking.",
+      "aliases": [
+        "Proletarian Culture"
+      ]
+    },
+    {
+      "term": "Lef",
+      "explain": "Left Front of the Arts — journal and circle (Mayakovsky and others) pushing constructivist, production-oriented art in the 1920s.",
+      "aliases": [
+        "LEF",
+        "Left Front of the Arts"
+      ]
+    },
+    {
+      "term": "constructivism",
+      "explain": "Soviet avant-garde that treated art as construction and social utility; pressured cinema toward fact, machine form, and production.",
+      "aliases": [
+        "Constructivism",
+        "constructivist"
+      ]
+    },
+    {
+      "term": "NEP",
+      "explain": "New Economic Policy (1921–c. 1928): limited market mechanisms after War Communism; Soviet film distribution partly reopened to commercial logic.",
+      "aliases": [
+        "New Economic Policy"
+      ]
+    },
+    {
+      "term": "War Communism",
+      "explain": "Civil War economic emergency policy (c. 1918–21) of requisition and central control — the scarcity backdrop to early Soviet studio shortages."
+    },
+    {
+      "term": "Russian Civil War",
+      "explain": "1917–c. 1922 conflict after the Revolutions; studios, stock, and personnel were disrupted before NEP reconstruction.",
+      "aliases": [
+        "Civil War"
+      ]
+    },
+    {
+      "term": "October Revolution",
+      "explain": "Bolshevik seizure of power in Petrograd, November 1917 (October on the old calendar); subject of Eisenstein’s October.",
+      "aliases": [
+        "Bolshevik Revolution",
+        "1917 Revolution"
+      ]
+    },
+    {
+      "term": "1905 Revolution",
+      "explain": "Year of unrest including the Potemkin mutiny; historical pretext for Battleship Potemkin.",
+      "aliases": [
+        "Revolution of 1905"
+      ]
+    },
+    {
+      "term": "Potemkin mutiny",
+      "explain": "June 1905 uprising by sailors on the battleship Potemkin in the Black Sea, with related unrest in Odessa.",
+      "aliases": [
+        "Potemkin uprising"
+      ]
+    },
+    {
+      "term": "socialist realism",
+      "explain": "Official Soviet aesthetic from the early 1930s demanding accessible, optimistic, party-aligned art — hostile to opaque experimental form.",
+      "aliases": [
+        "Socialist Realism"
+      ]
+    },
+    {
+      "term": "Central Committee decree on the restructuring of literary and artistic organizations",
+      "explain": "April 1932 decree dissolving competing literary groups and paving the way for a single Writers’ Union and socialist realism.",
+      "aliases": [
+        "1932 decree",
+        "April 1932 decree"
+      ]
+    },
+    {
+      "term": "First Congress of Soviet Writers",
+      "explain": "1934 congress that publicly enshrined socialist realism as the required method for Soviet literature (and by extension other arts).",
+      "aliases": [
+        "1934 Writers’ Congress"
+      ]
+    },
+    {
+      "term": "Bezhin Meadow",
+      "explain": "Eisenstein project of the mid-1930s stopped and destroyed under political pressure — a symbol of the clamp on experimental direction.",
+      "aliases": [
+        "Bezhin lug"
+      ]
+    },
+    {
+      "term": "sound cinema",
+      "explain": "Arrival of synchronized sound around 1927–1930 worldwide; in the USSR it complicated silent montage rhythms and coincided with political tightening.",
+      "aliases": [
+        "talkies",
+        "sound film"
+      ]
+    },
+    {
+      "term": "Weimar Expressionism",
+      "explain": "German cinema tendency of the early 1920s (Caligari and after) using distorted sets and lighting for psychological states — contemporaneous with early Soviet montage, not its parent.",
+      "aliases": [
+        "German Expressionism",
+        "Expressionist cinema"
+      ]
+    },
+    {
+      "term": "The Cabinet of Dr. Caligari",
+      "explain": "Robert Wiene’s 1920 German film whose painted Holstenwall sets became the postcard of Weimar Expressionism.",
+      "aliases": [
+        "Caligari",
+        "Das Cabinet des Dr. Caligari"
+      ]
+    },
+    {
+      "term": "Metropolis",
+      "explain": "Fritz Lang’s 1927 UFA spectacle of a futuristic city — Weimar industrial fantasy in the same years as October and Mother.",
+      "aliases": [
+        "Metropolis (1927)"
+      ]
+    },
+    {
+      "term": "UFA",
+      "explain": "Universum Film AG — major German studio of the Weimar years.",
+      "aliases": [
+        "Universum Film"
+      ]
+    },
+    {
+      "term": "Hollywood studio system",
+      "explain": "Vertically integrated U.S. majors whose continuity editing and star contracts dominated world screens while Soviet theorists argued for montage.",
+      "aliases": [
+        "studio system",
+        "classical Hollywood"
+      ]
+    },
+    {
+      "term": "D. W. Griffith",
+      "explain": "American director whose crosscutting and epic features (Birth of a Nation, Intolerance) were studied — and politically criticized — by Soviet filmmakers learning editing craft.",
+      "aliases": [
+        "Griffith",
+        "David Wark Griffith"
+      ]
+    },
+    {
+      "term": "Intolerance",
+      "explain": "Griffith’s 1916 epic whose parallel editing Soviet students dissected as technique separable from its ideology."
+    },
+    {
+      "term": "benshi",
+      "explain": "Japanese silent-era narrators who performed live beside the screen; Japanese cinema of the 1920s still often depended on them even as pure film debates rose.",
+      "aliases": [
+        "katsuben"
+      ]
+    },
+    {
+      "term": "Japanese silent cinema",
+      "explain": "1920s Japanese studio filmmaking (Shochiku, Nikkatsu and others) running parallel to Soviet montage years, with benshi performance and modernizing genres.",
+      "aliases": [
+        "Japanese cinema 1920s"
+      ]
+    },
+    {
+      "term": "Shanghai cinema 1920s",
+      "explain": "Chinese commercial film production centered in Shanghai before the full left-wing cinema wave of the 1930s — contemporaneous urban screens, not a later echo.",
+      "aliases": [
+        "Shanghai studios",
+        "Mingxing",
+        "early Chinese cinema"
+      ]
+    },
+    {
+      "term": "left-wing cinema (China)",
+      "explain": "1930s Shanghai progressive film tendency that partly drew on Soviet and international left culture after the decade this lesson covers.",
+      "aliases": [
+        "Chinese left-wing cinema"
+      ]
+    },
+    {
+      "term": "French New Wave",
+      "explain": "Late-1950s/60s French filmmakers who inherited montage as film-school language and as Cahiers argument; related capsule on this site.",
+      "aliases": [
+        "Nouvelle Vague"
+      ]
+    },
+    {
+      "term": "Italian neorealism",
+      "explain": "1940s Italian street cinema cluster; related capsule — different decade, different pressures, sometimes taught beside Soviet montage in film schools.",
+      "aliases": [
+        "neorealism"
+      ]
+    },
+    {
+      "term": "André Bazin",
+      "explain": "French critic who often preferred long takes and deep focus to montage’s fragmentation — a later theoretical counterweight in film-school debates.",
+      "aliases": [
+        "Bazin"
+      ]
+    },
+    {
+      "term": "Cahiers du Cinéma",
+      "explain": "French film journal whose writers debated Hollywood auteurs and European form; montage history was part of their inherited curriculum.",
+      "aliases": [
+        "Cahiers"
+      ]
+    },
+    {
+      "term": "city symphony",
+      "explain": "1920s nonfiction form arranging a day’s urban life by rhythm and motif — Man with a Movie Camera is a radical Soviet example beside Berlin: Symphony of a Great City.",
+      "aliases": [
+        "city symphony film"
+      ]
+    },
+    {
+      "term": "Berlin: Symphony of a Great City",
+      "explain": "Walter Ruttmann’s 1927 German city symphony — European neighbor to Vertov’s project.",
+      "aliases": [
+        "Berlin Symphony",
+        "Berlin: Die Sinfonie der Großstadt"
+      ]
+    },
+    {
+      "term": "compilation film",
+      "explain": "Nonfiction assembled mainly from existing footage; Esther Shub’s specialty in the late 1920s.",
+      "aliases": [
+        "compilation documentary"
+      ]
+    },
+    {
+      "term": "agitprop",
+      "explain": "Agitation and propaganda — Soviet term for art meant to mobilize; many montage films were openly agitational.",
+      "aliases": [
+        "agit-prop",
+        "agitation propaganda"
+      ]
+    },
+    {
+      "term": "agitka",
+      "explain": "Short agitation film or pamphlet-like piece common in early Soviet screen culture."
+    },
+    {
+      "term": "typage",
+      "explain": "Eisenstein’s casting practice of choosing faces and bodies as social types rather than star psychology.",
+      "aliases": [
+        "typage casting"
+      ]
+    },
+    {
+      "term": "non-professional actors",
+      "explain": "Use of non-stars and social types; overlaps with typage and later neorealist habits without being the same doctrine."
+    },
+    {
+      "term": "intertitles",
+      "explain": "Text cards in silent films; Soviet montage often minimized or weaponized them depending on the director."
+    },
+    {
+      "term": "Gorky",
+      "explain": "Maxim Gorky, whose novel Mother supplied Pudovkin’s 1926 film.",
+      "aliases": [
+        "Maxim Gorky"
+      ]
+    },
+    {
+      "term": "Mayakovsky",
+      "explain": "Vladimir Mayakovsky, poet and Lef figure whose production-art milieu overlapped montage culture.",
+      "aliases": [
+        "Vladimir Mayakovsky"
+      ]
+    },
+    {
+      "term": "Anatoli Lunacharsky",
+      "explain": "First Soviet commissar of education; early state patron and regulator of arts and film policy.",
+      "aliases": [
+        "Lunacharsky"
+      ]
+    },
+    {
+      "term": "Stalin",
+      "explain": "Joseph Stalin; by the early 1930s his cultural apparatus enforced socialist realism and punished formal experiment.",
+      "aliases": [
+        "Joseph Stalin"
+      ]
+    },
+    {
+      "term": "Trotsky",
+      "explain": "Leon Trotsky; his fall from power is part of the political weather around late-1920s culture wars (October’s reception included political scrutiny).",
+      "aliases": [
+        "Leon Trotsky"
+      ]
+    },
+    {
+      "term": "Five-Year Plan",
+      "explain": "First Plan from 1928 accelerated industrialization and cultural centralization that squeezed NEP-era artistic pluralism.",
+      "aliases": [
+        "First Five-Year Plan"
+      ]
+    },
+    {
+      "term": "Odessa",
+      "explain": "Black Sea port city (Odesa) of the 1905 mutiny unrest and the location of the Potemkin Stairs.",
+      "aliases": [
+        "Odesa"
+      ]
+    },
+    {
+      "term": "Petrograd / Leningrad",
+      "explain": "The same city renamed: imperial capital, 1917 revolutionary stage, then Leningrad — FEKS’s home and October’s geography.",
+      "aliases": [
+        "Petrograd",
+        "Leningrad",
+        "St. Petersburg"
+      ]
+    },
+    {
+      "term": "Moscow",
+      "explain": "Capital of the Soviet film-school and studio center for Kuleshov, Eisenstein, Vertov, and VGIK."
+    },
+    {
+      "term": "Ukraine (Soviet cinema)",
+      "explain": "Dovzhenko’s base and a major VUFKU studio culture parallel to Moscow and Leningrad production.",
+      "aliases": [
+        "VUFKU",
+        "Ukrainian Soviet cinema"
+      ]
+    },
+    {
+      "term": "Hollywood continuity vs montage",
+      "explain": "Classroom contrast: continuity hides the cut to preserve illusion; Soviet montage theorists often displayed the cut to produce argument."
+    },
+    {
+      "term": "film stock shortage",
+      "explain": "Material fact of Civil War and early 1920s Soviet production — scarce negative encouraged short takes, reuse, and workshop experiment."
+    },
+    {
+      "term": "State Film Technicum",
+      "explain": "1919 Moscow training school ancestor of VGIK where Kuleshov and others taught.",
+      "aliases": [
+        "Goskinotekhnikum"
+      ]
+    },
+    {
+      "term": "attraction (Eisenstein)",
+      "explain": "Any aggressive unit of theatre or film calculated to shock or stimulate the audience — building block of montage of attractions."
+    },
+    {
+      "term": "dialectical materialism",
+      "explain": "Marxist philosophy Eisenstein invoked to justify collision: conflict of opposites yielding a new synthesis — mapped onto shot versus shot."
+    },
+    {
+      "term": "formalism (Soviet accusation)",
+      "explain": "Political charge in the 1930s that art was too concerned with technique over correct content — used against experimental montage and other modernisms.",
+      "aliases": [
+        "formalism charge"
+      ]
+    },
+    {
+      "term": "Jolly Fellows",
+      "explain": "Alexandrov’s 1934 musical comedy — sound-era popular cinema after the silent montage peak.",
+      "aliases": [
+        "Happy Guys",
+        "Veselye rebyata"
+      ]
+    },
+    {
+      "term": "Three Songs About Lenin",
+      "explain": "Vertov’s 1934 sound documentary — late Vertov under tightened conditions after Man with a Movie Camera.",
+      "aliases": [
+        "Three Songs of Lenin"
+      ]
+    },
+    {
+      "term": "Ivan the Terrible",
+      "explain": "Eisenstein’s 1940s sound epic; Part II was shelved under Stalin — long afterlife of a director formed in the montage decade.",
+      "aliases": [
+        "Ivan Grozny"
+      ]
+    },
+    {
+      "term": "Alexander Nevsky",
+      "explain": "Eisenstein’s 1938 sound historical film with Prokofiev’s score — officially usable patriotism after the silent experimental years."
+    },
+    {
+      "term": "Prokofiev",
+      "explain": "Sergei Prokofiev, who scored Alexander Nevsky for Eisenstein.",
+      "aliases": [
+        "Sergei Prokofiev"
+      ]
+    },
+    {
+      "term": "Sight and Sound",
+      "explain": "BFI journal whose critics’ polls repeatedly ranked Battleship Potemkin among the greatest films."
+    },
+    {
+      "term": "MoMA",
+      "explain": "Museum of Modern Art, New York — early institutional collector and exhibitor of Potemkin and Soviet silents for Western film culture.",
+      "aliases": [
+        "Museum of Modern Art"
+      ]
+    },
+    {
+      "term": "Criterion Collection",
+      "explain": "Home-video and streaming brand whose essays and editions circulate licensed Soviet silent titles discussed in this capsule.",
+      "aliases": [
+        "Criterion",
+        "Criterion Channel"
+      ]
+    },
+    {
+      "term": "BFI",
+      "explain": "British Film Institute — archive, education, and publishing home for Eisenstein guides and Potemkin catalogue notes.",
+      "aliases": [
+        "British Film Institute"
+      ]
+    },
+    {
+      "term": "crosscutting",
+      "explain": "Editing between simultaneous actions; Griffith specialty that Soviet editors studied as raw technique."
+    },
+    {
+      "term": "parallel editing",
+      "explain": "Related term for intercutting storylines or image streams to create comparison — central to both Griffith inheritance and intellectual montage."
+    },
+    {
+      "term": "jump cut",
+      "explain": "Abrupt join that breaks continuity; later New Wave filmmakers used visible discontinuity that film schools often traced through montage history."
+    },
+    {
+      "term": "documentary",
+      "explain": "Nonfiction filmmaking; Vertov claimed a radical documentary against acted cinema, while Eisenstein staged revolutionary fiction with documentary textures."
+    },
+    {
+      "term": "fiction film",
+      "explain": "Acted narrative cinema; Vertov rejected it, Eisenstein and Pudovkin transformed it through montage."
+    },
+    {
+      "term": "newsreel",
+      "explain": "Short topical nonfiction; raw material for Shub’s compilations and Vertov’s earlier Kino-Pravda work.",
+      "aliases": [
+        "Kino-Pravda"
+      ]
+    },
+    {
+      "term": "Kino-Pravda",
+      "explain": "Vertov’s 1920s newsreel series (“Film-Truth”) experimenting with documentary montage before Man with a Movie Camera."
+    },
+    {
+      "term": "Third Cinema",
+      "explain": "Later 1960s–70s militant film discourse that sometimes cited Soviet montage as an ancestor of anti-colonial form — an afterlife, not a 1920s label."
+    },
+    {
+      "term": "film school canon",
+      "explain": "Postwar curricula (VGIK, Western universities) that turned Potemkin and the Kuleshov effect into standard lessons — how montage outlived Stalin’s clamp as pedagogy."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Pre-Revolutionary studios, Civil War scarcity, then a workshop problem",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Russian cinema before 1917 was already an industry. Directors such as Yevgeni Bauer made elaborate melodramas with careful lighting and set design; Yakov Protazanov and others built star vehicles for a commercial audience. Moscow and Petrograd had studios, distributors, and a public that knew serials and salon tragedy. The October Revolution and the Civil War did not invent film on this territory. They broke the business that already existed: negative stock became scarce, electricity failed, personnel scattered, and the old private companies were nationalized or collapsed. What critics later called Soviet montage grew out of that breakage — a shortage economy that forced teachers and students to ask what a shot was worth when you could not afford many of them."
+        },
+        {
+          "type": "p",
+          "text": "By 1919–1921 the new state was fighting for survival and also founding schools. The State Film Technicum in Moscow — ancestor of VGIK — began training directors for a cinema that did not yet know its house style. Lev Kuleshov, still young, gathered actors and editors into a workshop that treated cinema as construction. They re-edited existing footage, measured audience reactions, and demonstrated what became famous as the Kuleshov effect: a single neutral face, cut against soup, a child, or a corpse, seemed to “feel” hunger, tenderness, or grief. The face had not changed. The order had. That classroom fact is the hinge before the famous features. It is not yet Potemkin. It is the claim that editing, not only performance, makes meaning."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/potemkin-stairs.jpg",
+          "alt": "The long Potemkin Stairs in Odessa descending toward the harbor under a clear sky, with trees and city buildings at the sides.",
+          "caption": "The Potemkin Stairs in Odessa (Odesa), photographed later by DIMSFIKAS. This is the real monumental staircase Eisenstein used as a location in 1925. It is not a film still and not a 1905 documentary view — a later exterior of the place the montage decade made world-famous.",
+          "credit": "DIMSFIKAS / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Potemkin_Stairs.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Politics and aesthetics arrived together. Proletkult theatre trained people like Sergei Eisenstein in “attractions” — calculated shocks for a crowd. Lef and constructivist writers argued that art should behave like production, not like bourgeois psychology. The New Economic Policy after 1921 reopened some commercial circuits even as state studios organized under names such as Goskino. So the “before” of Soviet montage is double: a pre-Revolutionary commercial craft that Civil War scarcity interrupted, and a revolutionary culture that wanted cinema to teach, agitate, and rebuild perception. Kuleshov’s workshop sat between those facts — a school solution to a material and ideological problem."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "From Kuleshov’s effect to Potemkin, Mother, and the Movie Camera",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The cluster that textbooks call Soviet montage is easiest to see in a few years of releases. Kuleshov’s The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks (1924) turned American panic about Bolsheviks into comic pedagogy — montage as joke and lesson. Eisenstein’s Strike (1925) followed a factory conflict with metaphorical cutting so aggressive that a slaughterhouse could answer a police raid. Battleship Potemkin (1925) retold the 1905 mutiny in five parts and placed the Odessa Steps at the center of world film memory: boots, guns, a mother’s horror, a carriage rolling down stone. The staircase is real; the massacre as filmed is a construction. That distinction matters for honesty and still leaves the sequence’s craft intact — rhythmic and tonal collisions designed to produce solidarity and rage."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/kuleshov-1917.jpg",
+          "alt": "Young Lev Kuleshov in a still from Yevgeni Bauer’s 1917 film Za schastem, in costume, looking toward the camera.",
+          "caption": "Lev Kuleshov as an actor in Yevgeni Bauer’s pre-Revolutionary film Za schastem (1917). A production still from before his Soviet workshop fame — evidence that he learned cinema inside the old industry, then rebuilt editing theory after the Civil War.",
+          "credit": "Yevgeni Bauer / Boris Zavelev / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lev_Kuleshov_1917.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Pudovkin answered with a different emphasis. Mother (1926), from Gorky’s novel, builds a woman’s political awakening through what he theorized as linkage — shots like bricks in a wall, cumulative rather than explosive. The End of St. Petersburg (1927) and Storm Over Asia (1928) continued that narrative montage line. Eisenstein’s October (1928), made for the Revolution’s tenth anniversary, pushed intellectual montage further: statues, Kerensky, bridges, and dialectical jokes aimed at concepts as much as at suspense. In Leningrad, Kozintsev and Trauberg’s FEKS group made eccentric, circus-bright silents that shared the decade’s appetite for constructed form without copying Moscow’s mass-drama tone. Esther Shub, meanwhile, cut history from newsreel in compilation features such as The Fall of the Romanov Dynasty (1927) — montage as archive labor."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/movie-camera-still.jpg",
+          "alt": "Frame from Man with a Movie Camera showing a cameraman with a large movie camera silhouetted against the sky.",
+          "caption": "Public-domain frame from Dziga Vertov’s Man with a Movie Camera (1929): a cameraman and camera against the sky. The film makes filming and editing visible as work — kino-eye as method, not only as metaphor.",
+          "credit": "Dziga Vertov / Wikimedia Commons / public domain (film published 1929)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Man_with_a_Movie_Camera_by_Dziga_Vertov.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Vertov refused fiction. With Elizaveta Svilova editing and Mikhail Kaufman shooting, Man with a Movie Camera (1929) presents a Soviet city day — waking, work, sport, machines — while constantly showing the camera and the cutting room. It is a city symphony and a manifesto: life caught “unawares,” then reorganized at the splice. Dovzhenko’s Earth (1930) arrived at the silent era’s edge with Ukrainian village politics and lyrical duration that film historians often shelve beside the montage decade even when his pulse differs from Eisenstein’s percussive shocks. By then sound was arriving, and the political weather was changing. The era’s useful span is roughly 1919 to 1930: workshop claim, feature explosion, documentary extreme, then a closing door."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "Eisenstein, Vertov, Pudovkin, Kuleshov — and a wider crew",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Deepen Eisenstein first. Trained in engineering and Proletkult theatre, he treated the shot as a collision unit. Strike experiments with typage — faces as social types — and with attractions that startle. Potemkin organizes mutiny and massacre so that editing tempo becomes political speech. October risks opacity: intellectual montage that some party viewers found too clever for anniversary clarity. Later sound work (Alexander Nevsky, Ivan the Terrible) belongs to another institutional climate; the silent features are where montage theory and practice met a mass audience. Grigori Alexandrov collaborated on the silent films before becoming a musical director under sound-era studio rules — a career fork that shows how the 1930s rewarded different skills."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/eisenstein-1920s.jpg",
+          "alt": "Portrait of Sergei Eisenstein in the early 1920s, dark hair, looking slightly aside.",
+          "caption": "Sergei Eisenstein in an early-1920s Moscow portrait (public domain). Not a frame from Strike or Potemkin — a photograph of the director-theorist as the montage features began.",
+          "credit": "Unknown photographer / Wikimedia Commons / public domain (published before 1930)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Sergei_Eisenstein_03.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Deepen Vertov second. The Kinoks’ manifestos attacked acted cinema as a drug. Kino-Pravda newsreels practiced documentary cutting before the 1929 feature. Man with a Movie Camera makes Svilova’s hands and Kaufman’s camera into characters; the film’s subject is also its method. Vertov’s later Three Songs About Lenin (1934) shows what documentary looked like after the experimental window narrowed. Naming Svilova and Kaufman is required honesty: the Movie Camera is a group invention marketed under Vertov’s signature."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/vertov-1913.jpg",
+          "alt": "Teenage David Kaufman, later Dziga Vertov, in a 1913 photograph taken by his brother Mikhail.",
+          "caption": "David Kaufman — later Dziga Vertov — photographed in 1913 by his brother Mikhail Kaufman. A family portrait from before the Kinoks, not a still from Man with a Movie Camera.",
+          "credit": "Mikhail Kaufman / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:David_Kaufman_(Dziga_Vertov)_1913.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Deepen Pudovkin and Kuleshov third. Pudovkin’s essays on directing and acting argued that editing constructs the film’s psychology; Mother remains the classroom contrast to Eisenstein because it pursues identification through linkage rather than dialectical shock. Kuleshov’s workshop was the seedbed: exercises, re-editing, Mr. West, and a teaching lineage into VGIK. Around them: Shub’s compilations; Dovzhenko in Ukraine; FEKS in Leningrad; Boris Barnet’s NEP comedies; countless cameramen, editors, and actors whose names film history still under-lists. The “big three” postcard — Eisenstein, Vertov, Pudovkin — is a useful map only if you keep the workshop, the school, and the neighboring studios on the table."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/pudovkin-1929.jpg",
+          "alt": "Vsevolod Pudovkin in costume as Protasov in the 1929 film Zhivoi trup, looking upward in three-quarter view.",
+          "caption": "Vsevolod Pudovkin acting as Protasov in Zhivoi trup (The Living Corpse, 1929) — a public-domain film screenshot. A performer-director portrait from the end of the silent montage years, not a frame from Mother.",
+          "credit": "Film screenshot / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Vsevolod_Pudovkin_1929.JPG"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "Elsewhere",
+      "title": "Same years on other screens",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Look sideways without turning the decade into a West-then-Asia worksheet. In Weimar Germany, Robert Wiene’s The Cabinet of Dr. Caligari (1920) made painted distortion a world style, and Fritz Lang’s Metropolis (1927) spent UFA money on a futuristic city — Expressionist and studio-spectacular answers to modernity in the same calendar stretch as Strike and October. These films are contemporaries, not parents of Soviet montage. Their problems (psychic horror, classed futurism) and their tools (set design, lighting) differ from Kuleshov’s splice experiments even when all parties were inventing what a modern cinema could be."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/soviet-montage/caligari-holstenwall.jpg",
+          "alt": "Expressionist painted set of the fictional town Holstenwall from The Cabinet of Dr. Caligari, with crooked streets and jagged roofs.",
+          "caption": "The fictional town of Holstenwall from Robert Wiene’s The Cabinet of Dr. Caligari (1920) — a public-domain set still. Weimar Expressionism on screen in the same early-1920s window as Kuleshov’s workshop, not a Soviet film and not a source template for Potemkin.",
+          "credit": "Robert Wiene / Decla-Bioscop / Wikimedia Commons / public domain (film 1920)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:The_Cabinet_of_Dr_Caligari_Holstenwall.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Hollywood the studio system refined continuity editing inherited from Griffith-era crosscutting: match cuts, eyelines, and invisible joins that kept stars and plots clear for global export. Soviet theorists studied Griffith’s Intolerance as technique while rejecting its politics and its preference for seamless illusion. Classical continuity and Soviet montage are rival answers to the same medium — how shots relate — running in parallel through the 1920s."
+        },
+        {
+          "type": "p",
+          "text": "In Japan, silent cinema still often traveled with benshi narrators beside the screen even as studios modernized genres and styles; the 1920s Japanese industry is another contemporaneous machine, not a delayed copy of Moscow. In China, Shanghai studios such as Mingxing were building a commercial film culture in the 1920s; the fuller left-wing cinema wave associated with the 1930s comes after this lesson’s main window, though Soviet films and left culture would later matter there. City symphonies such as Walter Ruttmann’s Berlin (1927) share Vertov’s urban appetite without sharing kino-eye politics. Same years, different industrial and political roofs."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Sound, socialist realism, and long afterlives in film schools",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Synchronized sound reached Soviet screens as the First Five-Year Plan and cultural centralization tightened. Experimental montage that looked difficult or “formalist” became dangerous. The 1932 Central Committee decree reorganized artistic unions; the 1934 Writers’ Congress made socialist realism the required optimistic method. Eisenstein’s Bezhin Meadow was stopped. Vertov lost easy access to feature resources. Alexandrov’s musicals and historical epics that could be read as patriotic craft took budget priority. Montage did not vanish as a craft — editors still cut — but the open license to make collision and kino-eye into public theory narrowed sharply under Stalin."
+        },
+        {
+          "type": "p",
+          "text": "Afterlives ran outward. Film schools from VGIK to Western universities taught the Kuleshov effect and Potemkin as basic literacy. French critics and French New Wave directors inherited montage as argument and as permission to show the cut; Italian neorealism is a different postwar cluster sometimes taught on the same shelf. Later militant cinemas occasionally cited Soviet montage as ancestor. Restorations, MoMA programming, BFI guides, and Criterion essays keep the silents circulating under licensed catalogues. The label remains useful if you keep it fuzzy: a decade of workshop theory and feature experiment, closed by sound and socialist realism, still active as pedagogy."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If two shots placed side by side can make a face look hungry, grieving, or tender without changing the face, what responsibility does that give the editor — and what should a viewer notice about every cut that feels “natural”?"
+        }
+      ]
+    }
+  ]
+}
