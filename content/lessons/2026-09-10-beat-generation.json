@@ -1,0 +1,712 @@
+{
+  "slug": "beat-generation",
+  "date": "2026-09-10",
+  "subject": "literature",
+  "related": [
+    "existentialism",
+    "harlem-renaissance"
+  ],
+  "title": "The Beat Generation (c. 1955–1965): Howl on trial and the City Lights circuit",
+  "dek": "From the Six Gallery reading in San Francisco (7 October 1955) through the Howl obscenity trial (1957) and the late-1950s publication fights around On the Road and Naked Lunch, a loose network of poets and novelists made nonconformist speech a public literary event. “Beat Generation” is a later teaching label for mid-1950s to early-1960s books, readings, and courtrooms — not a synonym for the hippie 1967+ counterculture.",
+  "era": "c. 1955–1965",
+  "reading_minutes": 27,
+  "thumb": {
+    "src": "lessons/beat-generation/ginsberg-1979.jpg",
+    "alt": "Allen Ginsberg seated at a table signing books, looking toward the camera, photographed in Amsterdam in 1979."
+  },
+  "hero": {
+    "src": "lessons/beat-generation/city-lights-day.jpg",
+    "alt": "Exterior of City Lights Bookstore on Columbus Avenue in San Francisco, with the bookstore’s hanging sign and stacked windows.",
+    "caption": "City Lights Bookstore, San Francisco (photograph 2013). Lawrence Ferlinghetti and Peter D. Martin opened the shop in 1953; as City Lights Books it published Allen Ginsberg’s Howl and Other Poems (1956) and became the institutional address of the San Francisco Beat circuit. The modern facade is a place-holder for that publishing history, not a claim that 1956 looked identical.",
+    "credit": "Beyond My Ken / Wikimedia Commons / CC BY-SA 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:City_Lights_Bookstore,_San_Francisco_(2013)_-_1.JPG"
+  },
+  "honesty": "“Beat Generation” is a period and teaching label that hardened after the fact. Jack Kerouac and others used “beat” earlier in the late 1940s as slang for exhausted and beatific; the magazine and newspaper packaging of a “generation” arrives mainly in the mid-to-late 1950s, after public readings and bestseller publicity. This capsule’s core window runs from the Six Gallery reading (7 October 1955) and City Lights’s Howl and Other Poems (1956) through the Howl obscenity trial (1957), the U.S. success of On the Road (1957), the Paris publication and later U.S. fights over William S. Burroughs’s Naked Lunch (1959), and the early-1960s consolidation of Beat as a recognizable brand — roughly into the mid-1960s. It is not only the Kerouac myth of cross-country cars and jazz nights, and it is not the same thing as the hippie counterculture that mass media associated with 1967 and after. Women writers (Diane di Prima, Joanne Kyger, later Anne Waldman and others) and the San Francisco Renaissance around Kenneth Rexroth sit inside or beside the same years; reducing the scene to three male novelists misreads the reading rooms. Existentialism is an earlier Capsules literature lesson whose calendar overlaps the 1940s–50s; it names different books (Sartre, Camus, Beauvoir) and different publics. The Harlem Renaissance capsule is thematically adjacent only as another U.S. literary boom later periodized by critics — not as a shared cast or magazine system.",
+  "timeline": [
+    {
+      "year": "1943–50",
+      "label": "Columbia circle",
+      "detail": "Allen Ginsberg, Jack Kerouac, and William S. Burroughs connect through Columbia University and New York apartments; Lucien Carr, Neal Cassady, and Herbert Huncke enter the same orbit. John Clellon Holmes’s essay “This Is the Beat Generation” (New York Times Magazine, 16 November 1952) and his novel Go (1952) help coin the phrase in print before the famous San Francisco readings."
+    },
+    {
+      "year": "1953–55",
+      "label": "City Lights / Six Gallery",
+      "detail": "City Lights Bookstore opens in San Francisco (1953). On 7 October 1955, at the Six Gallery on Fillmore Street, Ginsberg reads the first part of Howl; Kenneth Rexroth MCs; Philip Lamantia, Michael McClure, Philip Whalen, and Gary Snyder also read. The night becomes the usual origin story for the public Beat poetry boom."
+    },
+    {
+      "year": "1956–57",
+      "label": "Howl published and tried",
+      "detail": "City Lights publishes Howl and Other Poems (1956). U.S. Customs and then San Francisco police seize copies; Ferlinghetti and bookstore manager Shigeyoshi Murao are charged. Judge Clayton W. Horn’s October 1957 decision finds Howl not obscene — a landmark free-speech win for literary modernism in paperback."
+    },
+    {
+      "year": "1957",
+      "label": "On the Road",
+      "detail": "Viking publishes Kerouac’s On the Road. Gilbert Millstein’s New York Times review frames it as a generational novel; fame and caricature arrive together. The book’s fame often overshadows the poetry-trial story that made “Beat” a newspaper word the same year."
+    },
+    {
+      "year": "1958–59",
+      "label": "Paris Naked Lunch / U.S. fights",
+      "detail": "Burroughs’s Naked Lunch appears from Olympia Press in Paris (1959). U.S. publishers and courts later fight over its status; a Boston obscenity case is overturned on appeal in 1966. Cut-up methods with Brion Gysin intensify Burroughs’s difference from Kerouac’s spontaneous-prose myth."
+    },
+    {
+      "year": "1955–62",
+      "label": "SF–NY–Mexico circuits",
+      "detail": "Readings, small presses, and travel link North Beach, the Lower East Side, Denver, and Mexico City. Corso, Snyder, Cassady, di Prima, and others circulate poems, letters, and reputations beside the three most marketed names."
+    },
+    {
+      "year": "1960–65",
+      "label": "Brand and edge",
+      "detail": "Beat becomes a sellable style in magazines and tourism even as the writers diverge — Ginsberg toward public activism, Kerouac toward conservative Catholic nostalgia and alcoholism, Burroughs toward expatriate experiment. By the mid-1960s the label overlaps a newer youth culture it did not invent."
+    },
+    {
+      "year": "1966–69",
+      "label": "After-edges",
+      "detail": "Naked Lunch’s U.S. legal clearance (1966); Kerouac dies in 1969. Hippies, rock festivals, and later academic syllabi absorb and rewrite Beat memory — treated in After, not as this lesson’s core."
+    }
+  ],
+  "read": [
+    {
+      "title": "Allen Ginsberg — “Howl” (Poetry Foundation)",
+      "url": "https://www.poetryfoundation.org/poems/49303/howl",
+      "note": "Licensed full text of Howl via Poetry Foundation / HarperCollins permission. Primary poem for this capsule — read legally here; this lesson does not paste the poem."
+    },
+    {
+      "title": "Allen Ginsberg — “Howl,” Parts I & II (Poets.org)",
+      "url": "https://poets.org/poem/howl-parts-i-ii",
+      "note": "Academy of American Poets licensed text of Parts I and II. Useful alternate legal page."
+    },
+    {
+      "title": "City Lights Booksellers & Publishers",
+      "url": "https://citylights.com/",
+      "note": "Publisher and bookstore that issued Howl and Other Poems (1956) and remains an active North Beach institution. Catalogue and history pages."
+    },
+    {
+      "title": "Beat movement — Britannica",
+      "url": "https://www.britannica.com/art/Beat-movement",
+      "note": "Compact encyclopedia orientation to names, dates, and the San Francisco–New York map. Secondary overview only."
+    },
+    {
+      "title": "John Clellon Holmes — “This Is the Beat Generation” (1952) via teaching reprints / library databases",
+      "url": "https://www.nytimes.com/",
+      "note": "The 16 November 1952 New York Times Magazine essay coined the phrase in mainstream print. Seek the essay through library or Times archives; Capsules does not host the full text."
+    },
+    {
+      "title": "Jack Kerouac — On the Road (Penguin / Viking catalogue)",
+      "url": "https://www.penguinrandomhouse.com/books/322897/on-the-road-by-jack-kerouac/",
+      "note": "Legal trade listing for the 1957 novel. Buy or borrow; this capsule does not paste copyrighted prose."
+    },
+    {
+      "title": "William S. Burroughs — Naked Lunch (Grove Press catalogue)",
+      "url": "https://groveatlantic.com/book/naked-lunch/",
+      "note": "Legal trade page for the novel first issued in Paris by Olympia Press (1959). Link only — no pasted excerpts here."
+    },
+    {
+      "title": "Diane di Prima — Revolutionary Letters and other titles (City Lights catalogue)",
+      "url": "https://citylights.com/",
+      "note": "Search City Lights for di Prima titles. She is essential to correcting the male-only Beat myth; buy or borrow legally."
+    }
+  ],
+  "listen": [
+    {
+      "title": "Allen Ginsberg reads Howl — PennSound archive",
+      "url": "https://writing.upenn.edu/pennsound/x/Ginsberg.php",
+      "note": "University of Pennsylvania PennSound page with multiple legal archival recordings of Ginsberg reading Howl (including mid-1950s and later performances). Prefer these institutional MP3s over random uploads."
+    },
+    {
+      "title": "Allen Ginsberg — Howl text page (Poetry Foundation)",
+      "url": "https://www.poetryfoundation.org/poems/49303/howl",
+      "note": "Use beside the PennSound audio: follow the licensed text while listening to an archival reading."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Howl (2010) — IMDb title page",
+      "url": "https://www.imdb.com/title/tt1473388/",
+      "note": "Feature film dramatizing the Howl obscenity trial with James Franco as Ginsberg. Catalogue page only; seek licensed streaming where available — not a pirate link."
+    },
+    {
+      "title": "City Lights Bookstore — official site / events",
+      "url": "https://citylights.com/",
+      "note": "Institutional home page for the publisher-bookstore at the center of the San Francisco story. Events and history, not a documentary stream."
+    }
+  ],
+  "fun_fact": {
+    "title": "The Howl trial turned a seized paperback into a free-speech landmark",
+    "text": "After City Lights published Howl and Other Poems in 1956, U.S. Customs seized imported copies, and in 1957 San Francisco police arrested Ferlinghetti and bookstore manager Shigeyoshi “Shig” Murao for selling the book. The prosecution argued obscenity; the defense brought critics and professors to explain literary merit. On 3 October 1957, Judge Clayton W. Horn ruled that Howl was not obscene. The decision did not invent Beat writing, but it made the poem a courtroom document as well as a City Lights paperback — and it advertised North Beach literature to a national audience that might never have attended the Six Gallery."
+  },
+  "glossary": [
+    {
+      "term": "Beat Generation",
+      "aliases": [
+        "Beat",
+        "the Beats",
+        "Beat movement"
+      ],
+      "explain": "Later label for a mid-1950s to early-1960s U.S. literary network associated with Ginsberg, Kerouac, Burroughs, Ferlinghetti, Corso, Snyder, Cassady, di Prima, and others. “Beat” as slang predates the marketing of a “generation.”"
+    },
+    {
+      "term": "beat",
+      "explain": "Street and jazz-adjacent slang meaning worn out or down-and-out; Kerouac also stressed a “beatific” (blissful, visionary) sense. Not originally a school name."
+    },
+    {
+      "term": "Six Gallery reading",
+      "aliases": [
+        "Six Gallery",
+        "6 Gallery"
+      ],
+      "explain": "Poetry reading on 7 October 1955 at the Six Gallery in San Francisco, where Ginsberg first publicly read Howl. Rexroth was MC; Lamantia, McClure, Whalen, and Snyder also read."
+    },
+    {
+      "term": "Howl",
+      "aliases": [
+        "Howl and Other Poems"
+      ],
+      "explain": "Long poem by Allen Ginsberg; City Lights published Howl and Other Poems in 1956. Central primary text of this capsule’s public story."
+    },
+    {
+      "term": "Howl obscenity trial",
+      "aliases": [
+        "Howl trial",
+        "People v. Ferlinghetti"
+      ],
+      "explain": "1957 San Francisco prosecution of Ferlinghetti (and initially Murao) for selling Howl. Judge Clayton W. Horn ruled the poem not obscene (3 October 1957)."
+    },
+    {
+      "term": "City Lights",
+      "aliases": [
+        "City Lights Bookstore",
+        "City Lights Books",
+        "City Lights Booksellers & Publishers"
+      ],
+      "explain": "San Francisco bookstore (opened 1953) and publisher co-founded by Lawrence Ferlinghetti and Peter D. Martin. Issued Howl and Other Poems and became the Beats’ most famous institutional address."
+    },
+    {
+      "term": "Allen Ginsberg",
+      "explain": "Poet (1926–1997). Author of Howl (1956) and Kaddish (1961); public reader and later activist. Columbia circle origins; Six Gallery breakthrough."
+    },
+    {
+      "term": "Jack Kerouac",
+      "explain": "Novelist and poet (1922–1969). On the Road (1957); also The Dharma Bums (1958), The Subterraneans (1958), and many others. Central to the popular “Beat” brand."
+    },
+    {
+      "term": "On the Road",
+      "explain": "Kerouac’s 1957 Viking novel, drafted earlier from travel with Neal Cassady. Bestseller fame and generational marketing in 1957."
+    },
+    {
+      "term": "William S. Burroughs",
+      "aliases": [
+        "William Burroughs",
+        "Burroughs"
+      ],
+      "explain": "Novelist (1914–1997). Junky (1953 as William Lee); Naked Lunch (Paris, 1959). Older Columbia-circle figure; cut-up experiments with Brion Gysin."
+    },
+    {
+      "term": "Naked Lunch",
+      "explain": "Burroughs novel published by Olympia Press in Paris (1959); U.S. obscenity fights followed; Massachusetts Supreme Judicial Court cleared it in 1966."
+    },
+    {
+      "term": "Lawrence Ferlinghetti",
+      "explain": "Poet, publisher, and bookstore owner (1919–2021). Co-founder of City Lights; defendant in the Howl trial; A Coney Island of the Mind (1958) was a bestselling poetry paperback."
+    },
+    {
+      "term": "Diane di Prima",
+      "aliases": [
+        "Diane DiPrima"
+      ],
+      "explain": "Poet and memoirist (1934–2020). New York and later West Coast; The Floating Bear (with LeRoi Jones/Amiri Baraka); Memoirs of a Beatnik (1969); Revolutionary Letters. Essential woman writer in and beside Beat networks."
+    },
+    {
+      "term": "Neal Cassady",
+      "explain": "Friend and muse (1926–1968) fictionalized as Dean Moriarty in On the Road; also linked to later Merry Pranksters — After-edge relative to this core window."
+    },
+    {
+      "term": "Gregory Corso",
+      "explain": "Poet (1930–2001). Younger New York/San Francisco Beat voice; Gasoline (1958), The Happy Birthday of Death (1960)."
+    },
+    {
+      "term": "Gary Snyder",
+      "explain": "Poet (b. 1930). Read at Six Gallery; Riprap (1959); deep engagement with East Asian languages, Buddhism, and ecology — San Francisco Renaissance as much as “Beat.”"
+    },
+    {
+      "term": "Kenneth Rexroth",
+      "explain": "Poet and critic (1905–1982). Elder San Francisco figure; MC at the Six Gallery reading; bridge between earlier modernism and the 1950s Bay Area scene."
+    },
+    {
+      "term": "San Francisco Renaissance",
+      "explain": "Broader Bay Area poetry flowering (Rexroth, Spicer, Duncan, Blaser, and others) overlapping but not identical with marketed Beat names."
+    },
+    {
+      "term": "John Clellon Holmes",
+      "explain": "Novelist and essayist (1926–1988). Go (1952); “This Is the Beat Generation” (New York Times Magazine, 1952)."
+    },
+    {
+      "term": "Herbert Huncke",
+      "explain": "Times Square hustler and storyteller (1915–1996) who helped transmit the word “beat” into the Columbia circle."
+    },
+    {
+      "term": "Lucien Carr",
+      "explain": "Columbia student (1925–2005) who introduced Ginsberg, Kerouac, and Burroughs; 1944 manslaughter case involving David Kammerer shadowed early friendships."
+    },
+    {
+      "term": "Peter Orlovsky",
+      "explain": "Poet (1933–2010); Ginsberg’s longtime partner; present in later photographs and travel narratives."
+    },
+    {
+      "term": "Shigeyoshi Murao",
+      "aliases": [
+        "Shig Murao"
+      ],
+      "explain": "City Lights bookstore manager arrested in 1957 for selling Howl; charges against him were later dropped; Ferlinghetti’s case proceeded."
+    },
+    {
+      "term": "Clayton W. Horn",
+      "aliases": [
+        "Judge Horn"
+      ],
+      "explain": "San Francisco municipal judge who ruled Howl not obscene on 3 October 1957."
+    },
+    {
+      "term": "Olympia Press",
+      "explain": "Paris publisher (Maurice Girodias) that issued Naked Lunch (1959) and other English-language books difficult to print in the U.S. at the time."
+    },
+    {
+      "term": "Brion Gysin",
+      "explain": "Artist and writer (1916–1986); collaborated with Burroughs on cut-up methods in Paris."
+    },
+    {
+      "term": "cut-up",
+      "aliases": [
+        "cut-up method",
+        "cutups"
+      ],
+      "explain": "Technique of slicing and rearranging existing text, associated with Gysin and Burroughs — a compositional alternative to Kerouac’s “spontaneous prose” myth."
+    },
+    {
+      "term": "spontaneous prose",
+      "explain": "Kerouac’s stated ideal of fast, minimally revised improvisatory writing; useful as a slogan, incomplete as a full description of his drafts and edits."
+    },
+    {
+      "term": "Joanne Kyger",
+      "explain": "Poet (1934–2017) associated with the San Francisco Renaissance and Beat-adjacent circles; The Tapestry and the Web (1965) and later work."
+    },
+    {
+      "term": "Anne Waldman",
+      "explain": "Poet (b. 1945); younger generation linked to the Poetry Project and later Naropa — After relative to the 1955–65 core."
+    },
+    {
+      "term": "Amiri Baraka",
+      "aliases": [
+        "LeRoi Jones"
+      ],
+      "explain": "Poet and playwright (1934–2014). As LeRoi Jones co-edited The Floating Bear with di Prima; later Black Arts Movement — overlap and departure from white Beat networks."
+    },
+    {
+      "term": "Philip Whalen",
+      "explain": "Poet (1923–2002); Six Gallery reader; Zen Buddhist priest later in life."
+    },
+    {
+      "term": "Michael McClure",
+      "explain": "Poet (1932–2020); Six Gallery reader; later playwright and counterculture figure."
+    },
+    {
+      "term": "Philip Lamantia",
+      "explain": "Surrealist-influenced poet (1927–2005); read others’ work at Six Gallery when he declined to read his own that night in some accounts — present on the program."
+    },
+    {
+      "term": "North Beach",
+      "explain": "San Francisco neighborhood around Columbus Avenue; home of City Lights and a dense 1950s poetry-bar map."
+    },
+    {
+      "term": "Fillmore Street",
+      "explain": "San Francisco street; site of the Six Gallery at the time of the 1955 reading."
+    },
+    {
+      "term": "Columbia University",
+      "explain": "New York university where Ginsberg studied and where early friendships with Carr, Kerouac, and Burroughs formed in the 1940s."
+    },
+    {
+      "term": "Beat Hotel",
+      "explain": "Informal name for a cheap hotel on rue Gît-le-Cœur in Paris’s Left Bank where Ginsberg, Corso, Burroughs, and others stayed in the late 1950s."
+    },
+    {
+      "term": "Angry Young Men",
+      "explain": "British 1950s label for writers such as John Osborne (Look Back in Anger, 1956) and novelists grouped as working-class or anti-establishment — contemporaneous UK scene, not a U.S. Beat branch."
+    },
+    {
+      "term": "The Movement",
+      "aliases": [
+        "Movement poets"
+      ],
+      "explain": "Looser label for 1950s British poets (Larkin, Amis, and others) associated with clarity and anti-romantic stance — another UK contemporaneous current."
+    },
+    {
+      "term": "Look Back in Anger",
+      "explain": "John Osborne play premiered at London’s Royal Court Theatre in 1956 — landmark of Angry Young Men theatre the same year Howl appeared as a City Lights book."
+    },
+    {
+      "term": "taiyōzoku",
+      "aliases": [
+        "Sun Tribe",
+        "Season of the Sun"
+      ],
+      "explain": "Japanese mid-1950s youth-culture label linked to Ishihara Shintarō’s novel Season of the Sun (Taiyō no kisetsu, 1955) and related films — a contemporaneous “youth revolt” literary-media moment, not Beat translation."
+    },
+    {
+      "term": "Ishihara Shintarō",
+      "aliases": [
+        "Shintaro Ishihara"
+      ],
+      "explain": "Japanese writer and later politician (1932–2022); Season of the Sun (1955) won the Akutagawa Prize and fed the taiyōzoku boom."
+    },
+    {
+      "term": "Ōe Kenzaburō",
+      "aliases": [
+        "Kenzaburo Oe",
+        "Oe Kenzaburo"
+      ],
+      "explain": "Japanese novelist (1935–2023); early career in the late 1950s; later Nobel laureate. Named as a contemporaneous postwar Japanese literary career, not as a Beat affiliate."
+    },
+    {
+      "term": "existentialism",
+      "explain": "Earlier Capsules literature lesson (c. 1943–1960): Sartre, Camus, Beauvoir. Calendar overlap with Beat years; different books and European postwar publics."
+    },
+    {
+      "term": "Harlem Renaissance",
+      "explain": "Earlier Capsules literature lesson (c. 1919–1935). Related only as another U.S. literary boom later given a neighborhood/generation label — different century edge, magazines, and writers."
+    },
+    {
+      "term": "hippie",
+      "aliases": [
+        "hippies",
+        "Summer of Love"
+      ],
+      "explain": "Later 1960s youth counterculture (mass-associated with 1967+). Absorbed Beat images and some people; not identical with 1955–65 literary Beat."
+    },
+    {
+      "term": "Kaddish",
+      "explain": "Ginsberg’s long elegy for his mother Naomi, published as Kaddish and Other Poems (1961)."
+    },
+    {
+      "term": "The Dharma Bums",
+      "explain": "Kerouac novel (1958) drawing on Snyder and mountain/Buddhist scenes after On the Road fame."
+    },
+    {
+      "term": "A Coney Island of the Mind",
+      "explain": "Ferlinghetti poetry collection (1958), a bestselling New Directions paperback that widened Beat-adjacent readership."
+    },
+    {
+      "term": "Go",
+      "explain": "John Clellon Holmes novel (1952), an early fictional portrait of the New York circle before On the Road’s fame."
+    },
+    {
+      "term": "Junky",
+      "aliases": [
+        "Junkie"
+      ],
+      "explain": "Burroughs’s 1953 Ace paperback (as William Lee) on addiction — earlier than Naked Lunch."
+    },
+    {
+      "term": "The Floating Bear",
+      "explain": "Mimeographed newsletter (1961–69) edited by di Prima and LeRoi Jones/Amiri Baraka — New York distribution infrastructure for poems and news."
+    },
+    {
+      "term": "Memoirs of a Beatnik",
+      "explain": "Diane di Prima’s 1969 autobiographical book — After-edge that both uses and ironizes the Beatnik brand."
+    },
+    {
+      "term": "Revolutionary Letters",
+      "explain": "Di Prima poem series begun in the late 1960s; City Lights editions helped keep her in the political-poetry canon."
+    },
+    {
+      "term": "paperback boom",
+      "explain": "Postwar U.S. surge of cheap paperbound books (Pocket Books, Ace, New Directions paperbacks, City Lights Pocket Poets) that put poetry and controversial fiction on drugstore and bookstore racks."
+    },
+    {
+      "term": "Pocket Poets Series",
+      "aliases": [
+        "City Lights Pocket Poets"
+      ],
+      "explain": "City Lights series in which Howl and Other Poems appeared as Number Four (1956)."
+    },
+    {
+      "term": "GI Bill",
+      "aliases": [
+        "G.I. Bill"
+      ],
+      "explain": "Post–World War II U.S. benefits expanding college enrollment; context for campus density and veteran students in the late 1940s–50s."
+    },
+    {
+      "term": "Moloch",
+      "explain": "Name invoked in Part II of Howl for industrial, bureaucratic, and sacrificial modern power — a poem-internal keyword, not a separate organization."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Postwar conformity, paperbacks, and the Columbia circle",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Postwar United States culture in the late 1940s and early 1950s rewarded conformity in visible ways: suburban housing tracts, white-collar dress codes, Cold War loyalty rituals, and a growing mass-media script of the nuclear family. That script was never the whole country. The same years saw the paperback boom put cheap books on drugstore racks, GI Bill campuses filled with veterans and new students, and criminal law that still harshly targeted queer life and drug use. Literary rebellion did not appear from nowhere; it appeared where apartments, campuses, and bars already concentrated readers who disliked the official script."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/columbia-low-library.jpg",
+          "alt": "Low Memorial Library at Columbia University, classical dome and columns facing a paved plaza.",
+          "caption": "Low Memorial Library, Columbia University (modern photograph). In the 1940s Allen Ginsberg studied here; through Lucien Carr he met Jack Kerouac and William S. Burroughs. The Columbia circle is the New York origin story before San Francisco’s Six Gallery made Beat a public poetry event.",
+          "credit": "Momofjr / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_Columbia_University_NYC_retouched.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The early network was small and New York–centered. Ginsberg, Kerouac, and Burroughs connected through Columbia and downtown apartments in the mid-1940s, with Carr as a social hinge and with Huncke bringing Times Square slang — including “beat” — into the talk. Holmes’s novel Go (1952) and his New York Times Magazine essay “This Is the Beat Generation” (16 November 1952) put the phrase into mainstream print years before Howl was a City Lights pamphlet. Cassady’s letters and cross-country driving supplied Kerouac with a living model for the Dean Moriarty energy later sold as On the Road. None of this was yet a national “movement.” It was a correspondence circle with criminal-adjacent edges, queer desire under legal threat, and a shared appetite for Spengler, jazz, and French modernism."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/city-lights-night.jpg",
+          "alt": "City Lights Bookstore illuminated at night, with warm window light and the bookstore sign visible.",
+          "caption": "City Lights Bookstore at night (photograph by Dirk Hansen). The shop opened in 1953 on Columbus Avenue in North Beach. Before it became famous for defending Howl in court, it was already a paperback and poetry address in a neighborhood of bars, Italian cafés, and cheap rooms.",
+          "credit": "Dirk Hansen (Dhblog) / Wikimedia Commons / CC BY 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:City_Lights_Bookstore_(Night).jpg"
+        },
+        {
+          "type": "p",
+          "text": "San Francisco’s North Beach offered a second map. Ferlinghetti and Martin opened City Lights in 1953 as a paperback bookstore that became a publisher. Across the Bay Area, Rexroth and other San Francisco Renaissance poets had already been running readings and translations. When Ginsberg moved west, he stepped into an existing poetry infrastructure, not an empty stage. The “before” of Beat, then, is double: a Columbia friendship plot in New York and a Bay Area reading culture ready to host a scandalous long poem."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "Six Gallery to Howl on trial, 1955–1965",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On 7 October 1955, at the Six Gallery on Fillmore Street in San Francisco, Ginsberg read the first part of Howl to a crowded room. Rexroth was master of ceremonies. Lamantia, McClure, Whalen, and Snyder also read. Kerouac collected money for wine and cheered. The night is the usual public origin story because it turned private manuscript energy into a collective event with witnesses — and because Ferlinghetti, in the audience, soon offered to publish the poem."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/north-beach-filbert.jpg",
+          "alt": "Steep Filbert Street in San Francisco’s North Beach, with stairs, wooden houses, and city views.",
+          "caption": "Filbert Street stairs in North Beach, San Francisco (photograph by David Corby). North Beach’s hills, bars, and boarding houses were the everyday geography around City Lights. The Six Gallery itself was on Fillmore Street; the neighborhood name “North Beach” still anchors the Beat tourist map.",
+          "credit": "David Corby / Wikimedia Commons / CC BY-SA 2.5",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:SF_Filbert_St_North_Beach_CA.jpg"
+        },
+        {
+          "type": "p",
+          "text": "City Lights issued Howl and Other Poems in 1956 as Number Four in the Pocket Poets Series. The book is short, cheap, and designed to be carried. U.S. Customs seized imported copies; in 1957 San Francisco police arrested Ferlinghetti and manager Shig Murao for selling it. The obscenity trial that followed — critics and professors on the stand, Judge Clayton W. Horn’s 3 October 1957 ruling that Howl was not obscene — made the poem national news. Literary modernism’s long fight with U.S. obscenity law gained a paperback-sized victory in a municipal courtroom."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/city-lights-interior.jpg",
+          "alt": "A student sitting and reading among tall bookshelves inside City Lights Bookstore.",
+          "caption": "Reader inside City Lights Bookstore (public-domain photograph via Wikimedia Commons). The Howl case was about whether this kind of shelf could legally hold Ginsberg’s poem. Ferlinghetti’s dual role as publisher and bookseller made the shop both defendant and distribution machine.",
+          "credit": "Unknown photographer / Wikimedia Commons / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:College_student_seated_and_reading_inside_City_Lights_bookstore.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The same year as Horn’s decision, Viking published Kerouac’s On the Road (1957). Millstein’s New York Times review treated it as the novel of a generation. Sales and parody arrived together: the “beatnik” caricature in newspapers and on television often flattened poetry, Buddhism, and queer life into goatees and bongos. Kerouac’s earlier scroll draft and Cassady letters became a myth of pure speed; in practice the published book had a longer editorial history. Still, 1957 yoked trial publicity and novel publicity into one media word: Beat."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/kerouac-alley.jpg",
+          "alt": "Engraved Kerouac quotation on the pavement of Jack Kerouac Alley beside City Lights in San Francisco.",
+          "caption": "Jack Kerouac Alley, beside City Lights in San Francisco, with a Kerouac quotation set in the pavement (photograph documenting the alley’s literary plaques). The alley’s renaming is later civic memory; the 1950s fact is that City Lights already sat at Columbus and this narrow passage between Chinatown and North Beach.",
+          "credit": "Goodshoped35110s / Wikimedia Commons / Public domain dedication (image of plaque text in public view)",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:The_air_was_soft_the_stars_so_fine_the_promise_of_every_cobbled_alley_so_great_by_Jack_Kerouac_-_Jack_Kerouac_Alley.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Burroughs’s path was expatriate and legally harder. Naked Lunch appeared from Olympia Press in Paris in 1959 after years of notebooks and addiction narrative (Junky had already appeared as a 1953 Ace paperback under the name William Lee). U.S. publication fights continued into the mid-1960s; a Massachusetts case ended with appellate clearance in 1966. With Gysin in Paris, Burroughs developed cut-up methods that refuse the Kerouac brand of sincere road confession. The “era” is therefore not one style: prophetic long-line poetry (Howl), road novel celebrity (On the Road), and cut-up nightmare satire (Naked Lunch) share a decade and a friend network without sharing a single aesthetic program."
+        },
+        {
+          "type": "p",
+          "text": "Circuits mattered as much as titles. Writers moved among North Beach, the Lower East Side, Denver, Mexico City, and the Paris hotel on rue Gît-le-Cœur later nicknamed the Beat Hotel. Snyder’s East Asian study and mountain practice pulled the San Francisco Renaissance toward Buddhism and ecology. Corso’s Gasoline (1958) and Ferlinghetti’s A Coney Island of the Mind (1958) widened the poetry paperback audience. Di Prima and LeRoi Jones (later Amiri Baraka) ran The Floating Bear from New York. The marketed trio of Ginsberg–Kerouac–Burroughs sits inside a thicker field of readings, mimeographs, and travel."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/ginsberg-frankfurt.jpg",
+          "alt": "Allen Ginsberg facing the camera in a close portrait, Frankfurt Airport, 1978.",
+          "caption": "Allen Ginsberg, Frankfurt Airport, 1978 (photograph by Ludwig Urning). Later than the core 1955–65 window, but useful as a recognizable portrait of the poet whose Six Gallery reading and City Lights book organized the public Beat story.",
+          "credit": "Ludwig Urning / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Allen_Ginsberg_1978.jpg"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "Poems, novels, a bookstore — and four to read slowly",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On the page and in courtrooms the Beat years look like several methods at once: Ginsberg’s long breath-line prophecy, Kerouac’s marketed spontaneous prose, Burroughs’s cut-up and junk satire, Ferlinghetti’s publisher-poet civic voice, and di Prima’s feminist and magical counter-archive. Deepen four figures and name the crowded room around them so “generation” does not collapse into a three-man poster."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Allen Ginsberg",
+              "dates": "1926–1997",
+              "image": "lessons/beat-generation/ginsberg-1979.jpg",
+              "alt": "Allen Ginsberg signing books at a table in Amsterdam, 24 November 1979.",
+              "caption": "Allen Ginsberg signing books in Amsterdam’s Athenaeum bookstore, 24 November 1979 (Hans van Dijk / Anefo). Later than Howl’s first decade; the face of the poet who read at Six Gallery and whose City Lights book went to trial.",
+              "credit": "Hans van Dijk for Anefo / Dutch National Archives / Wikimedia Commons / CC0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Allen_Ginsberg_1979_-_cropped.jpg",
+              "text": "Poet of Howl (1956) and Kaddish (1961). Six Gallery reader; Columbia origins; later a tireless public performer. Howl’s Moloch section and catalogue of destroyed minds made private damage into civic speech."
+            },
+            {
+              "name": "Jack Kerouac",
+              "dates": "1922–1969",
+              "image": "lessons/beat-generation/kerouac-palumbo.jpg",
+              "alt": "Black-and-white portrait of Jack Kerouac in a plaid shirt, looking slightly aside.",
+              "caption": "Jack Kerouac, photograph by Tom Palumbo. Author of On the Road (1957); the face most often used to sell “Beat” as a novel brand rather than a poetry-trial story.",
+              "credit": "Tom Palumbo / Wikimedia Commons / CC BY-SA 2.0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Kerouac_by_Palumbo.jpg",
+              "text": "On the Road (1957), The Dharma Bums (1958), and a large unpublished-in-life archive. Fame, alcoholism, and a late conservative turn complicate the freedom poster made from his name."
+            },
+            {
+              "name": "William S. Burroughs",
+              "dates": "1914–1997",
+              "image": "lessons/beat-generation/burroughs-1983.jpg",
+              "alt": "William S. Burroughs in a suit and hat, facing forward, photographed in 1983.",
+              "caption": "William S. Burroughs in 1983 (photograph by Larry Colen). Older than Ginsberg and Kerouac; Naked Lunch (Paris, 1959) and cut-up practice made him the trio’s hardest legal and formal case.",
+              "credit": "Larry Colen / Wikimedia Commons / CC BY-SA 2.0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Burroughs1983_crop_b.jpg",
+              "text": "Junky (1953); Naked Lunch (1959); cut-ups with Brion Gysin. Expatriate Paris and Tangier years; U.S. obscenity fights into 1966. Least assimilable to the cheerful road-trip stereotype."
+            },
+            {
+              "name": "Diane di Prima",
+              "dates": "1934–2020",
+              "image": "lessons/beat-generation/di-prima.jpg",
+              "alt": "Portrait of poet Diane di Prima facing the camera, photograph by Gloria Graham.",
+              "caption": "Diane di Prima, photographed by Gloria Graham. New York mimeograph culture, The Floating Bear with LeRoi Jones/Amiri Baraka, and a lifelong insistence that Beat was never only a male cast.",
+              "credit": "Gloria Graham / Wikimedia Commons / CC BY-SA 3.0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Gloria_Graham_Diane_di_Prima_(cropped).jpg",
+              "text": "Poet and memoirist. The Floating Bear; Memoirs of a Beatnik (1969); Revolutionary Letters. Reads the same years from kitchens, pregnancies, and political urgency the poster trio often erases."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Ginsberg’s Howl opens as a catalogue of “the best minds” destroyed by madness, institutions, and war-state culture, then turns in Part II to Moloch as industrial and bureaucratic devourer. Read it as a poem with sections and dedications (Carl Solomon), not only as a slogan. Kaddish (1961) later grounds the prophetic voice in his mother Naomi’s mental illness and death. Listening to Ginsberg read — PennSound holds archival performances — shows how line length was also breath and timing for a room."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/ferlinghetti-dorfman.jpg",
+          "alt": "Lawrence Ferlinghetti in a dark shirt, portrait photograph by Elsa Dorfman.",
+          "caption": "Lawrence Ferlinghetti, photographed by Elsa Dorfman. Publisher of Howl, Howl-trial defendant, and poet of A Coney Island of the Mind (1958). City Lights was his instrument as much as his shop.",
+          "credit": "Elsa Dorfman / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lawrence-ferlinghetti-by-elsa-dorfman_(cropped).jpg"
+        },
+        {
+          "type": "p",
+          "text": "Kerouac’s On the Road follows Sal Paradise and Dean Moriarty across the United States in a plot of cars, buses, jazz clubs, and crashed hospitality. The novel’s ethics are unsettled: freedom for young men often means unpaid labor and abandoned women in the background. The Dharma Bums (1958) shifts toward Snyder-like mountain and Buddhist scenes after fame hits. Treat “spontaneous prose” as Kerouac’s theory-brand, then remember editors and multiple drafts existed anyway."
+        },
+        {
+          "type": "p",
+          "text": "Burroughs’s Naked Lunch is episodic, satirical, and sexually explicit in ways that kept it in court. It is closer to satire and science-fictional nightmare than to Kerouac’s sentimental road narrative. Junky remains the clearer addiction memoir. Cut-up work with Gysin in Paris treats language as material to rearrange — a different answer to the problem of how to write modern shock."
+        },
+        {
+          "type": "p",
+          "text": "Di Prima’s career refuses the footnote status older anthologies gave women Beats. With Jones she built The Floating Bear as a fast mimeograph channel. Memoirs of a Beatnik plays with and against the sexed marketing of “beatnik.” Revolutionary Letters carry Beat oral urgency into explicit political address. Name also, without full essays here: Ferlinghetti as publisher-poet; Corso; Snyder; Cassady as muse and letter-writer; Holmes as early namer; Rexroth as Six Gallery MC; Kyger and later Waldman as expanding the roster; Baraka’s path from New York Beat adjacency into Black Arts."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/ferlinghetti-2012.jpg",
+          "alt": "Lawrence Ferlinghetti in later life, seated outdoors in a dark jacket, photographed in 2012.",
+          "caption": "Lawrence Ferlinghetti in 2012 (photograph by Christopher Michel). He lived until 2021, long enough to see City Lights become a landmark and Howl become a syllabus poem — outcomes not obvious in the 1957 courtroom.",
+          "credit": "Christopher Michel / Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lawrence_Ferlinghetti_2012_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "Angry Young Men, taiyōzoku, Paris rooms, Mexican routes",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The mid-1950s did not belong only to North Beach. In Britain, the same years that produced Howl and On the Road also produced the Angry Young Men label around John Osborne’s Look Back in Anger (Royal Court Theatre, 1956) and novels of class anger and provincial constraint. Movement poets such as Philip Larkin pursued a different, cooler English line. These are contemporaneous literary publics arguing about class, sex, and authority — not branches of American Beat, and not obligated to match it term for term."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/akihabara-1950s.jpg",
+          "alt": "Crowded outdoor electronics and radio stalls in early postwar Akihabara, Tokyo.",
+          "caption": "Akihabara Radio Center stalls in early Showa-era Tokyo (public-domain photograph). Japan’s mid-1950s youth-culture and literary boom — including Ishihara Shintarō’s Season of the Sun (1955) and the taiyōzoku media wave — was a parallel “new generation” story under Occupation-after economics, not a translation of Kerouac.",
+          "credit": "Unknown photographer / Wikimedia Commons / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Radio_Center_in_early_Showa-era.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Japan, Ishihara Shintarō’s Season of the Sun (Taiyō no kisetsu, 1955) won the Akutagawa Prize and fed the taiyōzoku (“Sun Tribe”) boom in fiction and film — youth hedonism and generational break staged for a domestic mass audience. Separately, Ōe Kenzaburō’s early career begins in the late 1950s on a path toward politically serious postwar fiction that would later bring a Nobel Prize. Neither is “Japanese Beat”; both show that “youth generation” packaging was an international mid-century media habit with local books and censors."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/rue-git-le-coeur.jpg",
+          "alt": "Narrow rue Gît-le-Cœur in Paris with old buildings and a small street perspective.",
+          "caption": "Rue Gît-le-Cœur, Paris (photograph by Mbzt). The cheap hotel at number 9, nicknamed the Beat Hotel, housed Ginsberg, Corso, Burroughs, and others in the late 1950s. Paris was a circulation node — Olympia Press, Left Bank rooms — not a French branch office of Viking Press.",
+          "credit": "Mbzt / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Rue_G%C3%AEt-le-C%C5%93ur.JPG"
+        },
+        {
+          "type": "p",
+          "text": "Paris mattered as infrastructure. Olympia Press printed English books that U.S. publishers would not touch; the Beat Hotel on rue Gît-le-Cœur concentrated expatriate writing and cut-up experiment. Francophone existentialist fame from the 1940s was still a tourist and student backdrop — Capsules’s existentialism lesson covers those books — but Ginsberg’s crowd was not Sartre’s café court. The useful link is geographic and legal (what could be printed where), not a shared philosophy syllabus."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/mexico-zocalo.jpg",
+          "alt": "Wide view of Mexico City’s Zócalo plaza with cathedral and surrounding buildings under a blue sky.",
+          "caption": "Mexico City’s Zócalo (photograph by Ray equally spaced). Kerouac, Burroughs, and others used Mexico City and southern routes as real travel geography in fiction and life — a concrete Latin American contact point, not a metaphor for “elsewhere.”",
+          "credit": "Ray equally spaced / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Mexico_City_Zocalo.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Mexico City and other Latin American stops appear in Kerouac’s fiction and in Burroughs’s biography as places of cheaper living, drugs, and escape from U.S. surveillance — contact points with real streets, not a required pairing worksheet with the Latin American Boom (a later Capsules literature lesson with different authors and decades). Denver and the American West likewise function as Cassady country inside On the Road. Same-time elsewhere, for this capsule, means: British theatre and Movement poetry; Japanese taiyōzoku and Ōe’s early career; Paris printing and hotels; Mexican routes on the Beat itinerary."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Hippie absorption, canonization, Kerouac’s death",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the mid-1960s Beat was already a brand that younger hippie culture could quote, wear, and misremember. Ginsberg became a visible activist and chanting public figure; Cassady drove with Ken Kesey’s Merry Pranksters; rock lyrics borrowed the road and the visionary claim. The 1967 Summer of Love mass image is not the Six Gallery room, but marketers and tourists often collapsed them. Distinguishing 1955–65 literary Beat from later counterculture is part of reading honestly."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/beat-generation/ginsberg-dorfman.jpg",
+          "alt": "Allen Ginsberg in a frontal portrait wearing glasses and a jacket, photograph by Elsa Dorfman.",
+          "caption": "Allen Ginsberg, photographed by Elsa Dorfman (1988). Decades after Howl, he remained a touring reader and public advocate — one path of afterlife. Kerouac’s path ended earlier and darker.",
+          "credit": "Elsa Dorfman / Wikimedia Commons / CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Allen_Ginsberg_by_Elsa_Dorfman.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Kerouac died on 21 October 1969 in St. Petersburg, Florida, after years of heavy drinking and a public turn against the left-wing youth who had claimed him. Academic canonization proceeded anyway: Howl and On the Road entered syllabi; biographies and scroll facsimiles fed a scholarship industry. Queer and recovery readings later insisted on Ginsberg’s and Burroughs’s sexuality and on addiction as more than local color — and on di Prima, Kyger, and others as central, not decorative. Howl’s afterlife includes the 2010 film Howl, endless anniversary readings, and continued citation in free-speech arguments. Naked Lunch’s 1966 U.S. legal clearance marks an After-edge of the obscenity story that began in the Howl courtroom."
+        },
+        {
+          "type": "p",
+          "text": "What remains teachable is concrete: a 1955 reading, a 1956 paperback, a 1957 trial and novel, a 1959 Paris book, a bookstore that still stands on Columbus Avenue. The label “Beat Generation” is useful when it points to those checkable events and to a wider cast than the male myth. It fails when it becomes a costume for any postwar nonconformity."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If “Beat Generation” is a later media and classroom name, what changes when you center the Howl obscenity trial and City Lights’s Pocket Poets paperback — rather than only Kerouac’s road myth — and keep Diane di Prima’s New York mimeograph work in the same frame as Ginsberg, Kerouac, and Burroughs?"
+        }
+      ]
+    }
+  ]
+}
