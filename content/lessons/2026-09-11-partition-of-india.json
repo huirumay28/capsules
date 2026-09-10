@@ -1,0 +1,773 @@
+{
+  "slug": "partition-of-india",
+  "date": "2026-09-11",
+  "subject": "history",
+  "related": [
+    "may-fourth",
+    "war-of-resistance"
+  ],
+  "title": "Partition of India (1947): two dominions, a late border, and mass flight",
+  "dek": "After the Cabinet Mission failed and Calcutta burned on Direct Action Day (16 August 1946), Mountbatten accelerated British exit. On 14–15 August 1947 Pakistan and India became dominions; the Radcliffe Line was published after independence. Punjab and Bengal saw massacres and refugee columns. Kashmir’s accession crisis began at once. Death and displacement figures remain contested estimates.",
+  "era": "1946–1948 (core: June–December 1947)",
+  "reading_minutes": 26,
+  "thumb": {
+    "src": "lessons/partition-of-india/mountbatten-nehru-jinnah.jpg",
+    "alt": "Louis Mountbatten seated with Jawaharlal Nehru, Muhammad Ali Jinnah and other leaders during 1947 partition talks."
+  },
+  "hero": {
+    "src": "lessons/partition-of-india/mountbatten-nehru-jinnah.jpg",
+    "alt": "Lord Mountbatten meeting Nehru, Jinnah and other leaders to plan the Partition of India, 1947.",
+    "caption": "New Delhi, 1947. Louis Mountbatten, the last Viceroy, meets Jawaharlal Nehru, Muhammad Ali Jinnah and other leaders while the transfer of power and the shape of partition are still being forced into a few months’ calendar. The photograph is a room of negotiators; the trains and columns came after the announcements.",
+    "credit": "Wikimedia Commons / public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten_meets_Nehru,_Jinnah_and_other_Leaders_to_plan_Partition_of_India.jpg"
+  },
+  "honesty": "“Partition” here names a cluster of facts, not a single myth. It is Britain’s accelerated exit from India; the Indian Independence Act 1947 creating two dominions (India and Pakistan) on 14–15 August 1947; the division of Punjab and Bengal by the Radcliffe Line, drawn late and published after independence; the collapse of shared provincial life into communal massacre and flight; and the unfinished business of princely states, above all Kashmir. It is not only a neat map exercise, not only “inevitable” from 1940, and not only a story that ends when the flags go up. Casualty and displacement totals vary widely across historians and official counts—often cited ranges run from hundreds of thousands to around a million or more killed, and roughly ten to fifteen million displaced. This capsule treats those numbers as contested estimates and does not pretend a single census settled them. May Fourth (1919) and the War of Resistance (1937–45) are earlier Capsules history lessons in related anti-colonial and wartime Asia; they are not the same crisis.",
+  "timeline": [
+    {
+      "year": "1940",
+      "label": "Lahore Resolution",
+      "detail": "The All-India Muslim League, under Muhammad Ali Jinnah, adopted the Lahore Resolution calling for independent states for Muslim-majority areas—later read as the political charter for Pakistan, even though the wording and geography remained contested."
+    },
+    {
+      "year": "1945–46",
+      "label": "Postwar elections / Cabinet Mission",
+      "detail": "Britain, exhausted by war, sought a negotiated exit. The Cabinet Mission Plan (1946) proposed a united India with grouped provinces. Congress and the League could not agree on how power would actually be shared; the plan failed as a working settlement."
+    },
+    {
+      "year": "16 Aug 1946",
+      "label": "Direct Action Day",
+      "detail": "The Muslim League called Direct Action Day in support of Pakistan. In Calcutta (Kolkata), communal killing exploded—the “Great Calcutta Killings”—and violence spread through the months that followed into Bihar, Noakhali, and elsewhere."
+    },
+    {
+      "year": "Mar 1947",
+      "label": "Mountbatten arrives",
+      "detail": "Louis Mountbatten became Viceroy with a brief to transfer power. He concluded that a united India under the Cabinet Mission formula was not available in time and moved toward partition on an accelerated timetable."
+    },
+    {
+      "year": "3 Jun 1947",
+      "label": "Mountbatten Plan announced",
+      "detail": "The 3 June Plan (Mountbatten Plan) set out dominion status for India and Pakistan, provincial choices, and boundary commissions. Independence was pulled forward to mid-August 1947—months, not years."
+    },
+    {
+      "year": "18 Jul 1947",
+      "label": "Indian Independence Act",
+      "detail": "The British Parliament passed the Indian Independence Act 1947, legally creating two independent dominions and ending British paramountcy over the princely states as of mid-August."
+    },
+    {
+      "year": "14–15 Aug 1947",
+      "label": "Two dominions",
+      "detail": "Pakistan’s independence ceremonies ran on 14 August (Karachi); India’s on 15 August (Delhi). Jinnah became Governor-General of Pakistan; Nehru became Prime Minister of India; Mountbatten stayed briefly as India’s Governor-General."
+    },
+    {
+      "year": "17 Aug 1947",
+      "label": "Radcliffe Line published",
+      "detail": "Sir Cyril Radcliffe’s boundary awards for Punjab and Bengal were published after independence. Villages, canal headworks, and mixed districts learned which dominion they were in when the maps were already political faits accomplis."
+    },
+    {
+      "year": "Aug–Dec 1947",
+      "label": "Punjab / Bengal flight",
+      "detail": "Communal massacres, train attacks, and forced marches emptied mixed districts. Refugee columns and overcrowded trains moved Hindus and Sikhs toward India and Muslims toward Pakistan. Estimates of the dead and displaced remain disputed."
+    },
+    {
+      "year": "Oct–Dec 1947",
+      "label": "Kashmir crisis begins",
+      "detail": "Tribal fighters from Pakistan entered Kashmir; Maharaja Hari Singh sought India’s help and signed an instrument of accession. The first India–Pakistan war over Kashmir followed; the UN became involved. The file did not close in 1947."
+    },
+    {
+      "year": "30 Jan 1948",
+      "label": "Gandhi assassinated",
+      "detail": "Mohandas K. Gandhi, who had opposed partition and spent late 1947 on peace fasts and riot tours, was shot in Delhi by Nathuram Godse. His death sits on the after-edge of the partition year, not inside the August ceremonies."
+    },
+    {
+      "year": "1971",
+      "label": "Bangladesh (later weather)",
+      "detail": "East Pakistan became independent Bangladesh after war with West Pakistan and Indian intervention. Named here only as later weather on the 1947 map that had joined two wings separated by a thousand miles of India."
+    }
+  ],
+  "read": [
+    {
+      "title": "Partition of India — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Partition-of-India",
+      "note": "Named encyclopedia overview of the 1947 division, refugees, and political background. Starting reference, not a monograph."
+    },
+    {
+      "title": "Indian Independence Act — UK Parliament / legislation context via Britannica",
+      "url": "https://www.britannica.com/topic/Indian-Independence-Act",
+      "note": "Britannica entry on the 1947 Act that created the two dominions. Useful for the legal shell around the August dates."
+    },
+    {
+      "title": "Muhammad Ali Jinnah — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mohammed-Ali-Jinnah",
+      "note": "Biography of the Muslim League leader who became Pakistan’s first Governor-General."
+    },
+    {
+      "title": "Jawaharlal Nehru — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jawaharlal-Nehru",
+      "note": "Biography of India’s first prime minister and central Congress figure in the transfer of power."
+    },
+    {
+      "title": "Louis Mountbatten, 1st Earl Mountbatten of Burma — Britannica",
+      "url": "https://www.britannica.com/biography/Louis-Mountbatten-1st-Earl-Mountbatten-of-Burma",
+      "note": "Biography of the last Viceroy who announced the accelerated 3 June Plan and oversaw the August transfer."
+    },
+    {
+      "title": "Kashmir — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Kashmir-region-Indian-subcontinent",
+      "note": "Regional entry covering the accession crisis that began in late 1947 and the long dispute that followed."
+    },
+    {
+      "title": "United Nations — India–Pakistan Question (UN documentation portal)",
+      "url": "https://www.un.org/securitycouncil/content/repertoire/india-pakistan-question",
+      "note": "UN Security Council repertoire pages on the India–Pakistan question, useful for the internationalization of Kashmir after 1947. Institutional documentation, not a narrative history."
+    },
+    {
+      "title": "Partition Museum (Amritsar) — official site",
+      "url": "https://www.partitionmuseum.org/",
+      "note": "Museum dedicated to Partition memory and refugee testimony. Visit pages and exhibitions; Capsules does not host their collections."
+    },
+    {
+      "title": "Yasmin Khan — The Great Partition (Yale University Press catalogue)",
+      "url": "https://yalebooks.yale.edu/book/9780300230321/the-great-partition/",
+      "note": "Publisher page for a widely used modern synthesis of 1947’s politics and violence. Buy or borrow; this capsule does not paste the book."
+    }
+  ],
+  "watch": [
+    {
+      "title": "BBC / public-broadcaster documentaries on Partition 1947 (search)",
+      "url": "https://www.youtube.com/results?search_query=BBC+Partition+of+India+1947+documentary",
+      "note": "Search landing for named public-broadcaster documentaries and oral-history films. Prefer a titled BBC, PBS, or university upload over anonymous clips; verify the title card before treating any upload as authoritative."
+    },
+    {
+      "title": "Nehru — Tryst with Destiny (speech context / archival uploads vary)",
+      "url": "https://www.youtube.com/results?search_query=Nehru+Tryst+with+Destiny+15+August+1947",
+      "note": "Search for Nehru’s 14–15 August 1947 Constituent Assembly speech. Prefer an archives or broadcaster upload; Capsules does not host the audio."
+    }
+  ],
+  "fun_fact": {
+    "title": "Radcliffe had barely seen India",
+    "text": "Sir Cyril Radcliffe, a British lawyer, arrived in India in July 1947 to chair the boundary commissions for Punjab and Bengal. He had little prior on-the-ground experience of the subcontinent, worked under extreme time pressure with imperfect maps and census data, and left soon after the awards. The line that sorted millions of lives was drawn by a late-arriving outsider whose maps were published after the new flags were already flying."
+  },
+  "glossary": [
+    {
+      "term": "Partition of India",
+      "aliases": [
+        "Partition",
+        "1947 Partition",
+        "भारत विभाजन",
+        "تقسیم ہند"
+      ],
+      "explain": "The 1947 division of British India into the dominions of India and Pakistan, including boundary awards in Punjab and Bengal, mass displacement and violence, and the start of the Kashmir accession crisis."
+    },
+    {
+      "term": "Indian Independence Act 1947",
+      "aliases": [
+        "Independence Act",
+        "Indian Independence Act"
+      ],
+      "explain": "British statute (18 July 1947) that legally created two independent dominions and provided for the end of British rule in mid-August 1947."
+    },
+    {
+      "term": "Mountbatten Plan",
+      "aliases": [
+        "3 June Plan",
+        "June 3 Plan"
+      ],
+      "explain": "Plan announced 3 June 1947 for dominion status, partition options for provinces, and an accelerated independence date of mid-August 1947."
+    },
+    {
+      "term": "Cabinet Mission Plan",
+      "aliases": [
+        "Cabinet Mission",
+        "1946 Cabinet Mission"
+      ],
+      "explain": "1946 British proposal for a united India with grouped provinces and a weak centre. Failed as a working Congress–League settlement and cleared political space for partition."
+    },
+    {
+      "term": "Direct Action Day",
+      "aliases": [
+        "Great Calcutta Killings",
+        "16 August 1946"
+      ],
+      "explain": "Muslim League protest day on 16 August 1946 for Pakistan. In Calcutta it triggered large-scale communal killing that darkened the following year."
+    },
+    {
+      "term": "Radcliffe Line",
+      "aliases": [
+        "Radcliffe Award",
+        "boundary award"
+      ],
+      "explain": "The Punjab and Bengal boundaries drawn by commissions chaired by Sir Cyril Radcliffe and published 17 August 1947, after independence."
+    },
+    {
+      "term": "Dominion status",
+      "aliases": [
+        "dominion",
+        "Dominions of India and Pakistan"
+      ],
+      "explain": "Constitutional status within the British Commonwealth used for India and Pakistan at independence in August 1947, with governors-general and transitional legal continuity."
+    },
+    {
+      "term": "All-India Muslim League",
+      "aliases": [
+        "Muslim League",
+        "AIML"
+      ],
+      "explain": "Political party that under Jinnah pressed for Pakistan; formed Pakistan’s first governing leadership in 1947."
+    },
+    {
+      "term": "Indian National Congress",
+      "aliases": [
+        "Congress",
+        "INC"
+      ],
+      "explain": "Leading nationalist party in the independence struggle; formed India’s first government under Nehru in August 1947."
+    },
+    {
+      "term": "Lahore Resolution",
+      "aliases": [
+        "Pakistan Resolution",
+        "1940 Resolution"
+      ],
+      "explain": "March 1940 Muslim League resolution calling for independent states in Muslim-majority areas; later treated as a founding text for Pakistan."
+    },
+    {
+      "term": "princely states",
+      "aliases": [
+        "princely state",
+        "Indian states",
+        "native states"
+      ],
+      "explain": "Hundreds of formally autonomous monarchies under British paramountcy. After 1947 they were pressed to accede to India or Pakistan; Kashmir became the most explosive unresolved case."
+    },
+    {
+      "term": "Instrument of Accession",
+      "aliases": [
+        "accession"
+      ],
+      "explain": "Legal document by which a princely ruler joined India or Pakistan. Hari Singh of Kashmir signed one toward India in October 1947 amid invasion and crisis."
+    },
+    {
+      "term": "Kashmir",
+      "aliases": [
+        "Jammu and Kashmir",
+        "J&K",
+        "کشمیر"
+      ],
+      "explain": "Princely state with a Muslim-majority population and a Hindu Maharaja. Its 1947 accession crisis opened the first India–Pakistan war and a dispute that continued afterward."
+    },
+    {
+      "term": "Punjab",
+      "aliases": [
+        "West Punjab",
+        "East Punjab"
+      ],
+      "explain": "Province split between Pakistan and India in 1947. Site of some of the worst Partition massacres and the densest refugee movements."
+    },
+    {
+      "term": "Bengal",
+      "aliases": [
+        "East Bengal",
+        "West Bengal"
+      ],
+      "explain": "Province split into East Bengal (Pakistan, later Bangladesh) and West Bengal (India). Communal violence and refugee flight marked 1946–47 here as well as in Punjab."
+    },
+    {
+      "term": "Louis Mountbatten",
+      "aliases": [
+        "Lord Mountbatten",
+        "Earl Mountbatten of Burma",
+        "Mountbatten"
+      ],
+      "explain": "Last Viceroy of India (1900–1979). Announced the 3 June Plan, advanced independence to August 1947, and briefly served as Governor-General of independent India."
+    },
+    {
+      "term": "Edwina Mountbatten",
+      "aliases": [
+        "Lady Mountbatten"
+      ],
+      "explain": "Vicereine (1901–1960) who worked on refugee relief visits in 1947, including camps in Punjab; photographed among Hindu evacuees at Lyallpur."
+    },
+    {
+      "term": "Jawaharlal Nehru",
+      "aliases": [
+        "Nehru",
+        "Pandit Nehru"
+      ],
+      "explain": "Congress leader (1889–1964) who became the first Prime Minister of independent India on 15 August 1947."
+    },
+    {
+      "term": "Muhammad Ali Jinnah",
+      "aliases": [
+        "Jinnah",
+        "Quaid-e-Azam",
+        "Mohammed Ali Jinnah"
+      ],
+      "explain": "Muslim League leader (1876–1948) who became the first Governor-General of Pakistan. Died in September 1948."
+    },
+    {
+      "term": "Mohandas K. Gandhi",
+      "aliases": [
+        "Mahatma Gandhi",
+        "Gandhi",
+        "M. K. Gandhi"
+      ],
+      "explain": "Nationalist leader (1869–1948) who opposed partition, worked against communal killing in 1947, and was assassinated in Delhi on 30 January 1948."
+    },
+    {
+      "term": "Cyril Radcliffe",
+      "aliases": [
+        "Sir Cyril Radcliffe",
+        "Viscount Radcliffe"
+      ],
+      "explain": "British lawyer (1899–1977) who chaired the Punjab and Bengal boundary commissions and produced the Radcliffe Line under severe time pressure."
+    },
+    {
+      "term": "Vallabhbhai Patel",
+      "aliases": [
+        "Sardar Patel",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "explain": "Congress leader (1875–1950), India’s first deputy prime minister and home minister; central to integrating princely states after independence."
+    },
+    {
+      "term": "Liaquat Ali Khan",
+      "aliases": [
+        "Liaquat"
+      ],
+      "explain": "Muslim League leader (1895–1951) who became Pakistan’s first prime minister in 1947."
+    },
+    {
+      "term": "Hari Singh",
+      "aliases": [
+        "Maharaja Hari Singh"
+      ],
+      "explain": "Maharaja of Jammu and Kashmir who signed the Instrument of Accession to India in October 1947 during the tribal invasion crisis."
+    },
+    {
+      "term": "Nathuram Godse",
+      "aliases": [
+        "Godse"
+      ],
+      "explain": "Hindu nationalist who assassinated Gandhi in Delhi on 30 January 1948."
+    },
+    {
+      "term": "Stafford Cripps",
+      "aliases": [
+        "Sir Stafford Cripps"
+      ],
+      "explain": "British Labour politician involved in earlier wartime and Cabinet Mission negotiations over India’s constitutional future."
+    },
+    {
+      "term": "Pethick-Lawrence",
+      "aliases": [
+        "Lord Pethick-Lawrence"
+      ],
+      "explain": "Secretary of State for India who led the 1946 Cabinet Mission with Stafford Cripps and A. V. Alexander."
+    },
+    {
+      "term": "A. V. Alexander",
+      "aliases": [
+        "Albert Alexander"
+      ],
+      "explain": "British minister who served on the 1946 Cabinet Mission to India."
+    },
+    {
+      "term": "Tryst with Destiny",
+      "aliases": [
+        "tryst with destiny"
+      ],
+      "explain": "Nehru’s speech to the Constituent Assembly on the night of 14–15 August 1947, marking India’s independence."
+    },
+    {
+      "term": "Great Calcutta Killings",
+      "aliases": [
+        "Calcutta Killings"
+      ],
+      "explain": "Large-scale communal massacre in Calcutta beginning 16 August 1946 around Direct Action Day."
+    },
+    {
+      "term": "Noakhali",
+      "aliases": [
+        "Noakhali riots"
+      ],
+      "explain": "District in Bengal struck by communal violence in late 1946; Gandhi toured there promoting peace."
+    },
+    {
+      "term": "Lyallpur",
+      "aliases": [
+        "Layallpur",
+        "Faisalabad"
+      ],
+      "explain": "Punjab city (now Faisalabad, Pakistan) where Lady Mountbatten was photographed among Hindu evacuees in a scout camp during Partition."
+    },
+    {
+      "term": "Karachi",
+      "aliases": [
+        "Karachi 1947"
+      ],
+      "explain": "City where Pakistan’s independence ceremonies were held on 14 August 1947; early capital of Pakistan."
+    },
+    {
+      "term": "New Delhi",
+      "aliases": [
+        "Delhi",
+        "Delhi 1947"
+      ],
+      "explain": "Site of India’s independence ceremonies on 15 August 1947 and of severe Partition-era refugee crisis and riots in the capital region."
+    },
+    {
+      "term": "UN Partition Plan for Palestine",
+      "aliases": [
+        "UNGA Resolution 181",
+        "Palestine partition 1947"
+      ],
+      "explain": "United Nations General Assembly Resolution 181 (29 November 1947) recommending partition of Palestine. Named in Elsewhere as a contemporaneous partition crisis."
+    },
+    {
+      "term": "Sukarno",
+      "aliases": [
+        "Soekarno",
+        "Bung Karno"
+      ],
+      "explain": "Indonesian nationalist leader (1901–1970) who proclaimed independence in August 1945; Indonesia then fought Dutch return until sovereignty was recognized around 1949."
+    },
+    {
+      "term": "Aung San",
+      "aliases": [
+        "Bogyoke Aung San"
+      ],
+      "explain": "Burmese nationalist leader (1915–1947) who negotiated toward independence and was assassinated on 19 July 1947, months before Burma’s January 1948 independence."
+    },
+    {
+      "term": "38th parallel",
+      "aliases": [
+        "38th parallel north",
+        "Division of Korea"
+      ],
+      "explain": "Line used in 1945 to divide Japanese-occupied Korea into Soviet and American occupation zones, hardening into two states by 1948."
+    },
+    {
+      "term": "Bangladesh Liberation War",
+      "aliases": [
+        "1971 war",
+        "Bangladesh 1971"
+      ],
+      "explain": "1971 conflict in which East Pakistan became independent Bangladesh. Later weather on the two-wing Pakistan created in 1947."
+    },
+    {
+      "term": "War of Resistance",
+      "aliases": [
+        "Second Sino-Japanese War",
+        "抗日战争"
+      ],
+      "explain": "Earlier Capsules history lesson (1937–45). Named only as the wider Asian wartime background that preceded late-1940s decolonization."
+    },
+    {
+      "term": "May Fourth Movement",
+      "aliases": [
+        "May Fourth",
+        "五四运动"
+      ],
+      "explain": "Earlier Capsules history lesson (1919). Named only as a prior anti-colonial public crisis in Asia; not the same as 1947 Partition."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A failed united-India plan, and a year of killing before any new flag",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1945 Britain still ruled India, but the war had broken the old timetable. Indian soldiers and labour had served the empire; the Quit India movement of 1942 had been crushed and remembered; the Muslim League under Muhammad Ali Jinnah had grown from a negotiator’s party into a mass claimant for a separate Pakistan; the Indian National Congress under leaders including Jawaharlal Nehru and Vallabhbhai Patel still wanted a single successor state. Labour’s government in London wanted out without a second Ireland—or a civil war it could not police."
+        },
+        {
+          "type": "p",
+          "text": "In 1946 the Cabinet Mission (Pethick-Lawrence, Stafford Cripps, A. V. Alexander) offered a united India with provinces grouped and a limited centre. On paper it avoided partition. In practice Congress and the League could not agree on how groups would work, who would control the centre, or whether the League’s Pakistan demand had been met or buried. The plan failed as a living settlement. Negotiations continued in an atmosphere of distrust while provincial elections had already shown how sharply Muslim and non-Muslim electorates could polarize."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/pakistan-demand-map-1946.jpg",
+          "alt": "1946 map of British India shading areas the Muslim League demanded for a separate Pakistan.",
+          "caption": "1946 map of British India marking areas demanded for a separate Pakistan by the Muslim League (public-domain teaching map widely circulated via Columbia’s Partition image routes). The shaded claim is a political program, not yet the Radcliffe Line. Geography here is still an argument.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:1946_Map_of_British_India_with_areas_demanded_for_separate_Pakistan_by_Muslim_League.jpg"
+        },
+        {
+          "type": "p",
+          "text": "On 16 August 1946 the League called Direct Action Day. In Calcutta the day became the Great Calcutta Killings: communal gangs, police failure, and street massacres that left thousands dead in days. Violence moved through the following months—Noakhali in East Bengal, Bihar, and other districts—so that by the time Mountbatten arrived in March 1947, partition was being debated in a country that had already seen what communal mobilization could do to mixed cities. Gandhi walked riot districts preaching restraint; the political clock in Delhi and London was still counting toward a transfer of power."
+        },
+        {
+          "type": "p",
+          "text": "The earlier Capsules lessons on May Fourth (1919) and the War of Resistance (1937–45) sit upstream only as reminders that Asian publics had already fought empires and wars for decades. 1947’s crisis is specific: a British exit calendar, two successor dominions, and provinces about to be cut while refugees were already moving."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "August flags first; the border maps followed; Punjab burned in between",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Louis Mountbatten became Viceroy in March 1947 with instructions to transfer power. He judged that the Cabinet Mission’s united framework could not be implemented in time without catastrophic deadlock. On 3 June 1947 he announced a plan for two dominions, provincial choices about joining India or Pakistan, and boundary commissions for Punjab and Bengal. Independence was set for mid-August—an acceleration that left weeks, not years, to divide armies, treasuries, railways, and districts."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/partition-map.png",
+          "alt": "Map of the 1947 Partition of India showing India, West Pakistan, and East Pakistan.",
+          "caption": "Schematic map of the 1947 Partition outcome: India between West Pakistan and East Pakistan (later Bangladesh). A teaching diagram derived from public map sources (CC BY-SA). It shows the two-wing problem built into Pakistan from the start; it cannot show the village-level terror that followed the line.",
+          "credit": "Wikimedia Commons / CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Partition_of_India_1947_en.svg"
+        },
+        {
+          "type": "p",
+          "text": "The Indian Independence Act received Royal Assent on 18 July 1947. On 14 August Pakistan’s ceremonies ran in Karachi: Jinnah became Governor-General; Liaquat Ali Khan would head the government. On 15 August in Delhi, Mountbatten swore in Nehru as Prime Minister of India; the Constituent Assembly heard Nehru’s “Tryst with Destiny.” Both states began as dominions in the Commonwealth. British paramountcy over the princely states lapsed, leaving hundreds of rulers to accede—an unfinished map beside the two new flags."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/nehru-swearing-in.jpg",
+          "alt": "Lord Mountbatten swearing in Jawaharlal Nehru as Prime Minister of India on 15 August 1947.",
+          "caption": "15 August 1947, New Delhi. Mountbatten swears in Jawaharlal Nehru as the first Prime Minister of independent India. The legal transfer is complete in this room; the Radcliffe awards for Punjab and Bengal were still unpublished.",
+          "credit": "Photo Division, Government of India / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten_swears_in_Jawaharlal_Nehru_as_the_first_Prime_Minister_of_free_India_on_Aug_15,_1947.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Sir Cyril Radcliffe chaired the boundary commissions. The awards for Punjab and Bengal were ready under seal and published on 17 August—after independence—so that the new governments would own the shock. Canal headworks, mixed tahsils, and Sikh sacred geography in Punjab made every mile explosive. When the line became public, communities that had expected to stay suddenly found themselves on the wrong side of a border guarded by collapsing authority."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/emergency-trains.jpg",
+          "alt": "People crowded onto and around emergency trains during the 1947 Partition refugee crisis.",
+          "caption": "Emergency trains crowded with refugees during Partition, 1947. Railways became both escape routes and killing grounds when trains were attacked between stations. Contemporary photographs of roofs, doors, and platforms packed with passengers are among the most repeated images of the year.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Emergency_trains_crowded_with_desperate_refugees.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/refugee-columns-west-punjab.jpg",
+          "alt": "Long columns of non-Muslim refugees moving from West Punjab toward India near Baloke Head, September 1947.",
+          "caption": "September 1947. Columns of non-Muslim refugees from West Punjab moving toward India, photographed near Baloke Head (Photo Division, Government of India). Foot columns and bullock carts matched the trains: whole districts emptied in weeks.",
+          "credit": "Photo Division, Government of India / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Columns_of_refugees_from_West_Punjab.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Punjab the transfer of population became reciprocal ethnic cleansing in all but name. Muslim refugees fled east-to-west toward Pakistan; Hindu and Sikh refugees fled west-to-east toward India. Militias, local police, deserters, and crowds attacked convoys and trains. Bengal’s violence had already begun in 1946 and continued around the new East Pakistan / West Bengal border, with its own refugee streams. Delhi filled with displaced Hindus and Sikhs; Muslims in the capital faced riots and flight. Edwina Mountbatten and relief workers toured camps. Mountbatten himself inspected riot damage even as the political story claimed a successful transfer of power."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/lady-mountbatten-evacuees.jpg",
+          "alt": "Lady Mountbatten standing among Hindu evacuees at a Punjab Scouts camp in Lyallpur during Partition.",
+          "caption": "Lady Mountbatten among Hindu evacuees at the Punjab Scouts Camp, Lyallpur (Layallpur), during Partition. Viceregal relief photography does not measure the death toll; it does show that camps and evacuation were already a central state problem in 1947.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lady_Mountbatten_among_the_Hindu_evacuees_at_the_Punjab_Scouts_Camp,_Layallpur_during_partition_of_India.jpg"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/partition-cart-transport.jpg",
+          "alt": "Refugees traveling with loaded carts during the Partition of India.",
+          "caption": "Cart transport used during Partition migrations. Not every refugee reached a train. Household goods, animals, and children moved on roads that were also ambush corridors.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Mode_of_transport_used_during_partition_of_India.jpg"
+        },
+        {
+          "type": "p",
+          "text": "How many died? Historians and officials have never agreed on a single figure. Scholarly and public estimates commonly range from several hundred thousand to about one million or more deaths, with displacement often placed around ten to fifteen million people across the two new states. Treat any round number you meet in a headline as an estimate with a method behind it—or without one. The archival fact is mass killing and mass flight in a compressed season; the precise body count remains contested."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/delhi-independence.jpg",
+          "alt": "Lord and Lady Mountbatten with Jawaharlal Nehru at the first Independence Day celebrations in New Delhi, 1947.",
+          "caption": "Lord Mountbatten, Edwina Mountbatten, and Jawaharlal Nehru at the first Independence Day celebrations in New Delhi, 1947. Ceremony and catastrophe ran on overlapping calendars: the same capital that staged independence also absorbed refugee camps and riots within weeks.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten,_Edwina_Mountbatten_and_Jawaharlal_Nehru_at_the_first_Independence_Day_celebrations_in_New_Delhi.jpg"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "A Viceroy on a stopwatch, two dominion founders, a late mapmaker, and Gandhi off the August stage",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Partition was negotiated by a small set of names who then lost control of the street. Mountbatten owned the timetable. Jinnah owned the League’s Pakistan demand. Nehru and Patel owned Congress’s acceptance of division as the price of a central government that could actually function. Radcliffe owned a pair of lines drawn too late to be soft. Gandhi refused to treat the division as a moral success and spent the season on fasts and peace tours. Around them stood Liaquat Ali Khan in Karachi, provincial premiers, Sikh leaders facing a split Punjab, and princely rulers suddenly without a paramount power."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/mountbatten-punjab-riots.jpg",
+          "alt": "Lord Mountbatten visiting scenes of communal rioting in Punjab in 1947.",
+          "caption": "Mountbatten visiting Punjabi riot scenes, 1947. The last Viceroy appears here not only as the man of the 3 June broadcast but as an official walking through the wreckage his accelerated calendar could not police.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten_visits_Punjabi_riot_scenes.jpg"
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Louis Mountbatten",
+              "dates": "1900–1979",
+              "image": "lessons/partition-of-india/delhi-independence.jpg",
+              "alt": "Mountbatten with Edwina Mountbatten and Nehru at Independence Day celebrations in New Delhi, 1947.",
+              "caption": "Mountbatten (with Edwina and Nehru) at Independence Day celebrations, New Delhi, 1947.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten,_Edwina_Mountbatten_and_Jawaharlal_Nehru_at_the_first_Independence_Day_celebrations_in_New_Delhi.jpg",
+              "text": "Last Viceroy and briefly Governor-General of independent India. He replaced a slower exit with the 3 June Plan and an August deadline, arguing that delay meant worse civil war. Critics still blame the speed for the scale of Punjab’s collapse; defenders answer that authority was already failing. For this capsule he is the official who made the calendar the policy."
+            },
+            {
+              "name": "Jawaharlal Nehru",
+              "dates": "1889–1964",
+              "image": "lessons/partition-of-india/nehru-portrait.jpg",
+              "alt": "Portrait of Jawaharlal Nehru standing in a dark sherwani.",
+              "caption": "Jawaharlal Nehru. Congress leader and first Prime Minister of independent India.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Pt_Jawaharlal_Nehru.jpg",
+              "text": "Congress’s central figure at the transfer of power. He accepted partition as the cost of a workable centre after the Cabinet Mission failed, delivered “Tryst with Destiny,” and then governed a dominion absorbing millions of refugees while fighting over Kashmir. His secular rhetoric and the communal facts of 1947 sat in permanent tension."
+            },
+            {
+              "name": "Muhammad Ali Jinnah",
+              "dates": "1876–1948",
+              "image": "lessons/partition-of-india/jinnah-1945.jpg",
+              "alt": "Studio portrait of Muhammad Ali Jinnah in a dark suit, circa 1945.",
+              "caption": "Muhammad Ali Jinnah, circa 1945. Leader of the Muslim League and first Governor-General of Pakistan.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Jinnah1945c.jpg",
+              "text": "The lawyer-politician who turned Pakistan from a debated demand into a state with a date. He insisted on parity and then on partition when a united centre looked, to the League, like permanent minority status. As Governor-General he inherited a moth-eaten Pakistan split into two wings and immediately entangled in Kashmir. He died in September 1948."
+            },
+            {
+              "name": "Mohandas K. Gandhi",
+              "dates": "1869–1948",
+              "image": "lessons/partition-of-india/gandhi-railway.jpg",
+              "alt": "Mahatma Gandhi standing at a railway station among a crowd.",
+              "caption": "Gandhi at a railway station (earlier public-domain photograph). In 1947 he was not the author of the Mountbatten Plan; he was its most famous Indian opponent on moral grounds.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_at_railway_station.jpg",
+              "text": "He opposed dividing India on communal lines, toured riot areas including Noakhali, and fasted in Calcutta and Delhi to stop killing. He did not sign the 3 June Plan into being. Nathuram Godse murdered him on 30 January 1948—after the flags, during the long emergency of refugee politics and revenge."
+            },
+            {
+              "name": "Cyril Radcliffe",
+              "dates": "1899–1977",
+              "image": "lessons/partition-of-india/radcliffe.jpg",
+              "alt": "Portrait photograph of Cyril John Radcliffe, later 1st Viscount Radcliffe.",
+              "caption": "Cyril Radcliffe (Elliott & Fry portrait). The lawyer who chaired the Punjab and Bengal boundary commissions.",
+              "credit": "Elliott & Fry / National Portrait Gallery / Wikimedia Commons / CC BY 3.0",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Cyril-John-Radcliffe-1st-Viscount-Radcliffe.jpg",
+              "text": "Brought in late, given incomplete data and an impossible deadline, he produced awards published after independence. He became a lasting symbol of how bureaucratic mapmaking can decide millions of lives while remaining personally remote from the districts cut."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Other names thicken the file. Vallabhbhai Patel drove princely integration for India. Liaquat Ali Khan became Pakistan’s first prime minister. Maharaja Hari Singh of Kashmir hesitated, then signed an Instrument of Accession to India in October 1947 after tribal forces crossed from Pakistan—opening the first war over the state. Sikh leaders faced a Punjab split that severed shrines from populations. None of these careers fit inside a single independence-day photograph."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/refugee-train-punjab.jpg",
+          "alt": "A refugee train in Punjab in 1947 with passengers crowded along the cars.",
+          "caption": "A refugee train, Punjab, 1947. The human subject of Partition policy was often not the men in the negotiating room but the people who had to board these trains—or who never arrived.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:A_refugee_train,_Punjab,_1947.jpg"
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "Palestine’s UN map, Indonesia’s Dutch war, Korea’s parallel, Burma’s assassinated founding",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "1947 was a year of partitions and exits across more than one empire. On 29 November 1947 the United Nations General Assembly adopted Resolution 181, recommending the partition of Palestine into Jewish and Arab states with a special regime for Jerusalem. War followed in 1948 as the British Mandate ended. The instrument was an international vote rather than a Viceroy’s June plan, but the shared features are blunt: a late map, contested demography, refugees, and a conflict that outlived the year of decision."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/palestine-partition-map.jpg",
+          "alt": "Map comparing versions of the 1947 United Nations partition plan for Palestine.",
+          "caption": "UN Palestine partition plan versions, 1947 (public-domain cartography based on UN materials). Another empire’s exit, another partition vote, another unfinished war—running within months of India’s August ceremonies.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:UN_Palestine_Partition_Versions_1947.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Indonesia, Sukarno and Hatta had proclaimed independence on 17 August 1945—two years almost to the day before Pakistan’s ceremonies. The Dutch returned to reclaim the colony; fighting and negotiation lasted until sovereignty was recognized at the end of the 1940s. Frans Mendur’s photograph of Sukarno reading the proclamation became a founding image of a republic that still had to survive reoccupation. Decolonization here meant war after the speech, not only a parliamentary act in London."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/sukarno-proclamation.jpg",
+          "alt": "Sukarno reading the Indonesian proclamation of independence, 17 August 1945.",
+          "caption": "Sukarno reading the proclamation of Indonesian independence, 17 August 1945 (photograph attributed to Frans Mendur). The calendar sits two years before India’s Partition; the Dutch military return made 1945–49 a war of recognition, not a clean flag day.",
+          "credit": "Frans Mendur / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:SukarnoBacaProklamasi.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Korea, freed from Japanese rule in 1945, was divided along the 38th parallel into Soviet and American occupation zones. By 1948 those zones had hardened into separate states; war would follow in 1950. The photograph of U.S. and Soviet personnel meeting at the parallel is an occupation snapshot, not yet the Korean War—but it shows how “temporary” military lines became political borders in the same late-1940s window as Radcliffe’s awards."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/korea-38th-meeting.jpg",
+          "alt": "American and Soviet personnel meeting at the 38th parallel in Korea, 1945.",
+          "caption": "Meeting at the 38th parallel, Korea, 1945 (photograph shared on Flickr by Don O’Brien; CC BY 2.0). A wartime occupation line that became a state border by 1948—another Asia divided while Britain was exiting India.",
+          "credit": "Don O’Brien / Flickr / Wikimedia Commons / CC BY 2.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Meeting_Russians_at_the_38th_Parallel_1945_(2)_(4276927463).jpg"
+        },
+        {
+          "type": "p",
+          "text": "In Burma (Myanmar), Aung San negotiated toward independence from Britain and was assassinated with several cabinet colleagues on 19 July 1947—weeks before India’s August transfer and months before Burma’s independence on 4 January 1948. The founder did not live to see the flag. Across Southwest and Southeast Asia, the late 1940s stacked exits, partitions, assassinations, and unfinished wars rather than a single orderly “end of empire.”"
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/aung-san.jpg",
+          "alt": "Portrait of Aung San in 1943.",
+          "caption": "Aung San, 1943. Assassinated 19 July 1947 while leading Burma toward independence that arrived in January 1948 without him.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Aung_San,_1943.jpg"
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Kashmir’s open file, wars on a two-wing map, and memory that still argues about counts",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kashmir did not settle in August. In October 1947 tribal fighters from Pakistan entered the state; Maharaja Hari Singh sought Indian military help and signed an Instrument of Accession to India. The first India–Pakistan war followed. The United Nations took up the dispute. Ceasefire lines, not a final agreed border, framed the decades that came next. Junagadh and Hyderabad posed other accession crises that India resolved by political and military pressure; Kashmir remained the wound that defined the rivalry."
+        },
+        {
+          "type": "p",
+          "text": "Gandhi’s assassination on 30 January 1948 closed the partition year with a funeral train and a political shock. Refugee rehabilitation, property claims, and abducted-women recovery programs filled the early dominion years. Constitutions followed: India became a republic in 1950; Pakistan’s constitutional path was more fractured. Jinnah was already dead by then."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/partition-of-india/gandhi-funeral.jpg",
+          "alt": "The Ashti Special train carrying Gandhi’s ashes from Delhi toward Allahabad in 1948.",
+          "caption": "The Ashti Special carrying Gandhi’s ashes from Delhi toward Allahabad, 1948 (Photo Division, Government of India). An after-edge of Partition’s year: the most famous opponent of the division killed in its aftermath, his ashes moving by rail through a country still full of refugee trains.",
+          "credit": "Photo Division, Government of India / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Ashti_Special_carrying_Mahatma_Gandhi%27s_ashes_from_Delhi_to_Allahabad.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The two-wing geography of Pakistan—West and East separated by Indian territory—remained a structural strain. In 1971 East Pakistan broke away as Bangladesh after a liberation war and Indian intervention. That war is later weather, not this lesson’s core, but it shows how the 1947 map kept generating new states and new refugee crises."
+        },
+        {
+          "type": "p",
+          "text": "Memory politics never demobilized. India and Pakistan teach 1947 through different schoolbooks and memorial calendars; museums and oral-history projects collect refugee testimony; casualty figures remain arguments as much as statistics. The honest afterword is that Partition is both a dated constitutional event and an unfinished social fact—families, languages, and borders still living inside its consequences."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If the Radcliffe Line had been published weeks before independence—with more time for people to move under some order—or if Mountbatten had kept a later transfer date, what specifically do you think would have changed in Punjab in August–September 1947, and what would likely have stayed just as violent?"
+        }
+      ]
+    }
+  ]
+}
