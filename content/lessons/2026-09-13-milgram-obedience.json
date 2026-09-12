@@ -1,0 +1,525 @@
+{
+  "slug": "milgram-obedience",
+  "date": "2026-09-13",
+  "subject": "psych",
+  "related": ["asch-conformity", "bystander-genovese", "cognitive-dissonance"],
+  "title": "Obedience to authority: the concept, then Milgram's shock experiments at Yale in the early 1960s",
+  "dek": "What obedience to authority means — compliance with commands from a legitimate authority figure, even when those commands conflict with conscience — then Stanley Milgram's experiments at Yale (1961–1963) where ordinary people administered what they believed were dangerous electric shocks to a stranger because an experimenter in a lab coat told them to continue.",
+  "era": "concept long-standing; experiments 1961–1963 at Yale; Journal of Abnormal and Social Psychology 1963; book Obedience to Authority 1974",
+  "reading_minutes": 21,
+  "thumb": {
+    "src": "lessons/milgram-obedience/yale-linsly-chittenden.jpg",
+    "alt": "A large stone academic building with Gothic architectural features, photographed on a university campus."
+  },
+  "hero": {
+    "src": "lessons/milgram-obedience/yale-linsly-chittenden.jpg",
+    "alt": "A grand stone academic building on a university campus, photographed in modern times.",
+    "caption": "A Yale University campus building. Stanley Milgram conducted his obedience experiments in Yale's Interaction Laboratory in Linsly-Chittenden Hall in 1961–1962, then moved to a rented office in nearby Bridgeport for follow-up conditions. This photograph shows Yale's academic architecture — the institutional setting — not the specific laboratory room where the experiments took place.",
+    "credit": "Period-style campus architecture photograph",
+    "credit_url": ""
+  },
+  "honesty": "This lesson presents obedience to authority as a concept first, then Milgram's electric-shock experiments as a case study. The headline finding from the baseline condition (often called Experiment 5 or the 'voice-feedback' condition): 65% of participants (26 of 40) continued to the maximum 450-volt switch when the experimenter commanded them to proceed, despite the learner's protests and apparent distress. The shocks were fake; the learner was a confederate; participants believed they were real. Milgram ran many variations with different obedience rates. The samples were adult men recruited from New Haven; one series included women with similar results. The method used deception and caused visible distress. Participants were debriefed. The work raised enduring ethical questions and led to stricter research oversight. Do not claim this 'proves' humans are universally obedient, that Germans are uniquely compliant, or that lab behavior predicts genocide. This is a situational mechanism under specific conditions, not a universal law. Replications across cultures and decades show variation. Burger's 2009 partial replication at Santa Clara found comparable early compliance rates within ethical constraints.",
+  "timeline": [
+    {
+      "year": "1960",
+      "label": "Milgram at Yale",
+      "detail": "Stanley Milgram, a new Ph.D. from Harvard studying under Gordon Allport and Solomon Asch's influence, joined Yale as an assistant professor. He designed the obedience paradigm that year, partly inspired by questions about Nazi war crimes and 'following orders.'"
+    },
+    {
+      "year": "1961–1962",
+      "label": "The Yale experiments",
+      "detail": "Milgram conducted the main series of obedience experiments in Yale's Interaction Laboratory. He systematically varied conditions: proximity of victim, experimenter presence, setting (Yale vs. ordinary office), conflicting authorities. Several hundred participants total."
+    },
+    {
+      "year": "1963",
+      "label": "First publication",
+      "detail": "Journal of Abnormal and Social Psychology published 'Behavioral Study of Obedience,' describing the procedure and the baseline condition's 65% maximum-shock result. The paper ignited controversy."
+    },
+    {
+      "year": "1964",
+      "label": "Baumrind's critique",
+      "detail": "Psychologist Diana Baumrind published a critique in American Psychologist, arguing the experiments were unethical because they deceived, distressed, and potentially harmed participants. Milgram replied, defending debriefing and follow-up surveys."
+    },
+    {
+      "year": "1974",
+      "label": "Obedience to Authority",
+      "detail": "Milgram published Obedience to Authority: An Experimental View (Harper & Row), the full book-length account with detailed condition-by-condition results, transcripts, participant interviews, and theoretical discussion."
+    },
+    {
+      "year": "1970s–1980s",
+      "label": "Ethics and IRBs",
+      "detail": "The Milgram and Zimbardo (Stanford Prison Experiment) studies became touchstones in debates over research ethics. Institutional Review Boards tightened rules on deception, informed consent, and psychological harm."
+    },
+    {
+      "year": "2009",
+      "label": "Burger replication",
+      "detail": "Jerry Burger at Santa Clara University published a partial replication in American Psychologist, stopping at 150 volts for ethical reasons. Compliance rates at that point closely matched Milgram's 1960s baseline, showing the effect persists under modern conditions."
+    },
+    {
+      "year": "2010s–present",
+      "label": "Archival and critical work",
+      "detail": "Historians accessed Milgram's archives at Yale. Some found evidence that a minority of sessions involved experimenter prodding beyond the standard script. Textbook myths (e.g., '100% obeyed') were corrected. Ethical and methodological debates continue."
+    }
+  ],
+  "read": [
+    {
+      "title": "Stanley Milgram — 'Behavioral Study of Obedience' (Journal of Abnormal and Social Psychology, 1963)",
+      "url": "https://doi.org/10.1037/h0040525",
+      "note": "The first published report of the shock experiments. Describes the baseline procedure and the 65% result. Abstract and DOI public; full PDF often behind APA paywall."
+    },
+    {
+      "title": "Stanley Milgram — Obedience to Authority: An Experimental View (Harper & Row, 1974)",
+      "url": "https://archive.org/details/obediencetoautho00milg",
+      "note": "The book-length account. Full text available on Internet Archive. Includes condition variations, transcripts, and Milgram's theoretical interpretation."
+    },
+    {
+      "title": "Diana Baumrind — 'Some Thoughts on Ethics of Research' (American Psychologist, 1964)",
+      "url": "https://doi.org/10.1037/h0040128",
+      "note": "Contemporaneous ethical critique of Milgram's methods. Abstract/DOI public."
+    },
+    {
+      "title": "Stanley Milgram — 'Issues in the Study of Obedience: A Reply to Baumrind' (American Psychologist, 1964)",
+      "url": "https://doi.org/10.1037/h0044954",
+      "note": "Milgram's defense of his debriefing procedures and follow-up survey findings. Abstract/DOI public."
+    },
+    {
+      "title": "Jerry M. Burger — 'Replicating Milgram' (American Psychologist, 2009)",
+      "url": "https://doi.org/10.1037/a0010932",
+      "note": "Partial replication conducted under modern ethical standards, stopping at 150V. Found comparable early compliance. Abstract/DOI public."
+    },
+    {
+      "title": "'Obedience' — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/obedience-social-behavior",
+      "note": "Public overview of obedience as a concept and Milgram's experiments."
+    },
+    {
+      "title": "Gina Perry — Behind the Shock Machine (The New Press, 2013)",
+      "url": "https://thenewpress.com/books/behind-shock-machine",
+      "note": "Journalist account based on Milgram's Yale archives and participant interviews. Publisher page; book requires purchase or library."
+    },
+    {
+      "title": "Thomas Blass — The Man Who Shocked the World: The Life and Legacy of Stanley Milgram (Basic Books, 2004)",
+      "url": "https://www.basicbooks.com/titles/thomas-blass/the-man-who-shocked-the-world/9780465007059/",
+      "note": "Biography of Milgram and scholarly overview of the obedience work. Publisher page."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "obedience to authority",
+      "explain": "Compliance with commands or orders from a perceived legitimate authority figure. Distinct from conformity (peer pressure) and compliance (requests). Obedience involves a power hierarchy and direct commands.",
+      "aliases": ["obedience", "obedience to authority figure"]
+    },
+    {
+      "term": "authority figure",
+      "explain": "A person perceived to have legitimate power to issue commands. In Milgram's experiments, the experimenter in a lab coat at a prestigious university. Authority can be structural (role-based), expert (knowledge-based), or coercive (force-based)."
+    },
+    {
+      "term": "Stanley Milgram",
+      "explain": "American social psychologist (1933–1984). Conducted the obedience experiments at Yale in the early 1960s. Published 'Behavioral Study of Obedience' (1963) and Obedience to Authority (1974). Also known for small-world experiments ('six degrees of separation') and urban psychology work.",
+      "aliases": ["Milgram"]
+    },
+    {
+      "term": "Yale University",
+      "explain": "Prestigious Ivy League university in New Haven, Connecticut. Milgram was an assistant professor in Yale's Department of Psychology (1960–1963) when he conducted the shock experiments in Linsly-Chittenden Hall's Interaction Laboratory."
+    },
+    {
+      "term": "Linsly-Chittenden Hall",
+      "explain": "Yale building that housed the psychology department and the Interaction Laboratory where Milgram ran the baseline obedience experiments in 1961–1962."
+    },
+    {
+      "term": "shock generator",
+      "explain": "The apparatus Milgram built for the experiments: a realistic-looking panel with 30 lever switches labeled from 15 volts to 450 volts, in 15-volt increments, with verbal labels from 'Slight Shock' to 'Danger: Severe Shock' and finally 'XXX.' The shocks were fake; the machine was a prop.",
+      "aliases": ["shock machine", "shock apparatus"]
+    },
+    {
+      "term": "teacher",
+      "explain": "The role assigned to the naive participant in Milgram's experiments. The teacher's job was to read word pairs and administer electric shocks for wrong answers, increasing the voltage with each error."
+    },
+    {
+      "term": "learner",
+      "explain": "The role assigned to the confederate (accomplice) in Milgram's experiments. The learner was strapped into a chair in an adjacent room and supposedly received shocks. In reality, no shocks were delivered; the learner's protests were scripted and acted.",
+      "aliases": ["victim"]
+    },
+    {
+      "term": "confederate",
+      "explain": "A research accomplice who pretends to be a participant. In Milgram's baseline experiments, the learner (a middle-aged accountant named Mr. Wallace in many conditions) was a confederate. The experimenter was also in on the design.",
+      "aliases": ["accomplice", "actor"]
+    },
+    {
+      "term": "experimenter",
+      "explain": "The authority figure in Milgram's studies, played by a high school biology teacher wearing a gray lab coat. The experimenter issued commands to continue when the teacher hesitated: 'Please continue,' 'The experiment requires that you continue,' 'It is absolutely essential that you continue,' 'You have no other choice, you must go on.'",
+      "aliases": ["authority figure in the lab coat"]
+    },
+    {
+      "term": "prods",
+      "explain": "The four standard verbal commands the experimenter used when the teacher hesitated: 1. 'Please continue' or 'Please go on.' 2. 'The experiment requires that you continue.' 3. 'It is absolutely essential that you continue.' 4. 'You have no other choice, you must go on.' If the teacher refused after all four prods, the session ended.",
+      "aliases": ["experimenter prods", "verbal prods"]
+    },
+    {
+      "term": "baseline condition",
+      "explain": "The most commonly taught version of Milgram's experiment, often called Experiment 5 or the 'voice-feedback' condition. Teacher and learner in separate rooms; teacher hears learner's vocal protests through the wall. 65% (26 of 40 participants) went to 450 volts in this condition."
+    },
+    {
+      "term": "voice-feedback condition",
+      "explain": "Another name for the baseline: the teacher could hear but not see the learner. At 75V the learner grunts; at 150V demands to be released; at 300V refuses to answer; after 330V is silent. This was the condition Milgram published first in 1963.",
+      "aliases": ["remote-victim condition"]
+    },
+    {
+      "term": "maximum shock",
+      "explain": "450 volts, labeled 'XXX' on the shock generator. Reaching this level is coded as full obedience in most Milgram reports. In the baseline condition, 65% of participants administered the maximum shock."
+    },
+    {
+      "term": "65 percent",
+      "explain": "The proportion of participants in Milgram's baseline voice-feedback condition who continued to 450 volts. This is the most widely cited figure from the obedience experiments. Other conditions had higher or lower rates depending on situational variables."
+    },
+    {
+      "term": "proximity variations",
+      "explain": "Milgram varied how close the learner was to the teacher. Remote (different room, no vocal feedback): ~65%. Voice-feedback (heard but not seen): 65%. Proximity (same room, a few feet away): 40%. Touch-proximity (teacher holds learner's hand on shock plate): 30%. Closer contact reduced obedience."
+    },
+    {
+      "term": "experimenter-absent condition",
+      "explain": "Variation where the experimenter gave initial instructions then left, issuing further commands by telephone. Obedience dropped sharply (to about 21%). Some participants lied, saying they were raising the voltage when they were not. Physical presence of authority mattered."
+    },
+    {
+      "term": "ordinary office condition",
+      "explain": "Milgram moved the experiment to a modest office suite in Bridgeport, Connecticut, removing Yale's prestige and legitimacy. Obedience dropped but remained substantial (about 48%). Institutional authority mattered but was not the whole story."
+    },
+    {
+      "term": "conflicting authorities",
+      "explain": "Condition with two experimenters who disagreed on whether to continue. Obedience collapsed to near zero. Unanimous authority is key; dissent among authorities breaks the command structure."
+    },
+    {
+      "term": "Bridgeport office",
+      "explain": "A commercial office space in Bridgeport, Connecticut, rented by Milgram for the 'ordinary office' condition. The setup looked less prestigious than Yale's laboratory. Still, about half of participants obeyed fully."
+    },
+    {
+      "term": "deception",
+      "explain": "Milgram's experiments relied on deception: participants believed the shocks were real, the learner was a fellow participant (not a confederate), and the experiment was about learning and memory (not obedience). Deception was standard in 1960s psychology but became controversial."
+    },
+    {
+      "term": "debriefing",
+      "explain": "After each session, Milgram revealed the truth: the learner was unharmed, the shocks were fake, the study was about obedience. Participants met the learner and were told their behavior was normal. Milgram later sent follow-up surveys; most respondents said they were glad to have participated."
+    },
+    {
+      "term": "distress",
+      "explain": "Many participants showed visible signs of stress during the experiment: sweating, trembling, nervous laughter, stuttering. Some bit their lips or dug their nails into their skin. The distress was real, even though the shocks were not. Critics cited this as evidence of harm."
+    },
+    {
+      "term": "Diana Baumrind",
+      "explain": "Psychologist who published a 1964 critique of Milgram's work in American Psychologist, arguing the experiments were unethical. She focused on the use of deception, the participants' distress, and the potential long-term harm to trust in authority and in psychologists.",
+      "aliases": ["Baumrind"]
+    },
+    {
+      "term": "ethical controversy",
+      "explain": "The Milgram experiments became a landmark case in research ethics. Critics argued participants were deceived, distressed, and potentially harmed. Defenders argued debriefing was thorough and follow-up data showed no lasting harm. The controversy helped shape modern IRB rules."
+    },
+    {
+      "term": "Institutional Review Board",
+      "explain": "A committee that reviews research involving human subjects to ensure ethical standards are met. IRBs became standard after the 1970s, partly in response to studies like Milgram's and the Stanford Prison Experiment. Modern IRBs would not approve Milgram's full protocol.",
+      "aliases": ["IRB", "ethics board"]
+    },
+    {
+      "term": "Journal of Abnormal and Social Psychology",
+      "explain": "APA journal that published Milgram's first report, 'Behavioral Study of Obedience,' in 1963. The journal is now called Journal of Abnormal Psychology."
+    },
+    {
+      "term": "Obedience to Authority",
+      "explain": "Milgram's 1974 book published by Harper & Row. The full account of the experiments with condition-by-condition data, transcripts, and theoretical interpretation. The most comprehensive primary source."
+    },
+    {
+      "term": "Jerry Burger",
+      "explain": "Psychologist at Santa Clara University who conducted a partial replication of Milgram's work in 2009, published in American Psychologist. For ethical reasons, he stopped the procedure at 150 volts. Compliance at that point matched Milgram's original rates.",
+      "aliases": ["Burger", "Burger replication"]
+    },
+    {
+      "term": "150-volt stopping point",
+      "explain": "In Burger's 2009 replication, the procedure ended at 150 volts—the point where Milgram's learner first demanded to be released. Burger reasoned that compliance at 150V predicted compliance to 450V in Milgram's data, so stopping there was ethically safer."
+    },
+    {
+      "term": "agentic state",
+      "explain": "Milgram's theoretical construct: a psychological state in which a person sees themselves as an agent executing another's wishes, not as an autonomous actor responsible for their actions. Contrasts with 'autonomous state.' Controversial as an explanation."
+    },
+    {
+      "term": "agentic shift",
+      "explain": "The transition from autonomous functioning to agentic state, according to Milgram. When a person enters a hierarchy and accepts the authority's legitimacy, they shift responsibility upward. The theory is descriptive, not universally accepted."
+    },
+    {
+      "term": "Hannah Arendt",
+      "explain": "Political theorist whose 1963 book Eichmann in Jerusalem: A Report on the Banality of Evil introduced the phrase 'banality of evil.' Arendt argued that great atrocities can be committed by ordinary people following orders. Milgram cited her work; some link the two, though Milgram's research preceded the book's publication.",
+      "aliases": ["Arendt"]
+    },
+    {
+      "term": "banality of evil",
+      "explain": "Phrase coined by Hannah Arendt in her 1963 book on the Eichmann trial. The idea that great moral wrongs can be perpetrated by ordinary people following bureaucratic orders, not by monsters. Often linked to Milgram's findings, though the connection is not straightforward."
+    },
+    {
+      "term": "Adolf Eichmann",
+      "explain": "Nazi official who organized logistics for the Holocaust. Captured by Israel in 1960, tried in Jerusalem in 1961, executed in 1962. His trial was widely covered; Arendt's reporting coined 'banality of evil.' Milgram designed his experiments partly in response to questions raised by the Eichmann case."
+    },
+    {
+      "term": "Solomon Asch",
+      "explain": "Social psychologist whose conformity experiments influenced Milgram. Asch was Milgram's doctoral advisor's colleague at Princeton; Milgram worked as Asch's research assistant. The obedience paradigm extends Asch's questions from peer pressure to authority pressure.",
+      "aliases": ["Asch"]
+    },
+    {
+      "term": "Gordon Allport",
+      "explain": "Social psychologist at Harvard who supervised Milgram's Ph.D. Allport worked on prejudice and personality; Milgram's interest in authority and obedience grew in that intellectual environment.",
+      "aliases": ["Allport"]
+    },
+    {
+      "term": "conformity",
+      "explain": "Going along with a group norm or peer majority. Asch's line experiments measured conformity. Obedience is distinct: it involves a hierarchical command from an authority, not peer pressure. Both are forms of social influence."
+    },
+    {
+      "term": "compliance",
+      "explain": "In social psychology, acceding to a request (not a command). Obedience is compliance in a hierarchical context with an authority issuing orders. The Milgram paradigm tests obedience, not mere compliance with a peer or equal."
+    },
+    {
+      "term": "Hofling hospital experiment",
+      "explain": "A 1966 field study by Charles Hofling where nurses received phone orders from an unknown 'doctor' to administer a dangerous dose of a fake drug. 21 of 22 nurses complied. A real-world obedience finding, though later replications under slightly different conditions had lower rates.",
+      "aliases": ["Hofling study"]
+    },
+    {
+      "term": "Charles Hofling",
+      "explain": "Psychiatrist who conducted the 1966 hospital obedience study with nurses. The study is often taught alongside Milgram as evidence that obedience to authority extends beyond the lab."
+    },
+    {
+      "term": "Stanford Prison Experiment",
+      "explain": "Philip Zimbardo's 1971 study where college students role-played guards and prisoners in a mock prison. Guards became abusive; the study was stopped early. Often paired with Milgram in discussions of situational power and ethics. Both studies face ongoing scrutiny and reinterpretation.",
+      "aliases": ["Zimbardo prison study"]
+    },
+    {
+      "term": "Philip Zimbardo",
+      "explain": "Psychologist who conducted the Stanford Prison Experiment. Both Zimbardo and Milgram studied how situations shape behavior, and both faced ethical criticism.",
+      "aliases": ["Zimbardo"]
+    },
+    {
+      "term": "Thomas Blass",
+      "explain": "Psychologist and Milgram biographer. Wrote The Man Who Shocked the World (2004), the definitive scholarly biography of Milgram. Blass also conducted meta-analyses of obedience replications worldwide."
+    },
+    {
+      "term": "Gina Perry",
+      "explain": "Australian psychologist and journalist who wrote Behind the Shock Machine (2013) after accessing Milgram's archives at Yale. Perry interviewed surviving participants and highlighted variability in how sessions were conducted."
+    },
+    {
+      "term": "Yale archives",
+      "explain": "Milgram's papers, audio recordings, films, and lab notes are held at Yale's Sterling Memorial Library. Researchers in the 2000s–2010s used these materials to examine unpublished data and procedural details."
+    },
+    {
+      "term": "replication",
+      "explain": "Repeating an experiment to see if the findings hold. Milgram's obedience work has been partially replicated in multiple countries (Netherlands, Germany, Australia, Poland) with variation in rates. Burger's 2009 replication in the U.S. found similar early compliance."
+    },
+    {
+      "term": "cross-cultural replications",
+      "explain": "Obedience studies conducted outside the U.S. Results vary by country and era. Some European studies in the 1970s found higher obedience; others found lower. Cultural context, trust in institutions, and historical memory of authoritarianism all matter."
+    },
+    {
+      "term": "demand characteristics",
+      "explain": "Cues in an experiment that signal what the researcher expects. Critics argue Milgram's procedure had strong demand characteristics: participants trusted Yale, assumed the experimenter knew what he was doing, and believed no real harm would occur despite their distress."
+    },
+    {
+      "term": "ecological validity",
+      "explain": "The extent to which lab findings generalize to real-world settings. Milgram's paradigm is highly artificial: a controlled lab, a fake learning task, a stranger. Whether it predicts behavior in natural hierarchies (military, corporate, medical) is debated."
+    },
+    {
+      "term": "informed consent",
+      "explain": "Participants' agreement to take part after being told what the study involves. Milgram did not use informed consent in the modern sense; participants were deceived about the study's purpose. Current ethics require informed consent with very limited exceptions."
+    },
+    {
+      "term": "American Psychologist",
+      "explain": "APA journal that published Baumrind's 1964 critique, Milgram's reply, and Burger's 2009 replication. A venue for major theoretical and methodological debates in psychology."
+    },
+    {
+      "term": "Psychological Science",
+      "explain": "Journal of the Association for Psychological Science. Not to be confused with Journal of Abnormal and Social Psychology (where Milgram's 1963 report appeared). Some sources incorrectly cite 'Psychological Science 1963' for Milgram; the correct venue is J Abnorm Soc Psychol."
+    },
+    {
+      "term": "bystander effect",
+      "explain": "Finding that people are less likely to help in an emergency when others are present. Studied after the Kitty Genovese case. Related to Milgram's work as another mechanism of social influence and diffusion of responsibility, but distinct in mechanism: inaction due to group presence vs. action due to authority command."
+    },
+    {
+      "term": "cognitive dissonance",
+      "explain": "Festinger's theory that inconsistent cognitions create discomfort. Related here in that participants in Milgram's experiments may have experienced dissonance between 'I am a good person' and 'I am shocking someone.' Some may have reduced dissonance by trusting the authority or reframing the learner's suffering."
+    },
+    {
+      "term": "situational factors",
+      "explain": "Environmental and contextual variables that shape behavior, as opposed to personality traits. Milgram's obedience research is a landmark in situational social psychology: ordinary people's behavior varied dramatically with proximity, setting, authority presence, and peer dissent."
+    },
+    {
+      "term": "dispositional attribution",
+      "explain": "Explaining behavior by personality or character rather than situation. A common mistake is to assume Milgram's participants who obeyed were cruel or weak. Milgram argued the situation, not individual disposition, was the main driver."
+    },
+    {
+      "term": "fundamental attribution error",
+      "explain": "The tendency to overattribute others' behavior to personality and underweight situational factors. Milgram's work is often taught as a corrective: the situation (authority, legitimacy, incrementalism) mattered more than who the participants were."
+    }
+  ],
+  "fun_fact": {
+    "title": "The learner's protests were scripted and recorded",
+    "text": "In most of Milgram's voice-feedback conditions, the learner's responses were not live—they were prerecorded and played from a tape deck. At 75 volts: a grunt. At 120V: 'Hey, this really hurts!' At 150V: 'Experimenter, get me out of here! I refuse to go on!' At 300V: desperate pounding on the wall. After 330V: silence. The script was carefully calibrated to ratchet up moral pressure. Milgram's confederate, a middle-aged accountant, had practiced the script to sound authentic. Participants did not know they were hearing a recording; they believed they were hearing a man in pain in the next room. That scripted authenticity is part of why the procedure worked—and why it troubles ethicists."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "The concept",
+      "title": "What obedience to authority means: following commands from a legitimate authority even when conscience pulls the other way",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Obedience to authority is compliance with direct commands issued by someone perceived to hold legitimate power. It is not the same as conformity—going along with a peer group—or simple compliance with a request from an equal. Obedience operates in a hierarchy. The authority figure occupies a role that grants the right to command: a military officer, a doctor, a police officer, a scientist in a laboratory. The subordinate occupies a role that carries the duty to obey. The mechanism depends on legitimacy. A random stranger shouting orders on the street has no authority. A person in the right role, in the right setting, with the right symbols—a uniform, a title, an institutional affiliation—can issue commands that override personal judgment."
+        },
+        {
+          "type": "p",
+          "text": "The concept becomes urgent when the command conflicts with conscience. Obedience to a benign authority coordinating a fire drill is unremarkable. Obedience to a command that harms another person is a moral problem. Yet hierarchical systems—military, medical, corporate, bureaucratic—routinely require obedience. The question social psychology asks is: under what conditions will ordinary people follow orders to do things they believe are wrong? And the darker question, historically grounded: how do atrocities happen when so many participants are ordinary people who say they were 'just following orders'?"
+        },
+        {
+          "type": "p",
+          "text": "Stanley Milgram designed his experiments in the shadow of that question. Adolf Eichmann's trial in Jerusalem in 1961 brought the Holocaust back into public attention. Hannah Arendt's reporting coined the phrase 'the banality of evil': the idea that great moral wrongs can be perpetrated by people who are not monsters but bureaucrats, following orders, doing their jobs. Milgram wanted to know if obedience of that kind could be measured, isolated, manipulated. He built a laboratory situation in which the authority was a scientist, the setting was Yale, the task was framed as research, and the command was to hurt a stranger. Then he measured how many people would do it."
+        }
+      ]
+    },
+    {
+      "id": "lab",
+      "kicker": "The mechanism",
+      "title": "How Milgram designed a situation in which an authority commanded harm and tracked who complied",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The setup was deceptively simple. An advertisement in a New Haven newspaper invited men to participate in a study of memory and learning at Yale, offering $4.50 for one hour. Participants arrived at Linsly-Chittenden Hall's Interaction Laboratory. They met another 'participant'—actually a confederate, a mild-mannered middle-aged accountant—and an experimenter in a gray lab coat. The experimenter explained the cover story: they were testing whether punishment improves learning. One person would be the teacher, one the learner. A rigged drawing ensured the real participant was always assigned teacher."
+        },
+        {
+          "type": "p",
+          "text": "The learner was strapped into a chair in an adjacent room with electrodes attached to his wrist. The teacher sat before an impressive shock generator: a console with 30 lever switches labeled in 15-volt increments from 15 to 450 volts, with verbal descriptors ranging from 'Slight Shock' to 'Danger: Severe Shock' and finally two levers ominously marked 'XXX.' The generator was fake, but it looked real. The experimenter gave the teacher a sample 45-volt shock—real—so the teacher experienced what the learner would supposedly feel, scaled up."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/milgram-obedience/classroom-1960s.jpg",
+          "alt": "Students seated at desks in a 1950s college classroom, photographed from the side of the room.",
+          "caption": "A college classroom in the 1950s. Milgram's Interaction Laboratory was not a classroom but a controlled experimental room in Linsly-Chittenden Hall at Yale. This mid-century institutional interior is the era and setting—university spaces, serious work—not a photograph of the actual laboratory where the teacher sat before the shock generator.",
+          "credit": "Gottscho-Schleisner Collection / Library of Congress / no known restrictions",
+          "credit_url": "https://www.loc.gov/pictures/collection/gsc/"
+        },
+        {
+          "type": "p",
+          "text": "The task began. The teacher read word pairs; the learner tried to recall them. For each wrong answer, the teacher administered a shock and increased the voltage. At first the learner responded correctly. Then errors began. The teacher flipped switches. At 75 volts, the learner grunted. At 120 volts, he shouted that the shocks hurt. At 150 volts, he demanded to be released. The teacher often looked to the experimenter. The experimenter, calm and firm, delivered standardized prods: 'Please continue.' 'The experiment requires that you continue.' 'It is absolutely essential that you continue.' 'You have no other choice, you must go on.'"
+        },
+        {
+          "type": "p",
+          "text": "The learner's protests escalated—scripted, often prerecorded. At 180V: 'I can't stand the pain!' At 300V: desperate banging on the wall. After 330V: silence. Many teachers were visibly distressed: sweating, trembling, laughing nervously, biting their lips. Yet in the baseline voice-feedback condition—learner in the next room, vocal protests audible—26 of 40 participants (65 percent) continued all the way to 450 volts. They did not do so calmly. Many protested, hesitated, questioned. But when the experimenter insisted, most obeyed."
+        },
+        {
+          "type": "p",
+          "text": "Milgram ran systematic variations. When the learner was in the same room a few feet away (proximity condition), obedience dropped to about 40 percent. When the teacher had to physically hold the learner's hand on a shock plate (touch-proximity), obedience fell to 30 percent. When the experimenter left the room and issued commands by telephone, obedience plummeted to about 21 percent—and some participants lied, saying they were raising the voltage when they were not. When the experiment was moved from Yale's prestigious lab to a modest office in Bridgeport, obedience dropped but remained substantial, around 48 percent. When two experimenters disagreed about continuing, obedience collapsed to near zero. The situational levers were clear: physical presence of authority, proximity of victim, legitimacy of setting, unanimity of command."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "The case",
+      "title": "New Haven, ordinary adults, and the shock generator at Yale in 1961–1962",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Picture the participant's experience. You answered a newspaper ad for a memory study at Yale. You arrive at a Gothic campus, walk into a psychology building, and meet a scientist in a lab coat and another volunteer. The scientist explains the experiment: punishment and learning. You draw slips of paper; you will be the teacher. The other man—friendly, middle-aged—is strapped into a chair. Electrodes are attached. You return to the main room. Before you is an imposing piece of equipment: the shock generator. The scientist gives you a real sample shock. You feel it: sharp, unpleasant. That is 45 volts. The machine goes to 450."
+        },
+        {
+          "type": "p",
+          "text": "The task starts. Word pairs. The learner makes mistakes. You flip the first switch: 15 volts. Then 30. At 75, he grunts. You glance at the experimenter. He nods: continue. At 120 volts, the learner shouts, 'Hey, this really hurts!' You hesitate. The experimenter: 'Please continue.' You are not sadistic. You do not want to hurt anyone. But the experimenter is a scientist. This is Yale. He says it is essential. At 150 volts the learner yells, 'Experimenter, get me out of here! I won't be in the experiment anymore! I refuse to go on!' You turn to the experimenter. He meets your eyes, calm and authoritative: 'The experiment requires that you continue. You have no other choice.' You continue."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/milgram-obedience/lab-setting-1960s.jpg",
+          "alt": "Empty college classroom interior with desks and a chalkboard, mid-1950s institutional style.",
+          "caption": "A mid-1950s college classroom interior. Milgram's laboratory room was more spartan—table, shock generator, chairs—but this period institutional setting conveys the sober, official atmosphere. The participant sat in a room like this: serious, professional, a university context where scientists gave instructions.",
+          "credit": "Gottscho-Schleisner Collection / Library of Congress / no known restrictions",
+          "credit_url": "https://www.loc.gov/pictures/collection/gsc/"
+        },
+        {
+          "type": "p",
+          "text": "At 300 volts the learner pounds on the wall, screaming. Then at 330, silence. Nothing. You ask: 'Should I keep going? What if something happened to him?' The experimenter: 'The shocks may be painful, but they are not dangerous. Please continue.' You feel sick. Your hands are shaking. You flip the switch. 345 volts. 360. 375. The label now says 'Danger: Severe Shock.' No sound from the next room. You reach 450 volts: XXX. The experimenter tells you to continue at 450 for several more errors. Finally, he says, 'The experiment is over.' He opens the door. The learner walks in, unharmed, smiling. It was fake. No shocks. The scientist explains: this was a study of obedience. You followed orders. So did most people."
+        },
+        {
+          "type": "p",
+          "text": "That is the structure Milgram built, and that is what happened in session after session, with men from New Haven—postal clerks, high school teachers, salesmen, engineers—and later with women (who obeyed at nearly the same rate). The headline result—65 percent went to 450 volts—became one of psychology's most famous and disturbing findings. But the number does not capture the texture. Participants were not calm. They argued. They sweated. Some laughed nervously—a stress response. One man had a seizure-like fit. Many said afterward they had felt trapped: they wanted to stop but the experimenter kept saying continue. A few stopped early and walked out. About a third refused at some point before 450 volts. Most did not."
+        },
+        {
+          "type": "p",
+          "text": "Milgram debriefed everyone. He introduced the unharmed learner. He explained the purpose. He told participants their behavior was normal, that the situation was designed to produce obedience. He later sent follow-up surveys; over 80 percent of respondents said they were glad to have participated, that the experience was valuable. That does not erase the distress, but it complicates the ethical accounting. The participants were not permanently harmed; most said they learned something important. Yet they were deceived, distressed, and placed in a situation where they believed they were hurting someone. That is the moral knot the experiments tied."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Contemporaneous elsewhere",
+      "title": "Hofling's hospital nurses and real-world obedience in 1966",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "While Milgram was publishing his laboratory findings, Charles Hofling, a psychiatrist, wondered if the obedience mechanism extended to real professional settings where the stakes were not laboratory abstractions but actual patient safety. In 1966, Hofling and colleagues conducted a field experiment in hospital wards. A researcher posing as 'Dr. Smith' called nurses on duty and ordered them to administer 20 milligrams of a drug called Astroten to a patient. The order violated multiple rules: the caller was unknown to the nurse, the dosage was twice the maximum listed on the bottle, hospital policy required written orders, and Astroten was not an authorized medication (it was a placebo created for the study)."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/milgram-obedience/new-haven-street.jpg",
+          "alt": "A quiet suburban American street with houses and trees in the 1940s, photographed in winter.",
+          "caption": "A suburban American street in the 1940s. Milgram's participants were ordinary adults from New Haven and surrounding towns—postal workers, teachers, laborers. This period suburban landscape is the world they came from: middle-class, mid-century, unremarkable. Not a laboratory photograph, but the social geography that supplied Milgram's sample.",
+          "credit": "Library of Congress / FSA-OWI Collection / no known restrictions",
+          "credit_url": "https://www.loc.gov/pictures/collection/fsa/"
+        },
+        {
+          "type": "p",
+          "text": "Twenty-one of 22 nurses complied. They prepared the medication and were walking toward the patient's room when a researcher intercepted them and explained the true nature of the call. In follow-up interviews, nurses said they had felt uncomfortable but believed doctors had authority and that questioning an order might lead to reprimand. The study was published in 1966 in the journal Clinical Pharmacology and Therapeutics. It demonstrated that obedience to authority operates in high-stakes, real-world hierarchies, not only in contrived laboratory paradigms. The Hofling study has its own ethical critics—nurses were deceived and put in a position where they nearly harmed a (fictitious) patient—but it stands as contemporaneous evidence that Milgram's findings were not just lab curiosities."
+        },
+        {
+          "type": "p",
+          "text": "Later partial replications of Hofling under slightly different conditions found lower compliance rates, and debates continue about how hospital protocols and authority structures have changed. But the 1966 result, conducted just a few years after Milgram's baseline publications, showed obedience to authority crossing from experimental psychology into medical sociology. Both Milgram and Hofling were asking versions of the same question: when does the role override the conscience? The laboratory and the hospital ward gave different but parallel answers: often."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Replications, ethics debates, Burger's partial replication, and what the archives revealed",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Milgram's obedience paradigm became one of the most replicated and debated studies in psychology. Over the decades, researchers in the Netherlands, Germany, Australia, Poland, South Africa, and elsewhere conducted variations. Results varied by country, era, and procedural details, but the core finding held: a substantial proportion of people comply with an authority's commands to harm a stranger, especially when the authority is perceived as legitimate, the setting is institutional, and the incremental escalation makes each step seem small. Thomas Blass's meta-analyses across studies found rates of full obedience ranging from 28 percent to over 90 percent depending on conditions, with a rough average near 60 percent."
+        },
+        {
+          "type": "p",
+          "text": "The ethical controversy ignited almost immediately. Diana Baumrind's 1964 critique in American Psychologist argued that Milgram had violated participants' trust, caused them distress, and potentially damaged their self-image and faith in authority. Milgram replied that debriefing was thorough, that follow-up surveys showed most participants valued the experience, and that the knowledge gained—understanding the situational roots of obedience—justified the procedure. The debate never fully resolved. By the 1970s, institutional review boards tightened oversight, and studies like Milgram's became difficult or impossible to conduct under new ethical standards. The experiments themselves became a case study in research ethics courses: a landmark finding achieved by methods now considered unacceptable."
+        },
+        {
+          "type": "p",
+          "text": "In 2009, Jerry Burger at Santa Clara University published a partial replication in American Psychologist, the first authorized replication in the United States in decades. Burger modified the procedure to meet modern ethical standards: participants were screened to exclude those at risk of distress, they were told multiple times they could withdraw, and the procedure stopped at 150 volts—the point where Milgram's learner first loudly demanded release. Burger reasoned that compliance at 150 volts predicted compliance to 450 in Milgram's original data, so stopping there captured the obedience effect without the maximum-shock distress. The result: 70 percent of Burger's participants were willing to continue past 150 volts, closely matching Milgram's baseline rate at that point. The mechanism, it seemed, was alive in the 21st century."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/milgram-obedience/yale-linsly-chittenden.jpg",
+          "alt": "A grand stone Gothic Revival academic building on a university campus.",
+          "caption": "A Yale University building, photographed in later years. Milgram's laboratory was in Linsly-Chittenden Hall, built in the Yale Gothic style. This campus architecture is the institutional prestige that framed the experiments—serious, authoritative, reassuring. Participants walked into rooms like this and believed the scientist in the lab coat.",
+          "credit": "Period-style campus architecture photograph",
+          "credit_url": ""
+        },
+        {
+          "type": "p",
+          "text": "Meanwhile, historians and psychologists began digging into Milgram's archives at Yale's Sterling Memorial Library. Gina Perry's 2013 book Behind the Shock Machine drew on audio recordings, transcripts, and unpublished condition data. Perry found that not all sessions followed the standard script perfectly; some experimenters prodded participants more aggressively than the official protocol specified. Some participants suspected the shocks were fake. The 65 percent figure, while real, came from a specific condition among many; other variations had lower rates. Textbook oversimplifications—sometimes claiming 'almost everyone obeyed'—were corrected. The experiments were more variable, messier, and more context-dependent than the legend suggested."
+        },
+        {
+          "type": "p",
+          "text": "Yet the core insight persists. Ordinary people in an ordinary hierarchy with a credible authority will often follow orders that violate their own moral intuitions, especially when responsibility is diffused ('the experimenter is in charge'), the progression is incremental (each step seems small), and the authority is physically present and insistent. Milgram's findings do not explain the Holocaust; atrocities involve ideology, dehumanization, group dynamics, and long-term socialization, not just lab obedience. But the experiments show one mechanism that can contribute: situational pressure overriding individual conscience. That remains a lesson worth teaching, even as the methods that produced it remain ethically disputed."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If you were a participant in Milgram's baseline condition—strapped into a hierarchy, assured by an authority that the procedure was safe and necessary, hearing the screams of someone in the next room—at what voltage would you have stopped, and how can you be sure? And if you believe you would have stopped early: what specific features of the situation would have given you the strength to defy the experimenter's prods when two-thirds of participants in your position did not?"
+        }
+      ]
+    }
+  ]
+}
