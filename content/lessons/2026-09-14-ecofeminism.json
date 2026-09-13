@@ -1,0 +1,103 @@
+{
+  "slug": "ecofeminism",
+  "date": "2026-09-14",
+  "subject": "feminism",
+  "related": [
+    "second-wave",
+    "first-wave",
+    "intersectionality",
+    "fourth-wave"
+  ],
+  "title": "Ecofeminism: the claim that domination of women and domination of nature are linked structures, not poetic metaphor",
+  "dek": "What ecofeminism means as a material and political argument — not generic 'women love nature' — then Françoise d'Eaubonne's 1974 coinage, the Chipko tree-huggers in Garhwal Himalaya (1973–74), Carolyn Merchant's The Death of Nature (1980), Vandana Shiva's Staying Alive (1988), Greenham Common Women's Peace Camp (1981–2000) as Western nuclear/land case, and Wangari Maathai's Green Belt Movement in Kenya (founded 1977).",
+  "era": "term coined 1974; Chipko 1973–74; Green Belt 1977; Merchant 1980; Greenham 1981; Shiva 1988",
+  "reading_minutes": 21,
+  "thumb": {
+    "src": "lessons/ecofeminism/wangari-maathai-2006.jpg",
+    "alt": "Wangari Maathai receiving award, photographed in 2006."
+  },
+  "hero": {
+    "src": "lessons/ecofeminism/wangari-maathai-2006.jpg",
+    "alt": "Wangari Maathai receiving a trophy from Kenya National Human Rights Commission in March 2006.",
+    "caption": "Professor Wangari Maathai receiving an award from the Kenya National Human Rights Commission in March 2006 for her contribution toward humanity. She founded the Green Belt Movement in 1977, mobilizing rural Kenyan women to plant trees, link environmental degradation to women's survival, and build economic power through forest stewardship. By the time of her 2004 Nobel Peace Prize, over 30 million trees had been planted.",
+    "credit": "Wangari Maathai / Wikimedia Commons / CC BY 2.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Wangari_Maathai.jpg"
+  },
+  "honesty": "This lesson treats ecofeminism as a political and material claim, not a spiritual identity. The core argument: systems that dominate women and systems that dominate nature share structures—labor extraction, land control, toxic exposure, exclusion from decision-making. Images used here are placeholders due to copyright constraints on historical protest photography; proper free-license images should replace these.",
+  "timeline": [
+    {
+      "year": "1973",
+      "label": "Chipko begins",
+      "detail": "April 1973: In Mandal village, Garhwal Himalaya, residents led by Chandi Prasad Bhatt confront loggers and embrace trees to stop commercial felling. The Hindi word chipko means 'to stick' or 'to hug.' This tactic spreads across Uttarakhand villages."
+    },
+    {
+      "year": "1974",
+      "label": "Reni forest stand-off",
+      "detail": "26 March 1974: Gaura Devi leads 27 women and girls to block loggers at Reni forest. After a four-day stand-off, contractors withdraw."
+    },
+    {
+      "year": "1977",
+      "label": "Green Belt Movement founded",
+      "detail": "5 June 1977: Wangari Maathai and the National Council of Women of Kenya plant seven trees in Nairobi, launching the Green Belt Movement."
+    },
+    {
+      "year": "1981",
+      "label": "Greenham Common camp begins",
+      "detail": "5 September 1981: Women march from Cardiff to RAF Greenham Common and set up camp to protest nuclear missiles."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "read": [],
+  "fun_fact": {
+    "title": "Chipko's name comes from a real tactic",
+    "text": "The Hindi word chipko means 'to stick' or 'to embrace,' and participants literally wrapped their arms around tree trunks so loggers could not swing axes without hitting human bodies first."
+  },
+  "glossary": [
+    {
+      "term": "ecofeminism",
+      "aliases": [
+        "ecofeminist"
+      ],
+      "explain": "The claim that domination of women and domination of nature are linked through shared structures. Coined by Françoise d'Eaubonne in 1974."
+    },
+    {
+      "term": "Chipko movement",
+      "aliases": [
+        "Chipko"
+      ],
+      "explain": "Forest-protection movement in Garhwal Himalaya beginning 1973. Villagers, especially women, hugged trees to prevent logging."
+    },
+    {
+      "term": "Wangari Maathai",
+      "aliases": [
+        "Maathai"
+      ],
+      "explain": "Kenyan activist (1940–2011) who founded the Green Belt Movement in 1977. First African woman to win the Nobel Peace Prize (2004)."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "The word is late; the politics came first",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ecofeminism as a named movement begins in 1974, when Françoise d'Eaubonne published Le Féminisme ou la Mort and coined écoféminisme. The claim that women's oppression and environmental destruction share causes was already live in organizing."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The concept",
+      "title": "Linked structures, not metaphor",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ecofeminism claims systems that exploit nature and systems that exploit women share mechanisms: labor extraction, land control, decision-making exclusion, toxic exposure."
+        }
+      ]
+    }
+  ]
+}
