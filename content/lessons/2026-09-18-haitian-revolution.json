@@ -1,0 +1,700 @@
+{
+  "slug": "haitian-revolution",
+  "date": "2026-09-18",
+  "subject": "history",
+  "related": [
+    "partition-of-india"
+  ],
+  "title": "The Haitian Revolution (1791–1804): enslaved revolt, French collapse, and the hemisphere's second republic",
+  "dek": "In August 1791 enslaved people in Saint-Domingue rose against planters, the French colonial order, and the Code Noir. Toussaint Louverture built an army; Napoleon sent Leclerc's expedition in 1802; Toussaint died in France in 1803. On 1 January 1804 Jean-Jacques Dessalines declared Haiti independent—the first Black republic and the only successful slave revolution that built a lasting state.",
+  "era": "1791–1804 (context: 1750s–1825)",
+  "reading_minutes": 26,
+  "thumb": {
+    "src": "lessons/haitian-revolution/toussaint-louverture.jpg",
+    "alt": "Period engraving portrait of Toussaint Louverture in military uniform with medals."
+  },
+  "hero": {
+    "src": "lessons/haitian-revolution/toussaint-louverture.jpg",
+    "alt": "Engraving portrait of Toussaint Louverture in French military uniform with epaulettes and medals, circa 1800s.",
+    "caption": "Toussaint Louverture, engraved portrait by Nicolas Eustache Maurin after a period painting. The man who built the revolutionary army in Saint-Domingue, wrote a 1801 constitution, and died in a French prison in 1803 before the final independence. The uniform is French; the allegiance was never fully settled until France sent an invasion fleet.",
+    "credit": "Wikimedia Commons / public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Toussaint_Louverture.jpg"
+  },
+  "honesty": "The Haitian Revolution names both a slave uprising (August 1791 onward) and a thirteen-year process of war, constitutions, foreign interventions, and state-building that ended with Haiti's independence on 1 January 1804. It is not a single battle, not a simple story of enslaved people defeating France in one campaign, and not a sealed narrative that ignores ongoing diplomatic isolation and economic extraction afterward. Casualty and population figures remain contested estimates—scholars often cite ranges around 200,000–350,000 deaths over the entire revolutionary period, with uncertainty reflecting incomplete records, wartime chaos, and later demographic reconstructions. The Bois Caïman ceremony (August 1791) is treated by some historians as a founding symbolic moment and by others as a later consolidation of memory; this capsule notes its place in Haitian political culture without presenting it as undisputed fact. The Code Noir (1685) and the condition of slavery in Saint-Domingue are named as the Before; France's recognition (1825, under indemnity) and the long aftermath of isolation are named as After. Earlier Capsules lessons (May Fourth, Partition of India) are cited only as examples of other crises where dates, sovereignty, and casualties remain arguments, not monuments.",
+  "timeline": [
+    {
+      "year": "1685",
+      "label": "Code Noir",
+      "detail": "Louis XIV's Code Noir regulated slavery in French colonies. The sixty articles covered legal status, baptism, marriage restrictions, punishment, and manumission—a framework that still governed Saint-Domingue planters in 1791."
+    },
+    {
+      "year": "1750s–80s",
+      "label": "Saint-Domingue boom",
+      "detail": "Saint-Domingue (western Hispaniola, now Haiti) became France's richest colony. Sugar and coffee plantations imported hundreds of thousands of enslaved Africans. The enslaved population by 1789 numbered roughly 500,000; free people of color (affranchis) around 30,000; whites (grands blancs planters, petits blancs overseers and artisans) around 40,000."
+    },
+    {
+      "year": "1789",
+      "label": "French Revolution begins",
+      "detail": "The fall of the Bastille and the Declaration of the Rights of Man reached Saint-Domingue by news and print. Planters, free people of color, and enslaved workers all heard the language of rights; the meanings they assigned differed violently."
+    },
+    {
+      "year": "May 1791",
+      "label": "Free people of color petition",
+      "detail": "The French National Assembly granted limited rights to some free people of color born of free parents. Planters in Saint-Domingue resisted. Vincent Ogé's earlier armed protest (1790) had been crushed and Ogé executed, a memory fresh in 1791."
+    },
+    {
+      "year": "Aug 1791",
+      "label": "Slave uprising begins",
+      "detail": "On the night of 21–22 August (some accounts say 14 August), enslaved people in the North Province rose. Bois Caïman, a Vodou ceremony tradition, is remembered as the symbolic start; historians debate its historicity. Plantations burned. White planters fled or were killed. The rebellion spread."
+    },
+    {
+      "year": "1792–93",
+      "label": "British and Spanish interventions",
+      "detail": "Britain and Spain, at war with Revolutionary France, invaded Saint-Domingue hoping to seize territory or restore planter order. Enslaved insurgents made alliances with Spain (the eastern side of Hispaniola was Spanish). Toussaint Louverture emerged as a military leader in Spanish service before switching to France."
+    },
+    {
+      "year": "Aug–Sep 1793",
+      "label": "Sonthonax abolition decree",
+      "detail": "French Civil Commissioner Léger-Félicité Sonthonax, pressed by military collapse and insurgent strength, proclaimed the abolition of slavery in the North Province (29 August). He extended it colony-wide in September. This was a unilateral wartime decree, not yet French metropolitan law."
+    },
+    {
+      "year": "4 Feb 1794",
+      "label": "French Convention abolishes slavery",
+      "detail": "The National Convention in Paris formally abolished slavery in all French colonies. Toussaint and other Black leaders shifted allegiance from Spain to France. The legal ground had moved; the war continued."
+    },
+    {
+      "year": "1794–97",
+      "label": "Toussaint's rise",
+      "detail": "Toussaint Louverture, now fighting for France against British and Spanish forces, consolidated military and political power. By 1797 he was the dominant figure. Sonthonax was forced out; French civilian authority weakened."
+    },
+    {
+      "year": "1801",
+      "label": "Toussaint's constitution",
+      "detail": "Toussaint promulgated a constitution for Saint-Domingue on 7 July 1801, declaring himself Governor-for-Life and keeping nominal French sovereignty while abolishing slavery permanently. Napoleon Bonaparte, now First Consul, viewed this as unacceptable autonomy."
+    },
+    {
+      "year": "Feb 1802",
+      "label": "Leclerc expedition arrives",
+      "detail": "Napoleon dispatched his brother-in-law Charles Leclerc with roughly 20,000 troops to restore French authority and, secretly, to reinstate plantation order. Early engagements went to France; key Black generals (Christophe, Dessalines) defected or submitted. Toussaint negotiated terms and retired to a plantation."
+    },
+    {
+      "year": "Jun 1802",
+      "label": "Toussaint arrested",
+      "detail": "French officers seized Toussaint by deception on 7 June 1802, claiming a meeting. He was shipped to France, imprisoned at Fort de Joux in the Jura Mountains, and died there on 7 April 1803. His arrest reignited the resistance."
+    },
+    {
+      "year": "1802–03",
+      "label": "Yellow fever / war resumes",
+      "detail": "The French expedition suffered catastrophic losses to yellow fever. Meanwhile news that Napoleon had restored slavery in Guadeloupe (May 1802) reached Saint-Domingue. Dessalines, Christophe, and Pétion rejoined the rebellion. The war became a fight for independence, not reform within France."
+    },
+    {
+      "year": "18 Nov 1803",
+      "label": "Battle of Vertières",
+      "detail": "At Vertières, near Cap-Français, the insurgent army defeated French forces under Rochambeau (Leclerc's successor, who had died of fever). The French withdrew from Cap and then from the colony."
+    },
+    {
+      "year": "1 Jan 1804",
+      "label": "Declaration of Independence",
+      "detail": "Jean-Jacques Dessalines proclaimed the independence of Haiti at Gonaïves, restoring the indigenous Taíno name Haiti. The declaration broke with France and declared a Black republic. Dessalines became governor-general, then emperor (1804–06)."
+    },
+    {
+      "year": "1804–06",
+      "label": "Dessalines's rule / massacres",
+      "detail": "Dessalines ordered the killing of remaining French settlers in 1804 to consolidate independence—massacres that are remembered as both state terror and the violent sealing of a revolutionary break. He was assassinated in 1806; the country then split between Henri Christophe's northern kingdom and Alexandre Pétion's southern republic."
+    },
+    {
+      "year": "1820–25",
+      "label": "Reunification / French indemnity",
+      "detail": "Haiti reunified briefly under Jean-Pierre Boyer (1820). In 1825 France recognized Haitian independence under the threat of naval force—but only in exchange for an indemnity of 150 million francs, later reduced. Haiti borrowed to pay; the debt burden lasted into the twentieth century."
+    }
+  ],
+  "read": [
+    {
+      "title": "Haitian Revolution — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Haitian-Revolution",
+      "note": "Named encyclopedia overview of the 1791–1804 revolution, key leaders, French and foreign interventions, and independence. Starting reference."
+    },
+    {
+      "title": "Toussaint Louverture — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Toussaint-Louverture",
+      "note": "Biography of the revolutionary leader who built the army, wrote the 1801 constitution, and died in French captivity in 1803."
+    },
+    {
+      "title": "Jean-Jacques Dessalines — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jean-Jacques-Dessalines",
+      "note": "Biography of the general who declared independence on 1 January 1804 and became Haiti's first head of state."
+    },
+    {
+      "title": "Code Noir — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Code-Noir",
+      "note": "Britannica entry on the 1685 French ordinance regulating slavery in the colonies, background to the social order the revolution broke."
+    },
+    {
+      "title": "Saint-Domingue — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Saint-Domingue",
+      "note": "Entry on the French colony that became Haiti, covering the eighteenth-century plantation economy and demographic structure."
+    },
+    {
+      "title": "C.L.R. James — The Black Jacobins (Penguin Books page)",
+      "url": "https://www.penguinrandomhouse.com/books/298984/the-black-jacobins-by-c-l-r-james/",
+      "note": "Publisher page for a foundational 1938 study of Toussaint Louverture and the Haitian Revolution. Buy or borrow; Capsules does not paste the book."
+    },
+    {
+      "title": "Laurent Dubois — Avengers of the New World (Harvard University Press page)",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674016040",
+      "note": "Publisher page for a modern scholarly synthesis covering enslaved agency, French revolutionary politics, and the path to 1804. Named for further reading."
+    },
+    {
+      "title": "Haiti Digital Library — University of Florida (collection portal)",
+      "url": "https://ufdc.ufl.edu/CA00000001/00001",
+      "note": "Digitized collection of historical Haitian documents, maps, and images. Primary sources; not a narrative synthesis."
+    }
+  ],
+  "watch": [
+    {
+      "title": "The Haitian Revolution — PBS / university documentary uploads (search)",
+      "url": "https://www.youtube.com/results?search_query=Haitian+Revolution+documentary+PBS",
+      "note": "Search landing for public-broadcaster and university documentary footage. Prefer titled PBS, BBC, or academic institution uploads over anonymous clips; verify the title card before treating any upload as authoritative."
+    }
+  ],
+  "fun_fact": {
+    "title": "Yellow fever fought for the revolution",
+    "text": "The French Leclerc expedition of 1802 brought roughly 20,000–40,000 troops to reconquer Saint-Domingue. Within a year, yellow fever had killed Leclerc himself and perhaps half or more of his army. Mosquitoes, not only revolutionary tactics, dismantled Napoleon's plan. The disease killed European soldiers far more readily than people with childhood exposure in the Caribbean; the differential mortality curve is one reason the insurgent forces regained ground after Toussaint's arrest."
+  },
+  "glossary": [
+    {
+      "term": "Haitian Revolution",
+      "aliases": [
+        "Haitian Independence",
+        "Saint-Domingue Revolution",
+        "Slave Revolt of 1791"
+      ],
+      "explain": "The 1791–1804 revolution in the French colony of Saint-Domingue that destroyed plantation slavery, defeated French, British, and Spanish forces, and produced the independent state of Haiti on 1 January 1804—the hemisphere's second republic after the United States and the first Black republic."
+    },
+    {
+      "term": "Saint-Domingue",
+      "aliases": [
+        "Saint Domingue",
+        "French Saint-Domingue"
+      ],
+      "explain": "French colony occupying the western third of Hispaniola (the eastern part was Spanish Santo Domingo). By 1789 the richest colony in the Caribbean, with a sugar and coffee economy built on slave labor. Became Haiti in 1804."
+    },
+    {
+      "term": "Haiti",
+      "aliases": [
+        "Haïti",
+        "Ayiti"
+      ],
+      "explain": "Name restored in the 1 January 1804 declaration of independence, derived from the indigenous Taíno word for the mountainous island. Replaced Saint-Domingue as the state's name."
+    },
+    {
+      "term": "Code Noir",
+      "aliases": [
+        "Black Code"
+      ],
+      "explain": "1685 ordinance by Louis XIV regulating slavery in French colonies. Sixty articles covered legal status, punishment, baptism, manumission, and restrictions on enslaved people. Still nominally in force in Saint-Domingue in 1791."
+    },
+    {
+      "term": "grands blancs",
+      "aliases": [
+        "great whites",
+        "planter class"
+      ],
+      "explain": "Large white plantation owners in Saint-Domingue. The richest class in the colony, often absentee, with estates producing sugar and coffee using enslaved labor."
+    },
+    {
+      "term": "petits blancs",
+      "aliases": [
+        "small whites",
+        "poor whites"
+      ],
+      "explain": "White overseers, artisans, and small proprietors in Saint-Domingue. Less wealthy than grands blancs, often hostile to free people of color competing economically."
+    },
+    {
+      "term": "affranchis",
+      "aliases": [
+        "free people of color",
+        "gens de couleur libres"
+      ],
+      "explain": "Free people of African or mixed descent in Saint-Domingue. By 1789 around 30,000 people, some wealthy and slave-owning themselves. Denied political equality with whites despite property ownership; their struggle for rights was entangled with the 1791 slave uprising."
+    },
+    {
+      "term": "Bois Caïman",
+      "aliases": [
+        "Bwa Kayiman",
+        "Bois Cayman ceremony"
+      ],
+      "explain": "Vodou ceremony traditionally dated to 14 or 21 August 1791, remembered as the symbolic founding moment of the slave uprising. Historians debate whether it occurred as later tradition describes or was consolidated in memory; it remains central to Haitian political and cultural identity."
+    },
+    {
+      "term": "Vodou",
+      "aliases": [
+        "Voodoo",
+        "Vodun"
+      ],
+      "explain": "Afro-Caribbean religious practice blending West African spiritual traditions with Catholic elements. Played a role in organizing and symbolizing resistance during the Haitian Revolution; later stigmatized by foreign observers."
+    },
+    {
+      "term": "Toussaint Louverture",
+      "aliases": [
+        "Toussaint L'Ouverture",
+        "François-Dominique Toussaint Louverture"
+      ],
+      "explain": "Revolutionary leader (c. 1743–1803) who rose from slavery to command the insurgent army, served Spanish and then French forces, and wrote the 1801 constitution making himself Governor-for-Life. Arrested by the French in June 1802, he died in Fort de Joux, France, in April 1803."
+    },
+    {
+      "term": "Jean-Jacques Dessalines",
+      "aliases": [
+        "Dessalines",
+        "Jacques I"
+      ],
+      "explain": "General (c. 1758–1806) who fought under Toussaint, rejoined the rebellion in 1802, and declared Haitian independence on 1 January 1804. He became governor-general, then emperor (Jacques I) in 1804. Ordered the 1804 massacres of remaining French settlers. Assassinated in 1806."
+    },
+    {
+      "term": "Henri Christophe",
+      "aliases": [
+        "Henry I",
+        "King Henri Christophe"
+      ],
+      "explain": "Revolutionary officer (1767–1820) who initially submitted to Leclerc in 1802, then rejoined the rebellion. After Dessalines's death he ruled the northern Kingdom of Haiti (1806–20) as King Henri I; built the Citadelle Laferrière fortress."
+    },
+    {
+      "term": "Alexandre Pétion",
+      "aliases": [
+        "Pétion"
+      ],
+      "explain": "Mixed-race general (1770–1818) who fought in the revolution and, after Dessalines's assassination, led the southern Republic of Haiti (1806–18). Granted land to soldiers and offered refuge to Simón Bolívar in 1815."
+    },
+    {
+      "term": "Léger-Félicité Sonthonax",
+      "aliases": [
+        "Sonthonax"
+      ],
+      "explain": "French Civil Commissioner (1763–1813) sent to Saint-Domingue in 1792. In August–September 1793 he decreed the abolition of slavery in the colony, a wartime decision that preceded the Convention's February 1794 metropolitan decree."
+    },
+    {
+      "term": "Charles Leclerc",
+      "aliases": [
+        "Charles-Victor-Emmanuel Leclerc",
+        "Leclerc"
+      ],
+      "explain": "French general (1772–1802), Napoleon's brother-in-law, sent to reconquer Saint-Domingue in 1802. His expedition initially succeeded but lost tens of thousands to yellow fever and resistance. He died of fever in November 1802."
+    },
+    {
+      "term": "Donatien-Marie-Joseph de Rochambeau",
+      "aliases": [
+        "Rochambeau"
+      ],
+      "explain": "French general (1755–1813) who succeeded Leclerc as commander in Saint-Domingue in 1802. Known for brutal tactics including use of attack dogs. Defeated at Vertières in November 1803; surrendered the colony."
+    },
+    {
+      "term": "Napoleon Bonaparte",
+      "aliases": [
+        "Napoleon",
+        "Bonaparte"
+      ],
+      "explain": "First Consul (later Emperor) of France (1769–1821). Sent the Leclerc expedition to restore French control of Saint-Domingue in 1802; the expedition's failure and Haiti's independence represented a major colonial defeat. Also restored slavery in other French colonies (Guadeloupe 1802)."
+    },
+    {
+      "term": "Vincent Ogé",
+      "aliases": [
+        "Ogé"
+      ],
+      "explain": "Free man of color (c. 1755–1791) who led an armed protest in 1790 demanding rights for affranchis. His revolt failed; he was captured and executed on the wheel in 1791. His death became a rallying memory for free people of color and insurgents."
+    },
+    {
+      "term": "Boukman Dutty",
+      "aliases": [
+        "Boukman",
+        "Dutty Boukman"
+      ],
+      "explain": "Enslaved leader and Vodou priest (died 1791), remembered as a key organizer of the August 1791 uprising and associated with the Bois Caïman ceremony. Killed in battle in November 1791; his head was displayed by French authorities."
+    },
+    {
+      "term": "Cécile Fatiman",
+      "aliases": [
+        "Fatiman"
+      ],
+      "explain": "Vodou priestess remembered in oral tradition as a participant in the Bois Caïman ceremony. Historical documentation is sparse; her role is part of contested revolutionary memory."
+    },
+    {
+      "term": "François Mackandal",
+      "aliases": [
+        "Mackandal"
+      ],
+      "explain": "Maroon leader (died 1758) who organized a conspiracy and poison campaign against planters before being captured and burned at the stake. His memory influenced later resistance and is often invoked as a precursor to the 1791 revolution."
+    },
+    {
+      "term": "Declaration of the Rights of Man and of the Citizen",
+      "aliases": [
+        "Rights of Man"
+      ],
+      "explain": "1789 French revolutionary document asserting equality and rights. Its language reached Saint-Domingue and was invoked by free people of color and insurgent leaders, even as planters and Paris argued over whether its principles applied to colonies."
+    },
+    {
+      "term": "Battle of Vertières",
+      "aliases": [
+        "Vertières"
+      ],
+      "explain": "Decisive battle on 18 November 1803 near Cap-Français where the insurgent army under Dessalines defeated French forces under Rochambeau. The French withdrew from the colony; independence followed on 1 January 1804."
+    },
+    {
+      "term": "Fort de Joux",
+      "aliases": [
+        "Château de Joux"
+      ],
+      "explain": "Mountain fortress in the Jura region of France where Toussaint Louverture was imprisoned after his June 1802 arrest. He died there on 7 April 1803 from cold, malnutrition, and neglect."
+    },
+    {
+      "term": "yellow fever",
+      "aliases": [
+        "yellow jack"
+      ],
+      "explain": "Mosquito-borne viral disease endemic to the Caribbean. Killed tens of thousands of European soldiers in the Leclerc expedition (1802–03), contributing critically to French military collapse. People with childhood exposure in the region had better survival rates."
+    },
+    {
+      "term": "maroons",
+      "aliases": [
+        "maroon communities",
+        "marronage"
+      ],
+      "explain": "Escaped enslaved people living in independent or semi-independent communities in the interior mountains of Saint-Domingue. Maroon resistance preceded and continued into the 1791 revolution."
+    },
+    {
+      "term": "French Revolution",
+      "aliases": [
+        "1789 Revolution"
+      ],
+      "explain": "1789–99 revolution in France that overthrew the monarchy and produced declarations of rights and equality. Its language and factionalism (Jacobins, Girondins) reached Saint-Domingue, where it was reinterpreted by planters, free people of color, and enslaved insurgents."
+    },
+    {
+      "term": "National Convention",
+      "aliases": [
+        "Convention",
+        "French Convention"
+      ],
+      "explain": "French revolutionary assembly (1792–95) that abolished the monarchy and, on 4 February 1794, formally abolished slavery in all French colonies. The decree followed Sonthonax's 1793 local action and helped bring Toussaint's forces into the French camp."
+    },
+    {
+      "term": "Cap-Français",
+      "aliases": [
+        "Le Cap",
+        "Cap-Haïtien"
+      ],
+      "explain": "Major port city in the North Province of Saint-Domingue (now Cap-Haïtien, Haiti). Scene of early 1791 insurgent attacks, later sieges, and the November 1803 battle at nearby Vertières."
+    },
+    {
+      "term": "Port-au-Prince",
+      "aliases": [
+        "Port au Prince"
+      ],
+      "explain": "Capital city of Saint-Domingue's western province, later capital of Haiti. Less central to early revolutionary battles than the northern plantation districts but politically important."
+    },
+    {
+      "term": "Gonaïves",
+      "aliases": [
+        "Gonaives"
+      ],
+      "explain": "City in western Saint-Domingue where Dessalines proclaimed Haitian independence on 1 January 1804. Now remembered as the birthplace of Haitian independence."
+    },
+    {
+      "term": "Hispaniola",
+      "aliases": [
+        "La Española"
+      ],
+      "explain": "Caribbean island divided between French Saint-Domingue (west) and Spanish Santo Domingo (east). The eastern side is now the Dominican Republic; the western side became Haiti."
+    },
+    {
+      "term": "Santo Domingo",
+      "aliases": [
+        "Spanish Santo Domingo"
+      ],
+      "explain": "Spanish colony occupying the eastern two-thirds of Hispaniola. Toussaint invaded it in 1801; it later became the Dominican Republic (1844) after Haitian occupation and withdrawal."
+    },
+    {
+      "term": "1804 massacres",
+      "aliases": [
+        "massacres of French settlers"
+      ],
+      "explain": "Killings of remaining French settlers in Haiti ordered by Dessalines in 1804 after independence. Estimates vary; the massacres were both state consolidation and violent rupture with the colonial order."
+    },
+    {
+      "term": "French indemnity of 1825",
+      "aliases": [
+        "1825 indemnity",
+        "double debt"
+      ],
+      "explain": "France recognized Haitian independence in 1825 under threat of naval force—but only in exchange for an indemnity of 150 million francs (later reduced to 90 million) to compensate former planters. Haiti borrowed from French banks to pay; the debt burden persisted into the twentieth century."
+    },
+    {
+      "term": "Jean-Pierre Boyer",
+      "aliases": [
+        "Boyer"
+      ],
+      "explain": "President of Haiti (1776–1850) who reunified the country in 1820 and ruled until 1843. He negotiated (under duress) the 1825 French recognition and indemnity, and briefly occupied Santo Domingo (1822–44)."
+    },
+    {
+      "term": "Citadelle Laferrière",
+      "aliases": [
+        "Citadelle Henry",
+        "La Citadelle"
+      ],
+      "explain": "Massive mountaintop fortress in northern Haiti built by Henri Christophe after independence to defend against feared French invasion. A UNESCO World Heritage Site and symbol of post-independence military preparation."
+    },
+    {
+      "term": "Simón Bolívar",
+      "aliases": [
+        "Bolivar"
+      ],
+      "explain": "South American independence leader (1783–1830). Took refuge in Haiti in 1815 after defeats; Pétion provided him with arms, money, and ships for his return to Venezuela. Bolívar promised to abolish slavery in return."
+    },
+    {
+      "term": "Treaty of Ryswick",
+      "aliases": [
+        "Ryswick 1697"
+      ],
+      "explain": "1697 treaty in which Spain ceded the western third of Hispaniola to France, creating the French colony of Saint-Domingue. Background to the colonial partition that the Haitian Revolution later erased."
+    },
+    {
+      "term": "War of Knives",
+      "aliases": [
+        "1799–1800 civil war"
+      ],
+      "explain": "1799–1800 conflict between Toussaint Louverture and André Rigaud, a mixed-race general controlling the south. Toussaint won; the war consolidated his power but also exposed internal divisions among revolutionary leaders."
+    },
+    {
+      "term": "André Rigaud",
+      "aliases": [
+        "Rigaud"
+      ],
+      "explain": "Mixed-race general (1761–1811) who controlled southern Saint-Domingue. Fought Toussaint in the War of Knives (1799–1800) and was defeated; later allied with Leclerc's 1802 expedition."
+    },
+    {
+      "term": "Declaration of Independence of Haiti",
+      "aliases": [
+        "Haitian Declaration 1804"
+      ],
+      "explain": "Document proclaimed by Dessalines at Gonaïves on 1 January 1804, declaring Haiti independent and breaking all ties with France. Written largely by Boisrond-Tonnerre."
+    },
+    {
+      "term": "Louis Boisrond-Tonnerre",
+      "aliases": [
+        "Boisrond-Tonnerre"
+      ],
+      "explain": "Haitian writer and officer (c. 1776–1806) who drafted the 1 January 1804 Declaration of Independence. Famous for reportedly saying it should be written 'with the skin of a white man for parchment, his skull for an inkwell, his blood for ink, and a bayonet for a pen.'"
+    },
+    {
+      "term": "C.L.R. James",
+      "aliases": [
+        "CLR James"
+      ],
+      "explain": "Trinidadian historian and writer (1901–1989) whose 1938 book The Black Jacobins is a foundational study of Toussaint Louverture and the Haitian Revolution, connecting Caribbean slavery to European revolutionary politics."
+    },
+    {
+      "term": "Laurent Dubois",
+      "aliases": [
+        "Dubois"
+      ],
+      "explain": "Historian whose works including Avengers of the New World (2004) examine the Haitian Revolution with attention to enslaved agency, revolutionary violence, and Atlantic context."
+    },
+    {
+      "term": "Atlantic slave trade",
+      "aliases": [
+        "transatlantic slave trade"
+      ],
+      "explain": "Forced migration of millions of Africans to the Americas from the sixteenth to nineteenth centuries. Saint-Domingue imported hundreds of thousands of enslaved people in the eighteenth century to work sugar and coffee plantations; the Haitian Revolution broke that system."
+    },
+    {
+      "term": "sugar plantation",
+      "aliases": [
+        "sugar estates"
+      ],
+      "explain": "Large estates growing and processing sugarcane, the economic backbone of Saint-Domingue. Labor-intensive and brutal; enslaved workers faced high mortality rates. The plantations burned in the 1791 uprising."
+    },
+    {
+      "term": "French colonial system",
+      "aliases": [
+        "French empire",
+        "French Caribbean"
+      ],
+      "explain": "France's overseas empire, which by the late eighteenth century included Saint-Domingue, Martinique, Guadeloupe, and other territories. Saint-Domingue was the richest colony; its loss in 1804 was a major blow."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A sugar island, the Code Noir, and half a million people held as property when the French Revolution arrived by print",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Saint-Domingue in 1789 was not a sleepy colony waiting for Europe to give it rights. It was the richest single colony in the eighteenth-century Caribbean—a machine that turned enslaved African labor, brutal discipline, and Caribbean land into sugar and coffee that enriched French ports and planters. Roughly 500,000 enslaved people worked plantations whose output was measured in exports to Bordeaux and Nantes. Free people of color, the affranchis, numbered around 30,000; some owned property and even enslaved people themselves, but colonial law denied them political equality with whites. The white population—grands blancs planters and petits blancs overseers, artisans, and small holders—numbered around 40,000. The Code Noir, promulgated by Louis XIV in 1685, had sixty articles regulating the legal non-personhood of enslaved people, from baptism requirements to the punishments that could be inflicted. The articles were enforced unevenly, but they framed the plantation order that still stood in 1791."
+        },
+        {
+          "type": "p",
+          "text": "When news of the fall of the Bastille and the Declaration of the Rights of Man reached the colony in 1789, every class read the language of equality through its own interests. Grands blancs saw an opening to loosen metropolitan mercantile control. Free people of color seized on 'all men' to demand political rights, sending delegations to Paris. Enslaved people heard the same words and drew different conclusions. Vincent Ogé, a free man of color, returned from France in 1790 with arms and called for rights; his revolt was crushed and he was executed on the wheel in February 1791. That violence was a preview. The May 1791 National Assembly decree granting limited rights to some free people of color born of free parents was resented by white planters and disappointed many affranchis. The colony in mid-1791 was legally a part of Revolutionary France, socially a slave society, and practically a powder magazine."
+        },
+        {
+          "type": "p",
+          "text": "Resistance had not waited for revolutionary news from Paris. Maroons—escaped enslaved people—had lived in the interior mountains for decades. François Mackandal's 1750s conspiracy and poison campaign, crushed when he was burned at the stake in 1758, was still a usable memory. Vodou religious practice, blending West African spiritual traditions and Catholic elements, provided networks and rituals outside planter surveillance. The idea that enslaved people were passive until Europe declared rights is a fiction. What 1789 offered was a destabilizing vocabulary and the visible weakness of metropolitan authority—invitations for organized revolt on a new scale."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "A night in August 1791, thirteen years of war, and the flag that went up on 1 January 1804",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On the night of 21–22 August 1791 (some sources say 14 August, reflecting later reconstructions), enslaved people in the North Province rose in coordinated revolt. The Bois Caïman ceremony—a Vodou gathering traditionally led by Boukman Dutty and involving Cécile Fatiman—is remembered as the symbolic founding moment. Historians debate whether the ceremony happened as oral tradition and later state memory describe, or whether it was consolidated afterward as a unifying origin story. What is not disputed is that plantations burned, white planters were killed or fled, and the uprising spread across the northern plain with speed that terrified colonial authorities. Boukman was killed in battle in November 1791 and his head displayed; the revolt did not stop."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/haitian-revolution/battle-vertieres.jpg",
+          "alt": "Painting of the Battle for Palm Tree Hill, showing Haitian revolutionary soldiers in combat.",
+          "caption": "Battle for Palm Tree Hill (Battle of Vertières), painting by January Suchodolski, 19th century. The 18 November 1803 battle near Cap-Français was the decisive engagement; the French withdrew after defeat. This is a later European painter's reconstruction, not a field sketch, but it shows how the final battle was imagined in the decades after.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Battle_for_Palm_Tree_Hill.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The revolt became a multi-sided war. Britain and Spain, already at war with Revolutionary France, invaded Saint-Domingue in 1793 hoping to seize territory or restore planter order. Toussaint Louverture, a former coachman who had learned to read and had some military experience, emerged as a leader fighting for Spain (Santo Domingo, the eastern part of Hispaniola, was Spanish). Meanwhile the French Civil Commissioners, sent to restore order, faced military collapse. Léger-Félicité Sonthonax, pressed by insurgent strength and British invasion, issued a decree abolishing slavery in the North Province on 29 August 1793 and extended it colony-wide in September. This was a desperate wartime measure, not yet French law. On 4 February 1794 the National Convention in Paris formally abolished slavery in all French territories. Toussaint and other Black generals switched from Spanish to French service. The legal ground had shifted; the plantation system was formally ended; the question was now who would govern Saint-Domingue and under what terms."
+        },
+        {
+          "type": "p",
+          "text": "Toussaint consolidated power through the mid-1790s, defeating British expeditionary forces (Britain withdrew in 1798 after losing thousands to disease and battle) and Spanish incursions. He also fought internal rivals, notably André Rigaud in the War of Knives (1799–1800), a brutal conflict between Toussaint's largely Black army and Rigaud's mixed-race southern forces. By 1801 Toussaint was the unchallenged leader. He invaded Spanish Santo Domingo and took control of the entire island. On 7 July 1801 he promulgated a constitution for Saint-Domingue, naming himself Governor-for-Life, abolishing slavery in perpetuity, and maintaining nominal allegiance to France while asserting near-total autonomy. Napoleon Bonaparte, now First Consul, had not been consulted. He viewed Toussaint's constitution as unacceptable rebellion."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/haitian-revolution/leclerc.jpg",
+          "alt": "Portrait of General Charles Leclerc in French military uniform with high collar and epaulettes.",
+          "caption": "Charles Leclerc, portrait by an unknown artist. Napoleon's brother-in-law and commander of the 1802 expedition sent to restore French control of Saint-Domingue. He died of yellow fever in November 1802; his army lost tens of thousands to disease and renewed insurgent resistance.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Charles_Leclerc.jpg"
+        },
+        {
+          "type": "p",
+          "text": "In February 1802 Napoleon sent an expedition commanded by his brother-in-law Charles Leclerc—roughly 20,000 troops in the initial wave, with more to follow. Leclerc's secret instructions were to restore French authority and prepare to reinstate plantation slavery, though the public rhetoric emphasized order and republicanism. Early French successes and negotiation split the revolutionary leadership. Key generals including Henri Christophe and Jean-Jacques Dessalines submitted to France; Toussaint negotiated terms and retired to a plantation near Gonaïves. On 7 June 1802 French officers lured Toussaint to a meeting and arrested him by deception. He was shipped to France, imprisoned in the cold Jura mountain fortress of Fort de Joux, and died there on 7 April 1803 from neglect, cold, and malnutrition. His arrest reignited the war."
+        },
+        {
+          "type": "p",
+          "text": "Yellow fever destroyed the French expedition faster than any army could. Leclerc himself died of the disease in November 1802. His successor, Donatien de Rochambeau, resorted to mass executions, attack dogs, and terror, which hardened resistance. News that Napoleon had restored slavery in Guadeloupe in May 1802 reached Saint-Domingue and confirmed what many already suspected: the Leclerc expedition was not about rights but reconquest. Dessalines, Christophe, and Alexandre Pétion rejoined the insurgent side. The war was now unambiguously a fight for independence, not reform within the French empire. On 18 November 1803, at Vertières near Cap-Français, the revolutionary army defeated Rochambeau. The French evacuated Cap and then withdrew from the colony entirely. On 1 January 1804, at Gonaïves, Jean-Jacques Dessalines proclaimed the independence of Haiti, restoring the indigenous Taíno name for the land. The hemisphere's second independent republic and the world's first Black republic was born—not from a negotiated treaty, but from the military defeat of a European colonial power by formerly enslaved people."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/haitian-revolution/independence-act.jpg",
+          "alt": "19th century painting depicting the declaration of Haitian independence with figures in military uniforms and a flag.",
+          "caption": "Painting of the Haitian Declaration of Independence ceremony, artist and date uncertain (19th century). Dessalines is shown proclaiming independence before assembled generals. The scene is a later artistic memory, not a contemporary document, but it captures how the 1 January 1804 moment was commemorated.",
+          "credit": "Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Haitian_Revolution.jpg"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "A coachman who learned to read, a general who did not forgive, and the emperor who underestimated a disease",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Haitian Revolution was not a single leader's project. It involved hundreds of thousands of enslaved people who made the decision to risk death for freedom, Vodou priests and priestesses who organized networks, maroon leaders who had resisted for years, free people of color who fought for equality and then for independence, and military commanders who learned tactics by experience. Toussaint Louverture is the most famous name because he built the army and the 1801 constitutional framework, but he died in France before independence. Jean-Jacques Dessalines declared independence and ruled the new state. Henri Christophe and Alexandre Pétion shaped the post-independence order. Napoleon sent tens of thousands to their deaths underestimating both the resolve of the insurgents and the power of yellow fever."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Toussaint Louverture",
+              "dates": "c. 1743–1803",
+              "image": "lessons/haitian-revolution/toussaint-louverture.jpg",
+              "alt": "Period engraving of Toussaint Louverture in French military uniform.",
+              "caption": "Toussaint Louverture, engraving by Nicolas Eustache Maurin. The general who built the revolutionary state, wrote a constitution, and died in a French prison a year before the independence he fought for.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Toussaint_Louverture.jpg",
+              "text": "Born into slavery, possibly in the 1740s, Toussaint learned to read and worked as a coachman. He joined the 1791 uprising, rose to command under Spanish and then French service, defeated British and internal rivals, and by 1801 controlled all of Hispaniola. His 1801 constitution asserted near-autonomy while keeping nominal French sovereignty. Arrested by French officers in June 1802, he was imprisoned at Fort de Joux and died there on 7 April 1803. His military and political architecture outlasted him; his death became a rallying symbol."
+            },
+            {
+              "name": "Jean-Jacques Dessalines",
+              "dates": "c. 1758–1806",
+              "image": "lessons/haitian-revolution/dessalines.jpg",
+              "alt": "Portrait of Jean-Jacques Dessalines in military uniform with medals and sash.",
+              "caption": "Jean-Jacques Dessalines, period portrait. The general who declared independence on 1 January 1804 and ruled Haiti until his assassination in 1806.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Jean_Jacques_Dessalines.jpg",
+              "text": "Born enslaved, Dessalines fought under Toussaint, briefly submitted to Leclerc in 1802, then rejoined the rebellion when French intentions became clear. He commanded at Vertières in November 1803 and proclaimed independence at Gonaïves on 1 January 1804. As governor-general and then Emperor Jacques I, he ordered the 1804 massacres of remaining French settlers to consolidate the break with France. He was assassinated in an ambush in October 1806, and the country split between Christophe's north and Pétion's south."
+            },
+            {
+              "name": "Henri Christophe",
+              "dates": "1767–1820",
+              "image": "lessons/haitian-revolution/napoleon.jpg",
+              "alt": "Painting of Napoleon Bonaparte in his study wearing military uniform.",
+              "caption": "Napoleon Bonaparte, by Jacques-Louis David, 1812. The French emperor who sent the 1802 expedition to reconquer Saint-Domingue and whose imperial ambitions were checked by yellow fever and insurgent resistance.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+              "text": "Born in Grenada, Christophe fought in the revolution, initially submitted to the French in 1802, then returned to the insurgent side. After Dessalines's death he ruled the northern Kingdom of Haiti (1806–1820) as King Henri I, building the massive Citadelle Laferrière fortress to defend against expected French invasion. He shot himself in 1820 during a rebellion."
+            },
+            {
+              "name": "Napoleon Bonaparte",
+              "dates": "1769–1821",
+              "image": "lessons/haitian-revolution/napoleon.jpg",
+              "alt": "Napoleon in his study, 1812 painting by Jacques-Louis David.",
+              "caption": "Napoleon Bonaparte in his study at the Tuileries, 1812, by Jacques-Louis David. First Consul and then Emperor, he restored slavery in Guadeloupe and sent the Leclerc expedition to reconquer Saint-Domingue; both policies failed, and Haiti's independence marked a major colonial defeat.",
+              "credit": "Wikimedia Commons / public domain",
+              "credit_url": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+              "text": "As First Consul, Napoleon saw Toussaint's 1801 constitution as unacceptable and dispatched Leclerc with orders to restore French authority and prepare the ground for re-enslavement. The expedition's collapse to yellow fever and insurgent resistance was one of the great military failures of his career. By 1804 he had lost the colony and abandoned plans for a North American empire, selling Louisiana to the United States in 1803."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "Napoleonic Europe, the Louisiana Purchase, and Spanish America watching the hemisphere's first successful slave revolution",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Haitian Revolution unfolded while Europe was remaking itself through revolutionary and Napoleonic wars. The National Convention's 1794 abolition of slavery was reversed when Napoleon restored it in Guadeloupe in 1802; the French Revolution's universalist language had always been contested in the colonies. In 1803 Napoleon sold Louisiana to the United States for fifteen million dollars, a transaction made possible in part because the catastrophic failure of the Saint-Domingue expedition had already killed his ambitions for a western empire. Thomas Jefferson, who bought the territory, was a slaveholder who viewed the Haitian Revolution with alarm as a dangerous example for enslaved people in the United States."
+        },
+        {
+          "type": "p",
+          "text": "The revolution terrified slaveholding societies across the Americas. In the United States, Gabriel's Rebellion (Virginia, 1800) and Denmark Vesey's planned uprising (South Carolina, 1822) were suppressed with references to Haiti as the specter. In Jamaica and Cuba, planters tightened controls and lobbied for military reinforcements. In Spanish America, Simón Bolívar took refuge in Haiti in 1815 after defeats; Alexandre Pétion provided him with arms, ships, and money in exchange for a promise to abolish slavery—a promise Bolívar kept unevenly. The Haitian example inspired enslaved and free people of color across the hemisphere and provided material support to independence movements, even as newly independent Latin American republics often maintained diplomatic distance from the Black republic they feared to acknowledge."
+        },
+        {
+          "type": "p",
+          "text": "Diplomatically, Haiti was isolated. The United States did not recognize Haitian independence until 1862, during the Civil War. France did not recognize it until 1825, and then only under the coercion of a naval threat and in exchange for the notorious indemnity of 150 million francs (later reduced to 90 million) to compensate former slaveholders. Britain, which had lost thousands of troops trying to conquer Saint-Domingue in the 1790s, granted de facto trade relations but delayed formal recognition. The revolution that destroyed Atlantic slavery's richest colony was never forgiven by the powers that had profited from it."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "A divided state, an indemnity that lasted a century, and the long costs of being the first",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jean-Jacques Dessalines ruled Haiti as governor-general and then, from October 1804, as Emperor Jacques I. In 1804 he ordered the massacre of the remaining French settlers to seal the rupture with the colonial past—killings that were both state terror and the violent consolidation of independence. He was assassinated in October 1806. The country then split between Henri Christophe's northern kingdom (1806–1820) and Alexandre Pétion's southern republic (1806–1818). Christophe built the Citadelle Laferrière, a massive mountaintop fortress, in anticipation of a French invasion that never came. Jean-Pierre Boyer reunified the country in 1820 and ruled until 1843, but the split revealed persistent tensions between Black former slaves and mixed-race elites, between militarized labor systems and land redistribution, and between defensive authoritarianism and republican ideals."
+        },
+        {
+          "type": "p",
+          "text": "In 1825 France sent warships and threatened to re-invade unless Haiti paid an indemnity of 150 million francs to compensate former slaveholders for lost 'property.' Boyer agreed under duress. The amount was reduced to 90 million francs in 1838, but Haiti had to borrow from French banks at high interest to make payments. The debt and its interest burden drained the Haitian treasury for more than a century—Haiti's last payment was in 1947, though some scholars argue the effective burden lasted longer. The indemnity is now widely recognized as extortion; France has not repaid it. The double debt—borrowing to pay the people who had enslaved you—crippled Haiti's development and stands as one of the starkest examples of how colonial powers extracted wealth even after formal independence."
+        },
+        {
+          "type": "p",
+          "text": "The memory politics of the Haitian Revolution remain contested. Haiti commemorates 1 January 1804 as independence day and remembers Toussaint, Dessalines, and Christophe as founding heroes. The Bois Caïman ceremony, whether historical event or later consolidation, is a central symbol of revolutionary consciousness. Foreign observers in the nineteenth and twentieth centuries often portrayed the revolution as chaos or barbarism, narratives that justified continued intervention (the United States occupied Haiti 1915–1934). Modern scholarship, beginning with C.L.R. James's The Black Jacobins (1938) and continuing through Laurent Dubois and others, has recovered the Haitian Revolution as a foundational event in Atlantic history, anti-slavery struggle, and the Black radical tradition. The revolution that planters tried to bury became, in the long run, the proof that enslaved people could defeat empires and build states—even if the hemisphere's powers punished them for it."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If the French National Convention had not abolished slavery in February 1794, or if Napoleon had not sent the Leclerc expedition in 1802, do you think the Saint-Domingue insurgents would still have built an independent Haiti by 1804—or would the revolution have taken a different path, perhaps remaining within a reformed French empire?"
+        }
+      ]
+    }
+  ]
+}
