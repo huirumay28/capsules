@@ -1,20 +1,18 @@
 # Image sources for stereotype-threat lesson
 
-This lesson requires the following images:
+1. **stanford-quad.jpg** — Stanford University Main Quad arcade
+   - Source: [File:Stanford_University_Arches.JPG](https://commons.wikimedia.org/wiki/File:Stanford_University_Arches.JPG)
+   - Author: Jawed Karim (2005)
+   - License: CC BY-SA 3.0
 
-1. **stanford-quad.jpg** - Stanford University Main Quad with arches and palm trees
-   - Source needed: Wikimedia Commons or institutional photographs
-   - License: Public domain or CC-BY
-   - Search: "Stanford University Main Quad" on Wikimedia Commons
+2. **stanford-library.jpg** — Bing Wing, Cecil H. Green Library, Stanford
+   - Source: [File:Stanford_University_Green_Library_Bing_Wing.jpg](https://commons.wikimedia.org/wiki/File:Stanford_University_Green_Library_Bing_Wing.jpg)
+   - Author: LPS.1 (2013)
+   - License: CC0 1.0
 
-2. **stanford-library.jpg** - Stanford Green Library exterior
-   - Source needed: Wikimedia Commons or institutional photographs  
-   - License: Public domain or CC-BY
-   - Search: "Stanford Green Library" on Wikimedia Commons
+3. **test-booklet.jpg** — Optical mark (bubble) answer sheet
+   - Source: [File:Mark-sheet.JPG](https://commons.wikimedia.org/wiki/File:Mark-sheet.JPG)
+   - Author: Genppy (2007)
+   - License: Public domain (PD-self)
 
-3. **test-booklet.jpg** - Standardized test answer sheet/bubble sheet
-   - Source needed: Generic educational materials photographs
-   - License: Public domain or CC-BY
-   - Alternative: Create simple diagram showing test format
-
-All images should be institutional/documentary in nature, not depicting individual people in testing situations, to avoid privacy and dignity concerns.
+Previous files were mislabeled copies of Swarthmore College campus photos (Parrish Hall / McCabe Library) and an Asch line-judgment schematic; they were replaced 2026-09-20.

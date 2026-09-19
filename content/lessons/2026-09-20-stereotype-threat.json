@@ -2,21 +2,25 @@
   "slug": "stereotype-threat",
   "date": "2026-09-20",
   "subject": "psych",
-  "related": ["asch-conformity", "milgram-obedience", "cognitive-dissonance"],
+  "related": [
+    "asch-conformity",
+    "milgram-obedience",
+    "cognitive-dissonance"
+  ],
   "title": "Stereotype threat: the concept, then Steele and Aronson's testing experiments at Stanford in the mid-1990s",
   "dek": "What stereotype threat means — a situational predicament where the risk of confirming a negative stereotype about one's group can undermine performance in the domain where that stereotype applies — then Claude Steele and Joshua Aronson's 1995 experiments with Black and White Stanford undergraduates taking difficult verbal GRE items under different framings.",
   "era": "concept developed early 1990s; Journal of Personality and Social Psychology 1995; subsequent replications and meta-analyses 1990s–2020s",
   "reading_minutes": 21,
   "thumb": {
     "src": "lessons/stereotype-threat/stanford-quad.jpg",
-    "alt": "Stanford University's Main Quad with arched walkways and palm trees."
+    "alt": "Arched sandstone arcade of Stanford University's Main Quad, with checkered tile floor and palm trees beyond."
   },
   "hero": {
     "src": "lessons/stereotype-threat/stanford-quad.jpg",
-    "alt": "Stanford University's Main Quad, showing stone arches and palm trees in California sunlight.",
-    "caption": "Stanford University's Main Quad. Claude Steele and Joshua Aronson conducted their landmark stereotype threat experiments with Stanford undergraduates in the mid-1990s. This campus setting — prestigious, competitive, academically selective — was the context where Black and White students took difficult verbal tests under manipulated framings. Not a photograph of the experimental room, but the institutional place.",
-    "credit": "Stanford campus architecture / public institutional setting",
-    "credit_url": ""
+    "alt": "View through Stanford Main Quad sandstone arches onto a sunlit courtyard with palms and red-tile roofs.",
+    "caption": "Stanford University Main Quad arcade (photograph by Jawed Karim, 2005). Claude Steele and Joshua Aronson ran their landmark stereotype-threat experiments with Stanford undergraduates in the mid-1990s. This is the institutional place — Richardsonian Romanesque sandstone, arcades, palms — not a photograph of the experimental room.",
+    "credit": "Jawed Karim / Wikimedia Commons / CC BY-SA 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Stanford_University_Arches.JPG"
   },
   "honesty": "This lesson presents stereotype threat as a concept first, then Steele and Aronson's 1995 experiments as the foundational case study. The core finding: when a difficult verbal test was framed as diagnostic of ability (making race-related stereotypes about intelligence salient), Black Stanford students underperformed relative to White students with matched SAT scores; when the same test was framed as nondiagnostic (a laboratory problem-solving task, not an ability test), the performance gap was eliminated or substantially reduced. The samples were Stanford undergraduates, a selective and high-achieving population. The tests were difficult items from the verbal GRE. Stereotype threat is a situational mechanism, not a trait or an explanation for all achievement gaps. The literature includes successful replications, meta-analyses showing moderate effect sizes, and ongoing debates about boundary conditions, replicability, and practical interventions. This lesson does not claim stereotype threat accounts for all group differences in testing or that it operates identically across all contexts. It is one mechanism among many. Spencer, Steele, and Quinn's 1999 findings on women and math are included as a parallel case. The concept has been extended to other stereotyped groups and domains; results vary. Honesty requires naming the limits: college samples, lab conditions, effect-size variation, and replication discussions.",
   "timeline": [
@@ -124,7 +128,9 @@
     {
       "term": "stereotype threat",
       "explain": "A situational predicament in which people are at risk of confirming, as self-characteristic, a negative stereotype about a social group to which they belong. The threat is in the air, not inside the person. Being in a situation where a stereotype about your group might apply to your performance can undermine that performance.",
-      "aliases": ["stereotype threat effect"]
+      "aliases": [
+        "stereotype threat effect"
+      ]
     },
     {
       "term": "situational threat",
@@ -141,27 +147,38 @@
     {
       "term": "Claude M. Steele",
       "explain": "American social psychologist (born 1946). Developed the stereotype threat framework in the 1990s while at Stanford. Later wrote Whistling Vivaldi (2010) summarizing the research. Executive Vice Chancellor and Provost at UC Berkeley; Provost at Columbia; current professor at Stanford.",
-      "aliases": ["Claude Steele", "Steele"]
+      "aliases": [
+        "Claude Steele",
+        "Steele"
+      ]
     },
     {
       "term": "Joshua Aronson",
       "explain": "Social psychologist who collaborated with Claude Steele on the foundational 1995 stereotype threat experiments as a postdoctoral researcher. Later professor at New York University, continuing work on motivation, identity, and educational interventions.",
-      "aliases": ["Aronson"]
+      "aliases": [
+        "Aronson"
+      ]
     },
     {
       "term": "Steven Spencer",
       "explain": "Social psychologist who collaborated with Steele and Quinn on the 1999 stereotype threat and women's math performance study. Professor at University of Waterloo specializing in social cognition and stereotyping.",
-      "aliases": ["Spencer"]
+      "aliases": [
+        "Spencer"
+      ]
     },
     {
       "term": "Diane Quinn",
       "explain": "Social psychologist, co-author of the 1999 Spencer, Steele, and Quinn study on women and math. Professor at University of Connecticut studying gender, body image, and stereotypes.",
-      "aliases": ["Quinn"]
+      "aliases": [
+        "Quinn"
+      ]
     },
     {
       "term": "Journal of Personality and Social Psychology",
       "explain": "Premier APA journal that published Steele and Aronson's 1995 stereotype threat paper. Known for rigorous peer review and influential findings in social and personality psychology.",
-      "aliases": ["JPSP"]
+      "aliases": [
+        "JPSP"
+      ]
     },
     {
       "term": "verbal GRE",
@@ -190,7 +207,9 @@
     {
       "term": "The Bell Curve",
       "explain": "1994 book by Richard Herrnstein and Charles Murray arguing that intelligence (measured by IQ) is substantially heritable and differs on average by race. The book reignited debates about genes, testing, and policy. Steele and Aronson's stereotype threat work offered a situational, environmental counternarrative.",
-      "aliases": ["Herrnstein and Murray"]
+      "aliases": [
+        "Herrnstein and Murray"
+      ]
     },
     {
       "term": "Richard Herrnstein",
@@ -207,7 +226,9 @@
     {
       "term": "A Threat in the Air",
       "explain": "Title of Claude Steele's 1997 American Psychologist essay. The phrase captures the idea that stereotype threat is an environmental feature, not an individual deficit.",
-      "aliases": ["Threat in the Air"]
+      "aliases": [
+        "Threat in the Air"
+      ]
     },
     {
       "term": "Whistling Vivaldi",
@@ -220,12 +241,16 @@
     {
       "term": "Spencer, Steele, and Quinn 1999",
       "explain": "Journal of Experimental Social Psychology paper showing stereotype threat operates for women in math domains, not only for racial minorities in verbal or general intelligence domains. A key generalization of the phenomenon.",
-      "aliases": ["Spencer et al. 1999"]
+      "aliases": [
+        "Spencer et al. 1999"
+      ]
     },
     {
       "term": "values affirmation",
       "explain": "A brief writing intervention in which students reflect on their core personal values. Geoffrey Cohen and others found that this exercise, done at the start of a term, can buffer stereotype threat and improve academic performance for negatively stereotyped groups over months or years.",
-      "aliases": ["self-affirmation intervention"]
+      "aliases": [
+        "self-affirmation intervention"
+      ]
     },
     {
       "term": "Geoffrey Cohen",
@@ -246,7 +271,9 @@
     {
       "term": "Nguyen and Ryan 2008",
       "explain": "Hannah-Hanh Nguyen and Ann Marie Ryan's meta-analysis in Journal of Applied Psychology. Consolidated experimental stereotype threat studies and found moderate effects that varied by stereotype relevance and task difficulty.",
-      "aliases": ["Nguyen and Ryan"]
+      "aliases": [
+        "Nguyen and Ryan"
+      ]
     },
     {
       "term": "effect size",
@@ -303,12 +330,16 @@
     {
       "term": "Solomon Asch",
       "explain": "Social psychologist whose conformity experiments showed how group pressure can distort judgment. Relevant here as another situational mechanism: Asch studied peer pressure; Steele studied identity threat. Both show situations shape behavior.",
-      "aliases": ["Asch"]
+      "aliases": [
+        "Asch"
+      ]
     },
     {
       "term": "Stanley Milgram",
       "explain": "Social psychologist whose obedience experiments showed how authority commands can override conscience. Like stereotype threat, Milgram's work demonstrates the power of situational factors over individual traits.",
-      "aliases": ["Milgram"]
+      "aliases": [
+        "Milgram"
+      ]
     },
     {
       "term": "cognitive dissonance",
@@ -402,10 +433,10 @@
         {
           "type": "figure",
           "src": "lessons/stereotype-threat/stanford-library.jpg",
-          "alt": "Stanford University's Green Library, a large academic building with steps leading to the entrance.",
-          "caption": "Stanford University's Green Library, a central campus landmark. Steele and Aronson's participants were Stanford students, moving through this environment — competitive, intellectually demanding, historically White-dominated. The experiments took place in psychology labs on campus, not in this library, but the institutional setting is part of the story. This is the place where stereotype threat was first systematically measured.",
-          "credit": "Stanford campus institutional photograph",
-          "credit_url": ""
+          "alt": "Bing Wing of Stanford's Cecil H. Green Library, sandstone facade with arched windows and a circular fountain in front.",
+          "caption": "Bing Wing of the Cecil H. Green Library, Stanford University (photograph by LPS.1, 2013). Steele and Aronson's participants were Stanford students in this campus environment — competitive, intellectually demanding, historically White-dominated. The experiments took place in psychology labs on campus, not in this library; the building marks the institution and place.",
+          "credit": "LPS.1 / Wikimedia Commons / CC0 1.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Stanford_University_Green_Library_Bing_Wing.jpg"
         },
         {
           "type": "p",
@@ -429,10 +460,10 @@
         {
           "type": "figure",
           "src": "lessons/stereotype-threat/test-booklet.jpg",
-          "alt": "A generic standardized test answer sheet with bubble grids, photographed from above.",
-          "caption": "A standardized test answer sheet. The mid-1990s debates about IQ, race, and testing were not abstractions. They were about instruments like this: bubble sheets, timed exams, demographic questions at the top. Steele and Aronson's work argued that the context in which such tests are given — the framing, the cues, the social meanings — shapes the scores students produce. Not a photograph from the 1995 experiments, but the everyday material reality of high-stakes testing.",
-          "credit": "Generic standardized test materials / institutional context",
-          "credit_url": ""
+          "alt": "Close-up of a standardized optical-mark answer sheet with numbered rows of fill-in bubbles.",
+          "caption": "A standardized optical-mark (bubble) answer sheet from Japan's National Center Test for University Admissions (photograph by Genppy, 2007; released to the public domain). Not from Steele and Aronson's 1995 Stanford sessions — those used difficult verbal GRE items in a lab — but the everyday material of high-stakes testing: grids, timed marks, and demographic cues at the top of the form.",
+          "credit": "Genppy / Wikimedia Commons / public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Mark-sheet.JPG"
         },
         {
           "type": "p",
