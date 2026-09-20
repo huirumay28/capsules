@@ -4,12 +4,13 @@
   "subject": "feminism",
   "related": [
     "second-wave",
-    "intersectionality"
+    "intersectionality",
+    "ecofeminism"
   ],
   "title": "Care ethics: Gilligan's challenge to Kohlberg's justice-only model, then Noddings, Tronto, and the politics of dependency",
-  "dek": "How the ethics of care emerged as a critique of moral psychology's justice-and-rights paradigm, what it claims about interdependence and responsibility for concrete others, who developed it philosophically and politically from the 1980s onward, and how it named unpaid care labor as moral and political fact.",
-  "era": "Gilligan's In a Different Voice 1982; Noddings's Caring 1984; Tronto's Moral Boundaries 1993; ongoing debates on care as public good",
-  "reading_minutes": 24,
+  "dek": "How the ethics of care emerged as a critique of moral psychology's justice-and-rights paradigm, what it claims about interdependence and responsibility for concrete others, who developed it philosophically and politically from the 1980s onward, and how it named unpaid and underpaid care labor as moral and political fact.",
+  "era": "Gilligan's In a Different Voice 1982; Noddings's Caring 1984; Tronto's Moral Boundaries 1993; Sevenhuijsen and Kittay late 1990s; ongoing debates on care as public good",
+  "reading_minutes": 26,
   "thumb": {
     "src": "lessons/care-ethics/carol-gilligan-2011.jpg",
     "alt": "Portrait of Carol Gilligan photographed in 2011 at Haifa Beach"
@@ -17,63 +18,643 @@
   "hero": {
     "src": "lessons/care-ethics/carol-gilligan-2011.jpg",
     "alt": "Carol Gilligan at Haifa Beach, photographed in May 2011 by Deror avi",
-    "caption": "Carol Gilligan, photographed at Haifa Beach on 27 May 2011. In 1982 Harvard University Press published her In a Different Voice: Psychological Theory and Women's Development, the book that brought care ethics into academic and public debate.",
+    "caption": "Carol Gilligan, photographed at Haifa Beach on 27 May 2011. In 1982 Harvard University Press published her In a Different Voice: Psychological Theory and Women's Development, the book that brought the care perspective into open conflict with Kohlberg's justice-centered stages of moral development.",
     "credit": "Deror avi / Wikimedia Commons / CC BY-SA 3.0",
     "credit_url": "https://commons.wikimedia.org/wiki/File:Carol_Gilligan_P1010970_-_cropped.jpg"
   },
-  "honesty": "This lesson treats care ethics as a named philosophical tradition following Gilligan 1982, Noddings 1984, Tronto 1993.",
+  "honesty": "This lesson treats care ethics as a named philosophical and political tradition with dated origins, not as a claim that women are naturally more caring. The core arc follows Carol Gilligan's In a Different Voice (1982), Nel Noddings's Caring (1984), and Joan C. Tronto's Moral Boundaries (1993). Gilligan argued against Lawrence Kohlberg's stage model, which treated abstract justice reasoning as more mature than relational reasoning; she presented care as a distinct moral orientation, not a lower stage. Later critics — including Claudia Card and others — warned against essentialism and against valorizing unpaid care without asking who does the labor. Tronto and Eva Feder Kittay moved the argument into political economy and disability/dependency theory. Elsewhere is Selma Sevenhuijsen's Dutch work on citizenship and care in the 1990s, contemporaneous with Tronto's political turn — not a paired Asia chapter. Photographs are free-licensed institutional images: Gilligan's portrait, Harvard University Press at Kittredge Hall, a Dutch daycare, a Finnish nursing home, and a 2020 U.S. nursing graduation. They mark places and professions of care work; they are not pictures of the theorists at work in 1982.",
   "timeline": [
+    {
+      "year": "1958–1969",
+      "label": "Kohlberg's stages",
+      "detail": "Lawrence Kohlberg developed and published his stages of moral development, ranking progress toward abstract, universal principles of justice. Early samples were heavily male; later inclusion of girls often placed them at lower scored stages."
+    },
+    {
+      "year": "c. 1970s",
+      "label": "Gilligan and Kohlberg at Harvard",
+      "detail": "Carol Gilligan worked in the Harvard milieu around Kohlberg's moral-development research. She began hearing, in women's interview accounts, a relational moral language that the stage scoring treated as immature."
+    },
+    {
+      "year": "1980",
+      "label": "Ruddick: Maternal Thinking",
+      "detail": "Sara Ruddick published the essay \"Maternal Thinking,\" arguing that the practice of mothering yields distinctive cognitive and moral capacities. Held and others later treat this as an early articulation of a care-centered ethic."
+    },
     {
       "year": "1982",
       "label": "In a Different Voice",
-      "detail": "Carol Gilligan published In a Different Voice (Harvard University Press). Critiqued Kohlberg's stages, proposed care as a moral orientation."
+      "detail": "Carol Gilligan published In a Different Voice: Psychological Theory and Women's Development (Harvard University Press). She critiqued Kohlberg's justice ranking and named a care perspective concerned with relationships, responsibility, and concrete others."
     },
     {
       "year": "1984",
       "label": "Noddings: Caring",
-      "detail": "Nel Noddings published Caring. Developed care ethics for education."
+      "detail": "Nel Noddings published Caring: A Feminine Approach to Ethics and Moral Education (University of California Press), giving care ethics a full philosophical account built around the one-caring and the cared-for."
+    },
+    {
+      "year": "1987",
+      "label": "Women and Moral Theory",
+      "detail": "Eva Feder Kittay and Diana T. Meyers edited Women and Moral Theory, an early anthology mapping philosophical responses to Gilligan's challenge across autonomy, principles, and feminist ethics."
+    },
+    {
+      "year": "1989",
+      "label": "Maternal Thinking (book)",
+      "detail": "Sara Ruddick published Maternal Thinking: Toward a Politics of Peace, extending maternal practice into a broader argument about peace politics and the virtues of preservative love, fostering growth, and training."
     },
     {
       "year": "1993",
       "label": "Tronto: Moral Boundaries",
-      "detail": "Joan C. Tronto published Moral Boundaries. Moved care ethics to political economy."
+      "detail": "Joan C. Tronto published Moral Boundaries: A Political Argument for an Ethic of Care (Routledge). She relocated care from private virtue to political practice and set out four phases of care with corresponding moral qualities."
+    },
+    {
+      "year": "1995",
+      "label": "Bubeck: Care, Gender and Justice",
+      "detail": "Diemut Bubeck published Care, Gender and Justice (Clarendon Press), analyzing care as exploited gendered labor and pressing care ethics toward questions of justice and political economy."
+    },
+    {
+      "year": "1998",
+      "label": "Sevenhuijsen: Citizenship and Care",
+      "detail": "Selma Sevenhuijsen published Citizenship and the Ethics of Care: Feminist Considerations on Justice, Morality and Politics (Routledge), bringing care ethics into Dutch and European debates on citizenship, welfare, and public responsibility for care."
+    },
+    {
+      "year": "1999",
+      "label": "Kittay: Love's Labor",
+      "detail": "Eva Feder Kittay published Love's Labor: Essays on Women, Equality and Dependency (Routledge), centering severe dependency and the equality claims of dependency workers in disability and feminist political theory."
+    },
+    {
+      "year": "2006–2013",
+      "label": "Held and Tronto continue",
+      "detail": "Virginia Held published The Ethics of Care: Personal, Political, and Global (2006). Tronto later published Caring Democracy (2013), extending care as a democratic political ideal and adding emphasis on caring with solidarity."
     }
   ],
   "watch": [],
   "listen": [],
   "read": [
     {
-      "title": "Carol Gilligan — In a Different Voice (1982)",
-      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674445444",
-      "note": "The foundational text."
+      "title": "Carol Gilligan — In a Different Voice: Psychological Theory and Women's Development (Harvard University Press, 1982)",
+      "url": "https://www.hup.harvard.edu/books/9780674445444",
+      "note": "The foundational book. Critiques Kohlberg's justice-ranked stages and presents the care perspective through interview studies, including the Heinz-dilemma contrasts. Publisher page; book requires purchase or library access."
+    },
+    {
+      "title": "Nel Noddings — Caring: A Feminine Approach to Ethics and Moral Education (University of California Press, 1984)",
+      "url": "https://www.ucpress.edu/book/9780520057470/caring",
+      "note": "Philosophical elaboration of care as relation between one-caring and cared-for; natural and ethical caring; engrossment and motivational displacement. Publisher page."
+    },
+    {
+      "title": "Joan C. Tronto — Moral Boundaries: A Political Argument for an Ethic of Care (Routledge, 1993)",
+      "url": "https://www.routledge.com/Moral-Boundaries-A-Political-Argument-for-an-Ethic-of-Care/Tronto/p/book/9780415906425",
+      "note": "Moves care ethics into political theory. Four phases of care; critique of moral boundaries that privatize care; analysis of who does care work. Publisher page."
+    },
+    {
+      "title": "Selma Sevenhuijsen — Citizenship and the Ethics of Care (Routledge, 1998)",
+      "url": "https://www.routledge.com/Citizenship-and-the-Ethics-of-Care-Feminist-Considerations-on-Justice-Morality/Sevenhuijsen/p/book/9780415170826",
+      "note": "Dutch feminist political theory applying care ethics to citizenship and welfare-state politics. Contemporaneous political strand outside the U.S. academy's first wave of care ethics. Publisher page."
+    },
+    {
+      "title": "Eva Feder Kittay — Love's Labor: Essays on Women, Equality and Dependency (Routledge, 1999)",
+      "url": "https://www.routledge.com/Loves-Labor-Essays-on-Women-Equality-and-Dependency/Kittay/p/book/9781138089914",
+      "note": "Dependency-based equality; dependency workers; critique of liberal theories that assume independent adults. Central for disability studies and care ethics. Publisher page."
+    },
+    {
+      "title": "Virginia Held — The Ethics of Care: Personal, Political, and Global (Oxford University Press, 2006)",
+      "url": "https://global.oup.com/academic/product/the-ethics-of-care-9780195180992",
+      "note": "Synthesis treating care as clusters of practices and values with implications beyond the intimate sphere. Publisher page."
+    },
+    {
+      "title": "Internet Encyclopedia of Philosophy — \"Care Ethics\" (Maureen Sander-Staudt)",
+      "url": "https://iep.utm.edu/care-ethics/",
+      "note": "Open, citable overview of Gilligan, Noddings, Tronto, Held, Kittay, Ruddick; definitions; major criticisms (essentialism, parochialism, slave-morality charge)."
+    },
+    {
+      "title": "Stanford Encyclopedia of Philosophy — \"Feminist Ethics\" (section on ethic of care and relational ethics)",
+      "url": "https://plato.stanford.edu/entries/feminism-ethics/",
+      "note": "Open SEP entry. Section 2.2 summarizes Gilligan vs. Kohlberg, Noddings, Tronto, Held, Kittay, and later critiques and expansions including race, class, and disability."
     }
   ],
-  "fun_fact": null,
+  "fun_fact": {
+    "title": "Jake saw a math problem; Amy saw a web of relationships",
+    "text": "In In a Different Voice, Gilligan retells how two children in Kohlberg's orbit answered the Heinz dilemma — should Heinz steal an overpriced drug to save his dying wife? Eleven-year-old Jake treats it like a hierarchy of rights: life outweighs property, so Heinz should steal. Eleven-year-old Amy refuses that frame. She worries that theft could send Heinz to prison and leave his wife worse off, and she imagines talking the druggist into another arrangement. Gilligan's point was not that Amy was nicer. It was that Amy reasoned in a different moral language — narrative, relational, aimed at mending a damaged network — and that Kohlberg's scoring system heard that language as less developed than Jake's rights talk. The names Jake and Amy became classroom shorthand for the justice voice and the care voice."
+  },
   "glossary": [
     {
       "term": "care ethics",
       "aliases": [
-        "ethics of care"
+        "ethics of care",
+        "ethic of care",
+        "Care ethics"
       ],
-      "explain": "Moral approach emphasizing interdependence, attentiveness, responsibility for concrete others, and relationships."
+      "explain": "A moral approach that treats interdependence, attentiveness to need, responsibility for concrete others, and the maintenance of relationships as central to morality — not as immature substitutes for abstract justice reasoning."
     },
     {
       "term": "Carol Gilligan",
       "aliases": [
         "Gilligan"
       ],
-      "explain": "American psychologist born 1936. Published In a Different Voice in 1982, naming care ethics."
+      "explain": "American psychologist, born 1936. Published In a Different Voice (1982), arguing that Kohlberg's justice-centered stages misheard a care perspective in women's moral reasoning."
+    },
+    {
+      "term": "In a Different Voice",
+      "aliases": [
+        "In a Different Voice: Psychological Theory and Women's Development"
+      ],
+      "explain": "Gilligan's 1982 book from Harvard University Press. Critiques Kohlberg's ranking of moral maturity and presents care as a distinct moral orientation concerned with relationships and responsibility."
+    },
+    {
+      "term": "Lawrence Kohlberg",
+      "aliases": [
+        "Kohlberg"
+      ],
+      "explain": "American psychologist (1927–1987) whose stages of moral development treated progress toward universal principles of justice as the measure of moral maturity. Gilligan's main critical target."
+    },
+    {
+      "term": "stages of moral development",
+      "aliases": [
+        "Kohlberg's stages",
+        "Kohlberg stages"
+      ],
+      "explain": "Kohlberg's developmental sequence from preconventional through conventional to postconventional moral reasoning. Higher stages prize abstract, principled justice; relational answers often scored lower."
+    },
+    {
+      "term": "Heinz dilemma",
+      "aliases": [
+        "Heinz's dilemma"
+      ],
+      "explain": "A Kohlberg scenario: should Heinz steal a drug he cannot afford to save his dying wife? Used to elicit and score moral reasoning. Gilligan used Jake's and Amy's contrasting answers to show two moral languages."
+    },
+    {
+      "term": "Jake and Amy",
+      "aliases": [
+        "Jake",
+        "Amy"
+      ],
+      "explain": "Two children whose Heinz-dilemma answers Gilligan contrasts in In a Different Voice. Jake frames rights in conflict; Amy frames a narrative of relationships that must be repaired."
+    },
+    {
+      "term": "justice perspective",
+      "aliases": [
+        "morality of rights",
+        "justice orientation",
+        "voice of justice"
+      ],
+      "explain": "In Gilligan's contrast, a moral orientation that prioritizes autonomy, rights, impartial rules, and hierarchical ranking of principles — the orientation Kohlberg's stages privileged."
+    },
+    {
+      "term": "care perspective",
+      "aliases": [
+        "voice of care",
+        "morality of responsibility",
+        "different voice"
+      ],
+      "explain": "In Gilligan's contrast, a moral orientation that prioritizes relationships, responsibility, attentiveness to particular others, and avoiding harm within a network of interdependence."
+    },
+    {
+      "term": "interdependence",
+      "explain": "The claim that persons are not first independent choosers who then optionally relate; they are formed in, and continually rely on, relationships of care and dependency."
+    },
+    {
+      "term": "concrete others",
+      "aliases": [
+        "concrete other"
+      ],
+      "explain": "Particular, situated persons with specific needs and histories — contrasted with the abstract, interchangeable \"generalized other\" of many justice theories."
+    },
+    {
+      "term": "attentiveness",
+      "explain": "In Tronto's account, the moral quality of noticing that a need exists. Failure of attentiveness is not noticing — a common political and administrative failure, not only private indifference."
+    },
+    {
+      "term": "Nel Noddings",
+      "aliases": [
+        "Noddings"
+      ],
+      "explain": "American philosopher of education (1929–2022). Author of Caring (1984), which gave care ethics a systematic relational account centered on the one-caring and the cared-for."
+    },
+    {
+      "term": "Caring",
+      "aliases": [
+        "Caring: A Feminine Approach to Ethics and Moral Education"
+      ],
+      "explain": "Noddings's 1984 book (University of California Press). Argues that ethical life is rooted in caring relations, engrossment, and motivational displacement rather than universal principles alone."
+    },
+    {
+      "term": "one-caring",
+      "aliases": [
+        "one caring",
+        "the one-caring"
+      ],
+      "explain": "Noddings's term for the person who cares: the agent who receives the other, resists projecting the self onto them, and is moved to act on their behalf."
+    },
+    {
+      "term": "cared-for",
+      "aliases": [
+        "the cared-for",
+        "cared for"
+      ],
+      "explain": "Noddings's term for the recipient of care. Care is incomplete until the cared-for somehow receives it; the relation is two-sided, not a one-way virtue of the caregiver alone."
+    },
+    {
+      "term": "engrossment",
+      "explain": "Noddings's term for receptive attention: taking in the cared-for on their own terms rather than imposing the caregiver's projection or agenda."
+    },
+    {
+      "term": "motivational displacement",
+      "explain": "Noddings's claim that in genuine caring, the one-caring's motive energy shifts toward the needs and projects of the cared-for."
+    },
+    {
+      "term": "natural caring",
+      "aliases": [
+        "natural care"
+      ],
+      "explain": "For Noddings, spontaneous caring sentiment — wanting to care — which she treats as ethically basic and preferable when it is available."
+    },
+    {
+      "term": "ethical caring",
+      "aliases": [
+        "ethical care"
+      ],
+      "explain": "For Noddings, caring undertaken from obligation when natural caring falters, guided by the memory of having been cared for and by an ideal of oneself as caring."
+    },
+    {
+      "term": "caring-for",
+      "aliases": [
+        "caring for"
+      ],
+      "explain": "In Noddings's distinction, hands-on, completed care in particular relations — as opposed to caring-about, a more general concern or intention."
+    },
+    {
+      "term": "caring-about",
+      "aliases": [
+        "caring about"
+      ],
+      "explain": "In Noddings's distinction, a broader stance of concern that may not yet be completed in particular caring relations. She later linked caring-about more strongly to justice motivations."
+    },
+    {
+      "term": "Joan C. Tronto",
+      "aliases": [
+        "Joan Tronto",
+        "Tronto"
+      ],
+      "explain": "American political theorist. Author of Moral Boundaries (1993) and later Caring Democracy (2013). Relocated care ethics into democratic politics and the distribution of care labor."
+    },
+    {
+      "term": "Moral Boundaries",
+      "aliases": [
+        "Moral Boundaries: A Political Argument for an Ethic of Care"
+      ],
+      "explain": "Tronto's 1993 Routledge book. Argues that conventional moral boundaries privatize care and protect the privileged from responsibility for care work's adequacy."
+    },
+    {
+      "term": "four phases of care",
+      "aliases": [
+        "phases of care",
+        "Tronto's four phases"
+      ],
+      "explain": "Tronto's sequence: caring about (attentiveness), taking care of (responsibility), care-giving (competence), and care-receiving (responsiveness). Later work adds caring with (solidarity)."
+    },
+    {
+      "term": "taking care of",
+      "aliases": [
+        "taking care of (responsibility)"
+      ],
+      "explain": "Tronto's second phase: accepting responsibility to respond to a noticed need — distinct from merely noticing it or from doing the hands-on work oneself."
+    },
+    {
+      "term": "care-giving",
+      "aliases": [
+        "caregiving",
+        "care giving"
+      ],
+      "explain": "Tronto's third phase: the direct, competent meeting of need. Good intentions without competence count as moral failure, not only technical shortfall."
+    },
+    {
+      "term": "care-receiving",
+      "aliases": [
+        "care receiving"
+      ],
+      "explain": "Tronto's fourth phase: the response of the person (or group) cared for. Requires responsiveness to their account of whether care worked."
+    },
+    {
+      "term": "responsiveness",
+      "explain": "In Tronto's account, the moral quality of attending to care from the standpoint of the cared-for and recognizing care's potential for domination or mismanagement."
+    },
+    {
+      "term": "competence",
+      "aliases": [
+        "care competence"
+      ],
+      "explain": "In Tronto's account, the skill of providing care that actually works. Separates caring intention from adequate practice."
+    },
+    {
+      "term": "privileged irresponsibility",
+      "explain": "Tronto's phrase for how the advantaged can buy care services, delegate hands-on work, and escape accountability for whether care is adequate."
+    },
+    {
+      "term": "Bernice Fisher",
+      "aliases": [
+        "Bernice Fischer",
+        "Fisher"
+      ],
+      "explain": "Co-author with Tronto of an influential definition of care as the activity of maintaining, continuing, and repairing our world so that we can live in it as well as possible."
+    },
+    {
+      "term": "Sara Ruddick",
+      "aliases": [
+        "Ruddick"
+      ],
+      "explain": "American philosopher (1935–2011). Her 1980 essay and 1989 book Maternal Thinking linked mothering practice to distinctive moral thinking and to peace politics."
+    },
+    {
+      "term": "Maternal Thinking",
+      "aliases": [
+        "Maternal Thinking: Toward a Politics of Peace"
+      ],
+      "explain": "Ruddick's 1980 essay and 1989 book. Treats mothering (by women or men) as a practice that cultivates preservative love, fostering growth, and training for social acceptability."
+    },
+    {
+      "term": "Eva Feder Kittay",
+      "aliases": [
+        "Eva Kittay",
+        "Kittay"
+      ],
+      "explain": "American philosopher. Co-editor of Women and Moral Theory (1987); author of Love's Labor (1999). Centers dependency and dependency workers in equality theory and disability studies."
+    },
+    {
+      "term": "Love's Labor",
+      "aliases": [
+        "Love's Labor: Essays on Women, Equality and Dependency",
+        "Loves Labor"
+      ],
+      "explain": "Kittay's 1999 book. Argues that liberal equality theories that start from independent adults fail people with severe dependencies and those who care for them."
+    },
+    {
+      "term": "dependency work",
+      "aliases": [
+        "dependency worker",
+        "dependency workers",
+        "dependency relation"
+      ],
+      "explain": "Kittay's vocabulary for paid or unpaid labor caring for people who cannot meet basic needs alone — meant to avoid essentializing care as women's nature."
+    },
+    {
+      "term": "Women and Moral Theory",
+      "explain": "1987 anthology edited by Eva Feder Kittay and Diana T. Meyers. Major early philosophical engagement with Gilligan's challenge across feminist ethics."
+    },
+    {
+      "term": "Diana T. Meyers",
+      "aliases": [
+        "Diana Meyers",
+        "Meyers"
+      ],
+      "explain": "American philosopher; co-editor with Kittay of Women and Moral Theory (1987)."
+    },
+    {
+      "term": "Virginia Held",
+      "aliases": [
+        "Held"
+      ],
+      "explain": "American philosopher. Author of Feminist Morality (1993) and The Ethics of Care (2006). Treats care as practices and values with personal, political, and global reach."
+    },
+    {
+      "term": "The Ethics of Care",
+      "aliases": [
+        "The Ethics of Care: Personal, Political, and Global"
+      ],
+      "explain": "Held's 2006 Oxford University Press book synthesizing care ethics beyond intimate relations into political and global questions."
+    },
+    {
+      "term": "Feminist Morality",
+      "aliases": [
+        "Feminist Morality: Transforming Culture, Society, and Politics"
+      ],
+      "explain": "Held's 1993 book exploring how social relations might look if modeled more on caring practices such as mothering rather than on contract alone."
+    },
+    {
+      "term": "Annette Baier",
+      "aliases": [
+        "Baier"
+      ],
+      "explain": "New Zealand-born philosopher (1929–2012). Linked care ethics to Humean sentiment and trust; urged harmonizing care and justice rather than replacing one with the other."
+    },
+    {
+      "term": "Selma Sevenhuijsen",
+      "aliases": [
+        "Sevenhuijsen"
+      ],
+      "explain": "Dutch feminist political theorist. Author of Citizenship and the Ethics of Care (1998), applying care ethics to citizenship and welfare politics in the Netherlands and beyond."
+    },
+    {
+      "term": "Citizenship and the Ethics of Care",
+      "aliases": [
+        "Citizenship and the Ethics of Care: Feminist Considerations on Justice, Morality and Politics"
+      ],
+      "explain": "Sevenhuijsen's 1998 Routledge book. A contemporaneous European political development of care ethics focused on public responsibility and citizenship."
+    },
+    {
+      "term": "Diemut Bubeck",
+      "aliases": [
+        "Bubeck"
+      ],
+      "explain": "Philosopher; author of Care, Gender and Justice (1995). Analyzes care as gendered labor and presses care ethics toward justice and exploitation questions."
+    },
+    {
+      "term": "Care, Gender and Justice",
+      "explain": "Bubeck's 1995 Clarendon Press book connecting care ethics to feminist political economy and the exploitation of care labor."
+    },
+    {
+      "term": "Claudia Card",
+      "aliases": [
+        "Card"
+      ],
+      "explain": "American philosopher (1940–2015). Early critic who warned that uncritical celebration of care could resemble a \"slave morality\" that romanticizes women's subordinated labor."
+    },
+    {
+      "term": "Elizabeth Spelman",
+      "aliases": [
+        "Spelman"
+      ],
+      "explain": "American philosopher whose critiques of gender essentialism (including Inessential Woman, 1988) informed objections that early care ethics spoke as if \"women\" were a uniform category."
+    },
+    {
+      "term": "essentialism",
+      "aliases": [
+        "gender essentialism"
+      ],
+      "explain": "Here: the error of treating care as women's natural or uniform moral voice. Critics charged early care ethics with reinforcing sex stereotypes and ignoring race and class differences among caregivers."
+    },
+    {
+      "term": "Harvard University Press",
+      "aliases": [
+        "HUP"
+      ],
+      "explain": "Publisher of Gilligan's In a Different Voice (1982). Long housed at Kittredge Hall in Cambridge, Massachusetts."
+    },
+    {
+      "term": "nursing ethics",
+      "explain": "Professional ethics in nursing that often draws on care ethics to analyze relational responsibility, vulnerability, and the moral demands of clinical care work."
+    },
+    {
+      "term": "disability studies",
+      "aliases": [
+        "dependency theory",
+        "feminist disability theory"
+      ],
+      "explain": "In this capsule's \"After,\" the line of work — especially via Kittay — that treats severe dependency as a central fact of moral and political life rather than an exception to independent adulthood."
+    },
+    {
+      "term": "Caring Democracy",
+      "explain": "Tronto's 2013 book extending Moral Boundaries: democratic politics organized around care, including a fifth emphasis on caring with solidarity."
+    },
+    {
+      "term": "secondarily dependent",
+      "aliases": [
+        "derivative dependency",
+        "derivatively dependent"
+      ],
+      "explain": "Kittay's point that caregivers become dependent on social supports because they meet others' unavoidable dependencies — a second layer of dependency liberal theory often ignores."
     }
   ],
   "sections": [
     {
-      "id": "concept",
-      "kicker": "The concept",
-      "title": "What care ethics claims",
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before care ethics had a name, Kohlberg's stages already ranked justice above relationship",
       "blocks": [
         {
           "type": "p",
-          "text": "Care ethics argues that moral life is about interdependence, attentiveness to need, responsibility for concrete others, and maintaining relationships. Not deficient versions of justice reasoning; a distinct moral orientation."
+          "text": "Mid-twentieth-century moral psychology and much of Anglo-American moral philosophy treated impartial justice as the adult form of moral thought. Rights, rules, and universalizable principles counted as mature. Context, attachment, and the maintenance of particular relationships looked like something you were supposed to grow out of."
+        },
+        {
+          "type": "p",
+          "text": "Lawrence Kohlberg's stages of moral development made that ranking concrete. In his model, people moved from obedience and self-interest through conventional loyalty toward postconventional reasoning about abstract justice. When girls and women were scored on his dilemmas, they often landed at stages that privileged interpersonal harmony. The research program heard that as incomplete development — stuck short of principled autonomy — rather than as a different moral language."
+        },
+        {
+          "type": "p",
+          "text": "That was the setup care ethics walked into. The problem was not only that women scored lower. It was that the yardstick itself defined moral maturity as distancing oneself from concrete others in the name of impartial principle. Relational responsibility was coded as immaturity before anyone had named an ethics of care."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The concept",
+      "title": "What care ethics claims: interdependence, attentiveness, responsibility for concrete others",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Care ethics argues that moral life is organized around relationships of interdependence. People need care to survive infancy, illness, disability, and old age; they also need ongoing attentiveness to remain recognizably themselves in ordinary life. Morality, on this view, is not first a contest among independent rights-bearers. It is the work of noticing need, taking responsibility for particular others, and sustaining the conditions in which those others can live as well as possible."
+        },
+        {
+          "type": "p",
+          "text": "Several claims travel together. First, dependency is normal, not a temporary failure of autonomy. Second, moral attention should be particular: the question is often what this person needs in this situation, not only what a universal rule would permit. Third, emotion and responsiveness are informative for judgment, not mere noise to be filtered out. Fourth, justice remains important, but justice theories that start from independent adults miss the unpaid and underpaid care labor that makes independence possible for some by shifting dependency onto others."
+        },
+        {
+          "type": "p",
+          "text": "Care ethics is therefore not a soft synonym for kindness. It is a challenge to a picture of the moral agent as ideally unencumbered. It asks who is cared for, who does the caring, whether the care is competent, and how societies distribute the costs of dependency — questions that a justice-only vocabulary can postpone indefinitely."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/care-ethics/daycare-hoofddorp.jpg",
+          "alt": "Modern two-story daycare building Kinderdagverblijf Twinkel in Hoofddorp, with a fenced outdoor play area and toys on the patio.",
+          "caption": "Kinderdagverblijf Twinkel, a daycare center in Hoofddorp, the Netherlands (photograph by Alf van Beem, 2021). Care ethics treats places like this as moral and political infrastructure — institutions where dependency is met in public, not only as private maternal virtue.",
+          "credit": "Alf van Beem / Wikimedia Commons / CC0 1.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Kinderdagverblijf_Twinkel,_Hoofddorp.jpg"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "kicker": "Origin",
+      "title": "Gilligan, In a Different Voice (1982): care as a moral orientation, not a failed stage",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Carol Gilligan's In a Different Voice: Psychological Theory and Women's Development appeared from Harvard University Press in 1982. Gilligan had worked in the Harvard world around Kohlberg's research. Listening to how women described moral conflict — including abortion decisions and responses to standard dilemmas — she heard a language of responsibility, relationship, and avoiding hurt that the stage system demoted."
+        },
+        {
+          "type": "p",
+          "text": "Her argument against Kohlberg was precise. She did not claim that women never reason about justice, or that men never reason about care. She claimed that a justice-centered scoring scheme mistook a care perspective for developmental delay. When the Heinz dilemma asked whether a man should steal a drug to save his wife, one child's rights hierarchy looked like mature principle; another's insistence on talking through the relationships looked like confusion. Gilligan read the second answer as a coherent moral orientation: the world as a web of relationships to be mended, not a math problem of ranked rights."
+        },
+        {
+          "type": "p",
+          "text": "The book made \"a different voice\" famous. It also created a problem Gilligan and later writers had to keep correcting: readers often heard her as saying that care is women's essence. Gilligan's stronger claim was thematic — care versus justice as orientations — even while her early evidence drew heavily on girls' and women's accounts. The essentialist reception became one of the tradition's longest internal debates."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/care-ethics/harvard-kittredge-hall.jpg",
+          "alt": "Red-brick Kittredge Hall with a Harvard University Press employee entrance sign in the foreground.",
+          "caption": "Kittredge Hall, Cambridge, Massachusetts, home of Harvard University Press (photograph by Daderot, 2011). HUP published Gilligan's In a Different Voice in 1982. The building marks the publisher and place of issue, not a 1982 author photograph.",
+          "credit": "Daderot / Wikimedia Commons / CC0 1.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Kittredge_Hall_-_Harvard_University_-_DSC01440.jpg"
+        }
+      ]
+    },
+    {
+      "id": "development",
+      "kicker": "Development",
+      "title": "Noddings, Tronto, and the fights over essentialism, race, and class",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nel Noddings's Caring: A Feminine Approach to Ethics and Moral Education (University of California Press, 1984) turned Gilligan's psychological challenge into a philosophical ethics. Noddings described caring as a relation between the one-caring and the cared-for. The one-caring practices engrossment — receiving the other on the other's terms — and motivational displacement — letting the other's needs redirect one's energy. Natural caring arises spontaneously; ethical caring steps in when natural caring fails, guided by the memory of having been cared for. Care, for Noddings, is completed only when the cared-for somehow receives it. She distinguished caring-for (hands-on, particular) from caring-about (broader concern), and she initially limited strong obligations to relations where care could be completed — a claim critics attacked as parochial and that she later partly revised."
+        },
+        {
+          "type": "p",
+          "text": "Joan C. Tronto's Moral Boundaries: A Political Argument for an Ethic of Care (Routledge, 1993) moved the center of gravity from intimate virtue to politics. With Bernice Fisher, Tronto defined care broadly as the activity of maintaining, continuing, and repairing our world so we can live in it as well as possible. She analyzed four phases: caring about (attentiveness), taking care of (responsibility), care-giving (competence), and care-receiving (responsiveness). Each phase has a characteristic failure — not noticing; accepting no responsibility; incompetent delivery; ignoring whether care worked for the recipient. Tronto also named privileged irresponsibility: the social pattern by which the advantaged purchase care, delegate the dirty work, and avoid accountability for adequacy."
+        },
+        {
+          "type": "p",
+          "text": "Alongside and after these books, other writers thickened the tradition. Sara Ruddick's Maternal Thinking (essay 1980; book 1989) derived moral capacities from mothering practice without requiring that mothers be women. Virginia Held treated care as clusters of practices and values with political reach. Annette Baier linked care to trust and Humean sentiment and argued for harmonizing care with justice. Eva Feder Kittay and Diana T. Meyers's anthology Women and Moral Theory (1987) mapped the early philosophical field."
+        },
+        {
+          "type": "p",
+          "text": "The criticisms mattered as much as the elaborations. Claudia Card and others warned that praising care without asking who is forced to provide it could romanticize subordinated labor — a \"slave morality\" problem. Essentialism critiques, drawing on work such as Elizabeth Spelman's, objected to speaking as if women shared one moral voice. Race and class analyses pointed out that paid care work in many countries falls disproportionately on women of color and immigrant women, so a care ethic that stays inside white middle-class mothering misses the political economy Tronto and Diemut Bubeck (Care, Gender and Justice, 1995) insisted on facing. By the late 1990s, serious care ethics was less a celebration of feminine voice than an argument about dependency, labor, and power."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Same years, another polity: Sevenhuijsen and care as citizenship in the Netherlands",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "While Tronto was rewriting care as American political theory, Selma Sevenhuijsen was developing care ethics inside Dutch and European debates about citizenship and the welfare state. Her Citizenship and the Ethics of Care: Feminist Considerations on Justice, Morality and Politics (Routledge, 1998) did not wait for a U.S. export label. It asked how public institutions should take responsibility for care needs, how citizenship looks if dependency is assumed rather than denied, and how justice talk changes when caregiving is treated as political work."
+        },
+        {
+          "type": "p",
+          "text": "That strand matters because it is contemporaneous and concrete. Dutch social policy already organized substantial public childcare, elder care, and health infrastructure; Sevenhuijsen's contribution was to give feminist care ethics a vocabulary for evaluating those arrangements as questions of citizenship, not only private virtue. The point for this capsule is not that the Netherlands \"applied\" Gilligan. It is that care ethics had a parallel political life in European feminist theory in the same decade Tronto published Moral Boundaries — a reminder that the tradition was never only a Harvard-and-education-school story."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/care-ethics/nursing-home-finland.jpg",
+          "alt": "Hiirosenkoti nursing home complex in Oulu, Finland, yellow and red buildings with melting snow and pedestrian signs.",
+          "caption": "Hiirosenkoti, a municipal nursing home in Kaukovainio, Oulu, Finland (photograph by Estormiz, 2 April 2021). Northern European welfare institutions are not illustrations of Sevenhuijsen's Dutch case, but they show the same class of political fact her work addresses: elder care organized as public infrastructure.",
+          "credit": "Estormiz / Wikimedia Commons / CC0 1.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Hiirosenkoti_Oulu_20210402_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Nursing ethics, disability and dependency, political theory of care",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "After the 1980s–1990s founding texts, care ethics entered professions and neighboring fields. Nursing ethics drew on care as a way to describe relational responsibility in clinical work — attentiveness to particular patients, the moral weight of bodily vulnerability, and the difference between competent care and mere protocol. The fit was natural and contested: nursing had long been coded as women's work, and care language could either dignify that labor or trap nurses in self-sacrifice scripts. The useful inheritance was the demand to evaluate care practices, power, and institutional support — not a sentimental nurse ideal."
+        },
+        {
+          "type": "p",
+          "text": "Disability studies and feminist dependency theory, especially through Eva Feder Kittay's Love's Labor (1999), pressed further. If some people need lifelong intensive care, then a political theory that starts from independent contractors is incomplete at the foundation. Kittay argued for the equality claims of people with severe dependencies and of dependency workers, and for public supports that recognize caregivers' secondary dependency. Care ethics here becomes an argument about whose lives count in the design of justice."
+        },
+        {
+          "type": "p",
+          "text": "In political theory, Held's The Ethics of Care (2006) and Tronto's later Caring Democracy (2013) treated care as a public good and a democratic criterion: how a society organizes childcare, elder care, disability support, and paid care labor is a measure of justice, not a private afterthought. Contemporary debates continue over global care chains, migrant domestic labor, pandemic care failures, and whether care ethics remains distinct from virtue ethics or becomes one resource among several. The through-line from Gilligan remains: do not score relational responsibility as moral immaturity, and do not privatize the labor that keeps dependents alive."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/care-ethics/nursing-graduation-2020.jpg",
+          "alt": "Nurse in scrubs and graduation cap holding a Concordia University diploma cover while a colleague in black scrubs applauds in a clinic during COVID-19.",
+          "caption": "Registered-nurse graduation celebration at the Milwaukee VA Medical Center during the COVID-19 pandemic (U.S. Department of Veterans Affairs photograph, 14 May 2020). Nursing is one profession where care ethics became applied ethics — relational responsibility under institutional pressure, not abstract bedside sentiment.",
+          "credit": "Milwaukee VA Medical Center / U.S. Department of Veterans Affairs / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Nurse_graduation_(49909053563).jpg"
         }
       ]
     },
@@ -84,7 +665,7 @@
       "blocks": [
         {
           "type": "question",
-          "text": "When you make a moral judgment, do you ask only about justice and rules, or do you also ask: who will do the care work, whose needs are attended to, what relationships are sustained or broken?"
+          "text": "When you make a moral or political judgment, do you ask only which rule or right wins — or do you also ask who will do the care work, whose needs are noticed or ignored, whether the care is competent, and which relationships are sustained or broken for whom?"
         }
       ]
     }
