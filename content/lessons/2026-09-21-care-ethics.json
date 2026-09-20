@@ -1,0 +1,92 @@
+{
+  "slug": "care-ethics",
+  "date": "2026-09-21",
+  "subject": "feminism",
+  "related": [
+    "second-wave",
+    "intersectionality"
+  ],
+  "title": "Care ethics: Gilligan's challenge to Kohlberg's justice-only model, then Noddings, Tronto, and the politics of dependency",
+  "dek": "How the ethics of care emerged as a critique of moral psychology's justice-and-rights paradigm, what it claims about interdependence and responsibility for concrete others, who developed it philosophically and politically from the 1980s onward, and how it named unpaid care labor as moral and political fact.",
+  "era": "Gilligan's In a Different Voice 1982; Noddings's Caring 1984; Tronto's Moral Boundaries 1993; ongoing debates on care as public good",
+  "reading_minutes": 24,
+  "thumb": {
+    "src": "lessons/care-ethics/carol-gilligan-2011.jpg",
+    "alt": "Portrait of Carol Gilligan photographed in 2011 at Haifa Beach"
+  },
+  "hero": {
+    "src": "lessons/care-ethics/carol-gilligan-2011.jpg",
+    "alt": "Carol Gilligan at Haifa Beach, photographed in May 2011 by Deror avi",
+    "caption": "Carol Gilligan, photographed at Haifa Beach on 27 May 2011. In 1982 Harvard University Press published her In a Different Voice: Psychological Theory and Women's Development, the book that brought care ethics into academic and public debate.",
+    "credit": "Deror avi / Wikimedia Commons / CC BY-SA 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Carol_Gilligan_P1010970_-_cropped.jpg"
+  },
+  "honesty": "This lesson treats care ethics as a named philosophical tradition following Gilligan 1982, Noddings 1984, Tronto 1993.",
+  "timeline": [
+    {
+      "year": "1982",
+      "label": "In a Different Voice",
+      "detail": "Carol Gilligan published In a Different Voice (Harvard University Press). Critiqued Kohlberg's stages, proposed care as a moral orientation."
+    },
+    {
+      "year": "1984",
+      "label": "Noddings: Caring",
+      "detail": "Nel Noddings published Caring. Developed care ethics for education."
+    },
+    {
+      "year": "1993",
+      "label": "Tronto: Moral Boundaries",
+      "detail": "Joan C. Tronto published Moral Boundaries. Moved care ethics to political economy."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "read": [
+    {
+      "title": "Carol Gilligan — In a Different Voice (1982)",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674445444",
+      "note": "The foundational text."
+    }
+  ],
+  "fun_fact": null,
+  "glossary": [
+    {
+      "term": "care ethics",
+      "aliases": [
+        "ethics of care"
+      ],
+      "explain": "Moral approach emphasizing interdependence, attentiveness, responsibility for concrete others, and relationships."
+    },
+    {
+      "term": "Carol Gilligan",
+      "aliases": [
+        "Gilligan"
+      ],
+      "explain": "American psychologist born 1936. Published In a Different Voice in 1982, naming care ethics."
+    }
+  ],
+  "sections": [
+    {
+      "id": "concept",
+      "kicker": "The concept",
+      "title": "What care ethics claims",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Care ethics argues that moral life is about interdependence, attentiveness to need, responsibility for concrete others, and maintaining relationships. Not deficient versions of justice reasoning; a distinct moral orientation."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "When you make a moral judgment, do you ask only about justice and rules, or do you also ask: who will do the care work, whose needs are attended to, what relationships are sustained or broken?"
+        }
+      ]
+    }
+  ]
+}
