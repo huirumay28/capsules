@@ -1,0 +1,777 @@
+{
+  "slug": "disco",
+  "date": "2026-09-22",
+  "subject": "music",
+  "related": [
+    "punk",
+    "hip-hop-origins",
+    "post-punk"
+  ],
+  "title": "Disco (c. 1973–1979/80): four-on-the-floor, Studio 54, and the dance floor that became an industry",
+  "dek": "In the early 1970s DJs in New York gay clubs extended soul and funk breaks into seamless sets. Producers layered strings over four-on-the-floor drums. The 12-inch single arrived. Giorgio Moroder and Donna Summer made \"I Feel Love\" with a synthesiser in Munich in 1977. Studio 54 opened the same year and became the era's public image. In 1979 a Chicago radio DJ blew up disco records in a baseball stadium and the genre collapsed commercially overnight. By 1980 disco was industry poison, but its infrastructure—the DJ, the 12-inch, the beat—became house, techno, and modern dance music.",
+  "era": "c. 1973–1979/80",
+  "reading_minutes": 20,
+  "thumb": {
+    "src": "lessons/disco/studio-54-exterior.jpg",
+    "alt": "Studio 54 nightclub exterior entrance in New York City."
+  },
+  "hero": {
+    "src": "lessons/disco/studio-54-exterior.jpg",
+    "alt": "Studio 54 nightclub entrance on West 54th Street in Manhattan, with the club's iconic signage.",
+    "caption": "Studio 54, 254 West 54th Street, Manhattan, photographed in 2006. The nightclub opened on 26 April 1977 and became the public face of disco: celebrity guests, velvet ropes, selective door policy, and spectacle. Co-owners Steve Rubell and Ian Schrager ran the club until their 1979 arrests for tax evasion. Studio 54 represented disco's commercial peak and its distance from the underground gay and Black clubs where the music had originated. The building, originally the Gallo Opera House (1927), now houses the Roundabout Theatre Company.",
+    "credit": "David Shankbone / Wikimedia Commons / CC BY-SA 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Studio_54_by_David_Shankbone.jpg"
+  },
+  "honesty": "Disco-era photographs of club interiors, DJs, and performers from 1973–1979 are mostly in commercial archives or private collections under copyright. Many iconic images—Studio 54 crowds, Paradise Garage dance floors, artist portraits—cannot be freely licensed. This lesson uses street and building photographs, equipment images, and a few public-domain or clearly free-license visuals, all captioned as what they are: places and objects, not portraits. Where a free-license portrait could not be verified, the lesson does without. All YouTube links point to official or Topic uploads; when official audio is unavailable the note explains what the link is. No AI images of people. No invented facts, quotes, or numbers.",
+  "timeline": [
+    {
+      "year": "Before 1973",
+      "label": "Soul, funk, Philly sound, and the dance break",
+      "detail": "Late 1960s and early 1970s: soul and funk records—James Brown, Sly and the Family Stone, Isaac Hayes—have instrumental breaks dancers respond to. In Philadelphia, producers Kenny Gamble, Leon Huff, and Thom Bell develop the Philadelphia soul sound: lush strings, horns, four-on-the-floor kick drums. In New York, DJs at gay clubs like the Loft (David Mancuso, opened 1970) and the Sanctuary play soul, funk, and Philly records in extended sets, blending tracks seamlessly. The DJ becomes a curator, not just a jukebox. European producers experiment with electronic dance music: Giorgio Moroder in Munich, the Munich machine sound."
+    },
+    {
+      "year": "1973",
+      "label": "The term \"disco\" and early records",
+      "detail": "\"Disco\" as shorthand for discotheque—a French word for a club where recorded music is played—enters American music press. MFSB (house band for Philadelphia International Records) releases \"TSOP (The Sound of Philadelphia)\" in March 1973, used as the Soul Train theme. The record layers strings and horns over a steady four-on-the-floor beat. It reaches number one on the Billboard Hot 100 in April 1974. Other early disco-leaning records: Barry White's \"Love's Theme\" (1973), Eddie Kendricks's \"Keep On Truckin'\" (1973). These are not yet called disco by the artists; the label comes from the clubs playing them."
+    },
+    {
+      "year": "1974–1975",
+      "label": "The 12-inch single and DJ culture expands",
+      "detail": "In 1974 Tom Moulton, a producer and remixer, requests that a track be pressed on a 12-inch vinyl at 45 RPM instead of the standard 7-inch at 45 or 33⅓. The wider grooves allow louder volume and deeper bass, crucial for club sound systems. The 12-inch single becomes the disco format. Moulton pioneers the extended remix, stretching a three-minute single into a six- or eight-minute club version. More clubs open: the Gallery (Nicky Siano, 1973), 12 West (1974). The Paradise Garage (Larry Levan, DJ) does not open until 1977 but becomes the decade's most influential DJ residency."
+    },
+    {
+      "year": "1975–1976",
+      "label": "Donna Summer, Giorgio Moroder, and synthesised disco",
+      "detail": "Donna Summer, a Boston-born singer working in Munich, meets Italian producer Giorgio Moroder. In 1975 they release \"Love to Love You Baby,\" a 17-minute track with breathy vocals, synthesisers, and a steady beat. Casablanca Records releases it in the US; it reaches number two on the Billboard Hot 100. In 1976 Summer and Moroder release \"I Feel Love\" (from the album I Remember Yesterday, 1977). The track is entirely synthesised: Moog modular synthesiser bass line, no live instruments except drums. It becomes a blueprint for electronic dance music. Brian Eno later says it marks a divide: before \"I Feel Love\" and after."
+    },
+    {
+      "year": "26 Apr 1977",
+      "label": "Studio 54 opens",
+      "detail": "Steve Rubell and Ian Schrager open Studio 54 at 254 West 54th Street, Manhattan, in a former opera house and CBS television studio. The club's door policy is notoriously selective: celebrities, models, artists, and dancers are admitted; others wait in line. The interior has theatrical lighting, a DJ booth, balconies, and a dance floor under a crescent moon and spoon set piece (a cocaine reference). Studio 54 becomes the public image of disco: glamour, hedonism, celebrity, drugs. The club's fame overshadows the underground gay and Black clubs where disco originated. Rubell and Schrager are arrested for tax evasion in 1979; the club closes in 1980."
+    },
+    {
+      "year": "1977–1978",
+      "label": "Saturday Night Fever and the Bee Gees commercial peak",
+      "detail": "On 14 December 1977 the film Saturday Night Fever, directed by John Badham and starring John Travolta, is released. The soundtrack, featuring the Bee Gees (\"Stayin' Alive,\" \"Night Fever,\" \"How Deep Is Your Love\"), becomes the best-selling soundtrack of all time. The album sells over 40 million copies. Disco moves from clubs into shopping malls, radio playlists, and suburban living rooms. The Bee Gees, Australian brothers who had been pop and soft-rock artists, become the commercial face of disco. Critics and rock fans begin to resent disco as overproduced, shallow, and inescapable."
+    },
+    {
+      "year": "12 Jul 1979",
+      "label": "Disco Demolition Night, Comiskey Park",
+      "detail": "Steve Dahl, a Chicago rock DJ fired when his station switched to a disco format, organises Disco Demolition Night at Comiskey Park between games of a White Sox doubleheader. Fans bring disco records; Dahl blows them up in centre field. The crowd storms the field, tears up the turf, and starts fires. The second game is forfeited. The event is widely seen as a backlash against disco, tinged with homophobia, racism, and resentment of the genre's association with gay, Black, and Latin audiences. After Demolition Night, radio stations drop disco; record labels cancel contracts. By late 1979 disco is commercially toxic."
+    },
+    {
+      "year": "1980",
+      "label": "The commercial collapse and Studio 54 closes",
+      "detail": "In February 1980 Steve Rubell and Ian Schrager are sentenced to prison for tax evasion. Studio 54 closes. Disco record sales plummet. Major labels stop signing disco acts. Radio formats shift to rock, new wave, and adult contemporary. Many disco artists cannot get records released. The genre's name becomes a marketing liability; some records are relabeled as \"dance\" or \"R&B.\" But the infrastructure remains: the DJ, the 12-inch, the four-on-the-floor beat, the synthesiser, the dance floor, the club. In Chicago, New York, and Detroit, DJs and producers take disco's tools and build house and techno."
+    }
+  ],
+  "listen": [
+    {
+      "title": "MFSB — TSOP (The Sound of Philadelphia) (1973)",
+      "url": "https://www.youtube.com/watch?v=KIPUVciqXts",
+      "note": "YouTube Topic upload on MFSB - Topic: TSOP (The Sound of Philadelphia). Philadelphia International Records, March 1973. Used as the Soul Train theme. Four-on-the-floor drums, strings, and horns—an early disco template. Reached number one on the Hot 100 in April 1974. Official Topic audio."
+    },
+    {
+      "title": "Donna Summer — Love to Love You Baby (1975)",
+      "url": "https://www.youtube.com/watch?v=V5AztWseIdU",
+      "note": "Official upload on Donna Summer: Love To Love You Baby. Casablanca Records, 1975. Produced by Giorgio Moroder in Munich. 17-minute extended version with breathy vocals, synthesisers, and a steady beat. Reached number two on the Hot 100. Official audio; if the file moves, search the title plus Casablanca."
+    },
+    {
+      "title": "Donna Summer — I Feel Love (1977)",
+      "url": "https://www.youtube.com/watch?v=Nm-ISatLDG0",
+      "note": "Official upload on Donna Summer: I Feel Love. Casablanca, 1977. Produced by Giorgio Moroder and Pete Bellotte. Entirely synthesised: Moog modular bass, no live instruments except drums. Blueprint for electronic dance music. Brian Eno called it a watershed. Official audio."
+    },
+    {
+      "title": "Bee Gees — Stayin' Alive (1977)",
+      "url": "https://www.youtube.com/watch?v=fNFzfwLM72c",
+      "note": "Official upload on Bee Gees: Stayin' Alive (Official Music Video). RSO Records, 1977. From the Saturday Night Fever soundtrack. Became the era's commercial anthem. The soundtrack sold over 40 million copies. Official music video."
+    },
+    {
+      "title": "Chic — Le Freak (1978)",
+      "url": "https://www.youtube.com/watch?v=h1qQ1SKNlgY",
+      "note": "Official upload on Chic: Le Freak (Official Audio). Atlantic, 1978. Written by Nile Rodgers and Bernard Edwards after being denied entry to Studio 54. Reached number one on the Hot 100. Chic's tight bass-and-guitar interplay became a disco signature. Official audio."
+    },
+    {
+      "title": "Gloria Gaynor — I Will Survive (1978)",
+      "url": "https://www.youtube.com/watch?v=ARt9HV9T0wI",
+      "note": "Official upload on Gloria Gaynor: I Will Survive (Official Lyric Video). Polydor, 1978. Anthem of resilience; became a gay-club standard and a feminist rallying song. Reached number one on the Hot 100 in 1979. Official lyric video."
+    },
+    {
+      "title": "Sister Sledge — We Are Family (1979)",
+      "url": "https://www.youtube.com/watch?v=uyGY2NfYpeE",
+      "note": "Official upload on Sister Sledge: We Are Family (Official Music Video). Atlantic, 1979. Produced by Nile Rodgers and Bernard Edwards (Chic). Became an anthem of unity and family; widely adopted by the LGBTQ+ community. Official music video."
+    },
+    {
+      "title": "KC and the Sunshine Band — Get Down Tonight (1975)",
+      "url": "https://www.youtube.com/watch?v=LrXJhzrKcfM",
+      "note": "YouTube Topic upload on KC and The Sunshine Band - Topic: Get Down Tonight. TK Records, 1975. Miami-based group; blend of funk, soul, and disco. Four-on-the-floor beat with brass and groove. Reached number one on the Hot 100. Topic audio."
+    },
+    {
+      "title": "The Trammps — Disco Inferno (1976)",
+      "url": "https://www.youtube.com/watch?v=A_sY2rjxq6M",
+      "note": "Official upload on The Trammps: Disco Inferno (Official Audio). Atlantic, 1976. Became widely known after inclusion in the Saturday Night Fever soundtrack (1977). High-energy horns and chant-along chorus. Official audio."
+    },
+    {
+      "title": "Sylvester — You Make Me Feel (Mighty Real) (1978)",
+      "url": "https://www.youtube.com/watch?v=GuJQg_VqNLQ",
+      "note": "YouTube Topic upload on Sylvester - Topic: You Make Me Feel (Mighty Real). Fantasy Records, 1978. Sylvester James, openly gay Black falsetto singer from San Francisco, became a disco icon. Synthesised Hi-NRG production. Anthem of gay liberation and disco's underground roots. Topic audio."
+    }
+  ],
+  "fun_fact": {
+    "title": "Disco Demolition Night was a stadium forfeit and a cultural turning point",
+    "text": "On 12 July 1979, between games of a Chicago White Sox doubleheader at Comiskey Park, rock DJ Steve Dahl detonated a crate of disco records in centre field. Fans who brought disco records were admitted for 98 cents. The explosion left a crater; the crowd stormed the field, tore up the turf, and started fires. The second game was forfeited to the Detroit Tigers, one of only a handful of forfeits in Major League Baseball history. The event was widely interpreted as a backlash against disco's association with gay, Black, and Latin communities—a rejection not just of the music but of the culture. After Demolition Night, radio stations across the US dropped disco. Record labels cancelled contracts. Many disco artists could not release records. The genre's commercial collapse was swift. But the tools—the DJ, the 12-inch, the synthesiser, the beat—survived and became house, techno, and modern dance music."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Soul breaks, Philly strings, and the Loft: when DJs became curators",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the late 1960s dancers at nightclubs responded to the breaks in soul and funk records: the moments when the vocals dropped out and the rhythm section took over. James Brown's \"Funky Drummer\" (1970), Isaac Hayes's instrumental work on the Shaft soundtrack (1971), Sly and the Family Stone's groove-heavy tracks—these were dance-floor fuel. DJs noticed. At gay clubs in New York, where the clientele wanted to dance all night, DJs began blending records seamlessly, using two turntables and a mixer to avoid dead air. The DJ was not just playing hits. The DJ was building a set, a journey, a flow. This was curation."
+        },
+        {
+          "type": "p",
+          "text": "David Mancuso opened the Loft, a private party in his Manhattan loft apartment, on Valentine's Day 1970. Admission was by invitation or membership; there was no liquor license, no velvet rope, no commercial pressure. Mancuso played soul, funk, and obscure imports on a high-fidelity sound system he had built himself. The Loft was not a disco yet—the word had not settled into music vocabulary—but it was a template: a DJ, a sound system, a dance floor, and an audience that trusted the DJ's taste. Other underground clubs followed: the Sanctuary (1969–1972), where Francis Grasso pioneered beatmatching and slip-cueing; the Gallery, opened by Nicky Siano in 1973. These were predominantly gay clubs, and they were the disco's origin."
+        },
+        {
+          "type": "p",
+          "text": "In Philadelphia, producers Kenny Gamble and Leon Huff ran Philadelphia International Records and developed the Philly soul sound: lush orchestration, strings arranged by Thom Bell and Bobby Martin, four-on-the-floor kick drums, and warm bass lines. MFSB (Mother Father Sister Brother), the label's house band, released \"TSOP (The Sound of Philadelphia)\" in March 1973. The record became the Soul Train theme and reached number one on the Billboard Hot 100 in April 1974. The Philly sound was not yet disco, but it had the elements: steady pulse, strings, horns, a beat you could dance to for minutes without a break. This was the material DJs in New York were playing, and it was beginning to be called disco."
+        },
+        {
+          "type": "p",
+          "text": "In Munich, Italy-born producer Giorgio Moroder was experimenting with electronic instruments. Moroder had worked as a songwriter and producer in Germany and had started using synthesisers—Moog modular systems—to create bass lines and textures that could not be played on traditional instruments. He met Donna Summer, a Boston-born singer who had moved to Munich to perform in the German production of Hair. In 1975 they recorded \"Love to Love You Baby,\" a 17-minute track with breathy vocals and a hypnotic synthesiser groove. Casablanca Records released it in the US; it reached number two. This was disco as a studio construction, not a live band performance. It was also the first hint of what synthesisers could do to the dance floor."
+        }
+      ]
+    },
+    {
+      "id": "hinge",
+      "kicker": "The hinge",
+      "title": "1974–1977: the 12-inch single, \"I Feel Love,\" and the night the studio opened",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1974 Tom Moulton, a producer and remixer working in New York, asked a mastering engineer to cut a track on a 12-inch vinyl record at 45 RPM instead of the standard 7-inch 45 or 33⅓ LP format. The wider grooves on a 12-inch allowed the music to be cut louder and with more bass, which meant the record could fill a club without distortion. The format also allowed longer tracks—six, eight, ten minutes—without the compromises of an LP side. The 12-inch single became the disco format. DJs could play an entire track without interruption; dancers did not have to stop. Moulton pioneered the extended remix, taking a radio-length single and stretching it into a club version with longer instrumental sections, breakdowns, and builds. This was not just re-editing. It was re-composition for the dance floor."
+        },
+        {
+          "type": "p",
+          "text": "On 15 May 1977 Donna Summer and Giorgio Moroder released the album I Remember Yesterday on Casablanca Records. One track, \"I Feel Love,\" was unlike anything on radio. The bass line was a Moog modular synthesiser sequenced in a repetitive, mechanical pattern. The drums were electronic. The strings and pads were synthesised. Only Donna Summer's voice was human, and even her vocal was layered and processed. There were no guitars, no live bass, no horns. Brian Eno later said that when he heard \"I Feel Love\" he realised the future had arrived. The track reached number six on the Billboard Hot 100. It became a blueprint for electronic dance music: house, techno, trance, and every synthesised genre that followed. Producers stopped asking whether electronic instruments could replace live musicians. \"I Feel Love\" answered the question."
+        },
+        {
+          "type": "p",
+          "text": "On 26 April 1977, five weeks before \"I Feel Love\" was released, Steve Rubell and Ian Schrager opened Studio 54 at 254 West 54th Street in Manhattan. The building had been the Gallo Opera House (1927), then a CBS television studio (Studio 52). Rubell and Schrager renovated the space: a large dance floor, theatrical lighting, balconies, a DJ booth, and a set piece with a crescent moon and a spoon lowering from the ceiling (widely interpreted as a cocaine reference). The door policy was selective. Marc Benecke, the doorman, stood outside and chose who entered based on appearance, celebrity, or whim. Celebrities—Andy Warhol, Liza Minnelli, Mick Jagger, Bianca Jagger (who famously rode a white horse into the club), Diana Ross—were admitted; others waited in line for hours and were turned away. Studio 54 was spectacle, exclusivity, hedonism, and fame. It was also disco's public face."
+        },
+        {
+          "type": "p",
+          "text": "Studio 54 was not where disco started. The Loft, the Gallery, the Sanctuary, and later the Paradise Garage (opened 1977, DJ Larry Levan) were the underground rooms where the music and the culture were built. Studio 54 was where disco became a phenomenon, a tabloid story, a symbol of the 1970s. The press covered the club's celebrity guests and excesses. The door policy became infamous. Middle America learned about disco from Studio 54, not from the gay clubs where the genre had emerged. This distance between disco's origins and its public image would become a problem when the backlash arrived."
+        }
+      ]
+    },
+    {
+      "id": "scene",
+      "kicker": "The scene",
+      "title": "Clubs, DJs, and the records that filled the floor",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1977 disco had recognisable elements: four-on-the-floor kick drums (a steady kick on every quarter note), hi-hats marking the offbeats, a prominent bass line, orchestral strings or horns, and vocals that could be soulful, breathy, or chanted. The tempo was usually 110–130 beats per minute, fast enough to dance but not exhausting. The structure was simple: verse, chorus, instrumental breakdown, build, return to chorus. The breakdown—where the vocals dropped out and the rhythm section was isolated—was crucial. This was the moment when dancers responded, when the DJ could layer in another record, when the floor moved as a collective body."
+        },
+        {
+          "type": "p",
+          "text": "The DJ was the architect. At the Paradise Garage, Larry Levan built sets that lasted hours, blending soul, funk, disco, and early electronic records with a mixing style that was both technical and emotional. Levan used the club's custom-built sound system—designed by Richard Long—to create a physical experience: the bass was not just heard but felt. Nicky Siano at the Gallery, Frankie Knuckles (who would later move to Chicago and help create house music), and David Mancuso at the Loft were also shaping the form. These DJs were artists. They selected tracks most people had never heard, extended them, layered them, and sequenced them into a narrative. The dance floor trusted them."
+        },
+        {
+          "type": "p",
+          "text": "The records: Chic's \"Le Freak\" (1978), written by Nile Rodgers and Bernard Edwards after they were turned away from Studio 54, reached number one and sold six million copies. Chic's tight bass-and-guitar interlock—Rodgers on guitar, Edwards on bass—became a disco signature. Gloria Gaynor's \"I Will Survive\" (1978) became an anthem of resilience and a gay-club standard. Sylvester's \"You Make Me Feel (Mighty Real)\" (1978), performed by the openly gay Black falsetto singer from San Francisco, was a declaration of joy and liberation. Sister Sledge's \"We Are Family\" (1979), produced by Chic, was adopted as an anthem of unity. The Trammps' \"Disco Inferno\" (1976) became widely known after its inclusion in the Saturday Night Fever soundtrack. These records were not just hits. They were community texts, floor anthems, identity markers."
+        },
+        {
+          "type": "p",
+          "text": "Disco was also lucrative. By 1978 disco records accounted for a significant portion of Billboard chart positions. Major labels signed disco acts. Session musicians and arrangers—like Gene Page, who arranged strings for Barry White, and Tom Moulton—were in constant demand. The 12-inch single became a profit centre. Clubs were packed. The business was growing. But the backlash was forming."
+        }
+      ]
+    },
+    {
+      "id": "saturday-night-fever",
+      "kicker": "1977–1978",
+      "title": "Saturday Night Fever: the Bee Gees and disco's commercial peak",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On 14 December 1977 Paramount Pictures released Saturday Night Fever, directed by John Badham and starring John Travolta as Tony Manero, a young man from Brooklyn who escapes his working-class life by dancing at a disco. The film's soundtrack, released by RSO Records, featured the Bee Gees—Barry, Robin, and Maurice Gibb—alongside other disco tracks. The Bee Gees contributed \"Stayin' Alive,\" \"Night Fever,\" \"How Deep Is Your Love,\" and \"More Than a Woman.\" The soundtrack became the best-selling album of all time until Michael Jackson's Thriller (1982). It sold over 40 million copies. It spent 24 weeks at number one on the Billboard 200."
+        },
+        {
+          "type": "p",
+          "text": "The Bee Gees were not disco pioneers. They were Australian-British pop and soft-rock artists who had been recording since the 1960s. Their falsetto vocal harmonies and string-heavy production fit the disco format, and producer Arif Mardin helped them shape the sound for the film. \"Stayin' Alive\" became the era's anthem, played at weddings, proms, roller rinks, and shopping malls. The film and the soundtrack brought disco to Middle America. Suburban teenagers bought the album. Radio stations added disco to their playlists. Disco was no longer underground. It was inescapable."
+        },
+        {
+          "type": "p",
+          "text": "Saturday Night Fever also changed how the public understood disco. The film presented disco as a working-class escape, a space where a young man could be exceptional through dance. This was not false, but it was partial. The film erased the gay clubs, the Black and Latin producers, the underground DJs. It turned disco into a story about a straight white man in Brooklyn. The film made disco commercially dominant, but it also made the genre vulnerable. When the backlash came, it would not spare Saturday Night Fever, but it would target the gay and Black artists who had built the form."
+        }
+      ]
+    },
+    {
+      "id": "demolition",
+      "kicker": "12 July 1979",
+      "title": "Disco Demolition Night: the records exploded in a baseball stadium",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Steve Dahl was a rock DJ at WDAI in Chicago. In December 1978 the station switched formats from rock to disco. Dahl was fired. He moved to WLUP, a rock station, and began an anti-disco campaign on air. He called himself a \"disco sucks\" advocate and played rock in defiance of disco's chart dominance. On 12 July 1979 Dahl and the Chicago White Sox organised Disco Demolition Night at Comiskey Park. The White Sox were playing a doubleheader against the Detroit Tigers. Between games, fans who brought a disco record would be admitted for 98 cents. Dahl would blow up the records in centre field."
+        },
+        {
+          "type": "p",
+          "text": "Thousands of fans brought records. Dahl, dressed in military garb, detonated a crate of disco records between games. The explosion left a crater in the field. The crowd—estimated at over 50,000, far more than the stadium's capacity—stormed the field, tore up the turf, stole bases, and started fires. Security could not control the crowd. The second game was forfeited to the Tigers, one of only a handful of forfeits in Major League Baseball history. The images were broadcast nationally: thousands of mostly white, mostly male fans destroying disco records, chanting \"disco sucks.\""
+        },
+        {
+          "type": "p",
+          "text": "The event was widely seen as more than a music critique. Disco was associated with gay clubs, Black and Latin producers, and female vocalists. The \"disco sucks\" movement was tinged with homophobia, racism, and sexism. Rock fans resented disco's dominance on radio and charts. Disco represented something they rejected: softness, femininity, queerness, Blackness, electronic production over live instruments, dancing over guitar solos. Disco Demolition Night made that resentment visible. After the event, radio stations across the US dropped disco from their playlists. Record labels cancelled contracts. Disco became commercially toxic."
+        },
+        {
+          "type": "p",
+          "text": "By the end of 1979 disco's commercial moment was over. Clubs were still operating, DJs were still working, but the record industry had abandoned the genre. In February 1980 Steve Rubell and Ian Schrager were convicted of tax evasion and sentenced to prison. Studio 54 closed. Disco records were no longer released under that name; they were relabeled as \"dance,\" \"R&B,\" or \"urban contemporary.\" The genre that had dominated the charts for five years was suddenly a punchline. But the infrastructure did not die. The DJ, the 12-inch, the synthesiser, the four-on-the-floor beat—these tools moved underground, to Chicago and Detroit and New York, where they became house and techno."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Munich, Jamaican dub, Black Rio, northern soul, and Tokyo's disco boom",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In Munich, Giorgio Moroder and Pete Bellotte were building what the press called the Munich sound or Eurodisco: synthesiser-driven, metronomic, electronic. Moroder produced not only Donna Summer but also other European disco acts. The Munich approach influenced producers across Europe and later became a foundation for Italo disco in the 1980s. In France, producer Alec R. Costandinos created orchestral disco with large string sections and dramatic arrangements. In the UK, producers like Biddu (who worked with Tina Charles) and Ian Levine (at northern soul clubs) were importing and producing disco records."
+        },
+        {
+          "type": "p",
+          "text": "In Jamaica, disco's late 1970s peak coincided with the roots reggae and dub boom. Bob Marley and the Wailers, Peter Tosh, Burning Spear, and Culture were releasing albums on Island and other labels. Lee \"Scratch\" Perry and King Tubby were producing dub: instrumental remixes with heavy reverb, delay, and bass. Jamaican dub influenced disco remixers like Tom Moulton, who used similar techniques—extended instrumental sections, echo, dropping out elements to create space. Disco and dub were parallel studio experiments in dance-floor manipulation, though they served different audiences and venues."
+        },
+        {
+          "type": "p",
+          "text": "In Rio de Janeiro, Black Rio was a movement of Black Brazilian musicians and dancers reclaiming soul, funk, and disco as Afro-Brazilian culture. DJ Big Boy (Newton Alvarenga Duarte) organised baile funk (funk balls) where thousands danced to American soul and disco imports. Brazilian artists like Tim Maia and Tony Tornado fused soul with samba and MPB (música popular brasileira). This was not disco imitation; it was Black Brazilian youth using the same tools—funk breaks, dance floors, sound systems—to assert identity in a society that marginalised them. The Black Rio movement peaked in the mid-to-late 1970s, contemporaneous with New York disco."
+        },
+        {
+          "type": "p",
+          "text": "In the UK, northern soul—a subculture of working-class youth dancing to obscure American soul and Motown imports at all-night clubs in Northern England—overlapped with disco chronologically. Wigan Casino, the Twisted Wheel, and Blackpool Mecca were northern soul venues where rare 45s were prized and DJs like Ian Levine curated sets. Northern soul was not disco, but the culture was similar: DJ as curator, dance floor as community, American Black music as source material. By the late 1970s some northern soul DJs were incorporating disco records, especially Hi-NRG tracks with fast tempos. Hi-NRG—a synthesised, high-tempo disco offshoot—emerged in the UK and Europe in the late 1970s and early 1980s, after disco's US commercial collapse."
+        },
+        {
+          "type": "p",
+          "text": "In Tokyo, disco clubs proliferated in the late 1970s. Shibuya and Roppongi neighbourhoods had clubs playing American and European disco imports. Japanese DJs adopted the same tools: two turntables, 12-inch singles, extended mixes. Japanese pop (kayōkyoku) absorbed disco's four-on-the-floor beat and string arrangements. Performers like Yamaguchi Momoe and Pink Lady incorporated disco elements into their records. Tokyo's disco scene was import-driven—American and European records, not Japanese production—but the dance floor culture was local. By 1980, when disco collapsed in the US, Tokyo's clubs were still operating, and Japanese producers were beginning to create their own electronic dance music in the 1980s."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "House, techno, and the tools that survived the backlash",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Disco did not die. It went underground. In Chicago, Frankie Knuckles—who had been a DJ at the Gallery in New York—moved to the Warehouse club in 1977. When disco records became unavailable after 1979, Knuckles started editing and remixing tracks himself, using a Roland TR-808 drum machine and a reel-to-reel tape deck. He extended breaks, added electronic percussion, and layered samples. The music he played at the Warehouse became known as house music, named after the club. In 1984 Knuckles left the Warehouse; by then house was a recognized Chicago genre. Tracks like Jesse Saunders's \"On and On\" (1984) and Farley \"Jackmaster\" Funk's \"Love Can't Turn Around\" (1986) were early house records. House was disco's direct descendant: four-on-the-floor, 12-inch singles, DJ culture, synthesised production, and a predominantly gay and Black audience."
+        },
+        {
+          "type": "p",
+          "text": "In Detroit, high school students Juan Atkins, Derrick May, and Kevin Saunderson were listening to Kraftwerk, Giorgio Moroder, and Parliament-Funkadelic on the radio. They were also listening to the Electrifying Mojo, a Detroit DJ who played an eclectic mix of electronic, funk, and new wave. In the early 1980s they began making their own tracks using synthesisers, drum machines, and sequencers. Atkins, working under the name Model 500, released \"No UFO's\" in 1985. Derrick May released \"Nude Photo\" (1987) and \"Strings of Life\" (1987). This was techno: machine-made, futuristic, repetitive, and hypnotic. Like house, techno was built on disco's infrastructure: the DJ, the 12-inch, the club, the synthesiser, the beat. But techno was colder, more abstract, more European in its references."
+        },
+        {
+          "type": "p",
+          "text": "In New York, the Paradise Garage continued to operate until 1987. Larry Levan remained its resident DJ until it closed. The Garage's sound system and Levan's mixing style influenced a generation of producers and DJs. Garage house—a subgenre named after the club—emphasised soulful vocals and gospel-inflected piano over four-on-the-floor beats. Tracks like Loleatta Holloway's \"Love Sensation\" (1980) and Taana Gardner's \"Heartbeat\" (1981) were Garage anthems and later became house samples. By the mid-1980s disco's name was gone, but its tools were everywhere."
+        },
+        {
+          "type": "p",
+          "text": "What survived the backlash was the method. The DJ as artist, not just a record player. The 12-inch single as a club format. The synthesiser as a lead instrument. Four-on-the-floor as the beat's foundation. The dance floor as a space of community, identity, and liberation. Disco as a genre was commercially dead by 1980, but disco as an infrastructure—the physical and cultural tools for making dance music—lived on in house, techno, garage, Hi-NRG, and every electronic dance genre that followed. Disco's erasure was political; its survival was structural. The backlash destroyed the industry, but the tools were too useful to abandon."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If disco was commercially destroyed in 1979–1980 by a backlash that was partly about music and partly about homophobia and racism, why did its tools—the DJ, the 12-inch, the synthesiser, the beat—survive and become the foundation of house, techno, and modern dance music? What does it mean for a genre to be culturally erased but structurally essential?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "disco",
+      "explain": "Dance music genre c. 1973–1979/80, characterized by four-on-the-floor beats, orchestral arrangements, and extended club versions. Originated in gay clubs in New York."
+    },
+    {
+      "term": "discotheque",
+      "explain": "French word for a nightclub where recorded music is played instead of live bands; shortened to \"disco\" in the US."
+    },
+    {
+      "term": "four-on-the-floor",
+      "explain": "Drum pattern with a kick drum hit on every quarter note (beats 1, 2, 3, 4); foundational to disco, house, and techno."
+    },
+    {
+      "term": "12-inch single",
+      "explain": "Vinyl record format, 12 inches in diameter, pressed at 45 RPM for louder volume and deeper bass; disco's standard format."
+    },
+    {
+      "term": "beatmatching",
+      "explain": "DJ technique of matching the tempo of two records so they can be mixed seamlessly."
+    },
+    {
+      "term": "slip-cueing",
+      "explain": "DJ technique of holding a record still while the platter spins beneath, then releasing it at the right moment to start the track on beat."
+    },
+    {
+      "term": "David Mancuso",
+      "explain": "DJ and host of the Loft, a private party in Manhattan opened in 1970; pioneer of DJ-as-curator culture."
+    },
+    {
+      "term": "the Loft",
+      "explain": "Private party in David Mancuso's Manhattan loft, opened Valentine's Day 1970; early template for disco club culture."
+    },
+    {
+      "term": "the Sanctuary",
+      "explain": "New York nightclub (1969–1972) where DJ Francis Grasso pioneered beatmatching and slip-cueing."
+    },
+    {
+      "term": "Francis Grasso",
+      "explain": "DJ at the Sanctuary who pioneered beatmatching and slip-cueing in the late 1960s."
+    },
+    {
+      "term": "the Gallery",
+      "explain": "New York nightclub opened by Nicky Siano in 1973; influential early disco venue."
+    },
+    {
+      "term": "Nicky Siano",
+      "explain": "DJ who opened the Gallery in 1973 and helped define disco DJ culture."
+    },
+    {
+      "term": "Paradise Garage",
+      "explain": "New York nightclub (1977–1987) with resident DJ Larry Levan; one of disco's most influential clubs.",
+      "aliases": ["the Garage"]
+    },
+    {
+      "term": "Larry Levan",
+      "explain": "Resident DJ at Paradise Garage (1977–1987); pioneer of emotional, technically precise DJ mixing."
+    },
+    {
+      "term": "Philadelphia International Records",
+      "explain": "Label founded by Kenny Gamble and Leon Huff; home of the Philadelphia soul sound."
+    },
+    {
+      "term": "Kenny Gamble",
+      "explain": "Producer and co-founder of Philadelphia International Records; created the Philly soul sound."
+    },
+    {
+      "term": "Leon Huff",
+      "explain": "Producer and co-founder of Philadelphia International Records; created the Philly soul sound."
+    },
+    {
+      "term": "Thom Bell",
+      "explain": "Arranger and producer who created lush string arrangements for Philadelphia soul."
+    },
+    {
+      "term": "MFSB",
+      "explain": "Mother Father Sister Brother; house band for Philadelphia International Records; released \"TSOP (The Sound of Philadelphia)\" (1973)."
+    },
+    {
+      "term": "TSOP (The Sound of Philadelphia)",
+      "explain": "MFSB single (1973) used as the Soul Train theme; early disco template with strings and four-on-the-floor beat."
+    },
+    {
+      "term": "Tom Moulton",
+      "explain": "Producer and remixer who pioneered the 12-inch single and the extended remix format."
+    },
+    {
+      "term": "extended remix",
+      "explain": "Club version of a song, stretched from radio length (3 minutes) to 6–10 minutes with longer instrumental sections."
+    },
+    {
+      "term": "Giorgio Moroder",
+      "explain": "Italian producer based in Munich; pioneered synthesised disco with Donna Summer; produced \"I Feel Love\" (1977)."
+    },
+    {
+      "term": "Donna Summer",
+      "explain": "Boston-born singer who worked in Munich with Giorgio Moroder; \"Love to Love You Baby\" (1975), \"I Feel Love\" (1977)."
+    },
+    {
+      "term": "Love to Love You Baby",
+      "explain": "Donna Summer single (1975), produced by Giorgio Moroder; 17-minute track with breathy vocals and synthesisers."
+    },
+    {
+      "term": "I Feel Love",
+      "explain": "Donna Summer single (1977), produced by Giorgio Moroder; entirely synthesised track; blueprint for electronic dance music."
+    },
+    {
+      "term": "Pete Bellotte",
+      "explain": "British producer and songwriter who worked with Giorgio Moroder and Donna Summer."
+    },
+    {
+      "term": "Casablanca Records",
+      "explain": "US label that released Donna Summer's records in the 1970s."
+    },
+    {
+      "term": "Moog",
+      "explain": "Brand of modular synthesiser used by Giorgio Moroder and other disco producers."
+    },
+    {
+      "term": "Munich sound",
+      "explain": "Electronic disco production style developed by Giorgio Moroder and others in Munich; also called Eurodisco.",
+      "aliases": ["Eurodisco"]
+    },
+    {
+      "term": "Studio 54",
+      "explain": "Manhattan nightclub (1977–1980) at 254 West 54th Street; became the public face of disco. Owners Steve Rubell and Ian Schrager arrested for tax evasion in 1979."
+    },
+    {
+      "term": "Steve Rubell",
+      "explain": "Co-owner of Studio 54 with Ian Schrager; convicted of tax evasion in 1980."
+    },
+    {
+      "term": "Ian Schrager",
+      "explain": "Co-owner of Studio 54 with Steve Rubell; convicted of tax evasion in 1980."
+    },
+    {
+      "term": "Marc Benecke",
+      "explain": "Doorman at Studio 54 known for the club's selective admission policy."
+    },
+    {
+      "term": "Saturday Night Fever",
+      "explain": "1977 film directed by John Badham, starring John Travolta; soundtrack by the Bee Gees became the best-selling album of its time."
+    },
+    {
+      "term": "John Badham",
+      "explain": "Director of Saturday Night Fever (1977)."
+    },
+    {
+      "term": "John Travolta",
+      "explain": "Actor who played Tony Manero in Saturday Night Fever (1977)."
+    },
+    {
+      "term": "the Bee Gees",
+      "explain": "Australian-British pop group (Barry, Robin, Maurice Gibb) who recorded the Saturday Night Fever soundtrack.",
+      "aliases": ["Bee Gees"]
+    },
+    {
+      "term": "Barry Gibb",
+      "explain": "Member of the Bee Gees; co-writer of \"Stayin' Alive,\" \"Night Fever,\" and other disco hits."
+    },
+    {
+      "term": "Robin Gibb",
+      "explain": "Member of the Bee Gees."
+    },
+    {
+      "term": "Maurice Gibb",
+      "explain": "Member of the Bee Gees."
+    },
+    {
+      "term": "Stayin' Alive",
+      "explain": "Bee Gees single from Saturday Night Fever soundtrack (1977); became disco's commercial anthem."
+    },
+    {
+      "term": "Night Fever",
+      "explain": "Bee Gees single from Saturday Night Fever soundtrack (1977)."
+    },
+    {
+      "term": "Arif Mardin",
+      "explain": "Producer who worked with the Bee Gees on the Saturday Night Fever soundtrack."
+    },
+    {
+      "term": "RSO Records",
+      "explain": "Label that released the Saturday Night Fever soundtrack."
+    },
+    {
+      "term": "Disco Demolition Night",
+      "explain": "12 July 1979 event at Comiskey Park, Chicago, where rock DJ Steve Dahl blew up disco records; crowd stormed field, game forfeited; marked disco's commercial collapse."
+    },
+    {
+      "term": "Steve Dahl",
+      "explain": "Chicago rock DJ who organised Disco Demolition Night after being fired when his station switched to disco."
+    },
+    {
+      "term": "Comiskey Park",
+      "explain": "Chicago baseball stadium where Disco Demolition Night took place on 12 July 1979."
+    },
+    {
+      "term": "Chic",
+      "explain": "Disco group led by Nile Rodgers (guitar) and Bernard Edwards (bass); \"Le Freak\" (1978), \"Good Times\" (1979)."
+    },
+    {
+      "term": "Nile Rodgers",
+      "explain": "Guitarist and co-founder of Chic; co-wrote \"Le Freak\" and produced Sister Sledge."
+    },
+    {
+      "term": "Bernard Edwards",
+      "explain": "Bassist and co-founder of Chic; co-wrote \"Le Freak\" and produced Sister Sledge."
+    },
+    {
+      "term": "Le Freak",
+      "explain": "Chic single (1978); written after Rodgers and Edwards were denied entry to Studio 54; reached number one."
+    },
+    {
+      "term": "Good Times",
+      "explain": "Chic single (1979); bass line sampled in \"Rapper's Delight\" by Sugarhill Gang."
+    },
+    {
+      "term": "Gloria Gaynor",
+      "explain": "Disco singer; \"I Will Survive\" (1978) became an anthem of resilience and a gay-club standard."
+    },
+    {
+      "term": "I Will Survive",
+      "explain": "Gloria Gaynor single (1978); anthem of resilience; reached number one in 1979."
+    },
+    {
+      "term": "Sylvester",
+      "explain": "Sylvester James, openly gay Black falsetto singer from San Francisco; \"You Make Me Feel (Mighty Real)\" (1978)."
+    },
+    {
+      "term": "You Make Me Feel (Mighty Real)",
+      "explain": "Sylvester single (1978); Hi-NRG anthem of gay liberation."
+    },
+    {
+      "term": "Sister Sledge",
+      "explain": "Vocal group; \"We Are Family\" (1979), produced by Chic, became an anthem of unity."
+    },
+    {
+      "term": "We Are Family",
+      "explain": "Sister Sledge single (1979), produced by Nile Rodgers and Bernard Edwards; anthem of unity and family."
+    },
+    {
+      "term": "the Trammps",
+      "explain": "Disco group from Philadelphia; \"Disco Inferno\" (1976) became widely known via Saturday Night Fever soundtrack."
+    },
+    {
+      "term": "Disco Inferno",
+      "explain": "The Trammps single (1976); became widely known after inclusion in Saturday Night Fever soundtrack (1977)."
+    },
+    {
+      "term": "KC and the Sunshine Band",
+      "explain": "Miami-based disco group; \"Get Down Tonight\" (1975), blend of funk and disco."
+    },
+    {
+      "term": "Get Down Tonight",
+      "explain": "KC and the Sunshine Band single (1975); reached number one on the Hot 100."
+    },
+    {
+      "term": "Hi-NRG",
+      "explain": "High-energy, synthesised disco offshoot; fast tempo (140+ BPM); emerged in late 1970s UK and Europe."
+    },
+    {
+      "term": "house music",
+      "explain": "Electronic dance genre that emerged in Chicago c. 1984; direct descendant of disco; four-on-the-floor, 12-inch singles, DJ culture.",
+      "aliases": ["house"]
+    },
+    {
+      "term": "Frankie Knuckles",
+      "explain": "DJ at the Warehouse club in Chicago (1977–1984); pioneer of house music."
+    },
+    {
+      "term": "the Warehouse",
+      "explain": "Chicago nightclub (1977–1984) where Frankie Knuckles DJed; house music named after this club."
+    },
+    {
+      "term": "Roland TR-808",
+      "explain": "Drum machine released in 1980; used by Frankie Knuckles and early house producers.",
+      "aliases": ["TR-808", "808"]
+    },
+    {
+      "term": "Jesse Saunders",
+      "explain": "Chicago producer; \"On and On\" (1984) is an early house record."
+    },
+    {
+      "term": "On and On",
+      "explain": "Jesse Saunders track (1984); early house music record."
+    },
+    {
+      "term": "techno",
+      "explain": "Electronic dance genre that emerged in Detroit c. 1985; machine-made, futuristic, influenced by Kraftwerk and Giorgio Moroder."
+    },
+    {
+      "term": "Juan Atkins",
+      "explain": "Detroit producer; pioneer of techno; released \"No UFO's\" as Model 500 (1985)."
+    },
+    {
+      "term": "Derrick May",
+      "explain": "Detroit producer; pioneer of techno; \"Strings of Life\" (1987)."
+    },
+    {
+      "term": "Kevin Saunderson",
+      "explain": "Detroit producer; pioneer of techno."
+    },
+    {
+      "term": "Model 500",
+      "explain": "Juan Atkins's techno project; \"No UFO's\" (1985)."
+    },
+    {
+      "term": "Strings of Life",
+      "explain": "Derrick May track (1987); landmark techno record."
+    },
+    {
+      "term": "the Electrifying Mojo",
+      "explain": "Detroit radio DJ who played electronic, funk, and new wave; influenced the Belleville Three (Atkins, May, Saunderson)."
+    },
+    {
+      "term": "Kraftwerk",
+      "explain": "German electronic group; influenced disco (Giorgio Moroder), techno (Juan Atkins), and house."
+    },
+    {
+      "term": "garage house",
+      "explain": "House subgenre named after the Paradise Garage; emphasises soulful vocals and gospel-inflected piano.",
+      "aliases": ["garage"]
+    },
+    {
+      "term": "Richard Long",
+      "explain": "Sound engineer who designed the Paradise Garage's custom sound system."
+    },
+    {
+      "term": "northern soul",
+      "explain": "UK subculture (1960s–1970s) of working-class youth dancing to rare American soul imports at all-night clubs in Northern England."
+    },
+    {
+      "term": "Wigan Casino",
+      "explain": "Northern soul venue in Wigan, England; operated 1973–1981."
+    },
+    {
+      "term": "Ian Levine",
+      "explain": "Northern soul and disco DJ; worked at Blackpool Mecca."
+    },
+    {
+      "term": "Black Rio",
+      "explain": "Movement of Black Brazilian musicians and dancers reclaiming soul, funk, and disco as Afro-Brazilian culture; peaked mid-to-late 1970s."
+    },
+    {
+      "term": "baile funk",
+      "explain": "Brazilian funk balls where thousands danced to American soul and disco imports; organized by DJ Big Boy and others.",
+      "aliases": ["funk ball"]
+    },
+    {
+      "term": "Big Boy",
+      "explain": "Newton Alvarenga Duarte, Brazilian DJ who organised baile funk events in Rio in the 1970s.",
+      "aliases": ["Newton Alvarenga Duarte"]
+    },
+    {
+      "term": "Tim Maia",
+      "explain": "Brazilian soul and funk singer who fused American influences with samba and MPB."
+    },
+    {
+      "term": "Tony Tornado",
+      "explain": "Brazilian soul and funk singer, part of the Black Rio movement."
+    },
+    {
+      "term": "MPB",
+      "explain": "Música popular brasileira; Brazilian popular music.",
+      "aliases": ["música popular brasileira"]
+    },
+    {
+      "term": "roots reggae",
+      "explain": "Jamaican reggae subgenre emphasising Rastafarianism and social commentary; peaked in the 1970s."
+    },
+    {
+      "term": "dub",
+      "explain": "Jamaican remix style: instrumental reggae tracks with heavy reverb, delay, and bass; influenced disco remixers."
+    },
+    {
+      "term": "Lee \"Scratch\" Perry",
+      "explain": "Jamaican producer; pioneer of dub."
+    },
+    {
+      "term": "King Tubby",
+      "explain": "Jamaican producer and engineer; pioneer of dub."
+    },
+    {
+      "term": "Bob Marley and the Wailers",
+      "explain": "Jamaican reggae group; roots reggae albums in the 1970s."
+    },
+    {
+      "term": "Peter Tosh",
+      "explain": "Jamaican reggae musician; roots reggae in the 1970s."
+    },
+    {
+      "term": "Italo disco",
+      "explain": "Italian electronic disco genre that emerged in the early 1980s; influenced by Giorgio Moroder."
+    },
+    {
+      "term": "Biddu",
+      "explain": "British-Indian producer who worked on disco records in the UK."
+    },
+    {
+      "term": "Alec R. Costandinos",
+      "explain": "French producer who created orchestral disco with large string sections."
+    },
+    {
+      "term": "Gene Page",
+      "explain": "Arranger who arranged strings for Barry White and other disco acts."
+    },
+    {
+      "term": "Barry White",
+      "explain": "Soul and disco singer and producer; lush orchestral arrangements; \"Love's Theme\" (1973)."
+    },
+    {
+      "term": "Love's Theme",
+      "explain": "Barry White instrumental (1973); early disco-leaning record."
+    },
+    {
+      "term": "Isaac Hayes",
+      "explain": "Soul musician and composer; Shaft soundtrack (1971) had dance-floor influence."
+    },
+    {
+      "term": "James Brown",
+      "explain": "Soul and funk musician; instrumental breaks in his records became dance-floor standards."
+    },
+    {
+      "term": "Sly and the Family Stone",
+      "explain": "Funk group; groove-heavy tracks influenced disco dancers and producers."
+    },
+    {
+      "term": "Loleatta Holloway",
+      "explain": "Disco and gospel singer; \"Love Sensation\" (1980) became a Paradise Garage anthem and was later sampled in house."
+    },
+    {
+      "term": "Love Sensation",
+      "explain": "Loleatta Holloway single (1980); Paradise Garage anthem."
+    },
+    {
+      "term": "Taana Gardner",
+      "explain": "Disco singer; \"Heartbeat\" (1981) was a Paradise Garage anthem."
+    },
+    {
+      "term": "Heartbeat",
+      "explain": "Taana Gardner single (1981); Paradise Garage anthem."
+    },
+    {
+      "term": "Brian Eno",
+      "explain": "British musician and producer who said \"I Feel Love\" marked a watershed in music."
+    },
+    {
+      "term": "Andy Warhol",
+      "explain": "Artist and Studio 54 regular."
+    },
+    {
+      "term": "Liza Minnelli",
+      "explain": "Actress and singer; Studio 54 regular."
+    },
+    {
+      "term": "Bianca Jagger",
+      "explain": "Socialite; famously rode a white horse into Studio 54."
+    },
+    {
+      "term": "Diana Ross",
+      "explain": "Singer and Studio 54 regular."
+    },
+    {
+      "term": "Mick Jagger",
+      "explain": "The Rolling Stones frontman; Studio 54 regular."
+    },
+    {
+      "term": "Soul Train",
+      "explain": "American music and dance television program; used \"TSOP (The Sound of Philadelphia)\" as its theme."
+    },
+    {
+      "term": "Billboard Hot 100",
+      "explain": "US singles chart published by Billboard magazine."
+    },
+    {
+      "term": "Billboard 200",
+      "explain": "US albums chart published by Billboard magazine."
+    }
+  ]
+}
