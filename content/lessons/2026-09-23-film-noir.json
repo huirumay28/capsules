@@ -13,14 +13,14 @@
   "reading_minutes": 24,
   "thumb": {
     "src": "lessons/film-noir/bogart-1940s.jpg",
-    "alt": "Black-and-white portrait photograph of Humphrey Bogart in the 1940s."
+    "alt": "Black-and-white studio publicity portrait of Humphrey Bogart, circa 1940, in fedora and overcoat."
   },
   "hero": {
     "src": "lessons/film-noir/la-night-1940s.jpg",
-    "alt": "Nighttime street scene in Los Angeles during the 1940s showing neon signs, wet pavement, and urban atmosphere.",
-    "caption": "Broadway at night in downtown Los Angeles, 1940s. The noir city was a real place: postwar Los Angeles, New York, San Francisco, cities with neon, rain, streetlights, and shadows. Cinematographers John Alton, Nicholas Musuraca, and others shot on location and in studios to create the noir look: night exteriors, wet streets reflecting light, chiaroscuro contrasts. This photograph captures the urban night world that film noir made into a visual genre. Not a film still — a period city photograph.",
-    "credit": "Photographer unknown / Los Angeles Public Library Photo Collection / public domain",
-    "credit_url": "https://commons.wikimedia.org/wiki/File:Broadway_at_night_in_downtown_Los_Angeles,_ca.1940-1950_(CHS-5126).jpg"
+    "alt": "Black-and-white night photograph of Times Square looking north, with neon signs, wet dark streets, and period traffic.",
+    "caption": "Times Square looking north at night, New York City, 1934 (Irving Underhill). The noir city was a real place: postwar Los Angeles, New York, San Francisco — cities with neon, rain, streetlights, and shadows. Cinematographers John Alton, Nicholas Musuraca, and others shot on location and in studios to create the noir look: night exteriors, wet streets reflecting light, chiaroscuro contrasts. This photograph captures the urban night world that film noir made into a visual genre. Not a film still — a period city photograph.",
+    "credit": "Irving Underhill / Library of Congress Prints and Photographs Division / no known restrictions (no copyright renewal found)",
+    "credit_url": "https://www.loc.gov/item/2006677804/"
   },
   "honesty": "Film noir is a critics' and historians' label, not a term the filmmakers used. French critic Nino Frank coined \"film noir\" in August 1946 after watching American crime films that had not been released in France during the war. Raymond Borde and Étienne Chaumeton's 1955 book Panorama du film noir gave the term critical currency. Hollywood studios called these pictures crime films, melodramas, or detective stories. The boundaries are fuzzy: some scholars start with The Maltese Falcon (1941), others with Stranger on the Third Floor (1940) or even earlier. The late edge is usually Touch of Evil (1958), though neo-noir films appear in later decades. Not every 1940s crime film is noir, and the style overlaps with melodrama, thriller, and women's pictures. Useful core titles: The Maltese Falcon, Double Indemnity, Murder, My Sweet, The Big Sleep, Out of the Past, The Killers, Detour, The Lady from Shanghai, The Asphalt Jungle, Sunset Boulevard, In a Lonely Place, The Big Heat, Kiss Me Deadly, Touch of Evil. Film stills from these titles are often still under copyright or commercially managed; this lesson uses public-domain and clearly licensed images, each captioned as what they show. No AI people.",
   "timeline": [
@@ -112,10 +112,10 @@
     "text": "Film noir's signature look — rain-slicked streets, neon reflections, pools of shadow — was partly born from B-unit economics. Studios like RKO, Universal, and Poverty Row outfits shot crime films at night with small crews and tight schedules. Shooting night-for-night (actually filming at night rather than using day-for-night filters) was cheaper when you had minimal lighting equipment and could use existing streetlights and neon signs. Cinematographer John Alton, who shot T-Men (1947) and The Big Combo (1955), pioneered low-key lighting techniques that required fewer lights and created deeper shadows. Edgar G. Ulmer's Detour (1945) was shot in six days; its harsh shadows and minimal sets were necessity, not luxury. The aesthetic became inseparable from the economy: noir looked dark because it was cheap to shoot dark, and the shadows carried psychological weight that turned budget into style. A-list noirs like Double Indemnity used the same techniques but with bigger budgets and stars.",
     "image": {
       "src": "lessons/film-noir/stanwyck-macmurray.jpg",
-      "alt": "Barbara Stanwyck and Fred MacMurray in a scene from Double Indemnity, showing characteristic noir lighting with venetian blind shadows.",
-      "caption": "Public-domain still from Billy Wilder's Double Indemnity (Paramount, 1944): Barbara Stanwyck as Phyllis Dietrichson and Fred MacMurray as Walter Neff. Venetian blind shadows, low-key lighting, and the femme fatale blonde wig became noir visual shorthand. Cinematographer John F. Seitz used hard light sources to create stark contrasts. Wilder and Raymond Chandler adapted James M. Cain's novel; the Production Code required that the crime be punished, so the film's structure is a confession leading to death.",
-      "credit": "Billy Wilder / Paramount Pictures / Wikimedia Commons / public domain (film published 1944, no copyright renewal)",
-      "credit_url": "https://commons.wikimedia.org/wiki/File:Double_Indemnity_screenshot.jpg"
+      "alt": "Barbara Stanwyck and Fred MacMurray in a promotional still from Double Indemnity, with venetian-blind shadows across the wall.",
+      "caption": "Promotional still published in Life (10 July 1944) from Billy Wilder's Double Indemnity (Paramount, 1944): Barbara Stanwyck as Phyllis Dietrichson and Fred MacMurray as Walter Neff. Venetian-blind shadows, low-key lighting, and the femme fatale blonde and ankle bracelet became noir visual shorthand. Cinematographer John F. Seitz used hard light sources to create stark contrasts. Wilder and Raymond Chandler adapted James M. Cain's novel; the Production Code required that the crime be punished, so the film's structure is a confession leading to death.",
+      "credit": "Paramount Pictures / photograph published in Life magazine Vol. 17 No. 2 (10 July 1944) / Wikimedia Commons / public domain (U.S. publication 1931–1963, copyright not renewed)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Double-Indemnity-LIFE-1944-2.jpg"
     }
   },
   "glossary": [
