@@ -11,18 +11,7 @@
   "dek": "How Nancy Hartsock's 1983 essay argued that women's social position yields a distinctive and epistemically advantaged standpoint on reality when critically developed; how Sandra Harding elaborated this into strong objectivity against value-free myth; how Dorothy E. Smith grounded sociology in women's everyday world; how Patricia Hill Collins applied standpoint to Black feminist thought and the outsider-within position; and how critics challenged essentialism, identity boundaries, and the postmodern turn while parallel feminist epistemologies emerged in Brazil and Latin America.",
   "era": "Hartsock's 'The Feminist Standpoint' 1983; Harding's The Science Question in Feminism 1986 and Whose Science? Whose Knowledge? 1991; Smith's The Everyday World as Problematic 1987; Collins's Black Feminist Thought 1990; debates 1990s–2000s",
   "reading_minutes": 26,
-  "thumb": {
-    "src": "lessons/standpoint-theory/loc-reading-room.jpg",
-    "alt": "Library of Congress Main Reading Room with desks and researchers"
-  },
-  "hero": {
-    "src": "lessons/standpoint-theory/loc-reading-room.jpg",
-    "alt": "The Main Reading Room of the Library of Congress, with rows of wooden desks, green reading lamps, and researchers at work under the ornate domed ceiling",
-    "caption": "The Main Reading Room of the Library of Congress in Washington, D.C. (photographed by Carol M. Highsmith, 2007). Feminist standpoint theorists in the 1980s argued that knowledge production—including in settings like this—is shaped by the knower's social location, and that starting inquiry from marginalized standpoints can reveal what dominant perspectives systematically obscure.",
-    "credit": "Carol M. Highsmith / Library of Congress / Public domain",
-    "credit_url": "https://www.loc.gov/pictures/item/2011634452/"
-  },
-  "honesty": "This lesson treats feminist standpoint theory as a specific epistemological tradition with dated origins, not as a claim that all women automatically know more or that identity alone guarantees truth. The core arc follows Nancy Hartsock's 'The Feminist Standpoint: Developing the Ground for a Specifically Feminist Historical Materialism' (1983), Sandra Harding's The Science Question in Feminism (1986) and Whose Science? Whose Knowledge? Thinking from Women's Lives (1991), Dorothy E. Smith's The Everyday World as Problematic (1987), and Patricia Hill Collins's Black Feminist Thought (1990). Hartsock built on Marxist standpoint epistemology and Hegelian master-slave dialectic to argue that women's distinctive labor and social experience can ground a critical standpoint that sees through ideological mystifications visible from above. Harding distinguished standpoint from spontaneous perspective and argued for strong objectivity—knowledge that reflects critically on the knower's location—against the weaker objectivity that ignores social position. Smith used standpoint to reorient sociology from institutional abstractions to the everyday work that sustains institutions. Collins applied standpoint to Black women's intellectual tradition and the outsider-within position in white institutions. Critics—including Susan Hekman, Donna Haraway, and postmodern feminists—challenged standpoint theory's risk of essentialism, asked which women count and whether coherent group standpoints exist, and proposed situated knowledges or coalitional epistemologies instead. The 'Elsewhere' section covers Lélia Gonzalez's Afro-Brazilian feminist epistemology developed contemporaneously in the 1980s—not a paired 'West plus Asia' but a concrete Latin American feminist thread on experience, racism, and knowledge from a different imperial and racial formation. Photographs are public-domain institutional images from the Library of Congress: reading rooms, campus scenes, a women's march. They mark settings of knowledge production and political claim-making; they are not portraits of the theorists themselves at work in 1983.",
+  "honesty": "This lesson treats feminist standpoint theory as a specific epistemological tradition with dated origins, not as a claim that all women automatically know more or that identity alone guarantees truth. The core arc follows Nancy Hartsock's 'The Feminist Standpoint: Developing the Ground for a Specifically Feminist Historical Materialism' (1983), Sandra Harding's The Science Question in Feminism (1986) and Whose Science? Whose Knowledge? Thinking from Women's Lives (1991), Dorothy E. Smith's The Everyday World as Problematic (1987), and Patricia Hill Collins's Black Feminist Thought (1990). Hartsock built on Marxist standpoint epistemology and Hegelian master-slave dialectic to argue that women's distinctive labor and social experience can ground a critical standpoint that sees through ideological mystifications visible from above. Harding distinguished standpoint from spontaneous perspective and argued for strong objectivity—knowledge that reflects critically on the knower's location—against the weaker objectivity that ignores social position. Smith used standpoint to reorient sociology from institutional abstractions to the everyday work that sustains institutions. Collins applied standpoint to Black women's intellectual tradition and the outsider-within position in white institutions. Critics—including Susan Hekman, Donna Haraway, and postmodern feminists—challenged standpoint theory's risk of essentialism, asked which women count and whether coherent group standpoints exist, and proposed situated knowledges or coalitional epistemologies instead. The 'Elsewhere' section covers Lélia Gonzalez's Afro-Brazilian feminist epistemology developed contemporaneously in the 1980s—not a paired 'West plus Asia' but a concrete Latin American feminist thread on experience, racism, and knowledge from a different imperial and racial formation.",
   "timeline": [
     {
       "year": "1807",
@@ -125,8 +114,8 @@
     },
     {
       "title": "Patricia Hill Collins — Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment (Routledge, 1990; 2nd ed. 2000)",
-      "url": "https://www.routledge.com/Black-Feminist-Thought-Knowledge-Consciousness-and-the-Politics-of-Empowerment/Collins/p/book/9780415964722",
-      "note": "Articulates a Black feminist standpoint grounded in the outsider-within position, dialogues with Afrocentric epistemology, and argues that marginalized groups develop distinctive critical consciousness. Publisher page for 2nd edition."
+      "url": "https://www.routledge.com/Black-Feminist-Thought-30th-Anniversary-Edition-Knowledge-Consciousness-and-the-Politics-of-Empowerment/Collins/p/book/9781032157832",
+      "note": "Articulates a Black feminist standpoint grounded in the outsider-within position, dialogues with Afrocentric epistemology, and argues that marginalized groups develop distinctive critical consciousness. Publisher page for 30th Anniversary Edition."
     },
     {
       "title": "Susan Hekman — 'Truth and Method: Feminist Standpoint Theory Revisited' (Signs, 1997)",
@@ -541,14 +530,6 @@
         {
           "type": "p",
           "text": "Third—and this is Sandra Harding's contribution—standpoint produces stronger objectivity, not weaker. If objectivity means getting an adequate account of reality, then ignoring the knower's social location and interests is a failure of objectivity. Acknowledging and critically examining where the knower stands, what the inquiry assumes, whose questions are being asked, and whose experience is treated as normal all strengthen objectivity. Harding calls the conventional ideal weak objectivity because it pretends to neutrality and thereby protects unexamined bias. Strong objectivity requires starting research from marginalized lives, maximizing critical scrutiny, and recognizing that no knowledge is view-from-nowhere. Standpoint is a method for epistemic responsibility, not an identity card that confers truth."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/standpoint-theory/university-library.jpg",
-          "alt": "Library interior with bookshelves and reading areas",
-          "caption": "A library interior (photographed by Carol M. Highsmith, 2007). Standpoint theorists argue that the social location of researchers—shaped by gender, race, class—affects which questions get asked, which books are written, and whose knowledge is preserved in institutions like this.",
-          "credit": "Carol M. Highsmith / Library of Congress / Public domain",
-          "credit_url": "https://www.loc.gov/pictures/item/2011634422/"
         }
       ]
     },
@@ -599,14 +580,6 @@
         {
           "type": "p",
           "text": "All four—Hartsock, Harding, Smith, Collins—emphasized that standpoint is not about celebrating women's intuition or claiming that oppression automatically makes you wise. It is a claim about how power shapes knowledge, which social positions offer resources for critical consciousness, and what it takes to turn potential into realized epistemic advantage. And all four faced the same recurring critique: isn't this essentialist? If standpoints are multiple—women are divided by race, class, sexuality, nation—then which standpoint counts? Whose experience is the feminist standpoint? The debates of the 1990s would press that question hard."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/standpoint-theory/campus-students.jpg",
-          "alt": "College campus with students walking between buildings",
-          "caption": "A college campus scene (photographed by Carol M. Highsmith, 2015). Patricia Hill Collins argued that Black women in white-dominated universities occupy an outsider-within position that produces a distinctive standpoint—simultaneously marginal and institutionally present.",
-          "credit": "Carol M. Highsmith / Library of Congress / Public domain",
-          "credit_url": "https://www.loc.gov/pictures/item/2015633088/"
         }
       ]
     },
@@ -649,14 +622,6 @@
         {
           "type": "p",
           "text": "Standpoint theory did not disappear after these debates. It was refined, pluralized, and applied to new contexts. Alison Wylie and others defended standpoint as a research methodology for studying power relations: start inquiry from the lives of the less powerful, expect their accounts to reveal what dominant accounts miss, test competing claims against broader evidence. This version treats epistemic advantage as contingent and defeasible, not guaranteed by identity. Standpoint also migrated into fields beyond academic feminism: disability studies, queer theory, postcolonial theory, critical race theory. Each asked: what does the world look like from this margin? What contradictions, hypocrisies, and mechanisms of power become visible from here that remain invisible from the center? The method persisted even as the metaphysical unity of 'women's standpoint' fractured into multiple, contested, coalitional standpoints."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/standpoint-theory/women-march.jpg",
-          "alt": "Women marching in a protest or demonstration",
-          "caption": "Women marching for equality (Library of Congress, Prints & Photographs Division). Standpoint theorists argue that political consciousness and collective action turn the potential epistemic resources of marginalized positions into actual critical standpoints—standpoint is achieved, not automatic.",
-          "credit": "Library of Congress / Public domain",
-          "credit_url": "https://www.loc.gov/pictures/item/2016889895/"
         }
       ]
     },
