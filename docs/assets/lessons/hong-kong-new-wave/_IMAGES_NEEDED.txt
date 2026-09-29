@@ -1,0 +1,47 @@
+IMAGES REQUIRED FOR HONG KONG NEW WAVE LESSON
+
+All images must be from Wikimedia Commons, Library of Congress, or other verified public domain / CC0 / CC-BY sources.
+NO copyrighted film stills. NO AI-generated images of people.
+
+Required images (5-8 total):
+
+1. hong-kong-harbor-1980s.jpg (THUMB)
+   - Victoria Harbour view from 1980s
+   - Wikimedia Commons: Search "Hong Kong harbour 1980" or similar
+   - License: CC0 or public domain
+   - What it shows: Victoria Harbour with buildings, boats, urban density of 1980s Hong Kong
+
+2. hong-kong-kowloon-1982.jpg (HERO)
+   - Kowloon street scene, early 1980s
+   - Neon signs, pedestrians, urban density
+   - Wikimedia Commons: Category:1980s in Hong Kong
+   - License: CC0 or CC-BY
+   - What it shows: Street-level Hong Kong with period details
+
+3. tvb-city-exterior.jpg (FUN_FACT image)
+   - TVB City broadcasting complex exterior
+   - Wikimedia Commons: Search "TVB Hong Kong" or "Television Broadcasts Limited"
+   - License: CC0 or CC-BY
+   - What it shows: TVB headquarters/production facility
+
+4-8. Additional figures:
+   - Hong Kong street scenes 1979-1984
+   - Refugee camp or boat imagery (only if clearly licensed and historically accurate)
+   - Hong Kong harbor/ferry/tram period photos
+   - Architectural/cityscape images showing 1980s Hong Kong density
+
+SOURCES TO TRY:
+- Wikimedia Commons Category:1980s in Hong Kong
+- Wikimedia Commons Category:Hong Kong in the 1980s
+- Library of Congress (fewer Hong Kong images but check)
+- Flickr Commons with CC0 licenses
+
+DOWNLOAD INSTRUCTIONS:
+1. Verify license on Wikimedia Commons file page
+2. Download full resolution or 1280px thumbnail
+3. Rename to descriptive filename
+4. Update JSON with correct src paths, alt text, honest captions, credit, credit_url
+
+HONESTY REQUIREMENT:
+Every image caption must describe what the file ACTUALLY shows.
+Never caption a random city photo as a specific film or director.
