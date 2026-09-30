@@ -15,33 +15,33 @@
     "alt": "Charles Baudelaire portrait photograph by Étienne Carjat, circa 1863"
   },
   "hero": {
-    "src": "lessons/french-symbolism/manet-cafe-concert.jpg",
-    "alt": "The Café-Concert by Édouard Manet, 1879, showing Parisian café culture",
-    "caption": "Édouard Manet, The Café-Concert (1879, Walters Art Museum). Paris café and concert-hall culture was the social infrastructure of Symbolist poetry and Decadent prose. Baudelaire, Verlaine, Rimbaud, and Mallarmé met editors, publishers, and each other in cafés; the mardis (Tuesday salons) at Mallarmé's apartment were small, but cafés were the wider literary public sphere. Manet was not a Symbolist painter, but his late work captures the milieu where Symbolist verse circulated.",
-    "credit": "Édouard Manet / Walters Art Museum / Public domain",
-    "credit_url": "https://commons.wikimedia.org/wiki/File:Édouard_Manet_-_The_Café-Concert_-_Walters_48127.jpg"
+    "src": "lessons/french-symbolism/rimbaud-carjat.jpg",
+    "alt": "Arthur Rimbaud, photograph by Étienne Carjat, 1872",
+    "caption": "Arthur Rimbaud, photographed by Étienne Carjat in 1872 when he was about seventeen (now in Musée Arthur Rimbaud, Charleville-Mézières). Within three years he would have written all the major work that survives — Le Bateau ivre, Une saison en enfer, Illuminations — and abandoned poetry.",
+    "credit": "Étienne Carjat / Public domain",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Arthur_Rimbaud_by_Carjat_-_Mus%C3%A9e_Arthur_Rimbaud.jpg"
   },
-  "honesty": "French Symbolism is both a self-identified movement (manifestos by Jean Moréas in 1886, little magazines, Tuesday salons) and a later teaching label. Baudelaire did not call himself a Symbolist — he died in 1867 before the term gained currency — but his correspondence theory and rejection of didactic poetry made him the Symbolist precursor. The dates here run roughly from the 1857 publication and trial of Les Fleurs du mal through Mallarmé's death in 1898. Verlaine and Rimbaud's intense relationship (1871–73) and Rimbaud's abandonment of poetry around 1875 at age twenty are central to the legend but chronologically brief. Mallarmé's mardis (Tuesday evening gatherings at his apartment, 1880s–90s) were influential but small; the wider Symbolist scene included the Decadent novelists (Joris-Karl Huysmans's À rebours, 1884), theater experiments, and Wagnerism debates. Women poets — Marie Krysinska, Renée Vivien, Anna de Noailles — were active but marginalized in early Symbolist anthologies and later canonization. The elsewhere section names Latin American Modernismo (Rubén Darío), English Aestheticism and Decadence (Oscar Wilde, Arthur Symons), early Russian Symbolism (later peak), and Japanese shintaishi experiments as contemporaneous literary movements with accurate dates — not a forced formula. Romanticism and high modernism are earlier and later Capsules literature lessons; both connect to Symbolism but are not repeated here.",
+  "honesty": "The label Symbolism was proposed by Jean Moréas in 1886 and defended in his manifesto that year. Baudelaire died in 1867 before the term existed; Mallarmé and Verlaine were ambivalent about the label even as they were named its central figures. The poets canonized as Symbolists are almost all men; women such as Marie Krysinska, Renée Vivien, and Marceline Desbordes-Valmore were active but marginalized in early anthologies and later canonization. The elsewhere section compares French Symbolism to contemporaneous movements abroad — Latin American Modernismo, English Aestheticism, early Russian Symbolism, and Japanese shintaishi — but these movements had their own histories and concerns; they were not copies of the French model.",
   "timeline": [
     {
       "year": "1857",
       "label": "Les Fleurs du mal published; prosecution",
-      "detail": "Charles Baudelaire publishes Les Fleurs du mal (The Flowers of Evil) with Poulet-Malassis in June 1857. The volume contains 100 poems exploring beauty, decay, ennui (spleen), and correspondence between the physical and spiritual. In August the book is prosecuted for offenses against public morality; Baudelaire and his publisher are fined and six poems are banned from future French editions. Baudelaire's theory of correspondences (synesthetic links between senses, colors, sounds, and spiritual states) anchors later Symbolist aesthetics."
+      "detail": "Charles Baudelaire publishes Les Fleurs du mal (The Flowers of Evil) with Poulet-Malassis in June 1857. The volume contains 100 poems in five sections exploring beauty, decay, ennui (spleen), and correspondence between the physical and spiritual. In August the book is prosecuted for offenses against public morality; on 20 August the court fines Baudelaire 300 francs and his publishers (Poulet-Malassis and de Broise) 100 francs each, and six poems are banned from future French editions. Baudelaire's theory of correspondences (synesthetic links between senses, colors, sounds, and spiritual states) anchors later Symbolist aesthetics."
     },
     {
       "year": "1861",
       "label": "Fleurs du mal second edition; Baudelaire's criticism",
-      "detail": "Baudelaire publishes the revised and expanded second edition of Les Fleurs du mal (now 126 poems, with the six condemned poems removed). His prose poems Le Spleen de Paris (Paris Spleen) circulate in journals. His critical essays on art (Salons), Edgar Allan Poe (whose tales he translated into French 1856–65), and Wagner's Tannhäuser (1861 Paris premiere) theorize imagination, suggestion, and the refusal of didactic purpose."
+      "detail": "Baudelaire publishes the revised and expanded second edition of Les Fleurs du mal (now 126 poems in six sections, with the six condemned poems removed and a new section Tableaux parisiens added). His prose poems Le Spleen de Paris (Paris Spleen) circulate in journals. His critical essays on art (Salons), Edgar Allan Poe (whose tales he translated into French 1856–65), and Wagner's Tannhäuser (1861 Paris premiere) theorize imagination, suggestion, and the refusal of didactic purpose."
     },
     {
       "year": "1866–67",
       "label": "Baudelaire's illness and death; Parnassian anthologies",
-      "detail": "Baudelaire suffers a stroke in Brussels in March 1866; paralysis and aphasia follow. He is brought back to Paris and dies in August 1867 at age forty-six. Meanwhile, the first Parnasse contemporain anthology (1866) collects verse by Théodore de Banville, Théophile Gautier, Leconte de Lisle, and others — formal precision and l'art pour l'art that will be adjacent to but distinct from Symbolism. Verlaine's first collection Poèmes saturniens appears in 1866."
+      "detail": "Baudelaire suffers a stroke in Brussels in March 1866 that leaves him paralysed and unable to speak. He is brought back to Paris and dies on 31 August 1867, aged forty-six. Meanwhile, the first Parnasse contemporain anthology (1866) collects verse by Théodore de Banville, Théophile Gautier, Leconte de Lisle, and others — formal precision and l'art pour l'art that will be adjacent to but distinct from Symbolism. Verlaine's first collection Poèmes saturniens appears in 1866."
     },
     {
       "year": "1871–73",
       "label": "Verlaine and Rimbaud; Paris Commune aftermath",
-      "detail": "Paul Verlaine (born 1844), married with a son, meets the teenage Arthur Rimbaud (born 1854) in September 1871. Rimbaud's letters and early poems (Le Bateau ivre / The Drunken Boat) show visionary intensity and formal violence. The two poets travel together to London and Brussels; their relationship is turbulent and scandalous. In July 1873 Verlaine shoots Rimbaud in the wrist during a quarrel in Brussels; Verlaine is imprisoned. Rimbaud writes Une saison en enfer (A Season in Hell, 1873) and Illuminations (prose poems, composed c. 1873–75, published 1886). By 1875 Rimbaud has largely abandoned poetry and will spend the rest of his short life in trade and travel."
+      "detail": "Paul Verlaine (born 1844), married with a son, meets the teenage Arthur Rimbaud (born 1854) in September 1871. Rimbaud's letters and early poems (Le Bateau ivre / The Drunken Boat) show visionary intensity and formal violence. The two poets travel together to London and Brussels; their relationship is turbulent and scandalous. In July 1873 Verlaine shoots Rimbaud in the wrist during a quarrel in Brussels; Verlaine is imprisoned. Rimbaud writes Une saison en enfer (A Season in Hell, 1873) and Illuminations (prose poems, composed c. 1872–75). By about 1875, at age twenty, Rimbaud has largely abandoned poetry and will spend the rest of his short life in trade and travel."
     },
     {
       "year": "1874–76",
@@ -51,17 +51,17 @@
     {
       "year": "1884–86",
       "label": "À rebours; Symbolist manifestos and magazines",
-      "detail": "Joris-Karl Huysmans publishes À rebours (Against Nature / Against the Grain, 1884) — a Decadent novel about Des Esseintes, an aristocrat who retreats into aesthetic solitude, cataloging perfumes, jewels, and esoteric books. The novel makes Baudelaire and Mallarmé into cult figures and bridges Decadence and Symbolism. In 1885 La Revue wagnérienne launches, debating Wagner's influence on French poetry. Jean Moréas publishes the Symbolist Manifesto in Le Figaro (18 September 1886), naming Symbolism as a movement and listing Verlaine, Mallarmé, and Rimbaud as precursors."
+      "detail": "Joris-Karl Huysmans publishes À rebours (Against Nature / Against the Grain, 1884) — a Decadent novel about Des Esseintes, an aristocrat who retreats into aesthetic solitude, cataloging perfumes, jewels, and esoteric books. The novel makes Baudelaire and Mallarmé into cult figures and bridges Decadence and Symbolism. In 1885 La Revue wagnérienne launches, debating Wagner's influence on French poetry. Jean Moréas publishes the Symbolist Manifesto in Le Figaro (18 September 1886), defending the name Symbolism and naming Baudelaire as the movement's true precursor, saying Mallarmé endowed it with a sense of mystery and the ineffable, and saying Verlaine broke the shackles of verse."
     },
     {
       "year": "1886–91",
       "label": "Rimbaud's death; little magazines flourish",
-      "detail": "Rimbaud, who had left poetry behind and worked in Aden and Abyssinia as a trader, falls ill with a tumor in his knee. He returns to France for surgery (leg amputation) and dies in Marseille in November 1891 at age thirty-seven. Illuminations had been published in 1886 with a preface by Verlaine. Meanwhile, Symbolist little magazines proliferate: La Revue indépendante, La Vogue, Mercure de France. Verlaine publishes critical portraits of Les Poètes maudits (The Accursed Poets, 1884, expanded 1888) — essays on Rimbaud, Mallarmé, and himself."
+      "detail": "Rimbaud, who had left poetry behind and worked in Aden and Harar as a trader (coffee, and arms in the 1880s), falls ill with a tumor in his knee. He returns to France for surgery (leg amputation) and dies in Marseille in November 1891 at age thirty-seven. Illuminations was first published in the magazine La Vogue in five instalments, 13 May–21 June 1886, then in a volume with a short preface by Verlaine in autumn 1886. Rimbaud was in Aden, was not informed, and never saw it. Meanwhile, Symbolist little magazines proliferate: La Revue indépendante, La Vogue, Mercure de France. Verlaine publishes critical portraits of Les Poètes maudits (The Accursed Poets): the 1884 edition covered Tristan Corbière, Arthur Rimbaud, and Stéphane Mallarmé; the expanded 1888 edition added Marceline Desbordes-Valmore, Villiers de l'Isle-Adam, and Verlaine himself (as 'Pauvre Lélian')."
     },
     {
       "year": "1893–97",
       "label": "Vers libre codified; Mallarmé's late work",
-      "detail": "Free verse (vers libre) — irregular line lengths, broken alexandrines, and flexible rhythm — becomes the dominant Symbolist form through practice and debate. Gustave Kahn and others claim to have invented it; the reality is gradual experimentation by many poets. Mallarmé's Un coup de dés jamais n'abolira le hasard (A Throw of the Dice Will Never Abolish Chance, written 1897, published 1914) uses radical typography and white space to make silence and chance structural elements. Mallarmé's Tuesday evening salons (les mardis) at his rue de Rome apartment gather younger poets; the gatherings are small but influential."
+      "detail": "Free verse (vers libre) — irregular line lengths, broken alexandrines, and flexible rhythm — becomes the dominant Symbolist form through practice and debate. Gustave Kahn and others claim to have invented it; the reality is gradual experimentation by many poets. Mallarmé's Un coup de dés jamais n'abolira le hasard (A Throw of the Dice Will Never Abolish Chance): a first version appears in the magazine Cosmopolis in May 1897 in conventional layout; the radical typography Mallarmé intended — words scattered across double-page spreads, white space as structural silence — is published in book form in 1914, after his death. Mallarmé's Tuesday evening salons (les mardis) at his rue de Rome apartment gather younger poets; the gatherings are small but influential."
     },
     {
       "year": "1896–98",
@@ -76,14 +76,14 @@
       "note": "English and French parallel texts of Les Fleurs du mal poems. Public translations by multiple hands. Read L'Albatros (The Albatross), Correspondances, Spleen, and any of the Tableaux parisiens. Secondary site but useful for accessible bilingual reading."
     },
     {
-      "title": "Arthur Rimbaud — A Season in Hell (Project Gutenberg)",
-      "url": "https://www.gutenberg.org/ebooks/37625",
-      "note": "English translation (public domain). Rimbaud's visionary, hallucinatory prose-poem autobiography. Dense, difficult, essential. Illuminations is harder to find in public domain English but worth seeking."
+      "title": "Arthur Rimbaud — A Season in Hell (English translation)",
+      "url": "https://www.poetryintranslation.com/PITBR/French/Rimbaud3.php",
+      "note": "English translation. Rimbaud's visionary, hallucinatory prose-poem autobiography. Dense, difficult, essential. Illuminations is harder to find in public domain English but worth seeking."
     },
     {
       "title": "Paul Verlaine — Selected Poems (Poetry Foundation)",
       "url": "https://www.poetryfoundation.org/poets/paul-verlaine",
-      "note": "Small selection of Verlaine poems in English translation. Poetry Foundation bio and context. His Art poétique (1882, published 1884) — De la musique avant toute chose (Music before everything) — is the Symbolist aesthetic in nine stanzas."
+      "note": "Small selection of Verlaine poems in English translation. Poetry Foundation bio and context. His Art poétique (written 1874, first published 1882 in the review Paris moderne, collected in Jadis et naguère 1884) — De la musique avant toute chose (Music before everything) — is the Symbolist aesthetic in nine stanzas."
     },
     {
       "title": "Stéphane Mallarmé — Selected Poems (Poetry Foundation)",
@@ -96,38 +96,48 @@
       "note": "Public domain English translation. The novel is a Decadent catalog of aesthetic obsessions; chapter 12 praises Baudelaire and Mallarmé. Essential bridge between Decadence and Symbolism."
     },
     {
-      "title": "French Symbolism — Britannica overview",
-      "url": "https://www.britannica.com/art/Symbolist-movement",
+      "title": "Symbolism (arts) — Wikipedia overview",
+      "url": "https://en.wikipedia.org/wiki/Symbolism_(arts)",
       "note": "Encyclopedia entry. Names, dates, quick context. Secondary overview only."
+    },
+    {
+      "title": "Jean Moréas — The Symbolist Manifesto (1886, English translation)",
+      "url": "https://www.poetryintranslation.com/PITBR/French/MoreasManifesto.php",
+      "note": "English translation of the 18 September 1886 Le Figaro manifesto that defended the name Symbolism and named its precursors."
+    },
+    {
+      "title": "Charles Baudelaire — Poetry Foundation",
+      "url": "https://www.poetryfoundation.org/poets/charles-baudelaire",
+      "note": "Bio, selected poems in translation, critical context. Read Correspondances, L'Albatros, and any of the Spleen poems."
     }
   ],
   "listen": [
     {
-      "title": "Claude Debussy — Prélude à l'après-midi d'un faune (YouTube)",
-      "url": "https://www.youtube.com/results?search_query=debussy+prelude+afternoon+faun",
-      "note": "Search YouTube for performances of Debussy's 1894 orchestral prelude inspired by Mallarmé's poem. Musical Impressionism and Symbolist poetry were sibling aesthetics. Listen before or after reading Mallarmé."
+      "title": "Claude Debussy — Prélude à l'après-midi d'un faune (background)",
+      "url": "https://en.wikipedia.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune",
+      "note": "Wikipedia article on Debussy's 1894 orchestral prelude inspired by Mallarmé's poem. This gives the background; search your music app for a full recording. Musical Impressionism and Symbolist poetry were sibling aesthetics. Listen before or after reading Mallarmé."
     }
   ],
   "watch": [],
   "fun_fact": {
     "title": "Rimbaud abandoned poetry at twenty and became a trader in Africa",
-    "text": "Arthur Rimbaud stopped writing poetry around 1875, at age twenty or twenty-one. He had produced the poems that made him legendary (Le Bateau ivre, Une saison en enfer, Illuminations) between ages sixteen and twenty. After the break with Verlaine and a failed attempt to join the Carlist forces in Spain, he drifted: he learned languages, enlisted briefly in the Dutch colonial army in Java and deserted, worked as a foreman in a quarry in Cyprus, and finally settled in Aden (Yemen) and Harar (Ethiopia) as a coffee and arms trader. He never wrote another poem that survives. When Verlaine published Illuminations in 1886 and proclaimed Rimbaud a genius, Rimbaud was in Abyssinia and uninterested. He returned to France in 1891 only because of a cancerous tumor in his knee; he died months later. The image of the boy-poet who renounced literature for real life is as central to Rimbaud's legend as the poems themselves, and it baffled and fascinated the Surrealists and later poets who claimed him."
+    "text": "Arthur Rimbaud stopped writing poetry around 1875, at age twenty. He had produced the poems that made him legendary (Le Bateau ivre, Une saison en enfer, Illuminations) between about ages sixteen and twenty. After the break with Verlaine he drifted: he learned languages, enlisted in the Dutch colonial army in May 1876 at Harderwijk to get passage to Java and deserted a few weeks after arriving, worked as a foreman at a stone quarry in Cyprus in 1879 (and again 1880), and finally settled in Aden (Yemen) and Harar (Ethiopia) as a coffee and arms trader. He never wrote another poem that survives. When Illuminations was published in 1886, Rimbaud was in Aden trading and was not informed. He returned to France in 1891 only because of a cancerous tumor in his knee; he died months later. The image of the boy-poet who renounced literature for real life is as central to Rimbaud's legend as the poems themselves, and it baffled and fascinated the Surrealists and later poets who claimed him."
   },
   "glossary": [
     {
       "term": "French Symbolism",
       "aliases": ["Symbolism", "Symbolist movement", "le symbolisme"],
-      "explain": "Late nineteenth-century French literary movement (roughly 1857–1898 in this capsule's scope) emphasizing suggestion over direct statement, musicality, correspondences between senses and spiritual realities, and the symbol as a means to evoke rather than describe. The Symbolist Manifesto (Jean Moréas, 1886) formalized the label, but Baudelaire (who died in 1867) is the acknowledged precursor."
+      "explain": "Late nineteenth-century French literary movement (roughly 1857–1898 in this capsule's scope) emphasizing suggestion over direct statement, musicality, correspondences between senses and spiritual realities, and the symbol as a means to evoke rather than describe. Jean Moréas's 1886 manifesto in Le Figaro defended the name Symbolism, naming Baudelaire as the movement's true precursor. Baudelaire (who died in 1867) never called himself a Symbolist."
     },
     {
       "term": "Charles Baudelaire",
       "aliases": ["Baudelaire"],
-      "explain": "Poet and critic (1821–1867). Les Fleurs du mal (1857, revised 1861), Le Spleen de Paris (prose poems, published 1869), critical essays on art and Wagner, translations of Edgar Allan Poe. Correspondence theory and refusal of didacticism made him the Symbolist precursor though he died before the movement label emerged."
+      "explain": "Poet and critic (1821–1867). Les Fleurs du mal (1857, revised 1861), Le Spleen de Paris (prose poems, published 1869), critical essays on art and Wagner, translations of Edgar Allan Poe. Correspondence theory and refusal of didacticism made him the Symbolist precursor though he died before the movement label emerged. Suffered a stroke in 1866 that left him paralysed and unable to speak; died in Paris on 31 August 1867, aged forty-six."
     },
     {
       "term": "Les Fleurs du mal",
       "aliases": ["The Flowers of Evil", "Fleurs du mal"],
-      "explain": "Charles Baudelaire's major poetry collection, first edition 1857 (100 poems), second edition 1861 (126 poems, with six poems removed after prosecution for public morality offenses). Themes: beauty and decay, urban ennui (spleen), eroticism, correspondences. Foundational text for Symbolism."
+      "explain": "Charles Baudelaire's major poetry collection, first edition 1857 (100 poems in five sections), second edition 1861 (126 poems in six sections, with six poems removed after prosecution for public morality offenses and a new section Tableaux parisiens added). Themes: beauty and decay, urban ennui (spleen), eroticism, correspondences. Foundational text for Symbolism."
     },
     {
       "term": "correspondances",
@@ -137,17 +147,17 @@
     {
       "term": "Paul Verlaine",
       "aliases": ["Verlaine"],
-      "explain": "Poet (1844–1896). Poèmes saturniens (1866), Fêtes galantes (1869), Romances sans paroles (1874), Sagesse (1880), Art poétique (published 1884). Known for musicality, melancholy, and vers impair (odd-syllable lines). His stormy relationship with Rimbaud (1871–73) ended when Verlaine shot Rimbaud and was imprisoned."
+      "explain": "Poet (1844–1896). Poèmes saturniens (1866), Fêtes galantes (1869), Romances sans paroles (1874), Sagesse (1880), Art poétique (written 1874, first published 1882 in the review Paris moderne, collected in Jadis et naguère 1884). Known for musicality, melancholy, and vers impair (odd-syllable lines). His stormy relationship with Rimbaud (1871–73) ended when Verlaine shot Rimbaud and was imprisoned."
     },
     {
       "term": "Arthur Rimbaud",
       "aliases": ["Rimbaud"],
-      "explain": "Poet (1854–1891). Le Bateau ivre (1871), Une saison en enfer (1873), Illuminations (c. 1873–75, published 1886). Visionary, hallucinatory verse written mostly before age twenty. Abandoned poetry around 1875 and spent the rest of his life in trade and travel in Africa. Died at thirty-seven."
+      "explain": "Poet (1854–1891). Le Bateau ivre (1871), Une saison en enfer (1873), Illuminations (c. 1872–75, first published in La Vogue in five instalments, 13 May–21 June 1886, then in a volume with a preface by Verlaine in autumn 1886). Visionary, hallucinatory verse written between about ages sixteen and twenty. Abandoned poetry around 1875 and spent the rest of his life in trade and travel in Africa. Died at thirty-seven."
     },
     {
       "term": "Stéphane Mallarmé",
       "aliases": ["Mallarmé"],
-      "explain": "Poet (1842–1898). L'Après-midi d'un faune (1876), Un coup de dés jamais n'abolira le hasard (1897, published 1914), critical essays. Known for syntactic difficulty, musicality, and the ideal of the pure poem. Hosted Tuesday evening salons (les mardis) at his Paris apartment in the 1880s–90s where younger poets gathered."
+      "explain": "Poet (1842–1898). L'Après-midi d'un faune (1876), Un coup de dés jamais n'abolira le hasard (first version in Cosmopolis magazine May 1897, radical typography published 1914), critical essays. Known for syntactic difficulty, musicality, and the ideal of the pure poem. Hosted Tuesday evening salons (les mardis) at his Paris apartment in the 1880s–90s where younger poets gathered."
     },
     {
       "term": "Une saison en enfer",
@@ -157,7 +167,7 @@
     {
       "term": "Illuminations",
       "aliases": ["Les Illuminations"],
-      "explain": "Arthur Rimbaud's prose poems and free verse (composed c. 1873–75, published 1886 with preface by Verlaine). Dreamlike, fragmented, sensory. Includes poems like Aube, Being Beauteous, and Barbare. Published after Rimbaud had left poetry and France."
+      "explain": "Arthur Rimbaud's prose poems and free verse (composed c. 1872–75, first published in La Vogue in five instalments, 13 May–21 June 1886, then in a volume with a short preface by Verlaine in autumn 1886). Dreamlike, fragmented, sensory. Includes poems like Aube, Being Beauteous, and Barbare. Published after Rimbaud had left poetry and France; he was in Aden and never saw it."
     },
     {
       "term": "L'Après-midi d'un faune",
@@ -167,12 +177,12 @@
     {
       "term": "Un coup de dés jamais n'abolira le hasard",
       "aliases": ["A Throw of the Dice Will Never Abolish Chance", "Un coup de dés"],
-      "explain": "Stéphane Mallarmé's late experimental poem (written 1897, published 1914). Radical typography: words scattered across double-page spreads, variable fonts, white space as structural silence. Argues that chance cannot be mastered. Precursor to concrete poetry and Modernist typographic experiments."
+      "explain": "Stéphane Mallarmé's late experimental poem. A first version appeared in the magazine Cosmopolis in May 1897 in conventional layout; the radical typography Mallarmé intended — words scattered across double-page spreads, variable fonts, white space as structural silence — was published in book form in 1914, after his death. Argues that chance cannot be mastered. Precursor to concrete poetry and Modernist typographic experiments."
     },
     {
       "term": "mardis",
       "aliases": ["les mardis", "Mallarmé's Tuesdays"],
-      "explain": "Tuesday evening gatherings at Stéphane Mallarmé's apartment (rue de Rome, Paris) in the 1880s and 1890s. Younger poets and writers visited to hear Mallarmé talk about poetry, art, and aesthetics. Small, invitation-only, influential. Paul Valéry, André Gide, Oscar Wilde, and others attended."
+      "explain": "Tuesday evening gatherings at Stéphane Mallarmé's apartment (rue de Rome, Paris) in the 1880s and 1890s. Younger poets and writers visited to hear Mallarmé talk about poetry, art, and aesthetics. Small, invitation-only, influential. Paul Valéry (who became one of Mallarmé's most prominent admirers and heirs), André Gide, Oscar Wilde, and others attended."
     },
     {
       "term": "spleen",
@@ -197,7 +207,7 @@
     {
       "term": "À rebours",
       "aliases": ["Against Nature", "Against the Grain"],
-      "explain": "Joris-Karl Huysmans's 1884 novel about Des Esseintes, an aristocrat who retreats into aesthetic solitude and catalogs perfumes, jewels, rare books, and artificial paradises. The novel is plotless but hugely influential: it made Symbolist poetry and Decadent sensibility into a public phenomenon. Oscar Wilde's The Picture of Dorian Gray (1890) is indebted to it."
+      "explain": "Joris-Karl Huysmans's 1884 novel about Des Esseintes, an aristocrat who retreats into aesthetic solitude and catalogs perfumes, jewels, rare books, a tortoise whose shell he has gilded and encrusted with jewels, and a 'mouth organ' of liqueurs. The novel is plotless but hugely influential: it made Symbolist poetry and Decadent sensibility into a public phenomenon. Oscar Wilde's The Picture of Dorian Gray (1890) is indebted to it."
     },
     {
       "term": "Théophile Gautier",
@@ -236,12 +246,12 @@
     {
       "term": "Jean Moréas",
       "aliases": ["Moréas"],
-      "explain": "Poet (1856–1910). Published the Symbolist Manifesto in Le Figaro on 18 September 1886, naming the movement and listing Verlaine, Mallarmé, and Rimbaud as precursors. Later broke with Symbolism to found the École romane (Roman School) advocating classical clarity."
+      "explain": "Poet (1856–1910). Published the Symbolist Manifesto in Le Figaro on 18 September 1886, defending the name Symbolism (which he had proposed earlier in 1886) and naming Baudelaire as the movement's true precursor, saying Mallarmé endowed it with a sense of mystery and the ineffable, and saying Verlaine broke the shackles of verse. Later broke with Symbolism to found the École romane (Roman School) advocating classical clarity."
     },
     {
       "term": "Gustave Kahn",
       "aliases": ["Kahn"],
-      "explain": "Poet and critic (1859–1936). Claimed to have invented vers libre (disputed); published in La Vogue and other little magazines. His free-verse experiments were influential in codifying Symbolist prosody."
+      "explain": "Poet and critic (1859–1936). Claimed to have invented vers libre (disputed); was editor of La Vogue magazine (which published the first instalments of Illuminations in 1886). His free-verse experiments were influential in codifying Symbolist prosody."
     },
     {
       "term": "Jules Laforgue",
@@ -281,7 +291,7 @@
     {
       "term": "Renée Vivien",
       "aliases": ["Vivien"],
-      "explain": "Poet (1877–1909). Born Pauline Mary Tarn in England; moved to Paris and wrote in French. Sapphic themes, neo-Symbolist style. Died young of anorexia and alcoholism. Rediscovered by feminist scholars as a major Decadent and Symbolist voice."
+      "explain": "Poet (1877–1909). Born Pauline Mary Tarn in England; moved to Paris and wrote in French. Sapphic themes, neo-Symbolist style. Died in 1909 at thirty-two. Rediscovered by feminist scholars as a major Decadent and Symbolist voice."
     }
   ],
   "sections": [
@@ -302,13 +312,13 @@
           "type": "figure",
           "src": "lessons/french-symbolism/baudelaire-nadar.jpg",
           "alt": "Charles Baudelaire, photograph by Étienne Carjat, circa 1863",
-          "caption": "Charles Baudelaire, photographed by Étienne Carjat around 1863 (public domain). This is the most famous Baudelaire portrait: he is forty-two years old, four years before his death. The photograph shows a serious, dandified figure. Baudelaire's Paris was Haussmann's Paris: old neighborhoods demolished, wide boulevards built, gas lamps, cafés, and the birth of urban modernity. His poems and prose captured both the beauty and the alienation of that new city.",
-          "credit": "Étienne Carjat / Public domain",
+          "caption": "Charles Baudelaire, photographed by Étienne Carjat around 1863. This is the most famous Baudelaire portrait: he is forty-two years old, four years before his death. The photograph shows a serious, dandified figure. Baudelaire's Paris was Haussmann's Paris: old neighborhoods demolished, wide boulevards built, gas lamps, cafés, and the birth of urban modernity. His poems and prose captured both the beauty and the alienation of that new city.",
+          "credit": "Étienne Carjat (c. 1863); crop by Notwist / Public domain",
           "credit_url": "https://commons.wikimedia.org/wiki/File:Baudelaire_crop.jpg"
         },
         {
           "type": "p",
-          "text": "In June 1857 Baudelaire published Les Fleurs du mal (The Flowers of Evil) with the publisher Poulet-Malassis. The volume contained 100 poems organized into sections: Spleen et Idéal (Spleen and the Ideal), Tableaux parisiens (Parisian Scenes), Le Vin (Wine), Fleurs du mal (Flowers of Evil, the section), Révolte (Revolt), and La Mort (Death). The poems explored beauty in decay, eroticism, urban misery, and mystical correspondence. In August the book was prosecuted for offenses against public morality and religion. Baudelaire and his publisher were fined; six poems were ordered removed from future French editions. The trial made the book famous. The scandal also clarified Baudelaire's position: he was not a Realist documenting vice but an artist transmuting vice into beauty."
+          "text": "In June 1857 Baudelaire published Les Fleurs du mal (The Flowers of Evil) with the publisher Poulet-Malassis. The volume contained 100 poems organized into five sections: Spleen et Idéal (Spleen and the Ideal), Le Vin (Wine), Fleurs du mal (Flowers of Evil, the section), Révolte (Revolt), and La Mort (Death). The poems explored beauty in decay, eroticism, urban misery, and mystical correspondence. In August the book was prosecuted for offenses against public morality and religion. On 20 August 1857 the court fined Baudelaire 300 francs and his publishers (Poulet-Malassis and de Broise) 100 francs each; six poems were ordered removed from future French editions. The trial made the book famous. The scandal also clarified Baudelaire's position: he was not a Realist documenting vice but an artist transmuting vice into beauty."
         }
       ]
     },
@@ -319,19 +329,11 @@
       "blocks": [
         {
           "type": "p",
-          "text": "The revised second edition of Les Fleurs du mal appeared in 1861 with 126 poems (the six condemned poems removed, new poems added). Baudelaire's theory of correspondences — articulated most clearly in the sonnet Correspondances — became a foundation for later Symbolism. The poem describes a forest of symbols where perfumes, colors, and sounds answer each other, and where nature is a temple whose living pillars sometimes utter confused words. This synesthetic mysticism — the idea that the senses correspond to each other and to spiritual truths — gave Symbolist poets a program: evoke rather than describe; suggest rather than state; make poetry musical and hermetic."
+          "text": "The revised second edition of Les Fleurs du mal appeared in 1861 with 126 poems (the six condemned poems removed, new poems added) now organized into six sections — a new section, Tableaux parisiens (Parisian Scenes), was added. Baudelaire's theory of correspondences — articulated most clearly in the sonnet Correspondances — became a foundation for later Symbolism. The poem describes a forest of symbols where perfumes, colors, and sounds answer each other, and where nature is a temple whose living pillars sometimes utter confused words. This synesthetic mysticism — the idea that the senses correspond to each other and to spiritual truths — gave Symbolist poets a program: evoke rather than describe; suggest rather than state; make poetry musical and hermetic."
         },
         {
           "type": "p",
-          "text": "Baudelaire died in 1867 after a stroke left him aphasic and paralyzed. He never called himself a Symbolist — the term did not yet exist — but his correspondence theory, rejection of didacticism, and cult of pure beauty made him the movement's acknowledged precursor. Meanwhile Paul Verlaine (born 1844) had published his first collection Poèmes saturniens in 1866. Verlaine's early work showed Parnassian influence but with a new melancholy and musicality. His Fêtes galantes (1869) evoked Watteau's Rococo paintings in verse; his Art poétique (written 1874, published 1884) would later codify the Symbolist aesthetic: De la musique avant toute chose (Music before everything), take eloquence and wring its neck."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/french-symbolism/rimbaud-carjat.jpg",
-          "alt": "Arthur Rimbaud, photograph by Étienne Carjat, 1872",
-          "caption": "Arthur Rimbaud, photographed by Étienne Carjat in 1872 (now in Musée Arthur Rimbaud, Charleville-Mézières, public domain). Rimbaud is seventeen or eighteen years old in this image. Within three years he would have written all the major work that survives — Le Bateau ivre, Une saison en enfer, Illuminations — and abandoned poetry. The photograph shows a beautiful, androgynous youth; the legend of Rimbaud the boy-genius and Rimbaud the man who renounced literature are both anchored in this image.",
-          "credit": "Étienne Carjat / Musée Arthur Rimbaud / Public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Arthur_Rimbaud,_by_Étienne_Carjat_1872_-_Musée_Arthur_Rimbaud_Charleville_Mézières_Crop.jpg"
+          "text": "Baudelaire suffered a stroke in 1866 that left him paralysed and unable to speak, and died in Paris on 31 August 1867, aged forty-six. He never called himself a Symbolist — the term did not yet exist — but his correspondence theory, rejection of didacticism, and cult of pure beauty made him the movement's acknowledged precursor. Meanwhile Paul Verlaine (born 1844) had published his first collection Poèmes saturniens in 1866. Verlaine's early work showed Parnassian influence but with a new melancholy and musicality. His Fêtes galantes (1869) evoked Watteau's Rococo paintings in verse; his Art poétique (written 1874, first published 1882 in the review Paris moderne, collected in Jadis et naguère 1884) would later codify the Symbolist aesthetic: De la musique avant toute chose (Music before everything), take eloquence and wring its neck."
         },
         {
           "type": "p",
@@ -339,23 +341,23 @@
         },
         {
           "type": "p",
-          "text": "Rimbaud wrote Une saison en enfer (A Season in Hell) in 1873, a visionary prose-poem autobiography exploring spiritual crisis, the failure of his poetic alchemy, and the renunciation of literature. He printed the book at his own expense; most copies remained unbound in the printer's warehouse. Around the same time he composed the prose poems later collected as Illuminations (published by Verlaine in 1886, after Rimbaud had left poetry). By 1875, at age twenty or twenty-one, Rimbaud had largely stopped writing. He spent the rest of his short life learning languages, traveling, enlisting in armies and deserting, working in Cyprus and Africa as a trader. When Illuminations appeared in 1886 with Verlaine's preface calling Rimbaud a genius, Rimbaud was in Abyssinia and uninterested. He returned to France in 1891 only because of cancer in his knee and died in Marseille in November 1891 at age thirty-seven. The legend of the boy-poet who renounced literature for real life is as central to his afterlife as the poems themselves."
+          "text": "Rimbaud wrote Une saison en enfer (A Season in Hell) in 1873, a visionary prose-poem autobiography exploring spiritual crisis, the failure of his poetic alchemy, and the renunciation of literature. He printed the book at his own expense; most copies remained unbound in the printer's warehouse. Around the same time he composed the prose poems later collected as Illuminations (c. 1872–75). By about 1875, at age twenty, Rimbaud had largely stopped writing. He spent the rest of his short life learning languages, traveling, enlisting in armies and deserting, working in Cyprus and Africa as a trader. Illuminations was first published in the magazine La Vogue in five instalments, 13 May–21 June 1886, then in a volume of about 200 copies in autumn 1886 with a short preface by Verlaine. Rimbaud was in Aden (Yemen) trading, was not informed, and never saw it. He returned to France in 1891 only because of cancer in his knee and died in Marseille in November 1891 at age thirty-seven. The legend of the boy-poet who renounced literature for real life is as central to his afterlife as the poems themselves."
         },
         {
           "type": "figure",
           "src": "lessons/french-symbolism/mallarme-nadar.jpg",
-          "alt": "Stéphane Mallarmé, photograph by Nadar, 1896",
-          "caption": "Stéphane Mallarmé, photographed by Nadar in 1896 (public domain). Mallarmé is fifty-four years old, two years before his death. He had been an English teacher in Paris lycées for decades; poetry was written in margins of time. His Tuesday evening salons (les mardis) at his rue de Rome apartment were small, invitation-only gatherings where younger poets came to hear him speak. The image shows a schoolteacher and poet, not a bohemian: Mallarmé's difficulty and austerity were intellectual, not lifestyle choices.",
-          "credit": "Nadar / Public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Stéphane_Mallarmé_by_Nadar.jpg"
+          "alt": "Stéphane Mallarmé, photograph by Paul Nadar, circa 1890",
+          "caption": "Stéphane Mallarmé, photographed by Paul Nadar around 1890 when Mallarmé was about forty-eight years old. He had been an English teacher in Paris lycées for decades; poetry was written in margins of time. His Tuesday evening salons (les mardis) at his rue de Rome apartment were small, invitation-only gatherings where younger poets came to hear him speak. The image shows a schoolteacher and poet, not a bohemian: Mallarmé's difficulty and austerity were intellectual, not lifestyle choices.",
+          "credit": "Paul Nadar / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Mallarm%C3%A9_Nadar.jpg"
         },
         {
           "type": "p",
-          "text": "While Rimbaud was abandoning poetry, Stéphane Mallarmé (born 1842) was refining it into something hermetic and austere. Mallarmé worked as an English teacher in Paris lycées; he wrote slowly, publishing little. His 1876 eclogue L'Après-midi d'un faune (Afternoon of a Faun) appeared in a limited edition: a faun wakes from a dream of nymphs, unsure if the encounter was real or imagined. The poem is dense, syntactically difficult, musical, and ambiguous. Claude Debussy's 1894 orchestral Prélude à l'après-midi d'un faune made the poem famous outside literary circles and linked Symbolist poetry to musical Impressionism. Mallarmé's ideal was the Book (le Livre): a total, self-enclosed work of art that would be architecture, music, and myth simultaneously. He never completed it, but his late work Un coup de dés jamais n'abolira le hasard (A Throw of the Dice Will Never Abolish Chance, written 1897, published posthumously 1914) approached it: radical typography, words scattered across double-page spreads, white space as structural silence."
+          "text": "While Rimbaud was abandoning poetry, Stéphane Mallarmé (born 1842) was refining it into something hermetic and austere. Mallarmé worked as an English teacher in Paris lycées; he wrote slowly, publishing little. His 1876 eclogue L'Après-midi d'un faune (Afternoon of a Faun) appeared in a limited edition: a faun wakes from a dream of nymphs, unsure if the encounter was real or imagined. The poem is dense, syntactically difficult, musical, and ambiguous. Claude Debussy's 1894 orchestral Prélude à l'après-midi d'un faune made the poem famous outside literary circles and linked Symbolist poetry to musical Impressionism. Mallarmé's ideal was the Book (le Livre): a total, self-enclosed work of art that would be architecture, music, and myth simultaneously. He never completed it, but his late work Un coup de dés jamais n'abolira le hasard (A Throw of the Dice Will Never Abolish Chance) approached it: a first version appeared in the magazine Cosmopolis in May 1897 in conventional layout; the radical typography Mallarmé intended — words scattered across double-page spreads, white space as structural silence — was published in book form in 1914, after his death."
         },
         {
           "type": "p",
-          "text": "In the 1880s the Symbolist movement consolidated into a named program. Little magazines proliferated: La Revue indépendante, La Vogue, Mercure de France, La Plume. Poets debated prosody: should they break the alexandrine (the twelve-syllable line that had dominated French verse since the seventeenth century)? Should they write vers libre (free verse) with irregular line lengths and no fixed meter? Gustave Kahn and Jules Laforgue experimented; Mallarmé's younger generation took vers libre as liberation. In September 1886 Jean Moréas published Le Symbolisme manifesto in Le Figaro, naming the movement and listing Baudelaire, Verlaine, Mallarmé, and Rimbaud as precursors. The label stuck, though Mallarmé himself was ambivalent and Verlaine preferred the term Decadent for a time."
+          "text": "In the 1880s the Symbolist movement consolidated into a named program. Little magazines proliferated: La Revue indépendante, La Vogue, Mercure de France, La Plume. Poets debated prosody: should they break the alexandrine (the twelve-syllable line that had dominated French verse since the seventeenth century)? Should they write vers libre (free verse) with irregular line lengths and no fixed meter? Gustave Kahn and Jules Laforgue experimented; Mallarmé's younger generation took vers libre as liberation. In September 1886 Jean Moréas published Le Symbolisme manifesto in Le Figaro (18 September 1886), defending the name Symbolism — which he had proposed earlier that year — and naming Baudelaire as the movement's true precursor, saying Mallarmé endowed it with a sense of mystery and the ineffable, and saying Verlaine broke the shackles of verse. The label stuck, though Mallarmé himself was ambivalent and Verlaine preferred the term Decadent for a time."
         }
       ]
     },
@@ -374,35 +376,35 @@
             {
               "name": "Charles Baudelaire",
               "dates": "1821–1867",
-              "text": "Baudelaire's Les Fleurs du mal (1857, 1861) and prose-poems Le Spleen de Paris (published posthumously 1869) made him the Symbolist precursor. His correspondence theory — that perfumes, colors, sounds, and spiritual realities answer each other — gave later poets a program. His criticism on art (Salons), Poe, and Wagner theorized imagination and the rejection of moral purpose. He died of syphilis-related complications in 1867, aphasic and paralyzed, before Symbolism became a named movement."
+              "text": "Baudelaire's Les Fleurs du mal (1857, 1861) and prose-poems Le Spleen de Paris (published posthumously 1869) made him the Symbolist precursor. His correspondence theory — that perfumes, colors, sounds, and spiritual realities answer each other — gave later poets a program. His criticism on art (Salons), Poe, and Wagner theorized imagination and the rejection of moral purpose. He suffered a stroke in 1866 that left him paralysed and unable to speak, and died in Paris on 31 August 1867, aged forty-six, before Symbolism became a named movement."
             },
             {
               "name": "Arthur Rimbaud",
               "dates": "1854–1891",
-              "text": "Rimbaud wrote Le Bateau ivre, Une saison en enfer, and Illuminations between ages sixteen and twenty-one, then abandoned poetry and spent the rest of his life in trade and travel in Africa. His visionary intensity, formal violence, and renunciation of literature made him a Symbolist saint and Surrealist precursor. Verlaine called him an accursed poet (poète maudit); the label fit. Died of cancer at thirty-seven."
+              "text": "Rimbaud wrote Le Bateau ivre, Une saison en enfer, and Illuminations between about ages sixteen and twenty, then abandoned poetry and spent the rest of his life in trade and travel in Africa. His visionary intensity, formal violence, and renunciation of literature made him a Symbolist saint and Surrealist precursor. Verlaine popularised the term accursed poet (poète maudit); the label fit Rimbaud perfectly. Died of cancer at thirty-seven."
             },
             {
               "name": "Stéphane Mallarmé",
               "dates": "1842–1898",
-              "text": "Mallarmé's L'Après-midi d'un faune, Un coup de dés, and austere late poems are the apex of Symbolist hermeticism. He published little but influenced many through his Tuesday salons. His ideal was poetry as music and architecture, the symbol as pure suggestion. Died of a throat spasm in 1898. Paul Valéry became his literary executor and custodian of the Symbolist legacy."
+              "text": "Mallarmé's L'Après-midi d'un faune, Un coup de dés, and austere late poems are the apex of Symbolist hermeticism. He published little but influenced many through his Tuesday salons. His ideal was poetry as music and architecture, the symbol as pure suggestion. Died of a throat spasm in 1898. Paul Valéry, who attended the mardis, became one of his most prominent admirers and heirs."
             }
           ]
         },
         {
           "type": "p",
-          "text": "Paul Verlaine (1844–1896) is the fourth essential voice. His Art poétique (1874, published 1884) is the Symbolist aesthetic in verse: take eloquence and wring its neck, music before everything, nuance over color. His Romances sans paroles (1874) are poems of melancholy musicality. He spent his later years impoverished, alcoholic, and recognized as a major poet. He wrote critical essays on Rimbaud, Mallarmé, and others in Les Poètes maudits (1884, expanded 1888), coining the term accursed poets for those who refused bourgeois success. Verlaine's generosity as critic and his willingness to name a Symbolist tradition helped make the movement public and collective."
+          "text": "Paul Verlaine (1844–1896) is the fourth essential voice. His Art poétique (written 1874, first published 1882 in the review Paris moderne, collected in Jadis et naguère 1884) is the Symbolist aesthetic in verse: take eloquence and wring its neck, music before everything, nuance over color. His Romances sans paroles (1874) are poems of melancholy musicality. He spent his later years impoverished, alcoholic, and recognized as a major poet. He wrote critical essays on Tristan Corbière, Arthur Rimbaud, and Stéphane Mallarmé in Les Poètes maudits (1884); the expanded 1888 edition added Marceline Desbordes-Valmore, Villiers de l'Isle-Adam, and Verlaine himself (as 'Pauvre Lélian'). Verlaine popularised the term accursed poets for those who refused bourgeois success. Verlaine's generosity as critic and his willingness to name a Symbolist tradition helped make the movement public and collective."
         },
         {
           "type": "figure",
           "src": "lessons/french-symbolism/verlaine-portrait.jpg",
-          "alt": "Paul Verlaine portrait, 1890s",
-          "caption": "Paul Verlaine in the 1890s (public domain photograph). By this time Verlaine was poor, alcoholic, and famous. He lived in cheap hotels, frequented cafés, and held court for younger poets. His Art poétique and Romances sans paroles made him the most accessible Symbolist; his musicality influenced French prosody for decades. He died in January 1896.",
-          "credit": "Public domain",
+          "alt": "Paul Verlaine portrait photograph by Otto Wegener, 1893",
+          "caption": "Paul Verlaine, photographed by Otto Wegener in 1893 when Verlaine was about forty-nine years old. By this time Verlaine was poor, alcoholic, and famous. His Art poétique and Romances sans paroles made him the most accessible Symbolist; his musicality influenced French prosody for decades. He died in January 1896.",
+          "credit": "Otto Wegener / Public domain",
           "credit_url": "https://commons.wikimedia.org/wiki/File:Paul_Verlaine_2.jpg"
         },
         {
           "type": "p",
-          "text": "The Decadent novel is the prose sibling of Symbolist poetry. Joris-Karl Huysmans's À rebours (Against Nature, 1884) follows Des Esseintes, an aristocrat who retreats from society into a house where he cultivates aesthetic obsessions: rare books (Baudelaire, Mallarmé), perfumes, jewels, a turtle with a jeweled shell, meals designed as symphonies. The novel is plotless but hugely influential: it made Symbolism and Decadence into a public phenomenon. Oscar Wilde's The Picture of Dorian Gray (1890) is indebted to it. The overlap between Symbolism and Decadence is real: both reject naturalism, moralism, and social engagement; both prize artifice, beauty, and exhaustion. The distinction is that Symbolism is primarily poetic and Decadence primarily prose, though the boundary is porous."
+          "text": "The Decadent novel is the prose sibling of Symbolist poetry. Joris-Karl Huysmans's À rebours (Against Nature, 1884) follows Des Esseintes, an aristocrat who retreats from society into a house where he cultivates aesthetic obsessions: rare books (Baudelaire, Mallarmé), perfumes, jewels, a tortoise whose shell he has gilded and encrusted with jewels, a 'mouth organ' of liqueurs. The novel is plotless but hugely influential: it made Symbolism and Decadence into a public phenomenon. Oscar Wilde's The Picture of Dorian Gray (1890) is indebted to it. The overlap between Symbolism and Decadence is real: both reject naturalism, moralism, and social engagement; both prize artifice, beauty, and exhaustion. The distinction is that Symbolism is primarily poetic and Decadence primarily prose, though the boundary is porous."
         }
       ]
     },
@@ -413,19 +415,19 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Symbolism was a French-language movement but it had contemporaneous parallels and reception abroad. In Latin America, Modernismo emerged in the 1880s–90s as a Spanish-language parallel: Nicaraguan poet Rubén Darío's Azul... (1888) and Prosas profanas (1896) adapted French Symbolist musicality and aestheticism to Spanish prosody. Darío visited Paris and met Verlaine; he wrote essays on Baudelaire and Poe. Modernismo was not imitation but translation: it addressed Latin American modernity through Symbolist formal techniques. Other Modernista poets included José Martí (Cuba), Manuel Gutiérrez Nájera (Mexico), and Julián del Casal (Cuba). The movement's chronology overlaps French Symbolism exactly."
+          "text": "Symbolism was a French-language movement but it had contemporaneous parallels and reception abroad. In Latin America, Modernismo emerged in the 1880s–90s as a Spanish-language parallel: Nicaraguan poet Rubén Darío's Azul... (1888) and Prosas profanas (1896) adapted French Symbolist musicality and aestheticism to Spanish prosody. Darío first travelled to Paris in 1893, and his book of portraits Los raros (1896) includes essays on Verlaine and Poe. Modernismo was not imitation but translation: it addressed Latin American modernity through Symbolist formal techniques. Other Modernista poets included José Martí (Cuba), Manuel Gutiérrez Nájera (Mexico), and Julián del Casal (Cuba). The movement's chronology overlaps French Symbolism exactly."
         },
         {
           "type": "p",
-          "text": "In England the 1890s saw Aestheticism and the Decadent movement. Oscar Wilde's The Picture of Dorian Gray (1890) and his essays The Decay of Lying and The Critic as Artist argued for art's autonomy and artifice over nature. Arthur Symons's The Symbolist Movement in Literature (1899) introduced Baudelaire, Verlaine, Mallarmé, and Huysmans to English readers; Symons's translations and criticism shaped Anglo-American Modernism's reception of Symbolism. The Yellow Book (1894–97) and The Savoy (1896) were little magazines publishing Decadent prose and verse by Ernest Dowson, Lionel Johnson, and others. English Aestheticism was adjacent to French Symbolism — l'art pour l'art translated as art for art's sake — but the two movements read each other late."
+          "text": "In England the 1890s saw Aestheticism and the Decadent movement. Oscar Wilde's The Picture of Dorian Gray (1890) and his essays The Decay of Lying and The Critic as Artist argued for art's autonomy and artifice over nature. Arthur Symons's The Symbolist Movement in Literature (1899) — covering Nerval, Gautier, Villiers de l'Isle-Adam, Rimbaud, Verlaine, Laforgue, Huysmans, Mallarmé, and Maeterlinck, dedicated to W. B. Yeats — introduced French Symbolism to English readers. T. S. Eliot read it in 1908, and Symons's translations and criticism shaped Anglo-American Modernism's reception of Symbolism. The Yellow Book (1894–97) and The Savoy (1896) were little magazines publishing Decadent prose and verse by Ernest Dowson, Lionel Johnson, and others. English Aestheticism was adjacent to French Symbolism — l'art pour l'art translated as art for art's sake — but the two movements read each other late."
         },
         {
           "type": "p",
-          "text": "In Russia, early Symbolism began in the 1890s, slightly later than France. Poets Valery Bryusov, Konstantin Balmont, and Dmitry Merezhkovsky translated Baudelaire and Verlaine and adapted Symbolist aesthetics to Russian prosody. The journal Severny Vestnik (Northern Herald) published Symbolist verse and manifestos starting in the mid-1890s. Russian Symbolism peaked in the 1900s–1910s with the second generation (Alexander Blok, Andrei Bely, Vyacheslav Ivanov), so it is better understood as influenced by rather than contemporaneous with French Symbolism's 1857–98 core. Still, the 1890s overlap is real."
+          "text": "In Russia, early Symbolism began in the 1890s, slightly later than France. Poets Valery Bryusov, Konstantin Balmont, and Dmitry Merezhkovsky translated Baudelaire and Verlaine and adapted Symbolist aesthetics to Russian prosody. Bryusov's three 'Russian Symbolists' anthologies appeared in 1894–95. The journal Severny Vestnik (Northern Herald) published Symbolist verse and manifestos starting in the mid-1890s. Russian Symbolism peaked in the 1900s–1910s with the second generation (Alexander Blok, Andrei Bely, Vyacheslav Ivanov), so it is better understood as influenced by rather than contemporaneous with French Symbolism's 1857–98 core. Still, the 1890s overlap is real."
         },
         {
           "type": "p",
-          "text": "In Japan the Meiji era (1868–1912) saw poetic modernization experiments. Shintaishi (new-style poetry) emerged in the 1880s, breaking from traditional waka and haiku forms to write longer, free-form verse influenced by Western models. The anthology Shintaishishō (1882) translated English and German poems; later poets read French Symbolism through translation. Mori Ōgai, who studied in Germany, translated European literature including Symbolist-adjacent work; his essays introduced Western aesthetics to Japanese readers. The chronology is roughly contemporaneous (1880s–90s) but the influence was mediated by translation lag and local concerns. Naming these parallel movements honestly means specifying dates, poets, and local literary debates rather than forcing a tidy West-plus-Asia symmetry."
+          "text": "In Japan the Meiji era (1868–1912) saw poetic modernization experiments. Shintaishi (new-style poetry) emerged in the 1880s, breaking from traditional waka and haiku forms to write longer, free-form verse influenced by Western models. The anthology Shintaishishō (1882) was mostly translations of English poems with a few original poems. Mori Ōgai, who studied in Germany, was part of the group that produced the translation anthology Omokage (1889). The clearly French-Symbolist phase of Japanese poetry came later, with Ueda Bin's translation anthology Kaichōon (1905). The chronology is roughly contemporaneous (1880s–90s) but the influence was mediated by translation lag and local concerns."
         }
       ]
     },
@@ -445,10 +447,10 @@
         {
           "type": "figure",
           "src": "lessons/french-symbolism/moreau-apparition.jpg",
-          "alt": "Gustave Moreau, The Apparition, 1876",
-          "caption": "Gustave Moreau, The Apparition (1876, Musée d'Orsay, public domain). Moreau's Symbolist paintings — jeweled, mythological, hermetic — paralleled poetic Symbolism. This painting shows Salome confronted by the apparition of John the Baptist's severed head floating in light. Huysmans's Des Esseintes, the protagonist of À rebours, obsesses over Moreau's Salome paintings, making them Decadent icons. Visual and literary Symbolism were sibling movements.",
-          "credit": "Gustave Moreau / Musée d'Orsay / Public domain",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_003.jpg"
+          "alt": "Gustave Moreau, The Apparition, circa 1876",
+          "caption": "Gustave Moreau, The Apparition, c. 1876, Musée d'Orsay, Paris. Watercolour. Moreau's Symbolist paintings — jeweled, mythological, hermetic — paralleled poetic Symbolism. This painting shows Salome confronted by the apparition of John the Baptist's severed head floating in light.",
+          "credit": "Gustave Moreau / Public domain",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_The_Apparition_-_Google_Art_Project.jpg"
         },
         {
           "type": "p",
