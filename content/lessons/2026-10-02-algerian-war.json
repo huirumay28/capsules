@@ -11,7 +11,7 @@
   "dek": "On 1 November 1954 coordinated attacks across Algeria launched the Front de Libération Nationale's armed insurrection. Eight years of guerrilla war, urban terrorism, and French counterinsurgency—including systematic torture—followed. Charles de Gaulle returned to power in 1958, negotiated independence, and ended the war with the Évian Accords in March 1962. Algeria became independent on 5 July 1962; nearly a million pieds-noirs fled to France; tens of thousands of harkis were killed or abandoned. Casualty estimates range from several hundred thousand to over a million.",
   "era": "1954–1962 (context: 1830–1962)",
   "reading_minutes": 26,
-  "honesty": "The Algerian War names both the armed independence struggle (1954–1962) and the political crisis that brought Charles de Gaulle back to power in France and ended the Fourth Republic. Casualty figures remain deeply contested. French official estimates during the war were low; Algerian government claims run to 1.5 million dead; recent scholarship often cites ranges from several hundred thousand to around a million, with acknowledgment that precision is elusive due to incomplete archives, contested methods, and the inclusion of deaths from displacement, disease, and starvation in addition to combat. This capsule treats those numbers as estimates with political and archival limits, not settled facts. The term 'systematic torture' reflects documented French military and police practices during the Battle of Algiers and broader counterinsurgency, confirmed by participant testimony (Aussaresses 2000–2001 admissions, Massu 2000 memoirs) and later official recognition (2002 Aussaresses conviction for complicity in justifying war crimes; September 2018 Macron statement recognizing state responsibility for Maurice Audin's torture and death), not rhetorical exaggeration. The FLN's own violence against civilians—Algerian 'loyalists,' harkis, and European settlers—is named as terror and reprisal, not minimized. This capsule does not equate all violence but documents what happened. The elsewhere section compares contemporaneous decolonization struggles (Dien Bien Phu / Geneva 1954, Bandung 1955, Suez 1956, Ghana 1957, Cuban Revolution, Sharpeville 1960) as parallel crises, not as causes or copies.",
+  "honesty": "The Algerian War names both the armed independence struggle (1954–1962) and the political crisis that brought Charles de Gaulle back to power in France and ended the Fourth Republic. Casualty figures remain deeply contested. French official estimates during the war were low; Algerian government claims run to 1.5 million dead; recent scholarship often cites ranges from several hundred thousand to around a million, with acknowledgment that precision is elusive due to incomplete archives, contested methods, and the inclusion of deaths from displacement, disease, and starvation in addition to combat. This capsule treats those numbers as estimates with political and archival limits, not settled facts. The term 'systematic torture' reflects documented French military and police practices during the Battle of Algiers and broader counterinsurgency, confirmed by participant testimony (Aussaresses's admissions in 2000–2001 and Massu's June 2000 interview in Le Monde) and later official recognition (2002 Aussaresses conviction for complicity in justifying war crimes; September 2018 Macron statement recognizing state responsibility for Maurice Audin's torture and death), not rhetorical exaggeration. The FLN's own violence against civilians—Algerian 'loyalists,' harkis, and European settlers—is named as terror and reprisal, not minimized. This capsule does not equate all violence but documents what happened. The elsewhere section compares contemporaneous decolonization struggles (Dien Bien Phu / Geneva 1954, Bandung 1955, Suez 1956, Ghana 1957, Cuban Revolution, Sharpeville 1960) as parallel crises, not as causes or copies.",
   "timeline": [
     {
       "year": "1830–1930s",
@@ -61,7 +61,7 @@
     {
       "year": "24 Jan 1960",
       "label": "Week of the Barricades",
-      "detail": "Settlers and military hardliners built barricades in Algiers and called for resistance to de Gaulle's policy. The standoff collapsed without major violence, but it showed the limits of settler power."
+      "detail": "Settlers and military hardliners built barricades in Algiers and called for resistance to de Gaulle's policy. Fourteen people were killed in a shootout on the first day, and the standoff collapsed within days, showing the limits of settler power."
     },
     {
       "year": "21–26 Apr 1961",
@@ -71,7 +71,7 @@
     {
       "year": "17 Oct 1961",
       "label": "Paris massacre of Algerians",
-      "detail": "Parisian police, under Prefect Maurice Papon, violently repressed a peaceful FLN-organized demonstration by Algerians. Dozens (possibly over a hundred) were killed; bodies were thrown into the Seine. The massacre was covered up for decades."
+      "detail": "Parisian police, under Prefect Maurice Papon, violently repressed a peaceful FLN-organized demonstration by Algerians. Historians estimate from several dozen to about two hundred or more were killed; bodies were thrown into the Seine. The massacre was covered up for decades."
     },
     {
       "year": "18 Mar 1962",
@@ -96,34 +96,9 @@
       "note": "Named encyclopedia overview of the 1954–1962 war, covering FLN strategy, French counterinsurgency, de Gaulle's role, and independence. Starting reference."
     },
     {
-      "title": "Battle of Algiers — Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/event/Battle-of-Algiers",
-      "note": "Entry on the 1956–57 urban counterinsurgency campaign, torture, and the dismantling of the FLN network in Algiers."
-    },
-    {
-      "title": "Charles de Gaulle — Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/biography/Charles-de-Gaulle-president-of-France",
-      "note": "Biography of the French leader who returned to power in 1958, ended the Fourth Republic, and negotiated Algerian independence despite initial ambiguity."
-    },
-    {
       "title": "Ahmed Ben Bella — Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Ahmed-Ben-Bella",
       "note": "Biography of the FLN leader and first president of independent Algeria (1962–65), overthrown by Boumédiène."
-    },
-    {
-      "title": "Front de Libération Nationale (FLN) — Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/topic/National-Liberation-Front-Algerian-history",
-      "note": "Entry on the nationalist liberation front that led the armed struggle and became Algeria's single ruling party after independence."
-    },
-    {
-      "title": "Organisation Armée Secrète (OAS) — Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/topic/OAS-French-organization",
-      "note": "Entry on the French settler and military terrorist organization that opposed independence, 1961–63."
-    },
-    {
-      "title": "Harkis — Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/topic/harki",
-      "note": "Entry on Algerian auxiliaries who fought for France and were largely abandoned at independence; many killed, some interned in France."
     },
     {
       "title": "Alistair Horne — A Savage War of Peace (book reference)",
@@ -134,6 +109,21 @@
       "title": "Frantz Fanon — The Wretched of the Earth (context)",
       "url": "https://www.britannica.com/topic/The-Wretched-of-the-Earth",
       "note": "Britannica entry on Fanon's 1961 anti-colonial manifesto, written during the Algerian War and influential globally."
+    },
+    {
+      "title": "Battle of Algiers — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Algiers",
+      "note": "Overview of the 1956–57 urban campaign, with sources on both the FLN bombings and French torture."
+    },
+    {
+      "title": "Harkis — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harkis",
+      "note": "Background on the Algerians who served France, their killings in 1962 and their treatment in France."
+    },
+    {
+      "title": "Évian Accords — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89vian_Accords",
+      "note": "The March 1962 agreement and its terms."
     }
   ],
   "watch": [
@@ -141,11 +131,6 @@
       "title": "The Battle of Algiers (1966) — dir. Gillo Pontecorvo",
       "url": "https://www.imdb.com/title/tt0058946/",
       "note": "IMDB page for Pontecorvo's docudrama reconstruction of the 1956–57 urban counterinsurgency. Essential viewing. Shot in Algiers with non-professional actors; banned in France until the 1970s. Criterion Collection edition widely available."
-    },
-    {
-      "title": "Algeria / Algerian War documentaries (search)",
-      "url": "https://www.youtube.com/results?search_query=Algerian+War+documentary+BBC+PBS",
-      "note": "Search landing for public-broadcaster documentaries. Prefer titled BBC, PBS, or ARTE uploads over anonymous clips."
     }
   ],
   "listen": [
@@ -296,7 +281,7 @@
         "General Massu",
         "Massu"
       ],
-      "explain": "French general (1908–2002) commanding paratroopers during the Battle of Algiers. Authorized torture. Later admitted in memoirs (2000) that torture was used and expressed regret."
+      "explain": "French general (1908–2002) commanding paratroopers during the Battle of Algiers. Authorized torture. In a June 2000 interview with Le Monde he said he regretted that torture had been used."
     },
     {
       "term": "Charles de Gaulle",
@@ -328,7 +313,7 @@
         "Semaine des barricades",
         "January 1960"
       ],
-      "explain": "January 1960 settler and military uprising in Algiers against de Gaulle's self-determination policy. Collapsed without major violence but showed settler desperation."
+      "explain": "January 1960 settler and military uprising in Algiers against de Gaulle's self-determination policy. Fourteen people were killed in a shootout on its first day, and the revolt collapsed within days."
     },
     {
       "term": "OAS",
@@ -439,14 +424,14 @@
         "Bandung 1955",
         "Asian-African Conference"
       ],
-      "explain": "April 1955 conference in Indonesia of newly independent Asian and African states. FLN sought support there; Bandung internationalized anti-colonial struggles. Earlier Capsules elsewhere context."
+      "explain": "April 1955 conference in Indonesia of newly independent Asian and African states. FLN sought support there; Bandung internationalized anti-colonial struggles."
     },
     {
       "term": "Suez Crisis",
       "aliases": [
         "Suez 1956"
       ],
-      "explain": "October–November 1956 British-French-Israeli invasion of Egypt. France saw Nasser as supporting the FLN. The crisis weakened French prestige and distracted from Algeria. Earlier Capsules elsewhere context."
+      "explain": "October–November 1956 British-French-Israeli invasion of Egypt. France saw Nasser as supporting the FLN. The crisis weakened French prestige and distracted from Algeria."
     },
     {
       "term": "Dien Bien Phu",
@@ -454,7 +439,7 @@
         "Điện Biên Phủ",
         "May 1954"
       ],
-      "explain": "French defeat in Indochina (May 1954) that ended French colonial rule in Vietnam. The Algerian War began six months later; many French officers transferred from Indochina to Algeria. Earlier Capsules elsewhere context."
+      "explain": "French defeat in Indochina (May 1954) that ended French colonial rule in Vietnam. The Algerian War began six months later; many French officers transferred from Indochina to Algeria."
     },
     {
       "term": "Geneva Conference 1954",
@@ -462,7 +447,7 @@
         "Geneva Accords",
         "1954 Geneva"
       ],
-      "explain": "July 1954 conference ending the First Indochina War and partitioning Vietnam. Happened as the Algerian War was starting. Earlier Capsules elsewhere context."
+      "explain": "July 1954 conference ending the First Indochina War and partitioning Vietnam. Happened as the Algerian War was starting."
     },
     {
       "term": "Ghana independence",
@@ -470,7 +455,7 @@
         "Ghana 1957",
         "Gold Coast independence"
       ],
-      "explain": "6 March 1957: Ghana (formerly Gold Coast) became independent under Kwame Nkrumah, the first sub-Saharan African colony to do so. Inspired FLN and other liberation movements. Earlier Capsules elsewhere context."
+      "explain": "6 March 1957: Ghana (formerly Gold Coast) became independent under Kwame Nkrumah, the first sub-Saharan African colony to do so. Inspired FLN and other liberation movements."
     },
     {
       "term": "Cuban Revolution",
@@ -478,7 +463,7 @@
         "Cuba 1959",
         "Castro revolution"
       ],
-      "explain": "1953–59 armed revolution led by Fidel Castro that overthrew Batista. Successful guerrilla model studied by liberation movements including the FLN. Earlier Capsules elsewhere context."
+      "explain": "1953–59 armed revolution led by Fidel Castro that overthrew Batista. Successful guerrilla model studied by liberation movements including the FLN."
     },
     {
       "term": "Sharpeville massacre",
@@ -486,7 +471,7 @@
         "Sharpeville 1960",
         "21 March 1960"
       ],
-      "explain": "21 March 1960: South African police killed 69 Black protesters in Sharpeville. Internationalized anti-apartheid struggle. Contemporaneous with Algerian War and part of wider decolonization and anti-racist movements. Earlier Capsules elsewhere context."
+      "explain": "21 March 1960: South African police killed 69 Black protesters in Sharpeville. Internationalized anti-apartheid struggle. Contemporaneous with Algerian War and part of wider decolonization and anti-racist movements."
     },
     {
       "term": "The Battle of Algiers (film)",
@@ -523,7 +508,7 @@
         "Aussaresses",
         "General Aussaresses"
       ],
-      "explain": "French general (1918–2013) who admitted in 2000 memoirs to personally torturing and executing Algerians during the Battle of Algiers. Triggered legal and moral reckonings in France."
+      "explain": "French general (1918–2013) who admitted in a November 2000 interview with Le Monde, and in his 2001 memoir, to personally torturing and executing Algerians during the Battle of Algiers. Triggered legal and moral reckonings in France."
     }
   ],
   "sections": [
@@ -572,8 +557,16 @@
           "text": "In 1956 the FLN brought the war to Algiers. Bombings in cafés, cinemas, and public places killed European civilians and sent a message that settlers were not safe in their capital. On 7 January 1957 (some accounts say 8 January), the French government gave General Jacques Massu and his paratroopers police powers to dismantle the FLN network. What followed was the Battle of Algiers (late 1956 through late 1957): systematic torture, arbitrary arrest, disappearances, infiltration, and the hunting of FLN leaders. Larbi Ben M'hidi was captured in February 1957 and killed—officially suicide, widely believed murdered under torture. Yacef Saadi, the FLN's operational commander in Algiers, was captured in September 1957. Ali la Pointe, another key militant, was killed on 8 October 1957 when French paratroopers blew up his hideout, killing him and others in the Casbah."
         },
         {
+          "type": "figure",
+          "src": "lessons/algerian-war/bombs-casbah-1957.jpg",
+          "alt": "An officer presenting a table of seized bombs to reporters.",
+          "caption": "Colonel Yves Godard presents to the press 33 bombs seized in the Casbah of Algiers, 27 June 1957, after the French army dismantled Yacef Saadi's bomb network.",
+          "credit": "Public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:D%C3%A9mant%C3%A8lement_du_r%C3%A9seau_bombes_(Bataille_d%27Alger).jpg"
+        },
+        {
           "type": "p",
-          "text": "The French won the Battle of Algiers tactically—they destroyed the urban FLN network—but lost politically and morally. Torture was not an aberration; it was systematic. General Massu later admitted it in his 2000 memoirs. General Paul Aussaresses, in a November 2000 interview and then in his 2001 memoir Services spéciaux, Algérie 1955-1957, admitted that he personally tortured and executed prisoners and that torture was widespread; he said he had no remorse. He was prosecuted not for the underlying acts, which a 1968 amnesty covered, but for 'complicity in justifying war crimes' and was convicted and fined in January 2002. During the battle itself, French liberals, intellectuals, and journalists began to turn against the war. International opinion—especially at the United Nations—condemned French methods. The FLN rebuilt its networks. The war continued."
+          "text": "The French won the Battle of Algiers tactically—they destroyed the urban FLN network—but lost politically and morally. Torture was not an aberration; it was systematic. General Massu said in a June 2000 interview with Le Monde that torture had been a mistake France could have avoided. General Paul Aussaresses, in a November 2000 interview and then in his 2001 memoir Services spéciaux, Algérie 1955-1957, admitted that he personally tortured and executed prisoners and that torture was widespread; he said he had no remorse. He was prosecuted not for the underlying acts, which a 1968 amnesty covered, but for 'complicity in justifying war crimes' and was convicted and fined in January 2002. During the battle itself, French liberals, intellectuals, and journalists began to turn against the war. International opinion—especially at the United Nations—condemned French methods. The FLN rebuilt its networks. The war continued."
         },
         {
           "type": "p",
@@ -584,12 +577,36 @@
           "text": "On 16 September 1959, in a televised speech, de Gaulle offered Algeria self-determination: three choices—integration with France, autonomy, or independence. The statement infuriated settlers and the army. In January 1960 they built barricades in Algiers (the Week of the Barricades) and called for resistance. De Gaulle appealed to the nation by radio; the uprising collapsed. In April 1961 four generals (Challe, Jouhaud, Zeller, Salan) attempted a military coup in Algiers. De Gaulle appealed directly to conscripts, telling them not to follow; the putsch failed within days. From its remnants formed the OAS (Organisation Armée Secrète), a French terrorist organization dedicated to keeping Algeria French by scorched-earth violence."
         },
         {
+          "type": "figure",
+          "src": "lessons/algerian-war/de-gaulle-1961.jpg",
+          "alt": "Charles de Gaulle in a dark coat, photographed in black and white.",
+          "caption": "Charles de Gaulle in May 1961 at Wahn airport near Cologne, during a state visit to West Germany, a month after the generals' putsch in Algiers failed.",
+          "credit": "Egon Steiner / Bundesarchiv, CC BY-SA 3.0 de, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:De_Gaulle_1961_(cropped).jpg"
+        },
+        {
           "type": "p",
-          "text": "The OAS bombed targets in Algeria and France, attempted to assassinate de Gaulle, and targeted Muslims and pro-independence Europeans. In Paris on 17 October 1961, police under Prefect Maurice Papon violently repressed a peaceful FLN-organized demonstration by Algerians protesting a discriminatory curfew. Police shot, beat, detained, and threw demonstrators into the Seine, where many drowned. The exact death toll remains unknown because archives were destroyed or remain closed; estimates range from dozens to over two hundred. The massacre was covered up for decades. Meanwhile negotiations between France and the FLN's GPRA (Gouvernement Provisoire de la République Algérienne, proclaimed in 1958) moved toward agreement. On 18 March 1962 the Évian Accords were signed, with a ceasefire taking effect at noon on 19 March. The accords provided for a referendum on independence and guarantees for European settlers and harkis. The guarantees were soon meaningless."
+          "text": "The OAS bombed targets in Algeria and France, attempted to assassinate de Gaulle, and targeted Muslims and pro-independence Europeans. In Paris on 17 October 1961, police under Prefect Maurice Papon violently repressed a peaceful FLN-organized demonstration by Algerians protesting a discriminatory curfew. Police shot, beat, detained, and threw demonstrators into the Seine, where many drowned. The exact death toll remains unknown because archives were destroyed or remain closed; historians' estimates range from several dozen to about two hundred or more, while the police prefecture's official count at the time was three. The massacre was covered up for decades. Meanwhile negotiations between France and the FLN's GPRA (Gouvernement Provisoire de la République Algérienne, proclaimed in 1958) moved toward agreement. On 18 March 1962 the Évian Accords were signed, with a ceasefire taking effect at noon on 19 March. The accords provided for a referendum on independence and guarantees for European settlers and harkis. The guarantees were soon meaningless."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/algerian-war/oas-bomb-bab-el-oued-1962.jpg",
+          "alt": "A cloud of smoke rising over buildings after a bomb explosion.",
+          "caption": "An explosion from an OAS bomb in the Bab-el-Oued district of Algiers, 1 January 1962.",
+          "credit": "Public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Terrorisme_OAS_Bab_El_Oued_(guerre_d%27Alg%C3%A9rie).jpg"
         },
         {
           "type": "p",
           "text": "On 8 April 1962, a French referendum approved the Évian Accords by 90.8% of votes cast. On 1 July 1962, Algeria held a referendum on independence; 99.72% of voters supported it. France recognized Algerian independence on 3 July; Algeria proclaimed independence on 5 July 1962. Nearly a million pieds-noirs fled to France in the summer of 1962, one of the largest refugee exoduses in postwar European history. Entire neighborhoods in Algiers, Oran, and Constantine emptied overnight. The harkis—Algerians who had fought for France—were abandoned. Historians' estimates of those killed by the FLN or by lynch mobs range from ten thousand to over seventy thousand; precision is elusive. Those who escaped to France faced internment camps themselves and decades of marginalization. Ahmed Ben Bella, imprisoned by France from October 1956 (when his plane was hijacked and diverted to Algiers) until his release in 1962, became Algeria's first president. The FLN became the single ruling party. On 19 June 1965, Defense Minister Houari Boumédiène overthrew Ben Bella in a bloodless coup and ruled until 1978. The FLN remained the only legal party until 1989."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/algerian-war/harkis-1960.jpg",
+          "alt": "Armed men in uniform standing together outdoors.",
+          "caption": "Armed harkis, Algerians who served in the French forces, near Nemours (now Ghazaouet), around 1960. Many were killed after independence and others were interned in camps in France.",
+          "credit": "State Archives of North Carolina, no restrictions, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Harkis_in_Ghazaouet,_Algeria_(circa_1960).jpg"
         }
       ]
     },
@@ -623,7 +640,7 @@
             {
               "name": "Jacques Massu",
               "dates": "1908–2002",
-              "text": "French general who commanded paratroopers during the Battle of Algiers. He authorized torture and collective punishment. In his 2000 memoirs he admitted torture was used and expressed regret for some methods, but not for fighting the FLN. He remained controversial until his death."
+              "text": "French general who commanded paratroopers during the Battle of Algiers. He authorized torture and collective punishment. In a June 2000 interview with Le Monde he said he regretted that torture had been used, though he did not regret fighting the FLN. He remained controversial until his death."
             }
           ]
         },
@@ -651,6 +668,14 @@
           "text": "In October–November 1956, Britain, France, and Israel invaded Egypt in response to Gamal Abdel Nasser's nationalization of the Suez Canal. The Suez Crisis ended in humiliation for Britain and France when the United States and Soviet Union forced withdrawal. France had seen Nasser as a backer of the FLN and hoped the invasion would weaken Egyptian support. Instead, Suez demonstrated that the old imperial powers could no longer act unilaterally. The crisis distracted France from Algeria but also showed that the era of European colonial dominance was over."
         },
         {
+          "type": "figure",
+          "src": "lessons/algerian-war/nasser-ben-bella-1962.jpg",
+          "alt": "Two men riding in an open car through a crowd.",
+          "caption": "Gamal Abdel Nasser and Ahmed Ben Bella in an open car in Algiers in 1962, after independence. Egypt under Nasser had given the FLN political and material support during the war.",
+          "credit": "Al-Ahram Weekly; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Nasser_and_Ben_Bella.jpg"
+        },
+        {
           "type": "p",
           "text": "On 6 March 1957, Ghana (formerly the Gold Coast) became independent under Kwame Nkrumah, the first sub-Saharan African colony to do so. Ghana's independence inspired liberation movements across Africa and validated the FLN's claim that armed struggle could work. In 1959 Fidel Castro's guerrillas overthrew the Batista regime in Cuba after six years of armed struggle. The Cuban Revolution became another reference: a small guerrilla force could defeat a state backed by a great power. The FLN was fighting in a decade when decolonization by negotiation and decolonization by force were both delivering results."
         },
@@ -668,6 +693,14 @@
         {
           "type": "p",
           "text": "Independent Algeria was born from eight years of war and immediately became a one-party state. Ahmed Ben Bella ruled 1962–65, proclaiming Algeria a socialist republic aligned with the Non-Aligned Movement and the Third World. He sidelined rivals, jailed opponents, and concentrated power in the FLN. In June 1965, Defense Minister Houari Boumédiène overthrew him in a bloodless coup. Boumédiène ruled until his death in 1978, continuing state socialism, land reform, and oil nationalization. The FLN remained the only legal party until 1989. Multi-party elections in 1991 were canceled when an Islamist party won the first round; the cancellation triggered a brutal civil war (1991–2002) that killed perhaps 200,000. The 1954–62 war's legacy was everywhere in Algerian politics: martyrs invoked, veterans privileged, the FLN's legitimacy tied to independence."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/algerian-war/ben-bella-1962.jpg",
+          "alt": "Ahmed Ben Bella in a suit, photographed in 1962.",
+          "caption": "Ahmed Ben Bella in October 1962, the month he was received at the White House by President John F. Kennedy.",
+          "credit": "Public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Ahmed_Ben_Bella_aux_USA,_oct.1962_(cropped).jpg"
         },
         {
           "type": "p",
@@ -694,5 +727,16 @@
         }
       ]
     }
-  ]
+  ],
+  "thumb": {
+    "src": "lessons/algerian-war/fln-six-leaders-1954.jpg",
+    "alt": "Six FLN leaders in 1954."
+  },
+  "hero": {
+    "src": "lessons/algerian-war/fln-six-leaders-1954.jpg",
+    "alt": "Six men, four standing and two seated, in a formal group photograph.",
+    "caption": "Six of the leaders who launched the uprising of 1 November 1954. Standing: Rabah Bitat, Mostefa Ben Boulaïd, Mourad Didouche and Mohamed Boudiaf. Seated: Krim Belkacem and Larbi Ben M'hidi.",
+    "credit": "Algerian Ministry of Moudjahidine; public domain, author unknown, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Six_chefs_FLN_-_1954.jpg"
+  }
 }
