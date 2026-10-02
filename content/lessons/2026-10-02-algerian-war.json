@@ -7,22 +7,11 @@
     "haitian-revolution",
     "meiji-restoration"
   ],
-  "title": "The Algerian War of Independence (1954–1962): from Toussaint Rouge through the Battle of Algiers to Évian, exodus, and a republic built on FLN one-party rule",
-  "dek": "On 1 November 1954—Toussaint Rouge—coordinated attacks across Algeria announced the start of armed insurrection by the Front de Libération Nationale (FLN). What followed was eight years of guerrilla war, urban terrorism, French counterinsurgency including systematic torture during the 1956–57 Battle of Algiers, the return of Charles de Gaulle to power in 1958, the Évian Accords of March 1962, and independence on 5 July 1962. Nearly a million European settlers (pieds-noirs) fled to France; tens of thousands of harkis (Algerian auxiliaries who fought for France) were abandoned or killed. Casualty estimates remain contested, ranging from several hundred thousand to over a million. The war remade France's Fifth Republic, birthed an independent Algeria under FLN single-party rule, and became a reference case for anti-colonial armed struggle worldwide.",
+  "title": "The Algerian War of Independence (1954–1962)",
+  "dek": "On 1 November 1954 coordinated attacks across Algeria launched the Front de Libération Nationale's armed insurrection. Eight years of guerrilla war, urban terrorism, and French counterinsurgency—including systematic torture—followed. Charles de Gaulle returned to power in 1958, negotiated independence, and ended the war with the Évian Accords in March 1962. Algeria became independent on 5 July 1962; nearly a million pieds-noirs fled to France; tens of thousands of harkis were killed or abandoned. Casualty estimates range from several hundred thousand to over a million.",
   "era": "1954–1962 (context: 1830–1962)",
   "reading_minutes": 26,
-  "thumb": {
-    "src": "lessons/algerian-war/algiers-demo-1960.jpg",
-    "alt": "Demonstration in Algiers during the Algerian War, 1960."
-  },
-  "hero": {
-    "src": "lessons/algerian-war/algiers-demo-1960.jpg",
-    "alt": "Crowds in Algiers during a demonstration in 1960.",
-    "caption": "Algiers, 1960. Public demonstrations during the Algerian War were moments when urban politics became visible—nationalist rallies, settler mobilization, and state repression all competing for the street. By 1960 independence was not yet certain, but the old colonial order was already breaking.",
-    "credit": "Wikimedia Commons / public domain",
-    "credit_url": "https://commons.wikimedia.org/wiki/File:1960_Algiers_demonstration.jpg"
-  },
-  "honesty": "The Algerian War names both the armed independence struggle (1954–1962) and the political crisis that brought Charles de Gaulle back to power in France and ended the Fourth Republic. Casualty figures remain deeply contested. French official estimates were low; Algerian government claims run over a million dead; recent scholarship often cites ranges from several hundred thousand to around a million, with acknowledgment that precision is elusive. This capsule treats those numbers as estimates with political and archival limits, not settled facts. The term 'systematic torture' reflects documented French military and police practices during the Battle of Algiers and broader counterinsurgency, confirmed by participant testimony (Aussaresses, Massu) and later official recognition (2000 Aussaresses trial; 2018 Macron statements), not rhetorical exaggeration. The FLN's own violence against civilians—Algerian 'loyalists,' harkis, and European settlers—is named as terror and reprisal, not minimized. This capsule does not equate all violence but documents what happened. The elsewhere section compares contemporaneous decolonization struggles (Dien Bien Phu / Geneva 1954, Bandung 1955, Suez 1956, Ghana 1957, Cuban Revolution, Sharpeville 1960) as parallel crises, not as causes or copies.",
+  "honesty": "The Algerian War names both the armed independence struggle (1954–1962) and the political crisis that brought Charles de Gaulle back to power in France and ended the Fourth Republic. Casualty figures remain deeply contested. French official estimates during the war were low; Algerian government claims run to 1.5 million dead; recent scholarship often cites ranges from several hundred thousand to around a million, with acknowledgment that precision is elusive due to incomplete archives, contested methods, and the inclusion of deaths from displacement, disease, and starvation in addition to combat. This capsule treats those numbers as estimates with political and archival limits, not settled facts. The term 'systematic torture' reflects documented French military and police practices during the Battle of Algiers and broader counterinsurgency, confirmed by participant testimony (Aussaresses 2000–2001 admissions, Massu 2000 memoirs) and later official recognition (2002 Aussaresses conviction for complicity in justifying war crimes; September 2018 Macron statement recognizing state responsibility for Maurice Audin's torture and death), not rhetorical exaggeration. The FLN's own violence against civilians—Algerian 'loyalists,' harkis, and European settlers—is named as terror and reprisal, not minimized. This capsule does not equate all violence but documents what happened. The elsewhere section compares contemporaneous decolonization struggles (Dien Bien Phu / Geneva 1954, Bandung 1955, Suez 1956, Ghana 1957, Cuban Revolution, Sharpeville 1960) as parallel crises, not as causes or copies.",
   "timeline": [
     {
       "year": "1830–1930s",
@@ -57,7 +46,7 @@
     {
       "year": "1956–57",
       "label": "Battle of Algiers",
-      "detail": "The FLN launched urban terrorism in Algiers: bombings in cafés, cinemas, and public places. French paratroopers under General Jacques Massu were given police powers. They used systematic torture, disappearances, and infiltration to dismantle the FLN network. Key FLN leaders Larbi Ben M'hidi (captured and killed), Yacef Saadi (captured), and Ali la Pointe (killed in an explosion) became martyrs or symbols. The French won the battle but lost international legitimacy."
+      "detail": "The FLN launched urban terrorism in Algiers: bombings in cafés, cinemas, and public places. French paratroopers under General Jacques Massu were given police powers in January 1957. They used systematic torture, disappearances, and infiltration to dismantle the FLN network. Key FLN leaders Larbi Ben M'hidi (captured February 1957, killed—officially suicide, widely believed murdered), Yacef Saadi (captured September 1957), and Ali la Pointe (killed 8 October 1957 in an explosion) became martyrs or symbols. The French won the battle tactically but lost international legitimacy."
     },
     {
       "year": "13 May 1958",
@@ -75,9 +64,9 @@
       "detail": "Settlers and military hardliners built barricades in Algiers and called for resistance to de Gaulle's policy. The standoff collapsed without major violence, but it showed the limits of settler power."
     },
     {
-      "year": "Apr 1961",
+      "year": "21–26 Apr 1961",
       "label": "Generals' putsch",
-      "detail": "Four generals (Challe, Jouhaud, Zeller, Salan) attempted a military coup in Algiers to prevent Algerian independence. De Gaulle appealed to conscripts by radio; the putsch failed within days. The OAS (Organisation Armée Secrète) formed from its remnants, launching a terror campaign in Algeria and France."
+      "detail": "Four generals (Maurice Challe, Raoul Salan, Edmond Jouhaud, André Zeller) attempted a military coup in Algiers to prevent Algerian independence. De Gaulle appealed to conscripts by radio; the putsch failed within days. Challe and Zeller were arrested and sentenced to 15 years; Salan and Jouhaud escaped and joined the OAS (Organisation Armée Secrète), which formed from its remnants and launched a terror campaign in Algeria and France."
     },
     {
       "year": "17 Oct 1961",
@@ -97,7 +86,7 @@
     {
       "year": "1962–65",
       "label": "FLN single-party state",
-      "detail": "Ben Bella consolidated FLN control, sidelining rivals and declaring Algeria a socialist one-party state. In June 1965, Defense Minister Houari Boumédiène overthrew Ben Bella in a bloodless coup and ruled until 1978. The FLN remained the only legal party until 1989."
+      "detail": "Ben Bella consolidated FLN control, sidelining rivals and declaring Algeria a socialist one-party state. In June 1965 (specifically 19 June), Defense Minister Houari Boumédiène overthrew Ben Bella in a bloodless coup and ruled until 1978. The FLN remained the only legal party until 1989."
     }
   ],
   "read": [
@@ -552,14 +541,6 @@
           "text": "The Code de l'indigénat (1881–1944) imposed collective punishment, forced labor, and travel restrictions on Algerians. It criminalized 'disrespect' toward French officials and allowed governors to imprison or fine without trial. Even after the code was abolished in 1944, discrimination persisted. The 1947 Algerian Statute promised limited reforms—an elected assembly, broader franchise—but the settler-dominated administration rigged elections and blocked change. By the early 1950s legal nationalism led by Messali Hadj's MTLD had delivered nothing. Younger militants concluded that negotiation was a trap."
         },
         {
-          "type": "figure",
-          "src": "lessons/algerian-war/de-gaulle-portrait.jpg",
-          "alt": "Portrait of Charles de Gaulle in military uniform.",
-          "caption": "Charles de Gaulle (1890–1970). French general, leader of Free France during World War II, and statesman who returned to power in 1958 during the Algeria crisis. This portrait is from his earlier military career; by 1958 he was the figure settlers and the army believed would save Algérie française—but he chose independence instead.",
-          "credit": "Wikimedia Commons / public domain (OWI portrait)",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI.jpg"
-        },
-        {
           "type": "p",
           "text": "On 8 May 1945—V-E Day—nationalist demonstrations in Sétif, Guelma, and Kherrata were met with French military and settler violence. French police fired on crowds; Algerian protesters killed European settlers in retaliation; French army units, militias, and settler mobs launched reprisals. Estimates of Algerian dead range from several thousand to tens of thousands, depending on source and method. The French state called it a restoration of order; Algerians called it massacre. The violence radicalized a generation. If this was the price of peaceful protest on the day Europe celebrated liberation from fascism, what options remained?"
         },
@@ -583,36 +564,20 @@
           "text": "The early FLN was small, poorly armed, and regionally divided. The ALN (Armée de Libération Nationale) fought guerrilla war in the mountains and rural areas. French troops responded with counterinsurgency: ratissages (sweeps), regroupement (forced resettlement of rural populations into camps), and collective punishment. The war escalated. On 20 August 1955, FLN-led fighters attacked Philippeville (now Skikda), killing over a hundred European civilians and Algerian 'loyalists'—men, women, children. French reprisals killed thousands of Algerians in the following days. The massacre polarized the conflict. Coexistence became harder to imagine; the middle ground collapsed."
         },
         {
-          "type": "figure",
-          "src": "lessons/algerian-war/ben-bella-portrait.jpg",
-          "alt": "Portrait of Ahmed Ben Bella.",
-          "caption": "Ahmed Ben Bella (1916–2012). FLN leader and first president of independent Algeria (1962–65). He was imprisoned by France from 1956 to 1962, released at independence, and became head of state. Overthrown by Houari Boumédiène in June 1965, he spent years under house arrest.",
-          "credit": "Wikimedia Commons / public domain (1963 photo)",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Ahmed_Ben_Bella_(1963).jpg"
-        },
-        {
           "type": "p",
           "text": "In August 1956 FLN leaders met secretly in the Soummam Valley to formalize organization and strategy. The Soummam Congress established a collective leadership (the Conseil National de la Révolution Algérienne, CNRA), declared the primacy of politics over military, and articulated a vision of an independent Algerian republic—democratic, social, not defined by religion alone. Larbi Ben M'hidi and Abane Ramdane were key architects. But internal tensions persisted: between interior and exterior leadership, between military commanders and politicians, between visions of secular nationalism and Islamic identity. These tensions would shape independent Algeria's one-party state."
         },
         {
           "type": "p",
-          "text": "In 1956 the FLN brought the war to Algiers. Bombings in cafés, cinemas, and public places killed European civilians and sent a message that settlers were not safe in their capital. The French government gave General Jacques Massu and his paratroopers police powers to dismantle the FLN network. What followed was the Battle of Algiers (1956–57): systematic torture, arbitrary arrest, disappearances, infiltration, and the hunting of FLN leaders. Larbi Ben M'hidi was captured in February 1957 and killed—officially suicide, widely believed murdered. Yacef Saadi, the FLN's operational commander in Algiers, was captured in September 1957. Ali la Pointe, another key militant, was killed in October 1957 when French paratroopers blew up his hideout, killing him and others in the Casbah."
+          "text": "In 1956 the FLN brought the war to Algiers. Bombings in cafés, cinemas, and public places killed European civilians and sent a message that settlers were not safe in their capital. On 7 January 1957 (some accounts say 8 January), the French government gave General Jacques Massu and his paratroopers police powers to dismantle the FLN network. What followed was the Battle of Algiers (late 1956 through late 1957): systematic torture, arbitrary arrest, disappearances, infiltration, and the hunting of FLN leaders. Larbi Ben M'hidi was captured in February 1957 and killed—officially suicide, widely believed murdered under torture. Yacef Saadi, the FLN's operational commander in Algiers, was captured in September 1957. Ali la Pointe, another key militant, was killed on 8 October 1957 when French paratroopers blew up his hideout, killing him and others in the Casbah."
         },
         {
           "type": "p",
-          "text": "The French won the Battle of Algiers tactically—they destroyed the urban FLN network—but lost politically and morally. Torture was not an aberration; it was systematic. General Massu later admitted it in his 2000 memoirs. General Paul Aussaresses admitted in his own memoirs that he personally tortured and executed prisoners. The revelations triggered prosecutions and debates in France decades later. During the battle itself, French liberals, intellectuals, and journalists began to turn against the war. International opinion—especially at the United Nations—condemned French methods. The FLN rebuilt its networks. The war continued."
+          "text": "The French won the Battle of Algiers tactically—they destroyed the urban FLN network—but lost politically and morally. Torture was not an aberration; it was systematic. General Massu later admitted it in his 2000 memoirs. General Paul Aussaresses, in a November 2000 interview and then in his 2001 memoir Services spéciaux, Algérie 1955-1957, admitted that he personally tortured and executed prisoners and that torture was widespread; he said he had no remorse. He was prosecuted not for the underlying acts, which a 1968 amnesty covered, but for 'complicity in justifying war crimes' and was convicted and fined in January 2002. During the battle itself, French liberals, intellectuals, and journalists began to turn against the war. International opinion—especially at the United Nations—condemned French methods. The FLN rebuilt its networks. The war continued."
         },
         {
           "type": "p",
-          "text": "By 1958 the Fourth Republic was paralyzed. On 13 May 1958, French military officers and settlers in Algiers seized government buildings and called for a stronger government that would keep Algeria French. The crisis spread to Corsica; a coup in Paris seemed possible. The politicians turned to Charles de Gaulle, the World War II hero who had been out of power for a decade. De Gaulle returned, promising order. He wrote a new constitution expanding executive power, ended the Fourth Republic, and became president of the Fifth Republic. Settlers and the army believed he would defend Algérie française. They were wrong."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/algerian-war/evian-accords.jpg",
-          "alt": "Signing of the Évian Accords in March 1962.",
-          "caption": "The Évian Accords, signed 18 March 1962 between the French government and the FLN's GPRA (Provisional Government of the Algerian Republic). The accords provided for a ceasefire, a referendum on independence, and guarantees (soon ignored) for settlers and harkis. The OAS intensified terror in response.",
-          "credit": "Wikimedia Commons / public domain (conference photo)",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Evian_conference.jpg"
+          "text": "By 1958 the Fourth Republic was paralyzed. On 13 May 1958, French military officers and settlers in Algiers seized government buildings and called for a stronger government that would keep Algeria French. The crisis spread to Corsica; a coup in Paris seemed possible. The politicians turned to Charles de Gaulle, the World War II hero who had been out of power for a decade. De Gaulle returned, promising order. On 4 June 1958, he addressed a massive crowd at the Forum in Algiers and opened with \"Je vous ai compris!\"—I have understood you. The speech was deliberately ambiguous, reassuring settlers, Algerians, and the military without committing to a final status for Algeria. He wrote a new constitution expanding executive power, ended the Fourth Republic, and became president of the Fifth Republic. Settlers and the army believed he would defend Algérie française. They were wrong."
         },
         {
           "type": "p",
@@ -620,19 +585,11 @@
         },
         {
           "type": "p",
-          "text": "The OAS bombed targets in Algeria and France, attempted to assassinate de Gaulle, and targeted Muslims and pro-independence Europeans. In Paris on 17 October 1961, police under Prefect Maurice Papon violently repressed a peaceful FLN-organized demonstration by Algerians. Dozens—possibly over a hundred—were killed; some bodies were thrown into the Seine. The massacre was covered up for decades. Meanwhile negotiations between France and the FLN's GPRA (Gouvernement Provisoire de la République Algérienne, proclaimed in 1958) moved toward agreement. On 18 March 1962 the Évian Accords were signed. They provided for a ceasefire, a referendum on independence, and guarantees for European settlers and harkis. The guarantees were soon meaningless."
-        },
-        {
-          "type": "figure",
-          "src": "lessons/algerian-war/algeria-independence.jpg",
-          "alt": "Crowds celebrating Algerian independence in July 1962.",
-          "caption": "Algeria, 5 July 1962. Independence day. Crowds celebrate in Algiers and across the country. The FLN's eight-year armed struggle had won. But the costs were staggering, the casualty figures contested, and the refugee crises—pieds-noirs fleeing to France, harkis killed or abandoned—were already unfolding.",
-          "credit": "Wikimedia Commons / public domain (independence celebration photo)",
-          "credit_url": "https://commons.wikimedia.org/wiki/File:Algeria_independence.jpg"
+          "text": "The OAS bombed targets in Algeria and France, attempted to assassinate de Gaulle, and targeted Muslims and pro-independence Europeans. In Paris on 17 October 1961, police under Prefect Maurice Papon violently repressed a peaceful FLN-organized demonstration by Algerians protesting a discriminatory curfew. Police shot, beat, detained, and threw demonstrators into the Seine, where many drowned. The exact death toll remains unknown because archives were destroyed or remain closed; estimates range from dozens to over two hundred. The massacre was covered up for decades. Meanwhile negotiations between France and the FLN's GPRA (Gouvernement Provisoire de la République Algérienne, proclaimed in 1958) moved toward agreement. On 18 March 1962 the Évian Accords were signed, with a ceasefire taking effect at noon on 19 March. The accords provided for a referendum on independence and guarantees for European settlers and harkis. The guarantees were soon meaningless."
         },
         {
           "type": "p",
-          "text": "On 5 July 1962 Algeria became independent. Nearly a million pieds-noirs fled to France in the summer of 1962, one of the largest refugee exoduses in postwar European history. Entire neighborhoods in Algiers, Oran, and Constantine emptied overnight. The harkis—Algerians who had fought for France—were abandoned. Tens of thousands were killed by the FLN or imprisoned in brutal camps. Those who escaped to France faced internment camps themselves and decades of marginalization. Ahmed Ben Bella, released from French prison, became Algeria's first president. The FLN became the single ruling party. In June 1965, Defense Minister Houari Boumédiène overthrew Ben Bella in a bloodless coup and ruled until 1978. The FLN remained the only legal party until 1989."
+          "text": "On 8 April 1962, a French referendum approved the Évian Accords by 90.8% of votes cast. On 1 July 1962, Algeria held a referendum on independence; 99.72% of voters supported it. France recognized Algerian independence on 3 July; Algeria proclaimed independence on 5 July 1962. Nearly a million pieds-noirs fled to France in the summer of 1962, one of the largest refugee exoduses in postwar European history. Entire neighborhoods in Algiers, Oran, and Constantine emptied overnight. The harkis—Algerians who had fought for France—were abandoned. Historians' estimates of those killed by the FLN or by lynch mobs range from ten thousand to over seventy thousand; precision is elusive. Those who escaped to France faced internment camps themselves and decades of marginalization. Ahmed Ben Bella, imprisoned by France from October 1956 (when his plane was hijacked and diverted to Algiers) until his release in 1962, became Algeria's first president. The FLN became the single ruling party. On 19 June 1965, Defense Minister Houari Boumédiène overthrew Ben Bella in a bloodless coup and ruled until 1978. The FLN remained the only legal party until 1989."
         }
       ]
     },
@@ -714,11 +671,11 @@
         },
         {
           "type": "p",
-          "text": "In France the war ended the Fourth Republic and created the Fifth. De Gaulle's 1958 constitution concentrated power in the presidency; the system endures. The pieds-noirs who fled Algeria in 1962 resettled in southern France—Marseille, Montpellier, Nice—and many became a political constituency of the right and far right, voting for politicians who promised to defend their memory and honor. Harki families, marginalized and impoverished, were ignored by the state for decades. Memory of the war was suppressed, then contested. The French state did not officially call it a 'war' until 1999; until then it was 'operations to maintain order.' Torture, the Paris massacre of October 1961, and French responsibility for abandoning the harkis became public debates only in the 1990s–2000s."
+          "text": "In France the war ended the Fourth Republic and created the Fifth. De Gaulle's 1958 constitution concentrated power in the presidency; the system endures. The pieds-noirs who fled Algeria in 1962 resettled in southern France—Marseille, Montpellier, Nice—and many became a political constituency of the right and far right, voting for politicians who promised to defend their memory and honor. Harki families, marginalized and impoverished, were ignored by the state for decades. Memory of the war was suppressed, then contested. The French state did not officially call it a 'war' until a law passed on 18 October 1999; until then it was 'operations to maintain order.' Torture, the Paris massacre of 17 October 1961, and French responsibility for abandoning the harkis became public debates only in the 1990s–2000s. In September 2018, President Emmanuel Macron formally recognized that the French state bore responsibility for the death of Maurice Audin, a mathematician and anti-colonial activist who was tortured and then executed, or tortured to death, by military forces after his arrest in Algiers in 1957."
         },
         {
           "type": "p",
-          "text": "How many died? No census settled it. French official estimates during the war were low, often in the tens of thousands. The Algerian government after independence claimed over a million and a half martyrs—a number that became political identity, not demographic data. Recent scholarship often cites ranges from several hundred thousand to around a million killed, with acknowledgment that both combatant and civilian deaths are undercounted and that methods vary. Displacement—internal and external—is easier to estimate: nearly a million pieds-noirs fled to France; perhaps two million Algerians were forcibly resettled into regroupement camps; tens of thousands of harkis were killed or fled. The honest answer is that the casualty count remains an argument, shaped by archive access, political memory, and who is counting whom."
+          "text": "How many died? No census settled it. French official estimates during the war were low, often in the tens of thousands for Algerian deaths. The Algerian government after independence claimed 1.5 million martyrs—a number that became political identity, not demographic data. The British historian Alistair Horne estimated around 700,000 to 1 million Algerian deaths in his 1977 book A Savage War of Peace. Recent scholarship often cites ranges from several hundred thousand to around a million killed, with acknowledgment that both combatant and civilian deaths are undercounted, that methods vary, and that the figure includes not only those killed in direct combat or terrorism but also deaths from displacement, disease, and starvation in regroupement camps. French military casualties are better documented: about 25,600 dead, including around 6,000 from non-combat causes. The honest answer is that the Algerian casualty count remains an argument, shaped by archive access, political memory, and who is counting whom."
         },
         {
           "type": "p",
