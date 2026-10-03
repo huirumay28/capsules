@@ -1,0 +1,664 @@
+{
+  "slug": "fundamental-attribution-error",
+  "date": "2026-10-04",
+  "subject": "psych",
+  "related": [
+    "asch-conformity",
+    "milgram-obedience",
+    "stereotype-threat",
+    "groupthink"
+  ],
+  "title": "Fundamental attribution error: the concept and its meaning first, then Edward Jones and Victor Harris's 1967 Castro essay experiment and Lee Ross's 1977 naming of the error",
+  "dek": "What the fundamental attribution error means — the tendency to over-attribute other people's behavior to stable dispositions and under-attribute situational forces, even when the situation is obvious — then Edward Jones and Victor Harris's 1967 experiment where Duke students inferred a writer's true attitude from an essay even when told the position was assigned, and Lee Ross's 1977 naming of the bias as fundamental, plus the quiz-game study, cultural differences, and debates over whether the error is truly fundamental or culturally situated.",
+  "era": "Jones and Harris experiment 1967; Lee Ross coined the term 1977; cultural comparisons 1980s–1990s; meta-analyses and revisions 1990s–2020s",
+  "reading_minutes": 20,
+  "honesty": "This lesson presents the fundamental attribution error as a concept first, then the empirical demonstrations. Edward Jones and Victor Harris published their Castro essay experiment in the Journal of Experimental Social Psychology in 1967. Participants at Duke University read essays supporting or opposing Fidel Castro and were asked to estimate the writer's true attitude. Even when told the essay position was assigned by the experimenter, readers still inferred that the writer's real views corresponded to the essay's position, though the effect was weaker than when the position was freely chosen. Lee Ross coined the term 'fundamental attribution error' in his 1977 chapter 'The Intuitive Psychologist and His Shortcomings' in Advances in Experimental Social Psychology, describing it as the tendency to underestimate situational forces and overestimate dispositional factors. Ross, Amabile, and Steinmetz demonstrated the error in a 1977 quiz-game study where randomly assigned questioners were rated as more knowledgeable than contestants. The error has been replicated in many settings. Cultural psychologists including Joan Miller (1984), Hazel Markus and Shinobu Kitayama (1991), and Michael Morris and Kaiping Peng (1994) found that East Asian and South Asian samples show weaker dispositional bias and stronger situational attribution than Western samples, challenging the universality of the error. Gilbert and Malone (1995) proposed four mechanisms: lack of awareness of constraints, unrealistic expectations, inflated categorizations, and incomplete correction. The actor-observer asymmetry proposed by Jones and Nisbett (1971) — that actors attribute their own behavior to situations while observers attribute others' behavior to dispositions — was once considered robust but later meta-analyses found much weaker effects. The fundamental attribution error is real and replicable, but it is not universal: it is stronger in individualist cultures, weaker in collectivist cultures, and moderated by cognitive load, salience of situational information, and cultural priming. The term 'fundamental' has been criticized as overstating the error's scope; correspondence bias is a more neutral term. Lab artificiality, WEIRD samples (Western, educated, industrialized, rich, democratic), and the debate over whether situational attributions can also be errors (situational overcorrection) all complicate the picture. The lesson treats the fundamental attribution error as a well-documented bias in social perception, not as a universal law of human cognition.",
+  "timeline": [
+    {
+      "year": "1958",
+      "label": "Heider's The Psychology of Interpersonal Relations",
+      "detail": "Fritz Heider's book introduced attribution theory, noting that behavior tends to 'engulf the field' and that perceivers often assign too little weight to situational context, foreshadowing the fundamental attribution error."
+    },
+    {
+      "year": "1965",
+      "label": "Jones and Davis correspondence inference theory",
+      "detail": "Edward Jones and Keith Davis published their theory of how people infer stable dispositions from observed behavior, laying the conceptual groundwork for later work on correspondence bias."
+    },
+    {
+      "year": "1967",
+      "label": "Jones and Harris Castro essay experiment",
+      "detail": "Edward Jones and Victor Harris published their study in the Journal of Experimental Social Psychology. Duke undergraduates read pro-Castro or anti-Castro essays and estimated the writer's true attitude. Even when the essay position was assigned, readers made correspondent inferences, attributing the position to the writer's beliefs."
+    },
+    {
+      "year": "1971",
+      "label": "Jones and Nisbett actor-observer hypothesis",
+      "detail": "Jones and Richard Nisbett proposed that actors tend to attribute their own behavior to situational causes while observers attribute the same behavior to the actor's stable dispositions. This asymmetry was initially considered robust but later meta-analyses found weaker support."
+    },
+    {
+      "year": "1977",
+      "label": "Lee Ross coins 'fundamental attribution error'",
+      "detail": "Lee Ross published his chapter 'The Intuitive Psychologist and His Shortcomings' in Advances in Experimental Social Psychology, naming the tendency to underestimate situational forces and overestimate dispositional factors the 'fundamental attribution error.' The term quickly became central to social psychology."
+    },
+    {
+      "year": "1977",
+      "label": "Ross, Amabile, and Steinmetz quiz-game study",
+      "detail": "Lee Ross, Teresa Amabile, and Julia Steinmetz published their quiz-game experiment in the Journal of Personality and Social Psychology. Randomly assigned questioners composed difficult questions; contestants attempted to answer. Both contestants and observers rated questioners as more knowledgeable, despite the obvious role advantage."
+    },
+    {
+      "year": "1984",
+      "label": "Joan Miller's cross-cultural study",
+      "detail": "Joan Miller published a study comparing Hindu Indian and American children and adults. Americans made greater reference to general dispositions and less to contextual factors; Hindus showed the opposite pattern. This was early evidence that the fundamental attribution error is culturally variable."
+    },
+    {
+      "year": "1991",
+      "label": "Markus and Kitayama independent/interdependent self",
+      "detail": "Hazel Markus and Shinobu Kitayama published their influential paper on cultural differences in self-construal in Psychological Review. They proposed that Western cultures emphasize independent selves defined by internal attributes, while many East Asian cultures emphasize interdependent selves defined by relationships and context, shaping attribution patterns."
+    },
+    {
+      "year": "1994",
+      "label": "Morris and Peng American-Chinese attribution comparison",
+      "detail": "Michael Morris and Kaiping Peng published a study comparing American and Chinese newspaper accounts of mass murders. American accounts emphasized the murderer's personal dispositions; Chinese accounts emphasized situational and social pressures. This extended cultural findings to real-world attributions."
+    },
+    {
+      "year": "1995",
+      "label": "Gilbert and Malone correspondence bias review",
+      "detail": "Daniel Gilbert and Patrick Malone published a major review in Psychological Bulletin distinguishing behavioral and psychological constraints and identifying four mechanisms of correspondence bias: lack of awareness, unrealistic expectations, inflated categorizations, and incomplete correction."
+    },
+    {
+      "year": "2001",
+      "label": "Knowles et al. automatic correction in East Asians",
+      "detail": "Ed Knowles, Michael Morris, Chi-yue Chiu, and Ying-yi Hong found that Hong Kong participants showed automatic correction for situational influences under cognitive load, whereas American participants did not, suggesting cultural differences in attribution processes run deep."
+    },
+    {
+      "year": "2006",
+      "label": "Malle meta-analysis of actor-observer asymmetry",
+      "detail": "Bertram Malle published a meta-analysis of 173 studies on the actor-observer effect in Psychological Bulletin. The average effect size was near zero. The asymmetry held only under specific conditions and for negative events, challenging the idea that it is a robust, universal phenomenon."
+    },
+    {
+      "year": "2010",
+      "label": "Henrich, Heine, and Norenzayan WEIRD critique",
+      "detail": "Joseph Henrich, Steven Heine, and Ara Norenzayan published their influential paper in Behavioral and Brain Sciences arguing that psychology's reliance on Western, educated, industrialized, rich, and democratic samples makes many findings, including the fundamental attribution error, less universal than assumed."
+    },
+    {
+      "year": "2010s–2020s",
+      "label": "Replications, extensions, and revisions",
+      "detail": "The fundamental attribution error remains widely taught and studied. Research continues on its mechanisms, cultural variability, developmental origins, neural correlates, and practical implications. The debate over whether it is 'fundamental' or culturally contingent persists."
+    }
+  ],
+  "read": [
+    {
+      "title": "Lee Ross — 'The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process' (in Advances in Experimental Social Psychology, vol. 10, 1977)",
+      "url": "https://web.archive.org/web/20190506055830/https://www.sciencedirect.com/science/article/pii/S0065260108603573",
+      "note": "The chapter where Ross coined 'fundamental attribution error.' Discusses correspondence bias, underweighting of situational forces, overestimation of dispositional consistency. Archive.org saved copy of the ScienceDirect page."
+    },
+    {
+      "title": "Lee D. Ross, Teresa M. Amabile, and Julia L. Steinmetz — 'Social Roles, Social Control, and Biases in Social-Perception Processes' (Journal of Personality and Social Psychology, 1977)",
+      "url": "https://gwern.net/doc/psychology/1977-ross.pdf",
+      "note": "The quiz-game study. Randomly assigned questioners and contestants rated each other's general knowledge. Questioners were judged more knowledgeable despite the obvious role advantage. Full text freely available on Gwern."
+    },
+    {
+      "title": "Daniel T. Gilbert and Patrick S. Malone — 'The Correspondence Bias' (Psychological Bulletin, 1995)",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/biases/117_Psychological_Bulletin_21_(Gilbert).pdf",
+      "note": "Major review distinguishing behavioral and psychological constraints. Identifies four mechanisms: lack of awareness, unrealistic expectations, inflated categorizations, incomplete correction. Full text freely available."
+    },
+    {
+      "title": "Hazel R. Markus and Shinobu Kitayama — 'Culture and the Self: Implications for Cognition, Emotion, and Motivation' (Psychological Review, 1991)",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf",
+      "note": "Influential paper proposing independent versus interdependent self-construals. Western cultures emphasize internal attributes; East Asian cultures emphasize relational context. Shapes attribution patterns. Full text freely available."
+    },
+    {
+      "title": "Michael W. Morris and Kaiping Peng — 'Culture and Cause: American and Chinese Attributions for Social and Physical Events' (Journal of Personality and Social Psychology, 1994)",
+      "url": "https://culcog.studentorg.berkeley.edu/Publications/1994JPSP_MorrisPeng.pdf",
+      "note": "Analysis of American and Chinese newspaper accounts of mass murders. American accounts emphasized personal dispositions; Chinese accounts emphasized situational factors. Full text freely available."
+    },
+    {
+      "title": "Bertram F. Malle — 'The Actor-Observer Asymmetry in Attribution: A (Surprising) Meta-Analysis' (Psychological Bulletin, 2006)",
+      "url": "https://research.clps.brown.edu/SocCogSci/Publications/Pubs/Malle_%282006%29_ActObs_meta.pdf",
+      "note": "Meta-analysis of 173 studies. Average effect size near zero. The actor-observer asymmetry held only under specific conditions and for negative events, not universally. Full text freely available."
+    },
+    {
+      "title": "Joseph Henrich, Steven J. Heine, and Ara Norenzayan — 'The Weirdest People in the World?' (Behavioral and Brain Sciences, 2010)",
+      "url": "http://www2.psych.ubc.ca/~ara/media/WEIRDinScience.pdf",
+      "note": "Critique of psychology's reliance on WEIRD (Western, educated, industrialized, rich, democratic) samples. Argues that the fundamental attribution error is less 'fundamental' and more culturally specific than often assumed. Full text freely available."
+    },
+    {
+      "title": "Wikipedia — 'Fundamental attribution error'",
+      "url": "https://en.wikipedia.org/wiki/Fundamental_attribution_error",
+      "note": "Public encyclopedia article with overview of the concept, experiments, cultural differences, and critiques. Includes references to the empirical literature."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "fundamental attribution error",
+      "explain": "The tendency to over-attribute other people's behavior to stable internal dispositions (personality, character, attitudes) and to under-attribute behavior to external situational forces, even when the situational constraints are obvious. Coined by Lee Ross in 1977. Also called correspondence bias, though some researchers distinguish the two terms.",
+      "aliases": ["FAE", "fundamental error", "dispositional bias"]
+    },
+    {
+      "term": "correspondence bias",
+      "explain": "The tendency to infer that a person's behavior corresponds to their stable dispositions, even when the behavior is situationally constrained. Related to but not identical to the fundamental attribution error. Some researchers use the terms interchangeably; others distinguish them.",
+      "aliases": ["correspondent inference bias"]
+    },
+    {
+      "term": "disposition",
+      "explain": "A stable internal characteristic of a person, such as a personality trait, attitude, belief, value, or temperament. Dispositions are assumed to be consistent across situations and over time. The fundamental attribution error involves overestimating the role of dispositions in causing behavior.",
+      "aliases": ["dispositional factor", "dispositional attribution", "internal attribution", "trait"]
+    },
+    {
+      "term": "situational attribution",
+      "explain": "Explaining behavior by reference to external circumstances, constraints, pressures, roles, or context rather than to the actor's internal dispositions. The fundamental attribution error involves underestimating situational causes.",
+      "aliases": ["external attribution", "situational factor", "contextual attribution"]
+    },
+    {
+      "term": "Edward E. Jones",
+      "explain": "American social psychologist (1926–1993), professor at Duke University. With Keith Davis, developed correspondent inference theory (1965). With Victor Harris, conducted the Castro essay experiment (1967) that demonstrated correspondence bias. With Richard Nisbett, proposed the actor-observer asymmetry (1971).",
+      "aliases": ["Jones", "Edward Jones", "E. E. Jones"]
+    },
+    {
+      "term": "Victor A. Harris",
+      "explain": "Researcher who co-authored the 1967 Castro essay experiment with Edward Jones while at Duke University. The Jones and Harris study is one of the foundational demonstrations of the fundamental attribution error.",
+      "aliases": ["Harris", "Victor Harris"]
+    },
+    {
+      "term": "Castro essay experiment",
+      "explain": "Jones and Harris's 1967 study. Participants at Duke read essays supporting or opposing Fidel Castro. They estimated the writer's true attitude on a 10-to-70 scale. Even when told the essay position was assigned by the experimenter, readers inferred that the writer's real views matched the essay, though the effect was weaker than when the position was freely chosen.",
+      "aliases": ["Jones and Harris 1967", "Castro attitude experiment"]
+    },
+    {
+      "term": "Lee Ross",
+      "explain": "American social psychologist (born 1942), professor at Stanford University. Coined the term 'fundamental attribution error' in his 1977 chapter 'The Intuitive Psychologist and His Shortcomings.' Also known for work on the false consensus effect, naive realism, and conflict resolution.",
+      "aliases": ["Ross", "Lee D. Ross"]
+    },
+    {
+      "term": "The Intuitive Psychologist and His Shortcomings",
+      "explain": "Lee Ross's 1977 chapter in Advances in Experimental Social Psychology (vol. 10, ed. Leonard Berkowitz). Introduced the term 'fundamental attribution error' and reviewed evidence that people underestimate situational forces and overestimate dispositional consistency. One of the most cited articles in social psychology.",
+      "aliases": ["Ross 1977 chapter"]
+    },
+    {
+      "term": "Teresa M. Amabile",
+      "explain": "Psychologist and business researcher, professor at Harvard Business School. Co-author with Lee Ross and Julia Steinmetz of the 1977 quiz-game study demonstrating the fundamental attribution error. Also known for research on creativity and intrinsic motivation.",
+      "aliases": ["Amabile", "Teresa Amabile"]
+    },
+    {
+      "term": "Julia L. Steinmetz",
+      "explain": "Researcher who co-authored the 1977 quiz-game study with Lee Ross and Teresa Amabile. The study showed that randomly assigned questioners were rated as more knowledgeable than contestants.",
+      "aliases": ["Steinmetz", "Julia Steinmetz"]
+    },
+    {
+      "term": "quiz-game study",
+      "explain": "Ross, Amabile, and Steinmetz's 1977 experiment. Participants were randomly assigned to be questioners or contestants in a general-knowledge quiz. Questioners composed ten difficult questions; contestants attempted to answer. Contestants and observers rated questioners as more knowledgeable, failing to adjust for the role advantage. Published in the Journal of Personality and Social Psychology.",
+      "aliases": ["quiz game experiment", "Ross Amabile Steinmetz 1977"]
+    },
+    {
+      "term": "Daniel T. Gilbert",
+      "explain": "American social psychologist, professor at Harvard University. Known for research on affective forecasting, the correspondence bias, and the automatic/controlled processes underlying attribution. Co-authored the influential 1995 Psychological Bulletin review with Patrick Malone distinguishing behavioral and psychological constraints.",
+      "aliases": ["Gilbert", "Dan Gilbert"]
+    },
+    {
+      "term": "Patrick S. Malone",
+      "explain": "Psychologist who co-authored the 1995 correspondence bias review with Daniel Gilbert. The review identified four mechanisms: lack of awareness, unrealistic expectations, inflated categorizations, and incomplete correction.",
+      "aliases": ["Malone"]
+    },
+    {
+      "term": "behavioral constraint",
+      "explain": "In Gilbert and Malone's framework, a situational factor that directly limits what an actor can do by altering the actor's behavioral options or capacity. For example, physical restraint or a broken leg. Distinguished from psychological constraints, which change the actor's beliefs or motivations.",
+      "aliases": ["behavioral situational constraint"]
+    },
+    {
+      "term": "psychological constraint",
+      "explain": "In Gilbert and Malone's framework, a situational factor that affects behavior by changing the actor's beliefs, motivations, or perceived payoffs, not by physically limiting options. Social pressure, instructions, or incentives are psychological constraints. Observers must understand how the actor construes the situation to adjust for psychological constraints.",
+      "aliases": ["psychological situational constraint"]
+    },
+    {
+      "term": "lack of awareness",
+      "explain": "One of Gilbert and Malone's four mechanisms of correspondence bias. Observers may not be aware that situational constraints exist, or may not understand how the actor construes the situation. If you do not know about the constraint, you cannot adjust for it.",
+      "aliases": ["awareness failure"]
+    },
+    {
+      "term": "unrealistic expectations",
+      "explain": "One of Gilbert and Malone's four mechanisms. Observers may be aware of situational constraints but underestimate their strength or overestimate people's ability to resist them. For example, assuming someone could easily refuse a strong social pressure.",
+      "aliases": ["unrealistic expectation about constraints"]
+    },
+    {
+      "term": "inflated categorization",
+      "explain": "One of Gilbert and Malone's four mechanisms. Observers may categorize behavior in overly broad or dispositional terms, making situational explanations seem inadequate. For example, labeling someone 'cruel' rather than 'following orders.'",
+      "aliases": ["inflated categorizations"]
+    },
+    {
+      "term": "incomplete correction",
+      "explain": "One of Gilbert and Malone's four mechanisms. Observers may initially make a dispositional inference and then attempt to adjust for situational factors, but the adjustment is insufficient. This is common when cognitive resources are limited or the observer is not motivated to correct.",
+      "aliases": ["insufficient correction", "incomplete adjustment"]
+    },
+    {
+      "term": "actor-observer asymmetry",
+      "explain": "The hypothesis proposed by Jones and Nisbett (1971) that actors tend to attribute their own behavior to situational causes while observers attribute the same behavior to the actor's stable dispositions. Once considered robust, but a 2006 meta-analysis by Malle found weak and inconsistent support.",
+      "aliases": ["actor-observer effect", "actor-observer bias", "actor-observer hypothesis"]
+    },
+    {
+      "term": "Richard E. Nisbett",
+      "explain": "American social psychologist, professor at the University of Michigan. With Edward Jones, proposed the actor-observer asymmetry (1971). Also known for research on cultural psychology, causal attribution, and reasoning. Co-author of The Person and the Situation (1991) with Lee Ross.",
+      "aliases": ["Nisbett", "Richard Nisbett"]
+    },
+    {
+      "term": "Joan G. Miller",
+      "explain": "Cultural psychologist, professor at the University of Michigan (now at New School for Social Research). Published a 1984 study comparing Hindu Indian and American attribution patterns, showing that Americans made more dispositional attributions and Indians made more situational attributions. Early evidence that the fundamental attribution error is culturally variable.",
+      "aliases": ["Miller", "Joan Miller"]
+    },
+    {
+      "term": "Hazel R. Markus",
+      "explain": "Cultural psychologist, professor at Stanford University. With Shinobu Kitayama, published the influential 1991 paper proposing that Western cultures emphasize independent self-construals (defined by internal attributes) while many East Asian cultures emphasize interdependent self-construals (defined by relationships and context), shaping cognition, emotion, and attribution.",
+      "aliases": ["Markus", "Hazel Markus"]
+    },
+    {
+      "term": "Shinobu Kitayama",
+      "explain": "Cultural psychologist, professor at the University of Michigan. With Hazel Markus, proposed the independent/interdependent self-construal framework in 1991. Argued that cultural differences in self shape attribution patterns: independent selves emphasize traits, interdependent selves emphasize context.",
+      "aliases": ["Kitayama"]
+    },
+    {
+      "term": "independent self-construal",
+      "explain": "A view of the self as autonomous, unique, and defined by internal attributes such as preferences, abilities, and traits. Common in Western cultures, especially North America. Associated with dispositional attribution and the fundamental attribution error.",
+      "aliases": ["independent self", "individualist self"]
+    },
+    {
+      "term": "interdependent self-construal",
+      "explain": "A view of the self as connected to others, defined by relationships, roles, and social context. Common in many East Asian cultures. Associated with situational attribution and weaker fundamental attribution error. People with interdependent self-construals attend more to context and field.",
+      "aliases": ["interdependent self", "collectivist self"]
+    },
+    {
+      "term": "Michael W. Morris",
+      "explain": "Cultural psychologist, professor at Columbia Business School. With Kaiping Peng, published a 1994 study comparing American and Chinese newspaper accounts of mass murders. American accounts emphasized personal dispositions; Chinese accounts emphasized situational and social factors.",
+      "aliases": ["Morris", "Michael Morris"]
+    },
+    {
+      "term": "Kaiping Peng",
+      "explain": "Cultural psychologist, professor at Tsinghua University and UC Berkeley. With Michael Morris, studied cultural differences in attribution for social and physical events. Chinese participants made more situational attributions than Americans.",
+      "aliases": ["Peng"]
+    },
+    {
+      "term": "holistic thinking",
+      "explain": "A cognitive style that focuses attention on the field or context in which an object is located and ascribes causality by reference to relationships between the object and the field. Common in East Asian cultures. Associated with situational attribution and weaker fundamental attribution error.",
+      "aliases": ["holistic cognition", "holistic causal reasoning"]
+    },
+    {
+      "term": "analytic thinking",
+      "explain": "A cognitive style that focuses attention on objects, categorizes them by reference to their attributes, and ascribes causality based on rules about the object itself. Common in Western cultures. Associated with dispositional attribution and the fundamental attribution error.",
+      "aliases": ["analytic cognition", "analytic causal reasoning"]
+    },
+    {
+      "term": "Bertram F. Malle",
+      "explain": "Social psychologist, professor at Brown University. Published a 2006 meta-analysis of 173 studies on the actor-observer asymmetry, finding weak and inconsistent support. The average effect size was near zero, challenging the idea that the asymmetry is a robust, universal phenomenon.",
+      "aliases": ["Malle", "Bert Malle"]
+    },
+    {
+      "term": "WEIRD samples",
+      "explain": "Western, educated, industrialized, rich, and democratic populations. Joseph Henrich, Steven Heine, and Ara Norenzayan (2010) argued that psychology's reliance on WEIRD samples makes many findings, including the fundamental attribution error, less universal than often assumed. WEIRD people are outliers on many psychological measures.",
+      "aliases": ["WEIRD", "Western educated industrialized rich democratic"]
+    },
+    {
+      "term": "Joseph Henrich",
+      "explain": "Anthropologist, professor at Harvard University. Lead author of the 2010 paper 'The Weirdest People in the World?' arguing that psychology's reliance on WEIRD samples distorts our understanding of human psychology. The fundamental attribution error looks less fundamental outside Western cultures.",
+      "aliases": ["Henrich", "Joe Henrich"]
+    },
+    {
+      "term": "Steven J. Heine",
+      "explain": "Cultural psychologist, professor at the University of British Columbia. Co-author of the 2010 WEIRD critique. Studies cultural variation in self-concept, motivation, and social cognition.",
+      "aliases": ["Heine", "Steve Heine"]
+    },
+    {
+      "term": "Ara Norenzayan",
+      "explain": "Cultural psychologist, professor at the University of British Columbia. Co-author of the 2010 WEIRD critique. Studies cultural differences in reasoning, religion, and attribution.",
+      "aliases": ["Norenzayan"]
+    },
+    {
+      "term": "cognitive load",
+      "explain": "Mental effort or demand on working memory. When people are under cognitive load (e.g., remembering a number, time pressure), they are less able to engage in controlled, effortful processing. Studies show that cognitive load increases dispositional attribution in Western samples but not in East Asian samples, suggesting cultural differences in automatic versus controlled attribution processes.",
+      "aliases": ["mental load", "cognitive busyness"]
+    },
+    {
+      "term": "automatic process",
+      "explain": "A mental process that occurs without intention, effort, or awareness. In attribution, initial dispositional inferences may be automatic. Cultural differences in attribution may reflect differences in what is automatized: East Asians may automatically correct for situational factors, while Westerners may not.",
+      "aliases": ["automatic inference"]
+    },
+    {
+      "term": "controlled process",
+      "explain": "A mental process that requires intention, effort, and awareness. In attribution, adjusting dispositional inferences to account for situational factors is a controlled process. When cognitive resources are limited, controlled correction may not occur, leading to stronger correspondence bias.",
+      "aliases": ["controlled inference", "effortful processing"]
+    },
+    {
+      "term": "Fritz Heider",
+      "explain": "Austrian-American psychologist (1896–1988), founder of attribution theory. His 1958 book The Psychology of Interpersonal Relations noted that behavior tends to 'engulf the field' and that perceivers often underestimate situational context, foreshadowing the fundamental attribution error.",
+      "aliases": ["Heider"]
+    },
+    {
+      "term": "The Psychology of Interpersonal Relations",
+      "explain": "Fritz Heider's 1958 book introducing attribution theory. Heider observed that people often assign too little significance to the determining context of action and too much to the actor, a theme that became the fundamental attribution error.",
+      "aliases": ["Heider 1958"]
+    },
+    {
+      "term": "correspondent inference theory",
+      "explain": "Theory developed by Edward Jones and Keith Davis (1965) describing how people infer stable dispositions from observed behavior. Predicts that behavior freely chosen and low in social desirability leads to stronger dispositional inferences. Laid the groundwork for correspondence bias research.",
+      "aliases": ["correspondent inference"]
+    },
+    {
+      "term": "Keith E. Davis",
+      "explain": "Social psychologist who co-authored correspondent inference theory with Edward Jones in 1965. The theory describes conditions under which people infer dispositions from behavior.",
+      "aliases": ["Davis", "Keith Davis"]
+    },
+    {
+      "term": "Duke University",
+      "explain": "University in Durham, North Carolina. Edward Jones was a professor there and conducted the Castro essay experiment with Victor Harris in 1967.",
+      "aliases": ["Duke"]
+    },
+    {
+      "term": "Fidel Castro",
+      "explain": "Cuban revolutionary leader, Prime Minister (1959–1976) and President (1976–2008) of Cuba. In 1967, Castro was a controversial figure in the United States due to Cold War tensions. The Jones and Harris experiment used essays about Castro because American attitudes toward him were polarized and known.",
+      "aliases": ["Castro"]
+    },
+    {
+      "term": "Stanford University",
+      "explain": "University in California. Lee Ross is a professor there. The quiz-game study and much of the cultural attribution research was conducted at Stanford.",
+      "aliases": ["Stanford"]
+    },
+    {
+      "term": "Journal of Experimental Social Psychology",
+      "explain": "Academic journal that published Jones and Harris's Castro essay experiment in 1967.",
+      "aliases": ["JESP"]
+    },
+    {
+      "term": "Journal of Personality and Social Psychology",
+      "explain": "Major academic journal in social psychology. Published Ross, Amabile, and Steinmetz's quiz-game study in 1977, Joan Miller's cultural comparison in 1984, and many other attribution studies.",
+      "aliases": ["JPSP"]
+    },
+    {
+      "term": "Psychological Bulletin",
+      "explain": "Major review journal in psychology. Published Gilbert and Malone's correspondence bias review in 1995 and Malle's actor-observer meta-analysis in 2006.",
+      "aliases": ["Psych Bulletin"]
+    },
+    {
+      "term": "Psychological Review",
+      "explain": "Major theoretical journal in psychology. Published Markus and Kitayama's 1991 paper on culture and the self.",
+      "aliases": ["Psych Review"]
+    },
+    {
+      "term": "Advances in Experimental Social Psychology",
+      "explain": "Academic book series publishing review and theoretical chapters. Lee Ross's 1977 chapter coining 'fundamental attribution error' appeared in volume 10, edited by Leonard Berkowitz.",
+      "aliases": ["AESP"]
+    },
+    {
+      "term": "Behavioral and Brain Sciences",
+      "explain": "Journal that publishes target articles with peer commentaries. Henrich, Heine, and Norenzayan's 2010 WEIRD critique appeared here.",
+      "aliases": ["BBS"]
+    },
+    {
+      "term": "false consensus effect",
+      "explain": "The tendency to overestimate the extent to which others share one's beliefs, attitudes, and behaviors. Studied by Lee Ross and colleagues. Related to attribution biases: we assume others are like us, so we attribute their different behavior to dispositions rather than different situations.",
+      "aliases": ["false consensus"]
+    },
+    {
+      "term": "naive realism",
+      "explain": "The belief that one's own perceptions of reality are objective and accurate, while others who disagree are biased, uninformed, or irrational. Studied by Lee Ross. Related to the fundamental attribution error: if I see the situation clearly and you act differently, it must be your disposition.",
+      "aliases": ["naive realism bias"]
+    },
+    {
+      "term": "situational overcorrection",
+      "explain": "The tendency to over-attribute behavior to external circumstances and under-attribute to dispositions, the opposite of the fundamental attribution error. Some researchers argue that situational overcorrection can also be an error, especially in individualist contexts where people sometimes discount personal responsibility. Less studied than dispositional bias.",
+      "aliases": ["over-situational attribution"]
+    },
+    {
+      "term": "lab artificiality",
+      "explain": "The concern that laboratory experiments may not generalize to real-world settings. Critics of the fundamental attribution error research note that reading essays or watching quiz games may exaggerate the error. However, the error has also been found in naturalistic settings like newspaper articles.",
+      "aliases": ["ecological validity"]
+    },
+    {
+      "term": "cultural priming",
+      "explain": "Experimental technique where participants are exposed to cultural symbols or concepts (e.g., American flag, Chinese characters) to temporarily activate cultural mindsets. Studies show that priming individualist or collectivist concepts can shift attribution patterns, demonstrating the cultural flexibility of the fundamental attribution error.",
+      "aliases": ["cultural prime"]
+    },
+    {
+      "term": "ultimate attribution error",
+      "explain": "Thomas Pettigrew's (1979) extension of the fundamental attribution error to intergroup contexts. The tendency to attribute negative behavior by outgroup members to stable dispositions and positive behavior to situational factors, while doing the opposite for ingroup members. Related to stereotyping and prejudice.",
+      "aliases": ["ultimate error"]
+    },
+    {
+      "term": "Thomas F. Pettigrew",
+      "explain": "Social psychologist who proposed the ultimate attribution error in 1979, applying attribution bias to intergroup relations and prejudice. Showed how dispositional bias interacts with ingroup/outgroup categorization.",
+      "aliases": ["Pettigrew"]
+    },
+    {
+      "term": "self-serving bias",
+      "explain": "The tendency to attribute one's successes to internal factors (ability, effort) and one's failures to external factors (bad luck, task difficulty). Related to the actor-observer asymmetry and the fundamental attribution error. Reflects motivational as well as cognitive factors.",
+      "aliases": ["self-serving attribution"]
+    },
+    {
+      "term": "confirmation bias",
+      "explain": "The tendency to seek, interpret, and remember information in ways that confirm one's preexisting beliefs. Related to the fundamental attribution error: once we infer a disposition, we interpret subsequent behavior as confirming it, even when situational explanations are available.",
+      "aliases": ["confirmatory bias"]
+    },
+    {
+      "term": "attribution theory",
+      "explain": "A framework in social psychology concerned with how people explain the causes of behavior and events. Originated by Fritz Heider (1958) and developed by Harold Kelley, Bernard Weiner, Edward Jones, and others. The fundamental attribution error is a central finding in attribution research.",
+      "aliases": ["attribution framework"]
+    },
+    {
+      "term": "covariation model",
+      "explain": "Harold Kelley's (1967) model proposing that people attribute behavior to the cause with which it covaries. Observers consider consensus (do others act this way?), distinctiveness (does the actor act this way in other situations?), and consistency (has the actor acted this way before?). Rational model; the fundamental attribution error shows people often do not follow it.",
+      "aliases": ["Kelley's covariation model"]
+    },
+    {
+      "term": "Harold H. Kelley",
+      "explain": "Social psychologist (1921–2003) who developed the covariation model of attribution (1967). Showed how people use information about consensus, distinctiveness, and consistency to infer causes. The fundamental attribution error represents a departure from Kelley's rational model.",
+      "aliases": ["Kelley", "Harold Kelley"]
+    },
+    {
+      "term": "stability",
+      "explain": "In attribution theory, whether a cause is stable (constant over time) or unstable (temporary). Dispositional attributions assume stability: the person has an enduring trait. The fundamental attribution error involves overestimating the stability of the causes of behavior.",
+      "aliases": ["stable attribution"]
+    },
+    {
+      "term": "globality",
+      "explain": "In attribution theory, whether a cause is global (applies across many situations) or specific (applies only to this situation). Dispositional attributions assume globality: the person will act this way in other contexts. The fundamental attribution error involves overestimating globality.",
+      "aliases": ["global attribution"]
+    },
+    {
+      "term": "locus of causality",
+      "explain": "In attribution theory, whether a cause is internal (inside the person) or external (outside the person, in the situation). The fundamental attribution error involves overestimating internal locus and underestimating external locus for others' behavior.",
+      "aliases": ["locus", "internal versus external"]
+    },
+    {
+      "term": "collectivism",
+      "explain": "Cultural value system emphasizing the group, social harmony, interdependence, and duty to others. Common in many East Asian, South Asian, African, and Latin American cultures. Associated with weaker fundamental attribution error and more situational attribution.",
+      "aliases": ["collectivist culture"]
+    },
+    {
+      "term": "individualism",
+      "explain": "Cultural value system emphasizing the individual, autonomy, personal achievement, and self-expression. Common in Western cultures, especially North America. Associated with stronger fundamental attribution error and more dispositional attribution.",
+      "aliases": ["individualist culture"]
+    },
+    {
+      "term": "East Asia",
+      "explain": "Geographic and cultural region including China, Japan, Korea, Taiwan, Hong Kong, and other areas. Cultural psychology research shows East Asian samples generally make weaker dispositional attributions and stronger situational attributions than Western samples.",
+      "aliases": ["East Asian cultures"]
+    },
+    {
+      "term": "Milgram obedience experiments",
+      "explain": "Stanley Milgram's studies (1961–1963) showing that people will administer apparently dangerous electric shocks to a stranger when ordered by an authority figure. Often cited as evidence for the power of situational forces. Observers who predict behavior in the Milgram situation tend to underestimate obedience, committing the fundamental attribution error.",
+      "aliases": ["Milgram experiments", "Milgram obedience"]
+    },
+    {
+      "term": "Asch conformity experiments",
+      "explain": "Solomon Asch's studies (1951–1956) showing that people conform to group judgments even when the group is clearly wrong. Demonstrates the power of situational pressure. Related to the fundamental attribution error: observers often underestimate how much people will conform.",
+      "aliases": ["Asch conformity", "Asch line judgment"]
+    },
+    {
+      "term": "stereotype threat",
+      "explain": "The risk of confirming a negative stereotype about one's group, which can undermine performance. Studied by Claude Steele and Joshua Aronson. Related to the fundamental attribution error: observers may attribute underperformance to stable ability rather than to the situational predicament of stereotype threat.",
+      "aliases": ["stereotype threat effect"]
+    },
+    {
+      "term": "groupthink",
+      "explain": "Irving Janis's concept (1972) of a mode of thinking in cohesive groups where the desire for unanimity overrides realistic appraisal of alternatives, leading to flawed decisions. Related to the fundamental attribution error: when analyzing group failures, observers may attribute the outcome to group members' dispositions (stupidity, incompetence) rather than to the situational dynamics of groupthink.",
+      "aliases": ["groupthink phenomenon"]
+    }
+  ],
+  "fun_fact": {
+    "title": "Edward Jones said he was angry he didn't think of 'fundamental attribution error' first",
+    "text": "When Lee Ross coined the phrase 'fundamental attribution error' in 1977 to describe the pattern Jones and Harris had demonstrated ten years earlier, Jones wrote that he found Ross's phrase 'overly provocative and somewhat misleading.' But he also admitted, with humor: 'Furthermore, I'm angry that I didn't think of it first.' The term stuck. It became one of the most widely known concepts in social psychology, taught in nearly every introductory textbook. Jones preferred the more neutral 'correspondence bias,' which described the inference from behavior to disposition without the strong claim that the inference was always an error. The debate over whether the bias is truly 'fundamental' continues. Ross argued it is the bedrock of social psychology; critics argue it is culturally variable and not universal. But even Jones, who had reservations, could not deny the rhetorical power of the phrase."
+  },
+  "sections": [
+    {
+      "id": "concept",
+      "kicker": "The concept",
+      "title": "What the fundamental attribution error means: the tendency to explain other people's behavior by their dispositions and to underestimate situational forces",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The fundamental attribution error is the tendency to over-attribute other people's behavior to their stable internal dispositions — their personality, character, attitudes, or inherent qualities — and to under-attribute behavior to external situational forces, even when the situational constraints are obvious and powerful. When we see someone act, we are inclined to explain the action by saying 'that is the kind of person they are' rather than 'that is the kind of situation they are in.' The error is not that dispositional explanations are always wrong. People do have personalities, attitudes, and stable traits. The error is that we overestimate the consistency and causal power of dispositions and underestimate how much situations shape behavior. We see the person; we do not see the situation pressing on them. The behavior engulfs the field, in Fritz Heider's phrase, and we mistake the visible actor for the deeper cause."
+        },
+        {
+          "type": "p",
+          "text": "Lee Ross coined the term 'fundamental attribution error' in 1977 in a chapter titled 'The Intuitive Psychologist and His Shortcomings' in the book series Advances in Experimental Social Psychology. Ross reviewed a decade of research showing that people routinely draw dispositional inferences from behavior even when the behavior was clearly produced by situational demands. He called the error fundamental for two reasons. First, it is pervasive: it appears in many contexts, with many kinds of behavior, across diverse samples. Second, it is conceptually foundational to social psychology. If we want to understand how people perceive one another, form impressions, make judgments, and act on those judgments, we must understand that their perceptions are systematically biased toward dispositional explanations. The tendency is not a quirk or a marginal effect. It is, Ross argued, the bedrock of person perception, and it has profound consequences for social life."
+        },
+        {
+          "type": "p",
+          "text": "The term is sometimes used interchangeably with correspondence bias, though some researchers distinguish them. Correspondence bias refers to the tendency to infer that a person's behavior corresponds to their stable dispositions, even when the behavior is situationally constrained. The fundamental attribution error emphasizes the underweighting of situational causes relative to dispositional causes. The two concepts overlap but are not identical. Both describe the same basic pattern: we attribute too much to the person, too little to the situation. The fundamental attribution error is the more provocative and memorable label, and it is the one that entered textbooks and popular usage. Edward Jones, who conducted the foundational experiments demonstrating the bias, later said he found Ross's term 'overly provocative and somewhat misleading,' but he also joked that he was angry he hadn't thought of it first."
+        }
+      ]
+    },
+    {
+      "id": "castro-essay",
+      "kicker": "The case study",
+      "title": "Jones and Harris's 1967 Castro essay experiment: readers inferred the writer's true attitude even when the essay position was assigned",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The most famous demonstration of the fundamental attribution error is Edward Jones and Victor Harris's 1967 study, published in the Journal of Experimental Social Psychology. The study was simple. Participants at Duke University read essays either supporting or opposing Fidel Castro, who in 1967 was a polarizing figure in the United States due to Cold War tensions and the recent Bay of Pigs invasion and Cuban Missile Crisis. After reading an essay, participants were asked to estimate the writer's true attitude toward Castro on a scale from ten (extremely anti-Castro) to seventy (extremely pro-Castro). The experimental manipulation was whether the essay writer had chosen the position freely or had been assigned the position by the experimenter. In the free-choice condition, participants were told the writer chose which side to argue. In the no-choice condition, participants were told the experimenter assigned the position, so the writer had no choice."
+        },
+        {
+          "type": "p",
+          "text": "When the essay position was freely chosen, the results were unsurprising. Participants rated pro-Castro essay writers at 59.6 on the seventy-point scale and anti-Castro essay writers at 17.4. If someone freely chose to write in favor of Castro, readers inferred the writer supported Castro. If someone freely chose to argue against Castro, readers inferred the writer opposed Castro. Behavior corresponded to attitude, and the inference made sense. The striking result came in the no-choice condition. Even when participants were explicitly told that the essay writer had been assigned the position by the experimenter and had no choice about which side to argue, readers still made correspondent inferences. Pro-Castro essays led to an average rating of 44.1; anti-Castro essays led to an average rating of 22.9. The difference was smaller than in the free-choice condition, showing that participants did take the situational constraint into account. But the difference was still statistically significant and large. Knowing that the writer had no choice did not eliminate the inference that the writer's true attitude matched the essay."
+        },
+        {
+          "type": "p",
+          "text": "This was not what Jones and Harris originally predicted. They expected that in the no-choice condition, participants would recognize the situational constraint and not draw correspondent inferences. The experiment was designed to confirm the obvious: when behavior is clearly forced by the situation, people do not attribute it to the actor's disposition. The prediction was, in Daniel Gilbert's later words, 'timid, the results were a foregone conclusion, and the experiment didn't work.' It didn't work because participants did make correspondent inferences even when they knew the behavior was constrained. The finding was surprising, and it was replicated many times. The pattern became known as correspondence bias or the fundamental attribution error. Even when the situation is obvious and powerful, we see the behavior and infer the disposition. We know the writer was told what to say, but we still think the essay reveals something about what the writer really believes."
+        }
+      ]
+    },
+    {
+      "id": "quiz-game",
+      "kicker": "The mechanism",
+      "title": "Ross, Amabile, and Steinmetz's 1977 quiz-game study: randomly assigned questioners were rated as more knowledgeable, despite the obvious role advantage",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lee Ross, Teresa Amabile, and Julia Steinmetz extended the fundamental attribution error beyond attitude inference in a 1977 study published in the Journal of Personality and Social Psychology. The study was designed to show that people fail to make adequate allowance for the biasing effects of social roles on performance. Participants were randomly assigned to one of two roles in a general-knowledge quiz game: questioner or contestant. The questioner's job was to compose ten challenging general-knowledge questions drawn from their own personal store of knowledge. The contestant's job was to try to answer the questions. After the quiz, both the questioner and the contestant rated each other's general knowledge, and in a follow-up experiment, observers who watched the quiz also made ratings."
+        },
+        {
+          "type": "p",
+          "text": "The role advantage was neither subtle nor disguised. Questioners were explicitly allowed and encouraged to display their own wealth of knowledge by asking difficult and esoteric questions. They could ask about obscure historical facts, rare words, or details from their own hobbies and travels. Contestants were in a purely reactive position. They had no control over which domains of knowledge were tested. A contestant who knew a great deal about music but little about geography would be at a severe disadvantage if the questioner happened to ask about geography. The role assignment was made by random draw in front of the participants, so everyone knew it was arbitrary. Despite all of this, contestants consistently rated questioners as having superior general knowledge. In the first experiment, contestants rated questioners at about 66 on a 100-point scale and themselves at about 50. Questioners showed some awareness of the role advantage, rating themselves only slightly above contestants, but they did not fully correct for it. In a second experiment, observers who watched a reenactment of the quiz rated questioners even more highly than contestants did."
+        },
+        {
+          "type": "p",
+          "text": "The quiz-game study demonstrated the fundamental attribution error in a domain where the situational constraint was transparent: the questioner role confers a self-presentation advantage. The questioner gets to showcase their knowledge by selecting favorable questions. The contestant is handicapped by having to answer questions in areas where the questioner is strong and the contestant may be weak. But observers, including the contestants themselves, did not adequately adjust their judgments of ability to account for the role. They saw the questioner answer zero questions (because questioners did not answer their own questions) and ask ten difficult questions, while the contestant answered perhaps three or four correctly. The impression was that the questioner knew more. The disposition inferred from the performance did not take full account of the situation that produced the performance. Ross, Amabile, and Steinmetz argued that this failure to correct for role advantages has implications beyond the lab. In real social hierarchies, people in powerful roles have more opportunities to display competence, set agendas, and avoid tests in domains where they are weak. Observers may attribute the resulting performance differences to ability rather than to the structural advantages of the role."
+        }
+      ]
+    },
+    {
+      "id": "mechanisms",
+      "kicker": "How it works",
+      "title": "Gilbert and Malone's four mechanisms: lack of awareness, unrealistic expectations, inflated categorizations, and incomplete correction",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Why do people commit the fundamental attribution error? In 1995, Daniel Gilbert and Patrick Malone published a comprehensive review in Psychological Bulletin identifying four mechanisms. The first is lack of awareness of situational constraints. If you do not know that a constraint exists, you cannot adjust for it. Sometimes the constraint is hidden. You see someone yell at a cashier and infer they are rude, not knowing that the cashier just refused to honor a valid coupon. Sometimes the constraint is visible but not salient. You watch a debate and forget that debaters are assigned positions. The person is in the foreground; the situation is in the background. Attention goes to the actor, and the constraint is overlooked. Gilbert and Malone distinguished between behavioral constraints, which directly limit what an actor can do (like physical restraint or a broken leg), and psychological constraints, which change the actor's beliefs, motivations, or perceived payoffs (like social pressure or instructions). Psychological constraints require that the observer understand how the actor construes the situation. If you see someone write a pro-Castro essay and you do not realize they were assigned the position, you will attribute the essay to their true beliefs. But even if you know they were assigned the position, you might still not understand how strongly the instruction constrained them if you underestimate the power of experimenter authority or the awkwardness of refusing."
+        },
+        {
+          "type": "p",
+          "text": "The second mechanism is unrealistic expectations about behavior under constraints. Even if observers are aware of a situational constraint, they may underestimate its strength or overestimate people's ability to resist it. In the Castro essay experiment, participants knew the writer was assigned a position, but they may have thought: 'If I were assigned to write a pro-Castro essay, I would write it weakly or include subtle criticisms. The fact that this writer wrote a strong, persuasive pro-Castro essay means they must actually support Castro.' This is unrealistic because it assumes the writer could easily resist the experimenter's instruction. In fact, most people in lab experiments are compliant and motivated to do the task well. The writer may have written a strong essay not because they believed it but because they were trying to be a good participant. Observers fail to appreciate how difficult it is to resist even mild social pressure. This is related to the Milgram obedience studies, where observers who are asked to predict how many people will administer dangerous shocks vastly underestimate the obedience rate. They think, 'I would stop,' and assume others would too, not understanding how powerful the situational forces are in the moment."
+        },
+        {
+          "type": "p",
+          "text": "The third mechanism is inflated categorizations of behavior. Observers may describe behavior in overly broad, abstract, or dispositional terms, which makes situational explanations seem inadequate. Suppose you see someone comply with an authority figure's request. You could describe the behavior narrowly: 'She followed the experimenter's instruction.' Or you could describe it broadly: 'She is obedient.' The narrow description is situational; the broad description is dispositional. Once you label the person 'obedient,' you have inferred a trait, and the situational explanation seems incomplete. Gilbert and Malone argued that the language we use to categorize behavior shapes the inferences we draw. Dispositional language feels natural and explanatory; situational language feels like a cop-out. This is partly a cultural and linguistic issue. English and other Indo-European languages have rich vocabularies for personality traits and thin vocabularies for situational causes. We have words like 'aggressive,' 'kind,' 'lazy,' 'intelligent,' but fewer compact terms for 'behaving this way because of social pressure in a hierarchical setting.' The inflated categorization makes the trait feel real and the situation feel secondary."
+        },
+        {
+          "type": "p",
+          "text": "The fourth mechanism is incomplete correction. This is the idea that people may initially make a dispositional inference automatically and spontaneously, and then attempt to adjust or correct that inference to take situational factors into account, but the adjustment is insufficient. The correction process requires cognitive effort and motivation. If you are busy, distracted, or simply not motivated to be accurate, you may stop adjusting before you reach the situationally appropriate conclusion. For example, you see someone give a pro-Castro speech. Your initial, automatic inference is: 'This person supports Castro.' Then you remember they were assigned the position. You adjust downward: 'Maybe they don't support Castro as much as the speech suggests.' But the adjustment does not go all the way to 'The speech tells me nothing about their true attitude.' The correction is incomplete, and you are left with a residual dispositional inference. Evidence for incomplete correction comes from studies where participants under cognitive load (e.g., remembering a number, time pressure) show stronger correspondence bias than participants not under load. When cognitive resources are taxed, the correction process is disrupted, and the automatic dispositional inference persists."
+        }
+      ]
+    },
+    {
+      "id": "actor-observer",
+      "kicker": "Self versus other",
+      "title": "The actor-observer asymmetry: we attribute our own behavior to situations, others' behavior to dispositions — or do we?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Edward Jones and Richard Nisbett proposed in 1971 that there is an asymmetry in attribution depending on whether you are the actor or the observer. Actors tend to attribute their own behavior to situational causes: 'I was late because traffic was bad.' Observers tend to attribute the same behavior to the actor's stable dispositions: 'You were late because you are disorganized.' The hypothesis made intuitive sense. As the actor, you have direct access to your own thoughts, feelings, and the situational pressures you are responding to. You know you are late because of traffic, not because of a character flaw. As the observer, you do not have that inside view. You see the behavior — the person arrived late — and you infer a trait. The actor-observer asymmetry was presented as a robust, pervasive phenomenon, closely related to the fundamental attribution error. If the fundamental attribution error is about overestimating dispositions for others, the actor-observer asymmetry says we do not make the same mistake for ourselves. We see our own behavior as situationally flexible and others' behavior as dispositionally driven."
+        },
+        {
+          "type": "p",
+          "text": "For decades, the actor-observer asymmetry was taught as an established finding. It appeared in textbooks, was cited in hundreds of studies, and was invoked to explain phenomena from conflicts to stereotypes. If two people disagree, each sees the other as biased or stubborn (a disposition) while seeing their own position as a reasonable response to the facts (a situation). The asymmetry seemed fundamental. But in 2006, Bertram Malle published a meta-analysis of 173 studies on the actor-observer effect, and the results were surprising. The average effect size was near zero. Across all the studies, there was no consistent difference between actors' and observers' attributions. The asymmetry appeared only under specific conditions: when the actor was portrayed as highly idiosyncratic, when hypothetical events were explained, when actor and observer were intimates, or when free-response explanations were coded (rather than rating scales). And there was a valence effect: the asymmetry held for negative events (actors blamed the situation for failures; observers blamed the actor) but reversed for positive events (actors took credit for success; observers gave credit to the situation). This pattern suggested a self-serving bias rather than a general actor-observer asymmetry."
+        },
+        {
+          "type": "p",
+          "text": "The meta-analysis did not prove the actor-observer asymmetry never occurs. It showed that the effect is much weaker, more conditional, and less universal than originally claimed. The finding has implications for the fundamental attribution error. If we do not consistently attribute our own behavior to situations, then the fundamental attribution error is not simply 'we see others dispositionally but ourselves situationally.' It is more like: we attribute behavior — both our own and others' — to salient causes, and for an observer watching someone else, the person is salient and the situation is background. The error is partly about perceptual salience, partly about lack of information, and partly about cultural theories of behavior. The actor-observer asymmetry was once thought to be a robust, universal pattern. Now it is understood as a modest, context-dependent effect. The fundamental attribution error remains well-supported, but its relationship to self-other differences is more complicated than Jones and Nisbett imagined."
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "kicker": "Cultural differences",
+      "title": "Joan Miller, Markus and Kitayama, and the finding that the fundamental attribution error is weaker in East Asian and collectivist cultures",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "If the fundamental attribution error is fundamental, it should appear across all cultures and populations. But in the 1980s and 1990s, cultural psychologists began finding evidence that the error is not universal. Joan Miller published a study in 1984 comparing Hindu Indian and American children and adults. Participants were asked to explain two prosocial behaviors and two deviant behaviors. Americans, especially older Americans, made greater reference to general dispositions (e.g., 'He helped because he is kind') and less reference to contextual factors (e.g., 'He helped because his friend needed it and no one else was around'). Hindus showed the opposite pattern: they made more contextual attributions and fewer dispositional attributions, and this tendency increased with age. Miller argued that these differences reflected culturally acquired conceptions of the person rather than differences in cognitive ability, experience, or information. American culture emphasizes individual autonomy, personal responsibility, and stable traits. Hindu culture, shaped by traditions emphasizing duty, social role, and relational context, encourages explanations that situate behavior in a web of obligations and circumstances."
+        },
+        {
+          "type": "p",
+          "text": "Hazel Markus and Shinobu Kitayama provided a theoretical framework for these cultural differences in their influential 1991 paper in Psychological Review. They proposed that cultures differ in how people construe the self. In many Western cultures, especially North America, the self is construed as independent: autonomous, unique, and defined by internal attributes such as preferences, abilities, and traits. In many East Asian cultures, including Japan, China, and Korea, the self is construed as interdependent: connected to others, defined by relationships and roles, and embedded in social context. These different self-construals shape cognition, emotion, and motivation. An independent self seeks to express and affirm unique qualities, and so it focuses on the actor's internal attributes when explaining behavior. An interdependent self seeks to fit in and harmonize with others, and so it attends to context, relationships, and the field in which behavior occurs. Markus and Kitayama predicted that people with interdependent self-construals would make fewer dispositional attributions and more situational attributions. The fundamental attribution error would be weaker or absent."
+        },
+        {
+          "type": "p",
+          "text": "Subsequent research supported these predictions. Michael Morris and Kaiping Peng published a study in 1994 comparing American and Chinese newspaper accounts of mass murders. American newspapers emphasized the murderer's personal characteristics, history of mental illness, or aggressive personality. Chinese newspapers emphasized social pressures, recent setbacks, or conflicts with others. The same crime was explained dispositionally in American media and situationally in Chinese media. Other studies found that East Asian participants (Chinese, Japanese, Korean, Hong Kong) made more situational attributions than American participants in lab experiments replicating the Jones and Harris paradigm. The effect was not that East Asians never made dispositional inferences; they did. But they also spontaneously considered situational factors more often and weighted them more heavily. Some studies found that under cognitive load, East Asian participants still corrected for situational constraints, whereas American participants did not. This suggested that for East Asians, situational correction is more automatic or deeply ingrained, while for Americans, it requires effortful processing."
+        },
+        {
+          "type": "p",
+          "text": "The cultural differences are real, but they are not absolute. Cultural priming studies show that the same person can shift attribution patterns depending on which cultural mindset is activated. Hong Kong bilingual participants attributed behavior more dispositionally when primed with American symbols or when responding in English, and more situationally when primed with Chinese symbols or responding in Chinese. This suggests that cultural differences in attribution are not fixed in a single worldview but are flexible, learned patterns that can be activated or suppressed. The fundamental attribution error is better understood as a tendency that varies in strength across cultures, contexts, and individuals. It is stronger in individualist, independent-self cultures and weaker in collectivist, interdependent-self cultures. It is moderated by factors like the salience of situational information, the observer's cognitive load, the target's group membership, and the observer's motivation for accuracy. The error is not a universal law of human cognition. It is a culturally shaped bias."
+        }
+      ]
+    },
+    {
+      "id": "critiques",
+      "kicker": "Critiques and debates",
+      "title": "Is the error truly fundamental? Lab artificiality, WEIRD samples, and whether situational attributions can also be errors",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Edward Jones, the researcher who first demonstrated correspondence bias, said he found Lee Ross's term 'fundamental attribution error' to be 'overly provocative and somewhat misleading.' Jones preferred the more neutral 'correspondence bias,' which described the inference from behavior to disposition without claiming the inference was always an error. The word 'fundamental' implies that the bias is universal, pervasive, and central to human social cognition. But is it? Critics have pointed to several limitations. First, the classic studies were conducted in laboratory settings with artificial tasks: reading essays, watching quiz games, judging hypothetical scenarios. Do these findings generalize to real-world social perception? Some research suggests yes: the error has been found in naturalistic settings like newspaper articles, interview judgments, and legal decisions. But the lab tasks may exaggerate the effect by stripping away contextual information that would be available in everyday life."
+        },
+        {
+          "type": "p",
+          "text": "Second, the fundamental attribution error research has relied heavily on WEIRD samples: Western, educated, industrialized, rich, and democratic populations, mostly American college students. Joseph Henrich, Steven Heine, and Ara Norenzayan argued in a widely cited 2010 paper that WEIRD people are psychological outliers. On many measures, including visual perception, moral reasoning, and causal attribution, WEIRD samples differ not only from non-WEIRD samples but are extreme. The fundamental attribution error looks less fundamental when you leave Western, independent-self cultures. In India, China, Japan, Korea, and other interdependent-self cultures, dispositional bias is weaker and situational attribution is stronger. This does not mean the error never occurs in those cultures, but it does mean that calling it 'fundamental' overstates its universality. A bias that is strong in one cultural context and weak in another is not a fundamental feature of human cognition; it is a culturally variable pattern."
+        },
+        {
+          "type": "p",
+          "text": "Third, some researchers have asked: can situational attributions also be errors? The fundamental attribution error assumes that dispositional attributions are often wrong and situational attributions are often right. But in some cases, behavior really does reflect stable traits, and over-attributing to the situation would be a mistake. For example, if someone consistently helps others across many situations, it is reasonable to infer they are kind, not that they happen to be in helping-conducive situations every time. If an observer attributes all behavior to situations and none to dispositions, that observer is missing real patterns of personality. The error, then, might not be dispositional bias per se but a failure to weigh dispositional and situational factors appropriately. In individualist cultures, the bias is toward dispositions. In collectivist cultures, there may be some contexts where the bias is toward situations. Calling one an error and the other correct is a value judgment that depends on which cultural model of behavior you accept."
+        },
+        {
+          "type": "p",
+          "text": "Finally, there is the question of whether the correspondence bias reflects a cognitive shortcut that is usually adaptive. Gilbert and Malone suggested that dispositional inferences are automatic and fast, while situational corrections require effort. If we had to consciously analyze every situational constraint before drawing any conclusion about a person, social perception would be impossibly slow. The automatic dispositional inference is a heuristic: it is often good enough, and it saves mental resources. The error occurs when we fail to correct in cases where the heuristic misleads us. But the heuristic itself is not irrational. It reflects the fact that in many everyday contexts, behavior is somewhat diagnostic of disposition. You meet someone who is friendly at a party, and it is reasonable to infer they are a friendly person, even though you know the party context encourages friendliness. The inference might be wrong, but it is not a glaring cognitive failure. The fundamental attribution error is real and consequential, but it is not proof of human irrationality. It is a bias that emerges from the interaction of automatic inference processes, cultural theories of behavior, cognitive load, and the structure of social perception."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "When you see someone act in a way that surprises you, disappoints you, or offends you — arriving late, snapping at a colleague, failing to meet a commitment — do you first think about what kind of person they are, or do you first think about what kind of situation they might be in? And if your first thought is about their character, have you paused to ask yourself whether you would act differently in the same situation, with the same pressures, information, and constraints? The lesson of the fundamental attribution error is not that dispositions do not matter, but that we are too quick to see dispositions and too slow to see situations, and that imbalance has consequences for how we judge, trust, and treat one another."
+        }
+      ]
+    }
+  ]
+}
