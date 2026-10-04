@@ -12,7 +12,7 @@
   "dek": "How Mariarosa Dalla Costa, Selma James, Silvia Federici, and Brigitte Galtier founded the International Wages for Housework Campaign in Padua in 1972, arguing that unwaged housework is productive labor essential to capitalism; how the campaign spread through New York, London, Toronto, and Italian groups including Black Women for Wages for Housework and Wages Due Lesbians; how Marxist feminists debated whether wages would entrench the gendered division of labor or reveal women's hidden exploitation; and how the analysis resurfaced in social reproduction theory, care-work debates, and calls for basic income from the 2000s onward.",
   "era": "International Feminist Collective founded 1972 in Padua; Dalla Costa and James's The Power of Women and the Subversion of the Community 1972; Wages for Housework groups active 1972–1977; Federici's Wages Against Housework 1975; domestic labour debate 1970s; Iceland women's day off 24 October 1975; Angela Davis's Women, Race & Class critique 1981; Global Women's Strike from 2000; social reproduction theory 2010s",
   "reading_minutes": 28,
-  "honesty": "This lesson treats Wages for Housework as a specific historical campaign with dated organizations, texts, and debates, not as a settled demand that feminists agreed upon. The core arc follows the 1972 founding in Padua by Mariarosa Dalla Costa, Selma James, Silvia Federici, and Brigitte Galtier; the publication of Dalla Costa and James's The Power of Women and the Subversion of the Community (1972); Federici's Wages Against Housework pamphlet (1975); the formation of groups in New York, London (Power of Women Collective), Toronto, and Italy; the emergence of Black Women for Wages for Housework (led by Wilmette Brown) and Wages Due Lesbians; and the domestic labour debate among Marxist feminists who worried that wages would cement rather than challenge the gendered division of labor. Angela Davis's Women, Race & Class (1981) critiqued the campaign for potentially reinforcing women's confinement to the home. The Elsewhere section covers the Icelandic women's day off on 24 October 1975, when approximately 90% of Icelandic women stopped paid and unpaid work, and the UN International Women's Year 1975 conference in Mexico City—contemporaneous global actions on women's labor. The After section traces how the analysis resurfaced in Federici's Caliban and the Witch (2004), in social reproduction theory debates from the 2010s, in care-work scholarship, and in basic income proposals. Related links point to second-wave feminism, care ethics, standpoint theory, and intersectionality lessons already in the capsules collection.",
+  "honesty": "This lesson treats Wages for Housework as a specific historical campaign with dated organizations, texts, and debates, not as a settled demand that feminists agreed upon. The core arc follows the 1972 founding in Padua by Mariarosa Dalla Costa, Selma James, Silvia Federici, and Brigitte Galtier; the publication of Dalla Costa and James's The Power of Women and the Subversion of the Community (1972); Federici's Wages Against Housework pamphlet (1975); the formation of groups in New York, London (Power of Women Collective), Toronto, and Italy; the emergence of Black Women for Wages for Housework (co-founded by Margaret Prescod and Wilmette Brown) and Wages Due Lesbians; and the domestic labour debate among Marxist feminists who worried that wages would cement rather than challenge the gendered division of labor. Angela Davis's Women, Race & Class (1981) critiqued the campaign for potentially reinforcing women's confinement to the home. The Elsewhere section covers the Icelandic women's day off on 24 October 1975, when approximately 90% of Icelandic women stopped paid and unpaid work, and the UN International Women's Year 1975 conference in Mexico City—contemporaneous global actions on women's labor. The After section traces how the analysis resurfaced in Federici's Caliban and the Witch (2004), in social reproduction theory debates from the 2010s, in care-work scholarship, and in basic income proposals. Related links point to second-wave feminism, care ethics, standpoint theory, and intersectionality lessons already in the capsules collection.",
   "timeline": [
     {
       "year": "1848",
@@ -46,18 +46,18 @@
     },
     {
       "year": "1973",
-      "label": "New York Wages for Housework Committee founded",
-      "detail": "Silvia Federici and others establish the New York Wages for Housework Committee, distributing flyers including 'We Can't Afford to Work for Love.' Groups also form in other U.S. cities."
+      "label": "New York committee's first flyer",
+      "detail": "The New York Wages for Housework Committee, which Silvia Federici helped found, distributes its first flyer, 'We Can't Afford to Work for Love.' In 1975 it opens a storefront office in Brooklyn."
     },
     {
-      "year": "1974",
-      "label": "Power of Women Collective in London",
-      "detail": "The Power of Women Collective, organized by Selma James and others in London, publishes the journal Power of Women (printed by Falling Wall Press in Bristol). The first issue collects international Wages for Housework materials."
+      "year": "1972–74",
+      "label": "Power of Women Collective in London and Bristol",
+      "detail": "After the 1972 National Women's Liberation Conference in Manchester, Selma James and a few other women form the Power of Women Collective in London and Bristol. It publishes a journal, Power of Women, and in 1975 it is reconstituted as the Wages for Housework Campaign."
     },
     {
-      "year": "1974",
+      "year": "1975",
       "label": "Toronto Wages for Housework Committee",
-      "detail": "The Toronto Wages for Housework Committee forms, with Judy Quinlan authoring texts including 'Notice to All Governments' demanding recognition and payment for housework."
+      "detail": "The Toronto Wages for Housework Committee is founded and becomes one of the most active groups in the campaign in Canada."
     },
     {
       "year": "1975",
@@ -67,7 +67,7 @@
     {
       "year": "1975",
       "label": "Black Women for Wages for Housework",
-      "detail": "Black Women for Wages for Housework, led by Wilmette Brown and others, forms to center race in the Wages for Housework analysis, pointing out that Black women and women of color disproportionately perform both paid domestic labor for white households and unpaid labor in their own."
+      "detail": "Margaret Prescod and Wilmette Brown co-found Black Women for Wages for Housework in New York to center race in the campaign, pointing out that Black women and other women of color often do paid domestic work in other people's homes as well as unpaid work in their own."
     },
     {
       "year": "1975",
@@ -80,9 +80,9 @@
       "detail": "The United Nations declares 1975 International Women's Year and convenes the first World Conference on Women in Mexico City (June–July 1975). Delegates debate women's labor, development, and equality—though Wages for Housework remains a minority radical position."
     },
     {
-      "year": "1976",
+      "year": "Mid-1970s",
       "label": "Wages Due Lesbians",
-      "detail": "Wages Due Lesbians, based in Toronto and Philadelphia, argues that state-mandated heterosexuality through economic dependence on men makes wages for housework a lesbian issue. Francie Wyland's writings connect custody, motherhood, lesbianism, and the case for wages."
+      "detail": "Lesbian members of the Toronto Wages for Housework Committee form Wages Due Lesbians, arguing that women's economic dependence on men enforces heterosexuality and that the wage demand is therefore a lesbian issue. Francie Wyland writes on custody, motherhood and lesbianism."
     },
     {
       "year": "1970s",
@@ -92,7 +92,7 @@
     {
       "year": "1981",
       "label": "Angela Davis: Women, Race & Class critique",
-      "detail": "Angela Davis publishes Women, Race & Class (Random House). She critiques demands like Wages for Housework for potentially romanticizing domesticity and ignoring how Black women's historical experience includes coerced labor both in white households and their own, making 'return to the home' a white middle-class frame."
+      "detail": "Davis publishes Women, Race & Class. Its final chapter argues that Black women's long experience of paid domestic service shows a wage does not make housework less isolating or degrading, and calls for socializing housework instead."
     },
     {
       "year": "2000",
@@ -120,8 +120,8 @@
   "read": [
     {
       "title": "Mariarosa Dalla Costa and Selma James — The Power of Women and the Subversion of the Community (Falling Wall Press, 1972)",
-      "url": "https://en.wikipedia.org/wiki/The_Power_of_Women_and_the_Subversion_of_the_Community",
-      "note": "The founding pamphlet. Dalla Costa's essay argues that housework is productive labor that produces labor-power, the commodity workers sell. James's preface situates the demand in the context of unwaged work globally. Out of print but widely circulated as PDFs and reprints. Wikipedia entry provides context."
+      "url": "https://libcom.org/library/power-women-subversion-community-della-costa-selma-james",
+      "note": "The founding pamphlet. Dalla Costa's essay argues that housework produces labor-power, the commodity workers sell, and James's writing places the demand in the context of unwaged work around the world. Full text on libcom.org."
     },
     {
       "title": "Silvia Federici — Wages Against Housework (1975)",
@@ -134,9 +134,9 @@
       "note": "Federici's major book extending the Wages for Housework analysis historically. Argues that the European witch-hunts, enclosures, and colonization were strategies to discipline women's bodies, control reproduction, and establish the unpaid domestic sphere that capitalism requires. Widely taught. Wikipedia entry."
     },
     {
-      "title": "Silvia Federici — Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle (PM Press, 2012)",
-      "url": "https://www.pmpress.org/index.php?l=product_detail&p=569",
-      "note": "Anthology collecting Federici's essays from 1975 to 2011, including Wages for Housework texts, writings on globalization and reproductive labor, and reflections on the care crisis. Publisher page."
+      "title": "Silvia Federici — Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle (PM Press, 2012; expanded second edition 2020)",
+      "url": "https://www.pmpress.org/index.php?l=product_detail&p=1086",
+      "note": "Federici's essays from the Wages for Housework years onward, on housework, the globalization of care work, elder care and the commons. The 2020 second edition adds three essays. Publisher page."
     },
     {
       "title": "Angela Davis — Women, Race & Class (Random House, 1981)",
@@ -198,7 +198,7 @@
       "aliases": [
         "IFC"
       ],
-      "explain": "The organization co-founded in Padua, Italy, in 1972 by Mariarosa Dalla Costa, Selma James, Silvia Federici, and Brigitte Galtier to promote the Wages for Housework demand and analysis internationally."
+      "explain": "The network founded at a 1972 meeting in Padua, Italy, by a group that included Mariarosa Dalla Costa, Selma James, Silvia Federici and Brigitte Galtier, which launched the Wages for Housework demand internationally."
     },
     {
       "term": "Mariarosa Dalla Costa",
@@ -226,7 +226,7 @@
       "aliases": [
         "Galtier"
       ],
-      "explain": "French feminist, one of the co-founders of the International Feminist Collective in Padua in 1972 alongside Dalla Costa, James, and Federici."
+      "explain": "French feminist, one of the founders of the International Feminist Collective in Padua in 1972, alongside Dalla Costa, James and Federici."
     },
     {
       "term": "The Power of Women and the Subversion of the Community",
@@ -276,7 +276,7 @@
     },
     {
       "term": "New York Wages for Housework Committee",
-      "explain": "The U.S. Wages for Housework group co-founded by Silvia Federici and others in 1973. Distributed flyers, organized public actions, and published materials arguing for recognition and payment of women's domestic labor."
+      "explain": "The New York group that Silvia Federici and others formed in the early 1970s. Its first flyer appeared in 1973, and in 1975 it opened a storefront office in Brooklyn. It dissolved in 1977."
     },
     {
       "term": "Power of Women Collective",
@@ -284,7 +284,7 @@
     },
     {
       "term": "Toronto Wages for Housework Committee",
-      "explain": "The Canadian Wages for Housework group. Judy Quinlan, a member, authored 'Notice to All Governments' demanding recognition of housework as work. The group linked with Wages Due Lesbians based in Toronto."
+      "explain": "The Canadian Wages for Housework group founded in Toronto in 1975, one of the most active in the campaign. Wages Due Lesbians grew out of it."
     },
     {
       "term": "Black Women for Wages for Housework",
@@ -295,18 +295,18 @@
       "aliases": [
         "Brown"
       ],
-      "explain": "British-based activist and a founder of Black Women for Wages for Housework. Wrote and organized to connect the wage demand with anti-racism, pointing out that women of color subsidize capital and white households through underpaid and unpaid labor."
+      "explain": "American activist who co-founded Black Women for Wages for Housework in New York with Margaret Prescod and later worked from London. Wrote and organized to connect the wage demand with anti-racism, pointing out that women of color subsidize capital and white households through underpaid and unpaid labor."
     },
     {
       "term": "Wages Due Lesbians",
-      "explain": "A Toronto- and Philadelphia-based group arguing that state-mandated heterosexuality operates through women's economic dependence on men. Since lesbians refuse that dependence, they face economic punishment—making wages for housework a lesbian issue. Francie Wyland's writings link custody, motherhood, and lesbianism to the case for wages."
+      "explain": "A group formed by lesbian members of the Toronto Wages for Housework Committee in the mid-1970s. It argued that women's economic dependence on men enforces heterosexuality, so lesbians pay an economic penalty, which makes wages for housework a lesbian issue. It continues today as Queer Strike."
     },
     {
       "term": "Francie Wyland",
       "aliases": [
         "Wyland"
       ],
-      "explain": "Member of Wages Due Lesbians and author of writings including the 1976 pamphlet on child custody, motherhood, lesbianism, and the case for Wages for Housework, distributed by groups in Toronto and Philadelphia."
+      "explain": "Toronto member of Wages for Housework and Wages Due Lesbians who wrote on lesbian motherhood, child custody and the case for wages for housework."
     },
     {
       "term": "housework",
@@ -419,7 +419,7 @@
       "aliases": [
         "Fraser"
       ],
-      "explain": "American philosopher and critical theorist (born 1947). In works like Fortunes of Feminism (2013) and Capitalism: A Conversation (2022), Fraser analyzes how capitalism relies on and cannibalizes the unwaged work of social reproduction—care, education, community."
+      "explain": "American philosopher and critical theorist (born 1947). In works like Fortunes of Feminism (2013) and Cannibal Capitalism (2022), Fraser analyzes how capitalism relies on and cannibalizes the unwaged work of social reproduction—care, education, community."
     },
     {
       "term": "Leopoldina Fortunati",
@@ -437,14 +437,7 @@
     },
     {
       "term": "Falling Wall Press",
-      "explain": "A Bristol-based radical press that published early Wages for Housework pamphlets, including Dalla Costa and James's The Power of Women and the Subversion of the Community (1972) and Federici's Wages Against Housework (1975). Run by Suzie Fleming."
-    },
-    {
-      "term": "Suzie Fleming",
-      "aliases": [
-        "Fleming"
-      ],
-      "explain": "Publisher and printer who ran Falling Wall Press in Bristol, producing foundational Wages for Housework texts in the 1970s."
+      "explain": "A Bristol-based radical press that published early Wages for Housework pamphlets, including Dalla Costa and James's The Power of Women and the Subversion of the Community (1972) and Federici's Wages Against Housework (1975)."
     },
     {
       "term": "Betty Friedan",
@@ -495,6 +488,13 @@
         "Hartmann"
       ],
       "explain": "American feminist economist. Author of 'The Unhappy Marriage of Marxism and Feminism' (1979), arguing that Marxist analysis alone cannot explain women's oppression and that patriarchy and capitalism must be analyzed as dual systems."
+    },
+    {
+      "term": "Margaret Prescod",
+      "aliases": [
+        "Prescod"
+      ],
+      "explain": "Barbados-born activist who co-founded Black Women for Wages for Housework in New York with Wilmette Brown in 1975."
     }
   ],
   "sections": [
@@ -543,11 +543,19 @@
       "blocks": [
         {
           "type": "p",
-          "text": "In 1972, four women met in Padua, Italy, and co-founded the International Feminist Collective to launch the Wages for Housework campaign. Mariarosa Dalla Costa was a member of Lotta Femminista (Feminist Struggle), an Italian autonomist feminist movement emerging from the New Left and operaismo—Italian workerism. Selma James was an American-born activist living in Britain who had organized with C. L. R. James and later developed feminist analysis linking women's unwaged labor to broader struggles. Silvia Federici had moved from Italy to the United States to study philosophy; she was becoming active in feminist organizing. Brigitte Galtier was a French feminist. Together they drafted the statement founding the International Feminist Collective and articulated the demand that housework be recognized and paid as work."
+          "text": "In 1972, at a meeting in Padua, Italy, a small group of women that included Mariarosa Dalla Costa, Selma James, Silvia Federici and Brigitte Galtier founded the International Feminist Collective, which launched the Wages for Housework campaign. Mariarosa Dalla Costa was a member of Lotta Femminista (Feminist Struggle), an Italian autonomist feminist movement emerging from the New Left and operaismo—Italian workerism. Selma James was an American-born activist living in Britain who had organized with C. L. R. James and later developed feminist analysis linking women's unwaged labor to broader struggles. Silvia Federici had moved from Italy to the United States to study philosophy; she was becoming active in feminist organizing. Brigitte Galtier was a French feminist. Together they drafted the statement founding the International Feminist Collective and articulated the demand that housework be recognized and paid as work."
         },
         {
           "type": "p",
           "text": "Also in 1972, Falling Wall Press in Bristol published The Power of Women and the Subversion of the Community, a pamphlet with an essay by Dalla Costa and a preface by James. This became the founding text. Dalla Costa's essay argued that housework is not peripheral to capitalism but central. Women's labor in the home produces and reproduces labor-power, the commodity that capital buys when it hires workers. Because this labor is unwaged, it is invisible: it appears as a natural service women provide rather than as work capital exploits. Dalla Costa argued that recognizing housework as productive labor changes the political terrain. Women are not merely oppressed by men in the private sphere; they are exploited by capital through the wage relation's refusal to pay for reproductive labor. This analysis linked women's domestic struggle to class struggle and opened the possibility of women refusing housework as a form of strike against capital."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/wages-for-housework/selma-james-2012.jpg",
+          "alt": "Selma James, an older woman with short white hair and a tweed jacket, speaking.",
+          "caption": "Selma James speaking at a workshop at the Left Forum in New York on 17 March 2012. She co-wrote The Power of Women and the Subversion of the Community in 1972 and was still organizing with the Global Women's Strike forty years later.",
+          "credit": "Global Women's Strike, CC BY 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Selma_James_at_the_Left_Forum.jpg"
         },
         {
           "type": "p",
@@ -562,15 +570,23 @@
       "blocks": [
         {
           "type": "p",
-          "text": "After the 1972 founding, Wages for Housework groups formed in multiple countries. In 1973, Silvia Federici helped start the New York Wages for Housework Committee. The group distributed flyers including 'We Can't Afford to Work for Love' and organized public actions. In 1974, the Committee released a poster designed by Jacquie Ursula Caldwell with text by Judy Quinlan of the Toronto group: 'The Women of the World are Serving Notice!' The poster depicted a woman with raised fist and listed demands to governments worldwide. In London, the Power of Women Collective, organized by Selma James and others, published the journal Power of Women beginning in 1974. The journal was printed by Falling Wall Press in Bristol and collected statements, essays, and documents from Wages for Housework groups internationally."
+          "text": "After the 1972 founding, Wages for Housework groups formed in multiple countries. In New York, Silvia Federici and others formed the New York Wages for Housework Committee in the early 1970s. Its first flyer, 'We Can't Afford to Work for Love,' went out in 1973, and in 1975 the committee opened a storefront office in Brooklyn. Around 1974 the Brooklyn group produced a poster that read: 'The Women of the World Are Serving Notice! We want wages for every dirty toilet, every indecent assault, every painful childbirth, every cup of coffee and every smile. And if we don't get what we want we will simply refuse to work any longer!' In London, the Power of Women Collective, organized by Selma James and others, published the journal Power of Women beginning in 1974. The journal was printed by Falling Wall Press in Bristol and collected statements, essays, and documents from Wages for Housework groups internationally."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/wages-for-housework/welfare-poster-1976.jpg",
+          "alt": "Red poster with line drawings of women doing housework and the words No to welfare cuts, Yes to wages for housework from the government for all women.",
+          "caption": "Poster for the Wages for Housework and Welfare Conference held on Saturday 24 April 1976, organized by the New York Wages for Housework Committee from its storefront office at 288B Eighth Street in Brooklyn. The committee linked the wage demand to the defence of welfare payments against cuts.",
+          "credit": "New York Wages for Housework Committee, 1976, CC BY-SA 4.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Welfare_Conference_Poster_(New_York_Wages_for_Housework_Committee).jpg"
         },
         {
           "type": "p",
-          "text": "Toronto also had a Wages for Housework Committee, and in Philadelphia and Toronto, Wages Due Lesbians formed. This group argued that state-mandated heterosexuality operates through women's economic dependence on men. Because marriage and domestic partnership assign women unpaid housework in exchange for male wages or protection, refusing that arrangement—living as a lesbian outside the heterosexual family—means facing economic punishment. Francie Wyland's 1976 pamphlet on child custody, motherhood, lesbianism, and the case for Wages for Housework made the argument: lesbians need economic independence, and the wage demand exposes how compulsory heterosexuality is an economic institution."
+          "text": "Toronto's Wages for Housework Committee, founded in 1975, became one of the most active groups in Canada, and lesbian members there formed Wages Due Lesbians. This group argued that state-mandated heterosexuality operates through women's economic dependence on men. Because marriage and domestic partnership assign women unpaid housework in exchange for male wages or protection, refusing that arrangement—living as a lesbian outside the heterosexual family—means facing economic punishment. Francie Wyland, a Toronto member, wrote on child custody, motherhood and lesbianism to make the argument: lesbians need economic independence, and the wage demand exposes how compulsory heterosexuality is an economic institution."
         },
         {
           "type": "p",
-          "text": "In 1975, Black Women for Wages for Housework formed, led by Wilmette Brown and others. This group insisted that race could not be an afterthought. Black women and women of color in the U.S., Britain, and globally perform both paid domestic labor in white households (as maids, nannies, cleaners) and unpaid labor in their own. They subsidize white middle-class women's entry into professional work and subsidize capital by keeping the cost of social reproduction low. Black Women for Wages for Housework argued that the wage demand was urgent for challenging both racial and gender exploitation: paying for all reproductive labor would force capital and the state to recognize and value work that is currently invisibilized and racialized."
+          "text": "In 1975, Black Women for Wages for Housework formed in New York, co-founded by Margaret Prescod and Wilmette Brown. This group insisted that race could not be an afterthought. Black women and women of color in the U.S., Britain, and globally perform both paid domestic labor in white households (as maids, nannies, cleaners) and unpaid labor in their own. They subsidize white middle-class women's entry into professional work and subsidize capital by keeping the cost of social reproduction low. Black Women for Wages for Housework argued that the wage demand was urgent for challenging both racial and gender exploitation: paying for all reproductive labor would force capital and the state to recognize and value work that is currently invisibilized and racialized."
         },
         {
           "type": "p",
@@ -585,7 +601,15 @@
       "blocks": [
         {
           "type": "p",
-          "text": "In 1975, Silvia Federici published Wages Against Housework, an eight-page pamphlet printed by Power of Women Collective and Falling Wall Press. The title is deliberately ambiguous and has confused readers ever since. Federici is not arguing against paying women for housework; she is arguing for wages as a weapon against the institution of housework as unpaid, naturalized, women's destiny. The pamphlet is the clearest short statement of the campaign's strategy."
+          "text": "In 1975, Silvia Federici published Wages Against Housework, a short pamphlet published by the Power of Women Collective and Falling Wall Press. The title is deliberately ambiguous and has confused readers ever since. Federici is not arguing against paying women for housework; she is arguing for wages as a weapon against the institution of housework as unpaid, naturalized, women's destiny. The pamphlet is the clearest short statement of the campaign's strategy."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/wages-for-housework/silvia-federici-2012.jpg",
+          "alt": "Silvia Federici, a woman with short grey hair and a patterned scarf, speaking into a studio microphone.",
+          "caption": "Silvia Federici giving a talk at the MACBA museum in Barcelona in May 2012, the year PM Press collected her essays as Revolution at Point Zero.",
+          "credit": "Kippelboy, CC BY-SA 3.0",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Silvia_Federici.jpg"
         },
         {
           "type": "p",
@@ -612,7 +636,7 @@
         },
         {
           "type": "p",
-          "text": "Angela Davis's Women, Race & Class (1981) included a chapter critiquing middle-class feminist campaigns that ignored racial history. Davis pointed out that for Black women in the United States, the home had never been a private refuge. Under slavery, Black women's labor—reproductive and productive—was coerced for white slaveowners' profit. After emancipation, Black women worked as domestic servants in white households while also doing unpaid labor in their own. The idea that housework could be a site of retreat or that women's liberation meant staying home was a white middle-class fantasy. Demanding wages for housework could inadvertently reinforce the idea that women's place is in the home, ignoring Black women's long struggle for the right to care for their own families rather than being forced to work in white homes."
+          "text": "Angela Davis's Women, Race & Class (1981) took on the campaign directly in its final chapter, 'The Approaching Obsolescence of Housework: A Working-Class Perspective.' Davis pointed out that Black women in the United States had been paid for housework for generations, as maids, cooks and nannies in white households, and that the wage had not freed them: domestic service remained one of the worst-paid and most degrading kinds of work. She doubted that a government wage would change the isolated, repetitive character of housework, and she worried it would tie women more firmly to the home. Instead she argued for socializing the work through publicly funded childcare, community cooking and cleaning services, and technology that could make most private housework obsolete."
         },
         {
           "type": "p",
@@ -627,11 +651,11 @@
       "blocks": [
         {
           "type": "p",
-          "text": "On 24 October 1975, approximately 90% of Icelandic women stopped work. They did not go to their paid jobs, and they did not do housework or childcare. The action was called Kvennafrídagurinn—Women's Day Off—and it was organized by women's organizations to demonstrate the indispensability of women's labor, both waged and unwaged. Schools closed because teachers were absent; telephones went unanswered; men brought children to work or left them unsupervised because there was no one to care for them. Newspapers reported that Iceland came to a standstill. The strike made visible what Wages for Housework had been arguing theoretically: that women's labor—paid and unpaid—is essential to the functioning of society and economy, and that its unwaged status makes it invisible until women refuse to do it. In 1976, Iceland passed legislation guaranteeing equal rights for women and men."
+          "text": "On 24 October 1975, approximately 90% of Icelandic women stopped work. They did not go to their paid jobs, and they did not do housework or childcare. The action was called Kvennafrídagurinn—Women's Day Off—and it was organized by women's organizations to demonstrate the indispensability of women's labor, both waged and unwaged. Schools, shops and fish factories closed, and many fathers had to bring their children to work. About 25,000 people, in a country of about 220,000, gathered for a rally in central Reykjavík. The strike made visible what Wages for Housework had been arguing theoretically: that women's labor—paid and unpaid—is essential to the functioning of society and economy, and that its unwaged status makes it invisible until women refuse to do it. In 1976, Iceland passed legislation guaranteeing equal rights for women and men."
         },
         {
           "type": "p",
-          "text": "Earlier that year, in June and July 1975, the United Nations convened the first World Conference on Women in Mexico City as part of International Women's Year 1975. Over 1,000 delegates from 133 countries attended, debating development, equality, and peace. The conference produced a World Plan of Action calling for legal equality, education, employment, and political participation for women. Wages for Housework was a marginal position at the conference—mainstream delegates focused on integrating women into development and formal employment rather than questioning the wage relation or demanding payment for reproductive labor. But the conference's focus on women's labor, combined with grassroots actions like the Iceland strike, reflected a global moment when feminists worldwide were making women's work—especially unwaged work—politically visible."
+          "text": "Earlier that year, in June and July 1975, the United Nations convened the first World Conference on Women in Mexico City as part of International Women's Year 1975. Delegations from 133 countries attended, debating development, equality and peace. The conference produced a World Plan of Action calling for legal equality, education, employment, and political participation for women. Wages for Housework was a marginal position at the conference—mainstream delegates focused on integrating women into development and formal employment rather than questioning the wage relation or demanding payment for reproductive labor. But the conference's focus on women's labor, combined with grassroots actions like the Iceland strike, reflected a global moment when feminists worldwide were making women's work—especially unwaged work—politically visible."
         }
       ]
     },
@@ -650,11 +674,11 @@
         },
         {
           "type": "p",
-          "text": "In 2004, Silvia Federici published Caliban and the Witch: Women, the Body and Primitive Accumulation. The book became a feminist classic, especially after a second edition in 2014. Federici reinterpreted the European witch-hunts of the early modern period as a campaign to control women's bodies and reproduction at the moment when capitalism was emerging. She argued that enclosures—the privatization of common land—were accompanied by the privatization of reproduction: women were confined to the home and assigned unpaid responsibility for raising the next generation of workers. The witch-hunts targeted women healers, midwives, and women who resisted this new sexual division of labor. Caliban extended the Wages for Housework analysis historically, arguing that capitalism's origins required disciplining women into unwaged domestic labor."
+          "text": "In 2004, Silvia Federici published Caliban and the Witch: Women, the Body and Primitive Accumulation. The book became a widely taught feminist classic. Federici reinterpreted the European witch-hunts of the early modern period as a campaign to control women's bodies and reproduction at the moment when capitalism was emerging. She argued that enclosures—the privatization of common land—were accompanied by the privatization of reproduction: women were confined to the home and assigned unpaid responsibility for raising the next generation of workers. The witch-hunts targeted women healers, midwives, and women who resisted this new sexual division of labor. Caliban extended the Wages for Housework analysis historically, arguing that capitalism's origins required disciplining women into unwaged domestic labor."
         },
         {
           "type": "p",
-          "text": "In the 2010s, a new generation of Marxist feminists revived the analysis under the label social reproduction theory. Tithi Bhattacharya edited Social Reproduction Theory: Remapping Class, Recentering Oppression (2017), collecting essays by Bhattacharya, Cinzia Arruzza, Susan Ferguson, and others. Nancy Fraser analyzed how capitalism depends on and cannibalizes the work of social reproduction—care, education, community—in books like Fortunes of Feminism (2013) and Capitalism: A Conversation (2022). These theorists argued that capitalism's current crisis includes a crisis of care: austerity cuts social services, wages stagnate, and families cannot afford to pay for childcare or elder care, yet the work must still be done. Social reproduction theory brought Wages for Housework arguments into debates about how to challenge neoliberalism and imagine post-capitalist futures."
+          "text": "In the 2010s, a new generation of Marxist feminists revived the analysis under the label social reproduction theory. Tithi Bhattacharya edited Social Reproduction Theory: Remapping Class, Recentering Oppression (2017), collecting essays by Bhattacharya, Cinzia Arruzza, Susan Ferguson, and others. Nancy Fraser analyzed how capitalism depends on and cannibalizes the work of social reproduction—care, education, community—in books like Fortunes of Feminism (2013) and Cannibal Capitalism (2022). These theorists argued that capitalism's current crisis includes a crisis of care: austerity cuts social services, wages stagnate, and families cannot afford to pay for childcare or elder care, yet the work must still be done. Social reproduction theory brought Wages for Housework arguments into debates about how to challenge neoliberalism and imagine post-capitalist futures."
         },
         {
           "type": "p",
@@ -673,5 +697,16 @@
         }
       ]
     }
-  ]
+  ],
+  "hero": {
+    "src": "lessons/wages-for-housework/mestre-mayday-1975.jpg",
+    "alt": "Pink Italian poster with blue lettering and a photo of women marching with banners reading Salario al lavoro domestico.",
+    "caption": "Poster for the 1 May 1975 day of action in Mestre, near Venice, announcing an \"International day of women's struggle for wages for housework\" with theatre, songs and a demonstration in Piazza Ferretto. It was issued by the Wages for Housework committees of the Triveneto region, including the groups in Venice, Padua and Trieste.",
+    "credit": "Salario per il lavoro domestico groups of the Triveneto, 1975, CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:%221_Maggio_1975%22_(1975_Mayday_Protest_for_Wages_for_Housework_in_Mestre,_Italy).jpg"
+  },
+  "thumb": {
+    "src": "lessons/wages-for-housework/mestre-mayday-1975.jpg",
+    "alt": "1975 Italian Wages for Housework poster for a May Day demonstration in Mestre."
+  }
 }
