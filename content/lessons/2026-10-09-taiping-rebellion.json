@@ -1,0 +1,1172 @@
+{
+  "slug": "taiping-rebellion",
+  "date": "2026-10-09",
+  "subject": "history",
+  "related": [
+    "xinhai-revolution",
+    "meiji-restoration",
+    "war-of-resistance"
+  ],
+  "title": "The Taiping Rebellion (1850–1864)",
+  "dek": "A man who failed the imperial examinations four times decided he was the younger brother of Jesus. His followers built the Taiping Heavenly Kingdom, held Nanjing for eleven years, and fought the Qing dynasty in a civil war that most estimates say killed 20 to 30 million people. It was put down by provincial armies raised by Confucian scholars, with help from Western-officered troops near Shanghai, and it changed how China was ruled for the rest of the dynasty.",
+  "era": "1850–1864 (context: 1836–1871)",
+  "reading_minutes": 22,
+  "thumb": {
+    "src": "lessons/taiping-rebellion/anqing-recapture.jpg",
+    "alt": "A panoramic painting of a walled city on a river under attack."
+  },
+  "hero": {
+    "src": "lessons/taiping-rebellion/anqing-recapture.jpg",
+    "alt": "A wide painted landscape: a walled city beside a river, smoke over the walls, boats with flags on the water and figures in the river in the foreground.",
+    "caption": "A painting of the Qing recapture of Anqing, the walled Taiping stronghold on the Yangtze that the Xiang Army took on 5 September 1861 after a siege of about a year. Wikimedia Commons attributes it to Wu Youru and dates it 1886. It was made to celebrate an imperial victory: smoke rises over the city wall, war junks crowd the river, and figures lie in the water in the foreground.",
+    "credit": "Wu Youru (attributed), 1886; public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File%3ARegaining_the_Provincial_City_Anqing2.jpg"
+  },
+  "honesty": "The name of this event is itself an argument. Qing officials called it a time of chaos or a bandit rising; Chinese historians since the twentieth century usually call it the Taiping Heavenly Kingdom Movement; historians such as Tobie Meyer-Fong and Stephen Platt have argued that 'rebellion' quietly takes the Qing side and prefer 'civil war'. This capsule uses 'Taiping Rebellion' because it is the most common English name, not to settle that argument. The death toll is an estimate. There was no reliable census, and the most widely cited range, 20 to 30 million dead, includes deaths from famine and epidemic disease as well as from fighting and massacres; much higher figures exist but are speculative. The sources are uneven: the Qing destroyed most Taiping records, and roughly a tenth of Taiping publications are thought to survive, so much of what we know comes from the winners, from foreign visitors, and from confessions written by captured Taiping leaders before their execution. Hong Xiuquan's own birth date is given in at least nine versions; this capsule uses 1 January 1814, the date most scholars accept. Dates are given in the Western calendar. Both sides massacred civilians. The Taiping killed Manchu populations in the cities they took, and Qing forces killed rebels and civilians on a vast scale during the reconquest. This capsule names both and does not rank them.",
+  "timeline": [
+    {
+      "year": "1766–1833",
+      "label": "Population pressure",
+      "detail": "China's population nearly doubled while the amount of cultivated land stayed about the same. Rents and taxes rose, banditry spread, and secret societies and local militias multiplied, especially in the south."
+    },
+    {
+      "year": "1839–1842",
+      "label": "First Opium War",
+      "detail": "Britain defeated the Qing and forced open treaty ports. The defeat damaged the dynasty's prestige and the opium trade drained silver from the economy."
+    },
+    {
+      "year": "1832",
+      "label": "Good Words to Admonish the Age printed",
+      "detail": "Liang Fa, a Chinese Protestant preacher ordained by the missionary Robert Morrison, published a long Christian work of more than 500 pages in Guangzhou. Hong Xiuquan received a copy in 1836 while sitting the examinations."
+    },
+    {
+      "year": "1837",
+      "label": "Hong's visions",
+      "detail": "After failing the imperial examination for the third time, Hong fell ill and dreamed of visiting Heaven, where a celestial father and elder brother told him to fight demons."
+    },
+    {
+      "year": "1843",
+      "label": "Hong reads the pamphlets",
+      "detail": "After his fourth and final examination failure, Hong read Liang Fa's tracts and concluded that his celestial father was God and his elder brother was Jesus. He began destroying idols and preaching."
+    },
+    {
+      "year": "1844–1847",
+      "label": "God Worshipping Society",
+      "detail": "Hong's follower Feng Yunshan built a community of converts, many of them poor Hakka, in the Thistle Mountain region of Guangxi. In 1847 Hong spent two months studying with the American Baptist Issachar Jacox Roberts in Guangzhou, who refused to baptise him."
+    },
+    {
+      "year": "January 1851",
+      "label": "Jintian uprising",
+      "detail": "A rebel army of about 10,000 routed Qing troops at Jintian in Guangxi. On 11 January 1851 Hong proclaimed himself Heavenly King of the Taiping Heavenly Kingdom, the Heavenly Kingdom of Great Peace."
+    },
+    {
+      "year": "19 March 1853",
+      "label": "Nanjing taken",
+      "detail": "After a march north through Hunan and down the Yangtze, the Taiping captured Nanjing, renamed it Tianjing (Heavenly Capital), and killed its Manchu population. They then issued their Land System, a plan to share out land by family size."
+    },
+    {
+      "year": "1855",
+      "label": "Zeng Guofan's low point",
+      "detail": "Zeng Guofan's new Xiang Army, raised in Hunan, was badly defeated at Jiujiang in early 1855, and Zeng attempted suicide. The army recovered and retook Wuchang for good in December 1856."
+    },
+    {
+      "year": "September 1856",
+      "label": "Tianjing Incident",
+      "detail": "On Hong's orders, Wei Changhui and Qin Rigang killed the East King Yang Xiuqing, his family and thousands of his followers. Hong later had Wei and Qin executed, and Shi Dakai, whose family had also been killed, left the capital with his army."
+    },
+    {
+      "year": "1859–1860",
+      "label": "Hong Rengan and the eastern campaign",
+      "detail": "Hong's cousin Hong Rengan arrived from Hong Kong in 1859 and proposed railways and banks. In 1860 Li Xiucheng broke the Qing army besieging Nanjing and took Changzhou and Suzhou."
+    },
+    {
+      "year": "October 1860",
+      "label": "Beijing occupied by foreign armies",
+      "detail": "In the Second Opium War, British and French troops burned the Old Summer Palace on 18 October. The Xianfeng Emperor fled to Jehol and died there in August 1861."
+    },
+    {
+      "year": "5 September 1861",
+      "label": "Fall of Anqing",
+      "detail": "The Xiang Army under Zeng Guoquan breached the walls of Anqing after a siege of about a year, opening the river route down to Nanjing."
+    },
+    {
+      "year": "1862–1863",
+      "label": "Shanghai holds",
+      "detail": "Taiping attacks on Shanghai failed. The Ever Victorious Army, Chinese soldiers under Western officers, fought for the Qing, first under Frederick Townsend Ward and, from March 1863, under Charles George Gordon. Suzhou fell late in 1863."
+    },
+    {
+      "year": "1 June – 19 July 1864",
+      "label": "Death of Hong and fall of Nanjing",
+      "detail": "Hong Xiuquan died after a short illness during the siege, and his teenage son Hong Tianguifu succeeded him. Nanjing fell on 19 July after street fighting. Li Xiucheng, Hong Rengan and Hong Tianguifu were all executed later that year."
+    },
+    {
+      "year": "1864–1871",
+      "label": "Last resistance",
+      "detail": "Several hundred thousand Taiping troops fought on in the southern hills. One of the last loyalist leaders was defeated in Guangdong in January 1866, and the last Taiping army was destroyed in August 1871."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Too many people on too little land, a dynasty humbled by Britain, and a young man who kept failing his exams",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the first half of the nineteenth century the Qing dynasty, ruled by a Manchu imperial family from Beijing, governed the largest population in the world. Between 1766 and 1833 that population nearly doubled, but the amount of farmland stayed about the same. Rents and taxes rose, and many farmers abandoned their land. Bandit gangs, secret societies and village self-defence corps spread, and small-scale fighting became normal in parts of the south."
+        },
+        {
+          "type": "p",
+          "text": "The state was also weaker abroad. In the First Opium War of 1839 to 1842 Britain defeated the Qing navy and armies and forced China to open treaty ports to foreign trade. Opium, imported illegally in large amounts, drained silver out of the economy. In the southern provinces of Guangdong and Guangxi, far from Beijing, local clans held much of the real power, and resentment of Manchu rule was strongest among the Hakka, a Han Chinese group of later settlers who were often in conflict with older local families over land."
+        },
+        {
+          "type": "p",
+          "text": "Hong Xiuquan was born into a Hakka farming family in Hua county, near Guangzhou, on 1 January 1814. His family paid for his education because the imperial examinations were the one route by which a village boy could become an official. The pass rate was below one percent. Hong sat the examination in Guangzhou repeatedly and failed. In 1836, while he was in the city for the examinations, he heard the American missionary Edwin Stevens and his interpreter preaching, and received from them a set of Christian pamphlets called Good Words to Admonish the Age. They were written by Liang Fa, one of the first Chinese Protestant converts, and contained Bible passages and sermons. According to later accounts, Hong only glanced at them and put them away."
+        },
+        {
+          "type": "p",
+          "text": "In 1837 he failed for the third time, collapsed, and was ill for weeks. During the illness he dreamed that he was taken up to Heaven. There a heavenly father in a black dragon robe, with a long golden beard, complained that people were worshipping demons instead of him, and gave Hong a sword and a golden seal to kill the demons. Hong also met a heavenly elder brother. In 1843 he failed the examination for the fourth and last time. A cousin then asked about the pamphlets, and Hong read them closely for the first time. He decided that they explained his dream. The old man was God the Father, the elder brother was Jesus Christ, and he, Hong, was God's second son, sent to rid China of demons. The demons, he came to believe, included the idols in Chinese temples, Confucian teaching as the Qing used it, and finally the Manchu rulers themselves."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/hong-writings.jpg",
+          "alt": "Printed Chinese pages laid out in a museum display case, with an open book showing a large red seal on the right.",
+          "caption": "Taiping religious texts on display at the Taiping Heavenly Kingdom History Museum in Nanjing. According to the museum's label, the loose pages are three of Hong Xiuquan's early religious tracts on the 'Original Way'; the open book on the right has the title Taiping Imperial Declaration (太平詔書) and a red official seal. Photographed in 2011.",
+          "credit": "猫猫的日记本, 2011; CC BY-SA 3.0, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3AWritings_by_Hong_Xiuquan_2011-12.JPG"
+        },
+        {
+          "type": "p",
+          "text": "In 1844 Hong and his friend Feng Yunshan, also a failed examination candidate and a village teacher, left home to preach. Hong soon went back to Guangdong, but Feng stayed in the Thistle Mountain region of Guangxi and built a community called the God Worshipping Society. Its members were mostly poor people: Hakka farmers, charcoal burners, miners and some Zhuang. The society offered them prayer, discipline and mutual protection against bandits and against the local families who resented them. In 1847 Hong spent two months in Guangzhou studying the Bible with an American Baptist missionary, Issachar Jacox Roberts. Roberts refused to baptise him. Hong then joined Feng in Guangxi."
+        },
+        {
+          "type": "p",
+          "text": "While Hong and Feng were away in 1848, two local members took leadership. Yang Xiuqing, an illiterate charcoal burner, began to fall into trances in which, he said, God the Father spoke through his mouth. Xiao Chaogui, a farmer, said that Jesus spoke through his. When Hong returned he accepted both claims. This mattered later: a man who could speak as God could, in principle, give orders to the Heavenly King himself."
+        }
+      ]
+    },
+    {
+      "id": "era",
+      "kicker": "The era",
+      "title": "From Jintian to Nanjing, a kingdom with its own laws, a massacre among its leaders, and a slow siege that ended in 1864",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1850 the God Worshippers had more than 10,000 members and were fighting both local militias and Qing troops. In the last days of 1850 and early January 1851, a rebel army of about 10,000 men and women defeated government forces at Jintian in Guangxi. On 11 January 1851 Hong proclaimed the Taiping Tianguo, the Heavenly Kingdom of Great Peace, with himself as Heavenly King. Yang Xiuqing became the East King and commander of the armies, Xiao Chaogui the West King, Feng Yunshan the South King, Wei Changhui the North King and the young Shi Dakai the Wing King."
+        },
+        {
+          "type": "p",
+          "text": "In September 1851 the Taiping began to march north to escape the Qing armies closing in on them. Two of the founders were killed on the way: Feng Yunshan was shot near Quanzhou and died in June 1852, and Xiao Chaogui died in September 1852. The army still grew as it moved. It besieged Changsha, reached the Yangtze, and took the great river city of Wuchang in December 1852 and Anqing in February 1853. Then it turned east down the river. On 19 March 1853 the Taiping captured Nanjing, the old southern capital, and renamed it Tianjing, the Heavenly Capital. They killed the city's Manchu population; one estimate puts the dead at about 40,000."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/lindley-map-1866.jpg",
+          "alt": "An old printed map of China with red lines and shaded areas marking territory along the Yangtze River.",
+          "caption": "A map of China from Augustus Lindley's book Ti-Ping Tien-Kwoh (1866). Its legend marks Hong Xiuquan's birthplace near Canton, the 'original march' of the Taiping from Guangxi to Nanjing and on towards Beijing in 1853, the territory the Taiping held at the end of 1861, and the later route of Shi Dakai's army in the west.",
+          "credit": "Augustus F. Lindley, 1866; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3ATaiping_Rebellion_map.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The Taiping state tried to rebuild society along religious lines. Men and women were at first strictly separated, even married couples. Foot binding, opium, alcohol and tobacco were banned. In the early years large numbers of women served in the Taiping army, which set it apart from other armies of the time. Temples and idols were destroyed, and Confucian books were burned. In 1853 the kingdom published the Land System of the Heavenly Dynasty, which promised a radical redistribution. In the translation in Sources of Chinese Tradition it says: 'The distribution of all land is to be based on the number of persons in each family, regardless of sex,' and, a little later, 'Nobody should keep private property.' Families were to be grouped in units of twenty-five that would send their surplus to common granaries. The plan was never carried out in practice, but it shows what the movement promised."
+        },
+        {
+          "type": "p",
+          "text": "Militarily the Taiping overreached. A Northern Expedition sent from Nanjing in 1853 to take Beijing was a complete failure. A Western Expedition up the Yangtze had more success. Inside Nanjing, Hong withdrew into his palace in 1853 and from then on ruled mainly through written proclamations and religious instructions. Day-to-day power passed to Yang Xiuqing, who still spoke as God the Father when he wished. He used that voice to have other Taiping kings flogged, and even ordered punishment for Hong himself."
+        },
+        {
+          "type": "p",
+          "text": "In 1856 Yang asked to be given the title 'Ten Thousand Years', which until then only Hong had used. Hong secretly called back two generals, Wei Changhui and Qin Rigang. On 2 September 1856 their troops stormed Yang's palace and killed him and his household. Yang's remaining followers, about 6,000 people, were then tricked into gathering to watch Wei and Qin being punished, locked in, and killed the next morning. The killing continued for weeks. When Shi Dakai came back and objected, his own family was murdered and he fled. Hong then had Wei and Qin executed. Shi Dakai came back to the capital, but Hong distrusted him, and in 1857 Shi left Nanjing with his army. This purge, known as the Tianjing Incident, removed most of the original leadership. Many historians see it as the moment the movement began to lose."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/suppression-silk.jpg",
+          "alt": "A painting on silk of a large army of soldiers in blue and white, some on horseback, advancing under striped banners through hills.",
+          "caption": "Detail of an anonymous painting in ink and colours on silk, about 1860, which Wikimedia Commons titles The Suppression of the Taiping Rebellion. It shows Qing infantry and cavalry advancing under banners. Paintings like this were made to celebrate the dynasty's campaigns, not to record a particular day.",
+          "credit": "Unknown artist, c. 1860; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3ASuppression_of_the_Taiping_Rebellion.jpg"
+        },
+        {
+          "type": "p",
+          "text": "The Qing's regular armies, the Manchu Eight Banners and the Han Green Standard Army, failed repeatedly against the Taiping. The forces that eventually won were new. Zeng Guofan, a senior scholar-official from Hunan, was at home mourning his mother when the Taiping swept through the province, and he was ordered by special decree to help raise local troops. He built the Xiang Army (also called the Hunan Army) on personal loyalty: officers chose their own soldiers, often from their own districts, paid them well and drilled them hard. He also built a river fleet. His early record was poor. After a heavy defeat at Jiujiang in early 1855 he tried to kill himself. But the Xiang Army recovered, retook Wuchang in December 1856 and Jiujiang in 1858, and pushed slowly down the Yangtze."
+        },
+        {
+          "type": "p",
+          "text": "The Taiping had one more strong period. In 1859 Hong's cousin Hong Rengan arrived in Nanjing after years in Hong Kong, where he had worked with missionaries. Hong made him Shield King and effectively prime minister. His proposals, collected in A New Treatise on Aids to Administration (1859), called for railways, banks, newspapers and friendly relations with the Western powers. In May 1860 the general Li Xiucheng routed the Qing camp that had been besieging Nanjing since 1853, then took Changzhou (26 May) and Suzhou (2 June), and moved into the rich lower Yangtze delta."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/taku-fort-1860.jpg",
+          "alt": "A sepia photograph of a damaged earthen fort wall with ladders leaning against it and a fence of sharpened stakes in front.",
+          "caption": "The angle of the North Taku Fort where French troops entered on 21 August 1860, photographed by Felice Beato shortly after its capture. This was the Second Opium War, fought at the same time as the Taiping war. Weeks later British and French troops occupied Beijing and, on 18 October 1860, burned the Old Summer Palace.",
+          "credit": "Felice Beato, 1860; National Gallery of Art, CC0, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3AFelice_Beato%2C_Angle_of_North_Taku_Fort_at_Which_the_French_Entered%2C_August_21%2C_1860%2C_1860%2C_NGA_163371.jpg"
+        },
+        {
+          "type": "p",
+          "text": "At the same moment the dynasty was losing a second war. In 1856 the Second Opium War began between the Qing and Britain and France. In 1860 Anglo-French forces took the Taku forts near Tianjin, captured the Old Summer Palace outside Beijing on 6 October, and burned it on 18 October on the orders of Lord Elgin. The Xianfeng Emperor fled to Jehol, north of the Great Wall, and his brother Prince Gong signed the Convention of Peking on 24 October 1860. The emperor died at Jehol in August 1861. His son, born in 1856, became the Tongzhi Emperor. After a palace coup that autumn, the boy's mother, known as the Empress Dowager Cixi, and the late emperor's widow, the Empress Dowager Ci'an, became co-regents, and Prince Gong led the government. The new leadership made peace with the foreign powers and gave more authority to Han Chinese generals like Zeng Guofan."
+        },
+        {
+          "type": "p",
+          "text": "Zeng's strategy was to take Anqing, the Taiping fortress upriver from Nanjing. His brother Zeng Guoquan began the siege in September 1860. The Taiping general Chen Yucheng set out in October 1860 with an army said to number over 100,000 but was turned back, and his last attempt to break the siege in August 1861 also failed. A British-backed blockade stopped foreign merchants from selling rice to the defenders, and by the summer the starving city reported cannibalism. On 5 September 1861 the Xiang Army breached the walls. The road to Nanjing was now open."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/ever-victorious-army.jpg",
+          "alt": "A black-and-white group photograph of seven young Chinese men in Western-style jackets and turbans, some holding rifles.",
+          "caption": "Members of the Ever Victorious Army, the force of Chinese soldiers under Western officers that fought for the Qing around Shanghai, photographed in the 1860s.",
+          "credit": "Unknown photographer, c. 1860s; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3AEver_Victorious_Army_members.png"
+        },
+        {
+          "type": "p",
+          "text": "In the east, the Taiping took Ningbo on 9 December 1861 and Hangzhou on 31 December, and in January 1862 they surrounded Shanghai. Shanghai mattered to Britain and France because of its trade, and after 1860 the foreign powers, which had stayed officially neutral, began to help the Qing. A young American adventurer, Frederick Townsend Ward, had organised a mercenary force in 1860 that became a Chinese army of a few thousand men with Western officers and Western rifles, called the Ever Victorious Army. Ward was killed in September 1862. In March 1863 the British officer Charles George Gordon took command. Meanwhile Zeng's student Li Hongzhang had raised a second provincial army, the Huai Army, in his home province of Anhui, and moved it to Shanghai on British steamers, sailing past Taiping-held territory on the Yangtze. Together these forces began taking back the cities of the delta."
+        },
+        {
+          "type": "p",
+          "text": "In May 1862 the Xiang Army reached the walls of Nanjing. The siege lasted two years. Shi Dakai, who had been fighting his own campaign far to the west, surrendered in 1863 near Chengdu and was executed by slow slicing. Inside Nanjing food ran short. Hong Xiuquan refused to leave, saying that God would defend the city. He fell ill after eating wild plants and died on 1 June 1864. His son Hong Tianguifu, aged fourteen, was proclaimed king. On 19 July 1864 Zeng Guoquan's troops breached the walls, and after street fighting the city fell. Qing troops then massacred many of the city's civilians."
+        },
+        {
+          "type": "p",
+          "text": "Zeng Guofan had Hong's body dug up to prove he was dead. Li Xiucheng, who had helped the young king escape, was captured, wrote a long autobiographical statement while in prison, and was executed on 7 August 1864. Hong Tianguifu and Hong Rengan were caught that autumn and executed in November. Remaining Taiping armies fought on in the southern hills for years; the last of them was destroyed in August 1871."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "How it showed up",
+      "title": "A visionary king, a man who spoke as God, a reforming cousin, a loyal general, and the scholar who beat them",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Taiping war is usually told through its leaders, partly because the records that survive are mostly about them. On the Taiping side, the founders were men from the bottom of rural society: failed examination candidates, charcoal burners, farmers. On the Qing side, the men who won were senior Confucian scholars who had passed the examinations that Hong failed."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Hong Xiuquan",
+              "dates": "1814–1864",
+              "text": "Founder and Heavenly King of the Taiping Heavenly Kingdom. A Hakka from near Guangzhou, he failed the imperial examinations four times, had visions during an illness in 1837, and from 1843 taught that he was God's second son and the younger brother of Jesus. After 1853 he lived inside his palace in Nanjing and ruled by proclamation. He ordered the killing of Yang Xiuqing in 1856 and died during the final siege in June 1864."
+            },
+            {
+              "name": "Yang Xiuqing",
+              "dates": "1821–1856",
+              "text": "The East King and commander-in-chief. An orphaned, illiterate charcoal burner from Guangxi, he gained authority in 1848 by claiming that God the Father spoke through him in trances. He ran the government and the war after 1853, used God's voice to discipline other leaders and even Hong, and was killed with his household in the Tianjing Incident."
+            },
+            {
+              "name": "Shi Dakai",
+              "dates": "1831–1863",
+              "text": "The Wing King, a Hakka from Guangxi who joined the movement as a teenager and became its most admired general. His family was killed during the 1856 purge. In 1857 he left Nanjing with his army and fought a long separate campaign in the west. He surrendered near Chengdu in 1863 and was executed."
+            },
+            {
+              "name": "Hong Rengan",
+              "dates": "1822–1864",
+              "text": "Hong Xiuquan's cousin and one of his first converts. He spent years in Hong Kong working with the Swedish missionary Theodore Hamberg and the Scottish translator James Legge, and learned about Western government and science. Arriving in Nanjing in 1859, he became Shield King and wrote A New Treatise on Aids to Administration, which proposed railways, banks and newspapers. He was executed in November 1864."
+            },
+            {
+              "name": "Li Xiucheng",
+              "dates": "1823–1864",
+              "text": "The Loyal King, from a poor farming family, the best Taiping general of the later years. He broke the Qing siege of Nanjing in 1860 and conquered most of southern Jiangsu. Captured after Nanjing fell, he wrote a long account of the movement in prison before he was executed on 7 August 1864."
+            },
+            {
+              "name": "Zeng Guofan",
+              "dates": "1811–1872",
+              "text": "A scholar-official from Hunan who passed the highest examination in 1838 and served at court in Beijing. Ordered to raise local troops in Hunan, he built the Xiang Army on personal loyalty and good pay, survived early defeats, and directed the war that took Anqing in 1861 and Nanjing in 1864. Afterwards he helped found the first modern arsenals."
+            },
+            {
+              "name": "Li Hongzhang",
+              "dates": "1823–1901",
+              "text": "Zeng Guofan's student, who raised the Huai Army in Anhui, took it to Shanghai on British steamers, and recaptured Suzhou and Changzhou with the help of the Ever Victorious Army. He went on to become the most powerful Chinese official of the late nineteenth century."
+            },
+            {
+              "name": "Charles George Gordon",
+              "dates": "1833–1885",
+              "text": "A British army officer who commanded the Ever Victorious Army from March 1863. He refused the emperor's reward after the Qing executed Taiping prisoners at Suzhou, but the campaign made him famous in Britain as 'Chinese Gordon'. He was killed at Khartoum in the Sudan in 1885."
+            }
+          ]
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/zeng-guofan-1871.jpg",
+          "alt": "A black-and-white oval portrait of an older man with a beard and a dark cap.",
+          "caption": "Zeng Guofan in a photograph dated March 1871, the year before his death.",
+          "credit": "Photograph attributed to Wu Jiashan, 1871; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3AZeng_Guofan_Photograph.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Zeng Guofan is the figure most later Chinese readers have argued about. He has been criticised as a conservative who saved a Manchu dynasty by crushing a Chinese rising, and praised as a hero who restored order; both Mao Zedong and Chiang Kai-shek admired his military and political skill. Nearly 1,500 of his family letters survive, written between 1840 and 1867, many of them in the middle of the campaigns. Both views can rely on facts. He built an army out of almost nothing and held it together through years of defeat, and that army used scorched-earth tactics and refused to take prisoners."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/li-hongzhang.jpg",
+          "alt": "A sepia studio photograph of a man in Qing official dress and hat, seated beside a table with a potted plant.",
+          "caption": "Li Hongzhang, photographed by Liang Shitai in the 1870s, after the war had made him one of the most powerful officials in China.",
+          "credit": "Liang Shitai, 1870s; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3ALiang_Shitai_Portrait_of_Li_Hongzhang.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Foreigners also appear in the story, on both sides. The American missionary Issachar Jacox Roberts, who had refused to baptise Hong in 1847, went to Nanjing in 1860 as an adviser and left in January 1862, disgusted and bitterly critical. The British naval officer Augustus Lindley left the navy, served the Taiping under Li Xiucheng, and in 1866 published a two-volume defence of them, Ti-Ping Tien-Kwoh. He dedicated it 'To Le-Siu-Cheng, the Chung-Wang, \"Faithful Prince,\" Commander-in-Chief of the Ti-Ping forces', adding: 'This Work is Dedicated, if he be living; and if not, to his memory.' By then Li Xiucheng had been dead for two years."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "Suzhou, 1863: the surrender that cost the Qing its best foreign general",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1863 Charles Gordon's Ever Victorious Army and Li Hongzhang's Huai Army worked their way through the canal country around Suzhou, the richest city the Taiping held. Gordon used armed steamers to move along the canals. At Kunshan, in May 1863, he sailed an armoured paddle steamer called the Hyson up a canal while his men cut through the stakes the Taiping had driven into the water, so that his force got behind the main Taiping defences."
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/gordon-vanity-fair.jpg",
+          "alt": "A colour caricature of a man in a top hat and long dark coat, standing in profile holding a small stick.",
+          "caption": "Charles Gordon as drawn by Carlo Pellegrini for Vanity Fair, 19 February 1881. The caption under the figure reads 'The ever victorious army'. Nearly twenty years after Suzhou, that was still how the British public knew him.",
+          "credit": "Carlo Pellegrini (Ape), Vanity Fair, 1881; Yale Center for British Art, CC0, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3ACarlo_Pellegrini_-_Vanity_Fair%2C_Military_and_Navy%2C_%5EThe_Ever_Victorious_Army%5E%2C_Lt_Colonel_Charles_George_Gordon_-_B1979.14.403_-_Yale_Center_for_British_Art.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Late in 1863 Suzhou fell. Many Taiping were willing to surrender only if their lives and their families' lives would be spared, and Gordon had personally guaranteed that those who laid down their arms would be treated humanely. He kept his own soldiers, who had a habit of looting, out of the city, and only Qing troops went in. The Qing then executed the Taiping prisoners. Gordon was furious and regarded the massacre as a stain on his honour."
+        },
+        {
+          "type": "p",
+          "text": "When the emperor's messenger arrived with a reward of 10,000 taels of silver and a letter of thanks on yellow silk, Gordon refused the gifts. He wrote on the letter that he regretted that, 'owing to the circumstances which occurred since the capture of Soochow', he could not accept any mark of the emperor's recognition. He took his army to Kunshan and kept it inactive until February 1864, then returned to the campaign. The Ever Victorious Army was disbanded in May 1864, two months before Nanjing fell, and its 104 foreign officers and 2,288 Chinese soldiers were paid off."
+        },
+        {
+          "type": "p",
+          "text": "The episode shows the limits of foreign help. The Western-officered troops were useful, but they were few, never more than a few thousand men, and the Qing commanders were not willing to give foreigners control over how the war was fought or ended. The main Qing armies were Chinese provincial armies, loyal to Chinese commanders like Zeng and Li."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Same time elsewhere",
+      "title": "The Crimean War, Perry in Japan, the Indian Rebellion, the end of Russian serfdom, a new Italy, and the American Civil War",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Taiping war lasted from 1850 to 1864. Those fourteen years were crowded with wars and upheavals elsewhere, and several of them touched China directly. Inside China itself the Taiping were not the only rebels: the Nian Rebellion in the north lasted until 1868, the Panthay Rebellion of Muslims and others in Yunnan ran from 1855 to 1873, and the Dungan revolt in the northwest from 1862 to 1877."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In Europe, the Crimean War was fought from October 1853 to February 1856 between Russia and an alliance of the Ottoman Empire, France, Britain and Sardinia. It ended with the Treaty of Paris on 30 March 1856. Roger Fenton was one of its photographers, and the same British and French governments were fighting the Second Opium War in China within a year of the peace. Charles Gordon served at Sevastopol before he went to China.",
+            "In Japan, the American commodore Matthew Perry arrived in Edo Bay on 8 July 1853, less than four months after the Taiping took Nanjing, and returned in 1854 to sign the Convention of Kanagawa on 31 March, which opened two ports to American ships. Japan's rulers watched the Qing defeats closely. Fifteen years later the Tokugawa shogunate fell, which is the subject of the Meiji Restoration capsule.",
+            "In India, the rebellion of 1857 began with a mutiny of Indian soldiers at Meerut on 10 May 1857 and spread across the north. British power was restored after the rebels' defeat at Gwalior on 20 June 1858, and the East India Company's rule was handed to the British Crown. In May 1857 British troops on their way to China were diverted to India, which delayed the Second Opium War.",
+            "In Russia, Tsar Alexander II's Emancipation Manifesto of 3 March 1861 freed more than 23 million serfs on private estates. In China at the same moment, the Taiping were promising, on paper, to share out all land equally.",
+            "In Italy, the Kingdom of Italy was proclaimed on 17 March 1861, with Victor Emmanuel II, until then King of Sardinia, as its king.",
+            "In the United States, the Civil War began on 12 April 1861 and ended in 1865. It killed an estimated 700,000 soldiers and ended slavery for four million people. The historian Stephen Platt argues that the two civil wars were connected: Britain could not afford to lose both its American cotton trade and its China trade, and decided to keep out of the American war while helping the Qing end the Chinese one. That is his interpretation, not a settled fact, but the timing is real. Britain's turn against the Taiping came in 1862, the first full year of the American war."
+          ]
+        },
+        {
+          "type": "figure",
+          "src": "lessons/taiping-rebellion/fenton-valley-1855.jpg",
+          "alt": "A sepia photograph of an empty dirt road running through a bare valley, with cannonballs scattered across it.",
+          "caption": "Roger Fenton's photograph The Valley of the Shadow of Death, taken in April 1855 during the siege of Sevastopol in the Crimean War. Fenton was one of the first photographers to cover a war.",
+          "credit": "Roger Fenton, 1855; public domain, via Wikimedia Commons",
+          "credit_url": "https://commons.wikimedia.org/wiki/File%3AValley_of_the_Shadow_of_Death.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Set side by side, the numbers are hard to take in. The American Civil War killed about 700,000 soldiers and is remembered in the United States as the great catastrophe of the century. The Taiping war, fought over the same years, is estimated to have killed 20 to 30 million people, most of them civilians who died of hunger and disease. Both were civil wars over who should rule and on what terms, and in both cases foreign powers had to decide which side to deal with."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "An empty delta, Hunanese governors, arsenals and regional armies, and a revolution that later revolutionaries claimed",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The first result was loss of life on a scale that is hard to grasp. The provinces of the lower Yangtze, especially Anhui, southern Jiangsu, northern Zhejiang and northern Jiangxi, were badly depopulated and had to be resettled with migrants from Henan and elsewhere. For the first time in centuries there were not enough people to work the land, so labour became more valuable relative to land. Refugees poured into the foreign settlements at Shanghai, which helped the city grow into China's leading commercial port."
+        },
+        {
+          "type": "p",
+          "text": "The second result was a shift of power inside the Qing state. The dynasty had been saved not by its Manchu banner armies but by provincial armies raised and paid by Han Chinese officials, and loyal to them personally. Those officials were rewarded. By 1865, five of the empire's eight viceroys (governors-general) were from Hunan, Zeng Guofan's province. Some historians, following Franz Michael, have traced a line from these regional armies to the warlord armies that divided China after the dynasty fell. Others, as Diana Lary has summarised, doubt that the line is so direct, because the later armies grew in very different conditions."
+        },
+        {
+          "type": "p",
+          "text": "The third result was the Self-Strengthening Movement. Zeng Guofan, Li Hongzhang and Zuo Zongtang had seen in the war what Western guns and steamships could do. In the 1860s they set up arsenals and translation offices. The largest, the Jiangnan Arsenal in Shanghai, was founded in 1865 by combining the earlier arsenals at Suzhou and Anqing with machinery bought abroad. At the court, the Empress Dowager Cixi and Prince Gong supported this kind of technical reform while keeping the political system unchanged. This period of recovery is sometimes called the Tongzhi Restoration."
+        },
+        {
+          "type": "p",
+          "text": "The Taiping also left an idea. Their mixture of Christianity, Chinese tradition and radical equality impressed later revolutionaries. The Taiping example influenced Sun Yat-sen, born in Guangdong in 1866, who later led the revolution that ended the dynasty, and some Taiping veterans joined his early Revive China Society. Karl Marx wrote several articles about the Taiping but saw in them only violence and destruction, not a programme for change. In the People's Republic, Communist historians following Mao Zedong described the movement as a peasant revolution, an early form of their own. The historian John King Fairbank noted real parallels: both movements combined puritan discipline, a demand for doctrinal orthodoxy, a utopian social plan, farmer-soldiers, and a foreign ideology translated into Chinese."
+        },
+        {
+          "type": "p",
+          "text": "The same events can be read very differently. To many Chinese nationalists the Taiping were heroes who almost overthrew a foreign dynasty and were defeated because Britain and France sided with the Qing. To others they were a destructive religious cult that massacred civilians and burned books. To the Qing, and to admirers of Zeng Guofan, the war was a victory for order. Recent historians, especially Tobie Meyer-Fong in What Remains, have tried to move attention away from the leaders altogether, to the ordinary people who were caught between the two sides and how they remembered the dead."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "A question",
+      "title": "A question to keep asking",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "The Taiping promised land, equality between men and women and an end to opium, and their own leaders massacred each other and whole city populations. Their enemies saved an old order with new armies and new arsenals, and also killed on a vast scale. If you had been a farmer in the Yangtze delta in 1860, with nothing to gain from either side's victory, what would you have needed to survive, and which side would you have feared more?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Taiping Rebellion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+      "note": "A long, well-referenced overview of the war, its policies, its foreign relations and the debates over its name and death toll. Most dates in this capsule were checked against it."
+    },
+    {
+      "title": "Taiping Rebellion (1850–1864) — Asia for Educators, Columbia University",
+      "url": "https://afe.easia.columbia.edu/special/china_1750_taiping.htm",
+      "note": "A short teaching overview of Taiping beliefs and programme, written for students. Some of its dates differ slightly from those used here."
+    },
+    {
+      "title": "Excerpts from The Land System of the Heavenly Dynasty (PDF) — Asia for Educators",
+      "url": "https://afe.easia.columbia.edu/ps/cup/taiping_economic_pgm.pdf",
+      "note": "The Taiping land programme of 1853 in the translation from Sources of Chinese Tradition, with discussion questions. The quotations in this capsule come from this text."
+    },
+    {
+      "title": "Ti-Ping Tien-Kwoh: The History of the Ti-Ping Revolution, vol. 1 (1866) — Augustus Lindley, Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39180",
+      "note": "A first-hand account by a British officer who fought for the Taiping. Openly partisan, and valuable for exactly that reason."
+    },
+    {
+      "title": "The Visions of Hung-Siu-tshuen, and Origin of the Kwang-si Insurrection (1854) — Theodore Hamberg, Online Books Page",
+      "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp52256",
+      "note": "The earliest account of Hong Xiuquan's visions and the God Worshippers, based on what Hong Rengan told the missionary Hamberg in Hong Kong. Links to page scans."
+    },
+    {
+      "title": "God's Chinese Son — Jonathan Spence (W. W. Norton, 1996)",
+      "url": "https://wwnorton.com/books/Gods-Chinese-Son",
+      "note": "The classic narrative of Hong Xiuquan's life and religion, written for general readers."
+    },
+    {
+      "title": "Autumn in the Heavenly Kingdom — Stephen R. Platt (Knopf, 2012)",
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9780307472212",
+      "note": "A military and diplomatic history built around Zeng Guofan and Hong Rengan, and the source of the argument linking the Taiping war to the American Civil War."
+    },
+    {
+      "title": "Interview with Stephen Platt — Asia Society",
+      "url": "https://asiasociety.org/blog/asia/interview-qing-historian-past-political-drama-and-current-political-debate",
+      "note": "Platt explains how his book differs from Spence's and mentions Tobie Meyer-Fong's work on how ordinary people lived through the war."
+    }
+  ],
+  "watch": [
+    {
+      "title": "The Taiping Rebellion in China 1850–1864 — Stephen Platt, Asia for Educators video",
+      "url": "https://video.afe.easia.columbia.edu/video/the-taiping-rebellion-in-china-1850-1864/",
+      "note": "A 31-minute lecture with slides and a viewing guide, covering Hong Xiuquan, the capture of Nanjing, foreign intervention and the defeat of 1864."
+    }
+  ],
+  "listen": [
+    {
+      "title": "In Our Time: The Taiping Rebellion — BBC Radio 4 (2011)",
+      "url": "https://www.bbc.co.uk/programmes/b00yqvqt",
+      "note": "A 42-minute discussion with Rana Mitter, Frances Wood and Julia Lovell, presented by Melvyn Bragg."
+    }
+  ],
+  "fun_fact": {
+    "title": "Li Xiucheng's sword went to England and came back 117 years later",
+    "text": "When Li Xiucheng withdrew from Suzhou, he gave his sword, the symbol of his command, to his younger brother Li Shixian. It was taken when Charles Gordon's forces captured Li Shixian at Liyang, and Gordon brought it back to Britain and presented it to the Duke of Cambridge, Queen Victoria's cousin and the head of the British army. In 1961 the sword reached a history professor at the University of London, and in 1981 it was returned to China. It is now in the National Museum of China in Beijing. Li Xiucheng's palace in Suzhou also survives; it is the only Taiping palace still standing."
+  },
+  "glossary": [
+    {
+      "term": "Taiping Rebellion",
+      "aliases": [
+        "Taiping Civil War",
+        "Taiping war"
+      ],
+      "explain": "The civil war of 1850–1864 between the Qing dynasty and the Taiping Heavenly Kingdom. Also called the Taiping Civil War or, in China, the Taiping Heavenly Kingdom Movement."
+    },
+    {
+      "term": "Taiping Heavenly Kingdom",
+      "aliases": [
+        "Taiping Tianguo",
+        "Heavenly Kingdom of Great Peace",
+        "Heavenly Kingdom"
+      ],
+      "explain": "The state Hong Xiuquan proclaimed in 1851, Taiping Tianguo, 'Heavenly Kingdom of Great Peace', with its capital at Nanjing from 1853 to 1864."
+    },
+    {
+      "term": "Qing dynasty",
+      "aliases": [
+        "Qing"
+      ],
+      "explain": "The last imperial dynasty of China (1644–1912), ruled by the Manchu Aisin-Gioro family from Beijing."
+    },
+    {
+      "term": "Manchu",
+      "aliases": [
+        "Manchus"
+      ],
+      "explain": "The people from northeast Asia whose ruling family founded the Qing dynasty. The Taiping called them demons and massacred Manchu populations in the cities they took."
+    },
+    {
+      "term": "Hakka",
+      "aliases": [],
+      "explain": "A Han Chinese group in southern China, often later settlers in conflict with older local families. Hong Xiuquan and many early Taiping were Hakka."
+    },
+    {
+      "term": "Zhuang",
+      "aliases": [],
+      "explain": "A non-Han ethnic group of Guangxi; some early Taiping soldiers, especially miners, were Zhuang."
+    },
+    {
+      "term": "imperial examinations",
+      "aliases": [
+        "imperial examination",
+        "examinations"
+      ],
+      "explain": "The state examinations on the Confucian classics that selected officials. Passing them was the main route into government; Hong Xiuquan failed four times."
+    },
+    {
+      "term": "First Opium War",
+      "aliases": [],
+      "explain": "The war of 1839–1842 in which Britain defeated the Qing and forced open treaty ports."
+    },
+    {
+      "term": "Second Opium War",
+      "aliases": [
+        "Arrow War"
+      ],
+      "explain": "The war of 1856–1860 in which Britain and France defeated the Qing, occupied Beijing and burned the Old Summer Palace."
+    },
+    {
+      "term": "Old Summer Palace",
+      "aliases": [
+        "Yuanmingyuan"
+      ],
+      "explain": "The imperial garden palace outside Beijing, captured on 6 October 1860 and burned on 18 October on Lord Elgin's orders."
+    },
+    {
+      "term": "Convention of Peking",
+      "aliases": [],
+      "explain": "The treaties signed on 24 October 1860 by Prince Gong with Britain, France and Russia, ending the Second Opium War."
+    },
+    {
+      "term": "Taku forts",
+      "aliases": [
+        "Taku Fort",
+        "North Taku Fort"
+      ],
+      "explain": "Forts guarding the river approach to Tianjin and Beijing, captured by British and French troops on 21 August 1860."
+    },
+    {
+      "term": "God Worshipping Society",
+      "aliases": [
+        "God Worshippers"
+      ],
+      "explain": "The religious community founded by Feng Yunshan in Guangxi from 1844, following Hong Xiuquan's teaching; the core of the Taiping movement."
+    },
+    {
+      "term": "Thistle Mountain",
+      "aliases": [],
+      "explain": "The hill region of Guiping in Guangxi where the God Worshipping Society took root."
+    },
+    {
+      "term": "Jintian",
+      "aliases": [
+        "Jintian uprising"
+      ],
+      "explain": "The market town in Guiping, Guangxi, where the Taiping defeated Qing forces in January 1851, starting the rebellion."
+    },
+    {
+      "term": "Tianjing",
+      "aliases": [],
+      "explain": "'Heavenly Capital', the Taiping name for Nanjing from 1853 to 1864."
+    },
+    {
+      "term": "Tianjing Incident",
+      "aliases": [
+        "Tianjing purge"
+      ],
+      "explain": "The purge of September–October 1856 in which Yang Xiuqing and thousands of his followers were killed on Hong Xiuquan's orders."
+    },
+    {
+      "term": "Northern Expedition",
+      "aliases": [],
+      "explain": "The Taiping army sent north from Nanjing in 1853 to take Beijing; it was destroyed."
+    },
+    {
+      "term": "Western Expedition",
+      "aliases": [],
+      "explain": "The Taiping campaign up the Yangtze from 1853, which had more success than the Northern Expedition."
+    },
+    {
+      "term": "Land System of the Heavenly Dynasty",
+      "aliases": [
+        "Land System",
+        "Tianchao tianmu zhidu"
+      ],
+      "explain": "The Taiping programme of 1853 (Tianchao tianmu zhidu) promising land shared out by family size and common granaries. It was never carried out in practice."
+    },
+    {
+      "term": "Sources of Chinese Tradition",
+      "aliases": [],
+      "explain": "A Columbia University Press anthology of translated Chinese texts; the quoted Land System translation comes from the volume compiled by Wm. Theodore de Bary and Richard Lufrano (2000)."
+    },
+    {
+      "term": "Good Words to Admonish the Age",
+      "aliases": [
+        "Good Words for Exhorting the Age",
+        "Quanshi liangyan"
+      ],
+      "explain": "Liang Fa's Christian work, printed in Guangzhou in 1832, more than 500 pages long. Hong Xiuquan's reading of it shaped the Taiping religion."
+    },
+    {
+      "term": "Taiping Imperial Declaration",
+      "aliases": [
+        "Taiping Zhaoshu"
+      ],
+      "explain": "Taiping Zhaoshu (太平詔書), an early collection of Hong Xiuquan's religious writings printed by the Taiping."
+    },
+    {
+      "term": "Original Way",
+      "aliases": [
+        "Original Way tracts"
+      ],
+      "explain": "The three early religious tracts by Hong Xiuquan on the 'Original Way' (原道) for saving, awakening and enlightening the world, displayed in Nanjing."
+    },
+    {
+      "term": "A New Treatise on Aids to Administration",
+      "aliases": [
+        "New Treatise"
+      ],
+      "explain": "Hong Rengan's reform proposals of 1859, calling for railways, banks, newspapers and relations with the Western powers."
+    },
+    {
+      "term": "Ti-Ping Tien-Kwoh",
+      "aliases": [
+        "Ti-Ping Tien-Kwoh: The History of the Ti-Ping Revolution"
+      ],
+      "explain": "Augustus Lindley's two-volume history of the Taiping (1866), written by a British officer who fought for them."
+    },
+    {
+      "term": "The Visions of Hung-Siu-tshuen, and Origin of the Kwang-si Insurrection",
+      "aliases": [
+        "The Visions of Hung-Siu-tshuen"
+      ],
+      "explain": "Theodore Hamberg's 1854 account of Hong Xiuquan's visions and the God Worshippers, based on Hong Rengan's information."
+    },
+    {
+      "term": "God's Chinese Son",
+      "aliases": [],
+      "explain": "Jonathan Spence's 1996 narrative history of Hong Xiuquan and the Taiping Heavenly Kingdom."
+    },
+    {
+      "term": "Autumn in the Heavenly Kingdom",
+      "aliases": [],
+      "explain": "Stephen Platt's 2012 history of the Taiping war, centred on Zeng Guofan and Hong Rengan."
+    },
+    {
+      "term": "What Remains",
+      "aliases": [],
+      "explain": "Tobie Meyer-Fong's 2013 study of how ordinary people lived through the Taiping war and remembered its dead."
+    },
+    {
+      "term": "Xiang Army",
+      "aliases": [
+        "Hunan Army"
+      ],
+      "explain": "The provincial army raised in Hunan by Zeng Guofan, built on personal loyalty; the main Qing force against the Taiping."
+    },
+    {
+      "term": "Huai Army",
+      "aliases": [
+        "Anhui Army"
+      ],
+      "explain": "The provincial army raised by Li Hongzhang in Anhui in 1861–1862."
+    },
+    {
+      "term": "Ever Victorious Army",
+      "aliases": [
+        "Ever-Victorious Army"
+      ],
+      "explain": "A Qing force of Chinese soldiers under Western officers, active around Shanghai from 1860 to 1864, led by Frederick Townsend Ward and then Charles Gordon."
+    },
+    {
+      "term": "Eight Banners",
+      "aliases": [
+        "banner armies"
+      ],
+      "explain": "The hereditary Manchu-led military organisation of the Qing."
+    },
+    {
+      "term": "Green Standard Army",
+      "aliases": [],
+      "explain": "The Qing's regular army of Han Chinese soldiers."
+    },
+    {
+      "term": "Self-Strengthening Movement",
+      "aliases": [],
+      "explain": "Qing reforms from about 1861 to 1895 that imported Western military technology and knowledge without changing the political system."
+    },
+    {
+      "term": "Tongzhi Restoration",
+      "aliases": [],
+      "explain": "The period of Qing recovery in the 1860s and early 1870s, named after the Tongzhi Emperor."
+    },
+    {
+      "term": "Jiangnan Arsenal",
+      "aliases": [
+        "Kiangnan Arsenal"
+      ],
+      "explain": "The arsenal founded in Shanghai in 1865, the largest of the Self-Strengthening arsenals; now the Jiangnan Shipyard."
+    },
+    {
+      "term": "Nian Rebellion",
+      "aliases": [
+        "Nian"
+      ],
+      "explain": "A rebellion in northern China against the Qing that lasted until 1868."
+    },
+    {
+      "term": "Panthay Rebellion",
+      "aliases": [],
+      "explain": "A rebellion led by Muslims in Yunnan, 1855–1873."
+    },
+    {
+      "term": "Dungan revolt",
+      "aliases": [],
+      "explain": "A Muslim uprising in northwest China, 1862–1877."
+    },
+    {
+      "term": "Crimean War",
+      "aliases": [],
+      "explain": "The war of 1853–1856 between Russia and an alliance of the Ottoman Empire, France, Britain and Sardinia."
+    },
+    {
+      "term": "Convention of Kanagawa",
+      "aliases": [],
+      "explain": "The treaty of 31 March 1854 between the United States and Japan that opened two Japanese ports to American ships."
+    },
+    {
+      "term": "Indian Rebellion of 1857",
+      "aliases": [
+        "rebellion of 1857"
+      ],
+      "explain": "The rising against East India Company rule that began at Meerut on 10 May 1857."
+    },
+    {
+      "term": "Emancipation Manifesto",
+      "aliases": [],
+      "explain": "Alexander II's decree of 3 March 1861 freeing the serfs of the Russian Empire."
+    },
+    {
+      "term": "American Civil War",
+      "aliases": [],
+      "explain": "The war of 1861–1865 between the United States and the secessionist Confederacy."
+    },
+    {
+      "term": "Vanity Fair",
+      "aliases": [],
+      "explain": "A London society magazine (1868–1914) known for its full-page caricatures of public figures."
+    },
+    {
+      "term": "The Valley of the Shadow of Death",
+      "aliases": [],
+      "explain": "Roger Fenton's 1855 photograph of a cannonball-strewn road during the siege of Sevastopol."
+    },
+    {
+      "term": "In Our Time",
+      "aliases": [],
+      "explain": "A BBC Radio 4 discussion programme on the history of ideas, presented by Melvyn Bragg."
+    },
+    {
+      "term": "Hong Xiuquan",
+      "aliases": [
+        "Hong",
+        "Heavenly King"
+      ],
+      "explain": "1814–1864. Founder and Heavenly King of the Taiping Heavenly Kingdom."
+    },
+    {
+      "term": "Feng Yunshan",
+      "aliases": [
+        "Feng"
+      ],
+      "explain": "1815–1852. Hong Xiuquan's early convert who founded the God Worshipping Society; the South King."
+    },
+    {
+      "term": "Yang Xiuqing",
+      "aliases": [
+        "Yang",
+        "East King"
+      ],
+      "explain": "1821–1856. The East King and Taiping commander-in-chief, who claimed God spoke through him; killed in the Tianjing Incident."
+    },
+    {
+      "term": "Xiao Chaogui",
+      "aliases": [],
+      "explain": "c. 1820–1852. The West King, who claimed Jesus spoke through him."
+    },
+    {
+      "term": "Wei Changhui",
+      "aliases": [
+        "Wei"
+      ],
+      "explain": "The North King, a landowner from Jintian who led the killing of Yang Xiuqing and was executed in 1856."
+    },
+    {
+      "term": "Qin Rigang",
+      "aliases": [
+        "Qin"
+      ],
+      "explain": "1821–1856. Taiping general who joined in the killing of Yang Xiuqing and was executed by Hong."
+    },
+    {
+      "term": "Shi Dakai",
+      "aliases": [
+        "Wing King"
+      ],
+      "explain": "1831–1863. The Wing King, the most admired Taiping general; left Nanjing in 1857 and was executed in 1863."
+    },
+    {
+      "term": "Hong Rengan",
+      "aliases": [
+        "Shield King"
+      ],
+      "explain": "1822–1864. Hong Xiuquan's cousin, the Shield King and Taiping reformer."
+    },
+    {
+      "term": "Li Xiucheng",
+      "aliases": [
+        "Loyal King",
+        "Le-Siu-Cheng",
+        "Chung-Wang"
+      ],
+      "explain": "1823–1864. The Loyal King, the leading Taiping general of the later years."
+    },
+    {
+      "term": "Li Shixian",
+      "aliases": [],
+      "explain": "Li Xiucheng's younger brother, a Taiping commander."
+    },
+    {
+      "term": "Chen Yucheng",
+      "aliases": [],
+      "explain": "c. 1837–1862. Taiping general who tried and failed to relieve Anqing."
+    },
+    {
+      "term": "Hong Tianguifu",
+      "aliases": [],
+      "explain": "1849–1864. Hong Xiuquan's son, proclaimed king in June 1864 and executed that November."
+    },
+    {
+      "term": "Zeng Guofan",
+      "aliases": [
+        "Zeng"
+      ],
+      "explain": "1811–1872. Hunanese scholar-official who raised the Xiang Army and directed the defeat of the Taiping."
+    },
+    {
+      "term": "Zeng Guoquan",
+      "aliases": [],
+      "explain": "1824–1890. Zeng Guofan's brother, who commanded the sieges of Anqing and Nanjing."
+    },
+    {
+      "term": "Li Hongzhang",
+      "aliases": [],
+      "explain": "1823–1901. Zeng's student, founder of the Huai Army, later the leading Qing statesman."
+    },
+    {
+      "term": "Zuo Zongtang",
+      "aliases": [],
+      "explain": "1812–1885. Hunanese general who fought the Taiping and later the northwest rebellions."
+    },
+    {
+      "term": "Frederick Townsend Ward",
+      "aliases": [
+        "Ward"
+      ],
+      "explain": "1831–1862. American adventurer who founded the Ever Victorious Army; killed in battle."
+    },
+    {
+      "term": "Charles George Gordon",
+      "aliases": [
+        "Charles Gordon",
+        "Gordon",
+        "Chinese Gordon"
+      ],
+      "explain": "1833–1885. British officer who commanded the Ever Victorious Army from 1863; known as 'Chinese Gordon'."
+    },
+    {
+      "term": "Issachar Jacox Roberts",
+      "aliases": [
+        "Roberts"
+      ],
+      "explain": "1802–1871. American Baptist missionary who taught Hong in 1847, refused to baptise him, and later advised the Taiping."
+    },
+    {
+      "term": "Liang Fa",
+      "aliases": [],
+      "explain": "1789–1855. Early Chinese Protestant preacher, author of Good Words to Admonish the Age."
+    },
+    {
+      "term": "Robert Morrison",
+      "aliases": [],
+      "explain": "1782–1834. The first Protestant missionary in China, who ordained Liang Fa."
+    },
+    {
+      "term": "Theodore Hamberg",
+      "aliases": [
+        "Hamberg"
+      ],
+      "explain": "1819–1854. Swedish missionary in Hong Kong who wrote the first account of Hong's visions."
+    },
+    {
+      "term": "James Legge",
+      "aliases": [],
+      "explain": "1815–1897. Scottish missionary and translator of the Chinese classics, who worked with Hong Rengan in Hong Kong."
+    },
+    {
+      "term": "Augustus Lindley",
+      "aliases": [
+        "Augustus F. Lindley",
+        "Lindley"
+      ],
+      "explain": "1840–1873. British naval officer who served the Taiping and wrote Ti-Ping Tien-Kwoh."
+    },
+    {
+      "term": "Xianfeng Emperor",
+      "aliases": [
+        "Xianfeng"
+      ],
+      "explain": "1831–1861. Qing emperor from 1850; fled Beijing in 1860 and died at Jehol."
+    },
+    {
+      "term": "Tongzhi Emperor",
+      "aliases": [
+        "Tongzhi"
+      ],
+      "explain": "1856–1875. Xianfeng's son, emperor from 1861 under regency."
+    },
+    {
+      "term": "Empress Dowager Cixi",
+      "aliases": [
+        "Cixi"
+      ],
+      "explain": "1835–1908. Mother of the Tongzhi Emperor and the dominant figure at the Qing court from 1861."
+    },
+    {
+      "term": "Ci'an",
+      "aliases": [],
+      "explain": "Empress Dowager Ci'an, the Xianfeng Emperor's widow and co-regent with Cixi until 1881."
+    },
+    {
+      "term": "Prince Gong",
+      "aliases": [],
+      "explain": "1833–1898. Xianfeng's brother, who negotiated with the British and French in 1860 and led the government in the early 1860s."
+    },
+    {
+      "term": "Lord Elgin",
+      "aliases": [
+        "Elgin"
+      ],
+      "explain": "1811–1863. James Bruce, 8th Earl of Elgin, British high commissioner in China, who ordered the burning of the Old Summer Palace in 1860."
+    },
+    {
+      "term": "Duke of Cambridge",
+      "aliases": [],
+      "explain": "Prince George, Queen Victoria's cousin and commander-in-chief of the British army, who received Li Xiucheng's sword."
+    },
+    {
+      "term": "Karl Marx",
+      "aliases": [
+        "Marx"
+      ],
+      "explain": "1818–1883. German philosopher who wrote several newspaper articles about the Taiping."
+    },
+    {
+      "term": "Sun Yat-sen",
+      "aliases": [],
+      "explain": "1866–1925. Revolutionary leader from Guangdong who founded the Republic of China; influenced by the Taiping example."
+    },
+    {
+      "term": "Mao Zedong",
+      "aliases": [
+        "Mao"
+      ],
+      "explain": "1893–1976. Leader of the Chinese Communist Party, under whom Communist historians described the Taiping as a peasant revolution."
+    },
+    {
+      "term": "Chiang Kai-shek",
+      "aliases": [],
+      "explain": "1887–1975. Nationalist leader who, like Mao, praised Zeng Guofan's ability."
+    },
+    {
+      "term": "John King Fairbank",
+      "aliases": [],
+      "explain": "1907–1991. American historian of China who compared the Taiping with the Chinese Communists."
+    },
+    {
+      "term": "Franz Michael",
+      "aliases": [],
+      "explain": "Historian who argued that the Taiping-era regional armies led to the later warlord armies."
+    },
+    {
+      "term": "Diana Lary",
+      "aliases": [],
+      "explain": "Historian of modern China who reviewed the arguments about regional armies and warlords."
+    },
+    {
+      "term": "Jonathan Spence",
+      "aliases": [
+        "Spence"
+      ],
+      "explain": "1936–2021. Yale historian of China, author of God's Chinese Son."
+    },
+    {
+      "term": "Stephen Platt",
+      "aliases": [
+        "Stephen R. Platt",
+        "Platt"
+      ],
+      "explain": "American historian at the University of Massachusetts Amherst, author of Autumn in the Heavenly Kingdom."
+    },
+    {
+      "term": "Tobie Meyer-Fong",
+      "aliases": [
+        "Meyer-Fong"
+      ],
+      "explain": "Historian at Johns Hopkins University, author of What Remains."
+    },
+    {
+      "term": "Wu Youru",
+      "aliases": [],
+      "explain": "c. 1840–1893. Suzhou painter and illustrator, to whom the Anqing painting is attributed."
+    },
+    {
+      "term": "Wu Jiashan",
+      "aliases": [],
+      "explain": "1818–1885. The person credited on Wikimedia Commons with the 1871 photograph of Zeng Guofan."
+    },
+    {
+      "term": "Liang Shitai",
+      "aliases": [],
+      "explain": "Nineteenth-century Chinese photographer who photographed Li Hongzhang."
+    },
+    {
+      "term": "Felice Beato",
+      "aliases": [],
+      "explain": "c. 1832–1909. Italian-British photographer who photographed the Second Opium War in 1860."
+    },
+    {
+      "term": "Roger Fenton",
+      "aliases": [],
+      "explain": "1819–1869. English photographer of the Crimean War."
+    },
+    {
+      "term": "Carlo Pellegrini",
+      "aliases": [
+        "Ape"
+      ],
+      "explain": "1839–1889. Italian-born caricaturist for Vanity Fair, who signed as 'Ape'."
+    },
+    {
+      "term": "Matthew Perry",
+      "aliases": [
+        "Perry"
+      ],
+      "explain": "1794–1858. US Navy commodore who forced the opening of Japan in 1853–1854."
+    },
+    {
+      "term": "Alexander II",
+      "aliases": [],
+      "explain": "1818–1881. Russian tsar who emancipated the serfs in 1861."
+    },
+    {
+      "term": "Victor Emmanuel II",
+      "aliases": [],
+      "explain": "1820–1878. First king of united Italy from 1861."
+    },
+    {
+      "term": "Rana Mitter",
+      "aliases": [],
+      "explain": "Oxford historian of modern China, a guest on In Our Time."
+    },
+    {
+      "term": "Frances Wood",
+      "aliases": [],
+      "explain": "Former head of the Chinese section at the British Library, a guest on In Our Time."
+    },
+    {
+      "term": "Julia Lovell",
+      "aliases": [],
+      "explain": "Historian of China at Birkbeck, University of London, a guest on In Our Time."
+    },
+    {
+      "term": "Melvyn Bragg",
+      "aliases": [],
+      "explain": "British broadcaster who presents In Our Time."
+    },
+    {
+      "term": "Wm. Theodore de Bary",
+      "aliases": [
+        "de Bary"
+      ],
+      "explain": "1919–2017. Columbia scholar of East Asian thought who compiled Sources of Chinese Tradition."
+    },
+    {
+      "term": "Richard Lufrano",
+      "aliases": [],
+      "explain": "Historian and co-compiler of the second edition of Sources of Chinese Tradition, volume 2."
+    },
+    {
+      "term": "Edwin Stevens",
+      "aliases": [],
+      "explain": "1802–1837. American missionary in Guangzhou, from whom Hong received Liang Fa's pamphlets in 1836."
+    },
+    {
+      "term": "Revive China Society",
+      "aliases": [],
+      "explain": "Sun Yat-sen's first revolutionary organisation, founded in 1894."
+    },
+    {
+      "term": "Jesus Christ",
+      "aliases": [
+        "Jesus"
+      ],
+      "explain": "The central figure of Christianity. Hong Xiuquan taught that Jesus was his heavenly elder brother."
+    },
+    {
+      "term": "Queen Victoria",
+      "aliases": [],
+      "explain": "1819–1901. Queen of the United Kingdom from 1837."
+    },
+    {
+      "term": "The Suppression of the Taiping Rebellion",
+      "aliases": [],
+      "explain": "The title Wikimedia Commons gives to an anonymous Qing silk painting of about 1860 showing imperial troops on campaign."
+    },
+    {
+      "term": "East India Company",
+      "aliases": [],
+      "explain": "The British trading company that ruled much of India until its powers passed to the Crown in 1858."
+    },
+    {
+      "term": "Tokugawa shogunate",
+      "aliases": [],
+      "explain": "The military government that ruled Japan from 1603 until 1868."
+    },
+    {
+      "term": "Han Chinese",
+      "aliases": [
+        "Han"
+      ],
+      "explain": "The majority ethnic group of China, as distinct from the Manchu rulers of the Qing."
+    },
+    {
+      "term": "Meiji Restoration",
+      "aliases": [],
+      "explain": "The restoration of imperial rule in Japan in 1868; see the separate capsule."
+    }
+  ]
+}
