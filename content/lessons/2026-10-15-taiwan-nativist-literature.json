@@ -1,0 +1,899 @@
+{
+  "slug": "taiwan-nativist-literature",
+  "date": "2026-10-15",
+  "subject": "literature",
+  "related": [
+    "russian-realism",
+    "high-modernism",
+    "latin-american-boom",
+    "harlem-renaissance",
+    "taiwan-new-cinema",
+    "taiwan-womens-movement"
+  ],
+  "title": "Taiwan's Nativist Literature (c. 1964–1979): writing the island's own people",
+  "dek": "In the 1960s and 1970s a group of Taiwanese writers turned away from both government anti-communist fiction and the fashionable modernism of the university journals, and wrote instead about fishermen, sandwich-board men, oxcart drivers, refinery workers and bar girls in the towns of Taiwan. Their stories became known as nativist literature, or xiangtu wenxue. In 1977 a newspaper essay called \"The Wolf Is Here\" turned an argument about fiction into a political confrontation under martial law, and the questions it raised about Taiwan, China, class and identity are still being argued today.",
+  "era": "c. 1964–1979, with roots in the 1930s",
+  "reading_minutes": 22,
+  "honesty": "This lesson relies mainly on the Chinese- and English-language Wikipedia articles on the 1977–78 nativist literature debate, on nativist literature, and on the writers named here, together with the essays those articles cite. Romanised names follow the spellings most commonly used in Taiwan and in English translations, so they do not all follow one system. Where a story's first magazine publication date could not be confirmed, the lesson gives the year of the book that collected it, or no year. The movement's labels are themselves contested: some of the writers disliked the word \"nativist\", and later critics disagree about whether the 1977 debate was really about literature at all. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1926",
+      "label": "Lai He's first vernacular story",
+      "detail": "On 1 January 1926 the doctor and writer Lai He, in Changhua under Japanese rule, publishes the story \"Dou Nao Re\" (Competing in Festivities) in written vernacular Chinese. He goes on to edit the literary pages of the Taiwan Minpao and is later called the father of Taiwan's new literature."
+    },
+    {
+      "year": "1930",
+      "label": "The first nativist literature debate",
+      "detail": "In August 1930 Huang Shih-hui publishes \"Why Not Promote Nativist Literature?\" in the left-wing paper Wu Ren Bao. He argues that Taiwanese literature should describe Taiwan and be written in the Taiwanese language. Nearly four years of argument follow about whether to write in Taiwanese or in standard written Chinese."
+    },
+    {
+      "year": "1945",
+      "label": "Orphan of Asia is finished",
+      "detail": "Wu Zhuoliu completes the novel later known as Orphan of Asia, about a Taiwanese intellectual who is treated as an outsider by the Japanese, by his own neighbours and by the Chinese on the mainland."
+    },
+    {
+      "year": "1949",
+      "label": "Martial law and the anti-communist line",
+      "detail": "The Nationalist (KMT) government retreats to Taiwan and imposes martial law, which lasts until 1987. Through the 1950s official prizes and newspapers favour anti-communist fiction and nostalgic writing about the lost mainland."
+    },
+    {
+      "year": "1960",
+      "label": "Modern Literature is founded",
+      "detail": "In March 1960 students in the foreign languages department of National Taiwan University, including Pai Hsien-yung, Wang Wen-hsing, Ouyang Tzu and Chen Ruoxi, found the magazine Modern Literature to translate Western modernists and experiment with new forms."
+    },
+    {
+      "year": "1964",
+      "label": "Taiwan Literature and The General Clan",
+      "detail": "In April 1964 Wu Zhuoliu founds the magazine Taiwan Literature, which publishes many of the writers later called nativists. The same year Chen Ying-chen writes \"The General Clan\"."
+    },
+    {
+      "year": "1966",
+      "label": "Literary Quarterly",
+      "detail": "Wei Tien-tsung founds Literary Quarterly. It begins by introducing Western modernism but soon becomes the main home of stories about Taiwanese life by Chen Ying-chen, Huang Chun-ming and Wang Chen-ho."
+    },
+    {
+      "year": "1967",
+      "label": "An Oxcart for Dowry",
+      "detail": "Wang Chen-ho publishes \"An Oxcart for Dowry\" in Literary Quarterly, a darkly comic story written in a mix of Mandarin and Taiwanese Hokkien."
+    },
+    {
+      "year": "1968",
+      "label": "Chen Ying-chen is arrested",
+      "detail": "In July the security police arrest Chen Ying-chen and dozens of others for reading Marxist books and Lu Xun. On 31 December he is sentenced to ten years in prison."
+    },
+    {
+      "year": "1971",
+      "label": "Taiwan loses its UN seat",
+      "detail": "In October the Republic of China loses its seat at the United Nations. Together with the Diaoyutai protests of 1970–71 and Japan's break in diplomatic relations in 1972, this pushes many young people to ask what Taiwan really is."
+    },
+    {
+      "year": "1975",
+      "label": "Chen Ying-chen is released",
+      "detail": "After Chiang Kai-shek's death, an amnesty releases Chen Ying-chen three years early. He returns to writing and editing."
+    },
+    {
+      "year": "1977",
+      "label": "The debate breaks out",
+      "detail": "In April the magazine Cactus prints three essays on nativist literature, by Wang Tuo, Yin Cheng-hsiung and Chu Hsi-ning. In the same year Yeh Shih-tao publishes \"An Introduction to the History of Taiwan's Nativist Literature\" in Xiachao."
+    },
+    {
+      "year": "Aug 1977",
+      "label": "\"The Wolf Is Here\"",
+      "detail": "Peng Ge attacks Wang Tuo, Wei Tien-tsung and Chen Ying-chen in the United Daily News on 17–19 August. On 20 August the poet Yu Kwang-chung publishes \"The Wolf Is Here\", comparing nativist writing to the Communist Party's literature of workers, peasants and soldiers. On 29 August the KMT holds a literature conference to which the accused writers are not invited."
+    },
+    {
+      "year": "1978",
+      "label": "The government calls a halt",
+      "detail": "At an armed forces literature conference in January 1978, General Wang Sheng says that love of one's native soil, enlarged, becomes love of the nation. The official attacks stop."
+    },
+    {
+      "year": "1979",
+      "label": "The Kaohsiung Incident",
+      "detail": "On 10 December 1979 a human rights rally organised by Formosa magazine in Kaohsiung ends in clashes and mass arrests. The nativist writers Wang Tuo and Yang Ching-chu are among those sent to prison."
+    },
+    {
+      "year": "1983",
+      "label": "The Sandwich Man",
+      "detail": "Three young directors film three Huang Chun-ming stories as The Sandwich Man, one of the founding films of Taiwan New Cinema."
+    },
+    {
+      "year": "1987",
+      "label": "A history of Taiwan's literature; martial law ends",
+      "detail": "In February Yeh Shih-tao publishes his Outline History of Taiwan Literature, the first history of Taiwanese literature written by a Taiwanese author. In July martial law is lifted."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Three kinds of literature that left ordinary Taiwanese out",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "To see why nativist literature mattered, start with who was allowed to write what in Taiwan. From 1895 to 1945 Taiwan was a Japanese colony. In the 1920s a new literature appeared there, written in vernacular Chinese rather than classical Chinese. Its central figure was Lai He, a doctor in Changhua who wrote stories such as \"A Steelyard\" about a vegetable seller ruined by a Japanese policeman. Lai He is often called the father of Taiwan's new literature, and the writers who followed him, including Yang Kui, Lu Heruo and Wu Zhuoliu, wrote about farmers, colonial police and the humiliation of being second-class subjects."
+        },
+        {
+          "type": "p",
+          "text": "Those writers also had an argument that the 1970s would repeat. In August 1930 Huang Shih-hui published an essay called \"Why Not Promote Nativist Literature?\" He said that a literature of Taiwan should describe Taiwan and should be written in the language people in Taiwan actually spoke, Taiwanese Hokkien, rather than in the written Chinese of the mainland. For almost four years writers argued about this, and the dispute is now remembered as the first nativist literature debate. It ended without a settlement. By the late 1930s the colonial government was pushing writers to use Japanese, and many of the best Taiwanese writers of the 1940s, including the young Yeh Shih-tao, published in Japanese."
+        },
+        {
+          "type": "p",
+          "text": "In 1945 Taiwan was handed to the Republic of China. The writers who had grown up under Japan now had to learn Mandarin and start again. Yeh Shih-tao began learning Chinese after the war and was then imprisoned for three years in the White Terror of the 1950s. Wu Zhuoliu had finished Orphan of Asia in 1945, a novel about a Taiwanese man who belongs nowhere: the Japanese treat him as inferior, and on the mainland he is suspected of being a Japanese spy. Chung Li-ho, a Hakka writer from Meinong, won second prize in a government novel competition in 1956 for Lishan Farm, but the prize committee closed before it could publish the book. He died in 1960 while revising a manuscript, coughing blood, and later writers called him the writer who fell in a pool of blood."
+        },
+        {
+          "type": "p",
+          "text": "After the Nationalist government moved to Taiwan in 1949 and declared martial law, the literature that received prizes and newspaper space was mostly anti-communist fiction and nostalgic writing about the mainland that the government had lost. Neither had much room for the farmers, workers and small-town families of Taiwan itself."
+        },
+        {
+          "type": "p",
+          "text": "The third kind of literature arrived in 1960. Students in the foreign languages department of National Taiwan University, among them Pai Hsien-yung, Wang Wen-hsing, Ouyang Tzu and Chen Ruoxi, founded a magazine called Modern Literature. Its first issue was devoted to Franz Kafka. The editors wanted to translate Western modernists and to invent new forms, because, as their opening statement put it, the old forms and styles were not enough to express the feelings of modern people. Modern Literature produced some of the finest Chinese-language fiction of the century, including Pai Hsien-yung's collection Taipei People (1971) and Wang Wen-hsing's novel Family Catastrophe (1973). But modernism in Taiwan was also safe. A story about alienation and the inner life did not have to say anything about land reform, factories or the police. The nativist writers grew up reading these modernists, and several first published in Modern Literature, but they came to feel that something had been left out."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "What \"nativist\" meant",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Chinese term is xiangtu wenxue, literally \"literature of the native soil\" or \"literature of the home village\". It is usually translated as nativist literature. The label was never precise, and the writers argued about it, but the stories grouped under it share several features."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ordinary people at the centre. The main characters are fishermen, peddlers, oxcart drivers, retired soldiers, factory girls, prostitutes and small shopkeepers, not intellectuals.",
+            "Real places in Taiwan. Huang Chun-ming wrote about the Lanyang plain around Yilan, Wang Chen-ho about Hualien, Wang Tuo about the fishing village of Badouzi near Keelung, and Yang Ching-chu about the oil refinery in Kaohsiung.",
+            "The language people spoke. Dialogue and sometimes narration mix Mandarin with Taiwanese Hokkien, Japanese loanwords and English, as people in Taiwan actually did.",
+            "Social change and its costs. The 1960s and 1970s were the years of Taiwan's export boom, of American aid and Japanese investment, of export processing zones and young people moving from villages to factories and cities. Nativist stories ask who paid for that growth.",
+            "Realism with sympathy. Most nativist fiction is realist in method, close to the nineteenth-century realism of Chekhov or the Russian novelists, but it is often funny, and it treats its poor characters with respect rather than pity."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The writers did not agree on the name. In his April 1977 essay Wang Tuo argued that the movement should be called realist literature, not nativist literature, because the point was not the countryside but social reality, and that included the workers and slums of the cities. Yeh Shih-tao gave a broader definition: nativist literature was any writing by people living on the land of Taiwan that came out of their shared experience, whatever language they wrote in and whichever province their families came from. Under the surface was a harder question that could not be asked openly under martial law. When these writers said \"the native soil\", did they mean Taiwan as one part of China, or Taiwan as a place with its own history and identity? The writers themselves gave different answers, and that disagreement would split them in the 1980s."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "The writers and the magazines",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The movement grew in small literary magazines rather than in the big newspapers. Wu Zhuoliu, by then in his sixties, founded Taiwan Literature in April 1964 and in 1969 used his retirement money to set up the Wu Zhuoliu Literary Prize. Wei Tien-tsung founded Literary Quarterly in 1966. Lin Hai-yin, who edited the literary supplement of the United Daily News in the 1950s and early 1960s, gave space to young Taiwanese writers, including Chung Li-ho in his last years and the young Huang Chun-ming. Later in the 1970s the magazines Xiachao and Cactus carried the arguments about what the movement meant."
+        },
+        {
+          "type": "p",
+          "text": "Huang Chun-ming, born in 1935 in Luodong in Yilan, is the writer most readers think of first. He was expelled from several schools before finishing teacher training, and worked as a primary school teacher, a radio reporter and an advertising man. A teacher at his middle school gave him Chekhov's stories and the fiction of Shen Congwen and Ba Jin, and he later named Hemingway, Mark Twain and Faulkner as influences too. His stories of the late 1960s and 1970s include \"His Son's Big Doll\", \"The Gong\", \"The Taste of Apples\" and \"Sayonara, Zaijian\". They are often funny and often painful, and they show poor people keeping their dignity while the economy changes around them."
+        },
+        {
+          "type": "p",
+          "text": "Wang Chen-ho, born in Hualien in 1940, started as a modernist. His first story appeared in Modern Literature in 1961, while he was a student at National Taiwan University. When the novelist Eileen Chang visited Taiwan that year, she read it, went with him to Hualien and encouraged him to keep writing. He learned dramatic technique from Eugene O'Neill and Tennessee Williams, and he used it to write about the small people of his hometown. \"An Oxcart for Dowry\", first printed in Literary Quarterly in 1967, is a bitterly comic story about a poor, nearly deaf man who rents out his wife to another man in exchange for the oxcart he needs to make a living. Its language mixes Mandarin and Taiwanese so freely that a proofreading error in the first printing angered Wang, and the magazine printed the whole story again in the next issue."
+        },
+        {
+          "type": "p",
+          "text": "Chen Ying-chen, born in 1937, was the movement's most political writer and its leading theorist. His early stories, beginning with \"The Noodle Stall\" in 1959, were melancholy and lyrical. \"The General Clan\" (1964) tells of an ageing mainland soldier who plays the trumpet in a travelling entertainment troupe and a Taiwanese girl who has been sold into prostitution. He gives her his savings to buy her freedom, she is sold again anyway, and when they meet years later they die together in a sugarcane field. Chen read Marx and Lu Xun, which were banned. In 1968 he was arrested with a reading group and sentenced to ten years. Released in 1975, he went on to write and edit, and became one of the main defenders of the nativists in the 1977 debate."
+        },
+        {
+          "type": "p",
+          "text": "Several other writers belong in the picture. Wang Tuo, born in 1944 in Badouzi, worked his way through university as a coal carrier on the Keelung docks, a shipyard painter and a fisherman, and his stories such as Aunt Jinshui, based on his mother, describe the fishing villages he knew. Yang Ching-chu worked for nineteen years at the Kaohsiung oil refinery, where his father had died in an explosion, and became known as the workers' writer for stories such as \"The Virgin Man\" (1969) and the collection Factory People. Chung Chao-cheng wrote long multi-volume novels about Taiwanese history, beginning with his Muddy Stream trilogy in the early 1960s and then the Taiwanese Trilogy. Yeh Shih-tao, a primary school teacher in the south for most of his life, became the movement's historian."
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "Deep dive",
+      "title": "Huang Chun-ming's sandwich man and his Japanese tourists",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "\"His Son's Big Doll\", collected in book form in 1969, is the best-known nativist story and a good place to see how the movement worked. Kun-shu is a young man in a small town who cannot find work. To feed his wife and baby he takes a job advertising films for the local cinema: he paints his face like a clown, puts on an old costume, and walks the streets all day wearing boards with film posters on his front and back. People laugh at him, and his relatives are ashamed. The turn of the story comes at home. One day Kun-shu comes home without his make-up, and his baby son does not recognise him and cries. The child only knows his father as the clown. Kun-shu sits down in front of the mirror and starts to paint his face again."
+        },
+        {
+          "type": "p",
+          "text": "Nothing in the story is a speech about economics, but the economics are everywhere. Kun-shu has the job because a small town now has a cinema showing foreign films, and because there is no other work for a man like him. The clown face is both his humiliation and the thing his son loves. Huang does not ask the reader to pity Kun-shu. He shows a man who does a ridiculous job seriously because his family depends on it. That combination of humour, close observation and respect is what readers mean when they call Huang a nativist writer."
+        },
+        {
+          "type": "p",
+          "text": "\"Sayonara, Zaijian\" (the title means \"goodbye\" in Japanese and then in Mandarin), first published in the China Times literary supplement in 1973, is angrier. Its narrator, an office worker named Huang who shares the author's surname, is ordered by his company to take seven visiting Japanese businessmen to his own hometown, the hot-spring town of Jiaoxi, so that they can sleep with its women. He hates what Japan did to China and Taiwan, but he needs the job. On the train back to Taipei he finds himself interpreting between the Japanese men and a Chinese literature student from National Taiwan University who admires Japan, and he deliberately mistranslates, scolding the student for worshipping Japan and pressing the Japanese men to admit what their generation did in the war. The story turns the export economy of the early 1970s, with its Japanese investors and its sex tourism, into a comedy of bad translation, and it asks what kind of independence Taiwan has when its own people serve as guides to its own humiliation."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "1977: \"The Wolf Is Here\"",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "For more than a decade nativist fiction was simply one kind of writing among others. In 1977 it became the subject of the most important literary argument in post-war Taiwan. The April 1977 issue of the magazine Cactus printed three essays at once. Wang Tuo welcomed the rise of nativist writing and proposed calling it realist literature. Yin Cheng-hsiung, in an essay titled \"Where Does the Bell in the Graveyard Come From?\", warned that some nativist fiction, including Wang Tuo's, risked becoming a tool for expressing hatred. Chu Hsi-ning, a novelist who had come to Taiwan with the army, asked whether a land occupied by Japan for half a century could be relied on for its loyalty to Chinese culture, and hinted that too much stress on Taiwan sounded like separatism."
+        },
+        {
+          "type": "p",
+          "text": "In August the argument moved to the largest newspapers. Peng Ge, the chief editorial writer of the KMT's Central Daily News, published a three-part essay in the United Daily News on 17 to 19 August titled \"Without Human Nature, How Can There Be Literature?\" He named Wang Tuo, Wei Tien-tsung and Chen Ying-chen and accused them of seeing only class, not good and evil, which in Taiwan in 1977 meant accusing them of sounding like communists. On 20 August the poet Yu Kwang-chung, one of the most admired writers in Taiwan, published a short essay in the same paper called \"The Wolf Is Here\". It began by saying that since he had come back to Taiwan two weeks before, the most alarming thing his writer friends were talking about was that someone in Taiwan was now openly promoting the literature of workers, peasants and soldiers, the official literature of Mao's China. He wrote that nativist literature seemed, surprisingly, to have hidden points in common with it."
+        },
+        {
+          "type": "p",
+          "text": "Under martial law this was a dangerous charge. Being labelled pro-communist could lead to prison, and the label the essay pinned on writers was later compared to a deadly weapon. According to one count, the government and the two main newspapers, the China Times and the United Daily News, published fifty-eight articles attacking nativist literature between 15 July and 24 November 1977, and a collection of the attacks was published as a book. On 29 August the KMT held its second conference on literature and the arts, with more than 270 participants and without any of the writers who were under attack. President Yen Chia-kan urged writers to hold firmly to the anti-communist position."
+        },
+        {
+          "type": "p",
+          "text": "The nativists answered in the magazines. Chen Ying-chen wrote essays with titles such as \"Literature Comes from Society and Reflects Society\" and argued that writing about Taiwan's poor was part of a Chinese national literature, not a betrayal of it. Yeh Shih-tao's essay on the history of nativist literature took a different line, arguing that Taiwanese literature had developed its own spirit through the island's colonial experience. The two defenders were on the same side in 1977, but their disagreement about China and Taiwan was already visible."
+        },
+        {
+          "type": "p",
+          "text": "Then the government changed course. At an armed forces literature conference in January 1978, General Wang Sheng, head of the military's political warfare department, said that writers should unite with the native soil, because love of one's native soil, enlarged, becomes love of the country and the nation. The official attacks stopped, and the debate ended without the arrests that many writers had feared. The change of tone came as the government faced growing isolation abroad; before the year was out, the United States announced that it would break diplomatic relations with Taipei. The novelist and critic Yang Chao later wrote that in all of Taiwan's post-war history there was no other time when ideas were taken so seriously."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What was happening elsewhere at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Taiwan was not the only East Asian society where writers under an authoritarian government turned to the lives of the poor in the 1970s. In South Korea, ruled by Park Chung-hee, the poet Kim Chi-ha published the long satirical ballad \"Five Bandits\" in May 1970. It mocked the generals, officials and businessmen who had grown rich under the regime, using the rhythms of pansori, a traditional form of sung storytelling. Kim was arrested under the Anti-Communist Law, though the poem said nothing about communism, and the magazine that printed it was closed. In 1974 he was sentenced to death, a sentence that was commuted after protests at home and abroad. Korean writers of these years, like Taiwan's nativists, were accused of serving the enemy across the border simply for describing poverty and injustice at home."
+        },
+        {
+          "type": "p",
+          "text": "On the mainland the timing was almost the same, but the direction was reversed. After the Cultural Revolution ended, Liu Xinwu published \"The Class Teacher\" in People's Literature in November 1977, and on 11 August 1978 a first-year student at Fudan University, Lu Xinhua, published a story called \"Scar\" in the Shanghai paper Wenhui Bao. It gave its name to scar literature, fiction about the damage the Cultural Revolution had done to ordinary lives. One of the first stories of this kind had been written by a Taiwanese: Chen Ruoxi, a co-founder of Modern Literature, had moved to the People's Republic in 1966, left in 1973, and in 1974 published \"Mayor Yin\" in Hong Kong. In the same months that Yu Kwang-chung was warning that Taiwanese writers were imitating the literature of workers, peasants and soldiers, writers on the mainland were beginning to describe what that literature's politics had done to them."
+        },
+        {
+          "type": "p",
+          "text": "Further away, the nativists belong to a long tradition of realist fiction about people on the edges of a changing economy, a tradition that runs back through the Russian Realism of the nineteenth century, which Huang Chun-ming read in Chekhov. Their relationship to the modernists also resembles debates elsewhere. The Latin American Boom writers of the same years used modernist techniques to write about their own countries' history, and in Taiwan writers such as Wang Chen-ho did something similar on a smaller scale, bringing lessons from Western drama and modernist fiction back to Hualien."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Prison, politics, film and a split",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The debate ended in 1978, but the political movement it had overlapped with did not. Wang Tuo and Yang Ching-chu both joined the opposition, known as the dangwai or \"outside the party\" movement, and worked with Formosa magazine. After the Kaohsiung Incident of 10 December 1979, when a human rights day rally ended in clashes with police and the government arrested the opposition's leaders, both writers went to prison. Wang Tuo was sentenced to six years and released on parole in 1984. Yang Ching-chu was paroled in 1983 and later spent six years compiling a Taiwanese–Mandarin dictionary, published in 1992."
+        },
+        {
+          "type": "p",
+          "text": "In the 1980s the coalition of 1977 broke apart. From 1983 Taiwan's writers and critics fought what is called the Taiwan consciousness debate, over whether Taiwan's culture was a part of Chinese culture or a culture of its own. Chen Ying-chen took the Chinese side. In 1985 he founded Renjian, a magazine of photo reportage about Taiwan's poor, its indigenous peoples and its polluted towns, which influenced a generation of documentary photographers and journalists. He later helped found the China Unification League and died in Beijing in 2016. Yeh Shih-tao took the Taiwanese side, and in February 1987 published his Outline History of Taiwan Literature, the first history of the island's literature written by a Taiwanese author. Wang Tuo ended his career as a legislator for the Democratic Progressive Party and, in 2008, as its secretary-general."
+        },
+        {
+          "type": "p",
+          "text": "The movement's most visible legacy came in film. In 1983 the KMT-owned Central Motion Picture Corporation released The Sandwich Man, three short films based on Huang Chun-ming stories, directed by Hou Hsiao-hsien, Tseng Chuang-hsiang and Wan Jen. Before its release, an anonymous letter to the KMT's cultural affairs department complained that the third part, The Taste of Apples, showed poverty and illegal shacks that would damage Taiwan's image abroad, and the studio planned to cut it without the director's consent. Wan Jen told a United Daily News reporter, Yang Shih-chi, and after the story was published the studio backed down and released the film uncut. The affair became known as the apple-peeling incident, and The Sandwich Man is counted among the first films of Taiwan New Cinema. Several more Huang Chun-ming stories were filmed in the following years."
+        },
+        {
+          "type": "p",
+          "text": "Martial law ended in July 1987. In the 1990s Taiwan's schools began to teach local history, geography and languages, and Taiwanese literature became a university subject with its own departments. Later writers such as Li Ang, from the town of Lukang, carried the attention to small-town Taiwan into new subjects, as in her 1983 novella The Butcher's Wife about a woman driven to kill her violent husband."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "In 1977 nativist writers were attacked from one side for being too close to Chinese communism, and a few years later they split among themselves over whether Taiwan was part of China at all. Can a literature that sets out simply to describe the people around it ever stay out of politics, or does the choice of whose life to describe already decide which side you are on?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "台灣鄉土文學論戰 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0",
+      "note": "In Chinese. The background, sequence and interpretation of the 1977–78 debate, with a bibliography of the original essays."
+    },
+    {
+      "title": "Huang Chun-ming (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Huang_Chun-ming",
+      "note": "His life, influences and the English translation of his stories, The Taste of Apples, by Howard Goldblatt."
+    },
+    {
+      "title": "Chen Yingzhen (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Chen_Yingzhen",
+      "note": "Chen Ying-chen's stories, imprisonment, the Renjian magazine and his later politics."
+    },
+    {
+      "title": "Wang Chen-ho (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Wang_Chen-ho",
+      "note": "The Hualien writer of An Oxcart for Dowry and Rose, Rose, I Love You."
+    },
+    {
+      "title": "Yeh Shih-tao (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Yeh_Shih-tao",
+      "note": "The critic and historian who wrote the first history of Taiwanese literature."
+    },
+    {
+      "title": "Taiwanese literature (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taiwanese_literature",
+      "note": "A broad overview from the Japanese period to the present, useful for placing nativism in the longer story."
+    },
+    {
+      "title": "Orphan of Asia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Orphan_of_Asia",
+      "note": "Wu Zhuoliu's novel about a Taiwanese intellectual who belongs nowhere."
+    },
+    {
+      "title": "Scar literature (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Scar_literature",
+      "note": "The mainland Chinese movement of the same years, for comparison."
+    },
+    {
+      "title": "Kim Chi-ha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kim_Chi-ha",
+      "note": "The South Korean poet of Five Bandits, for comparison."
+    }
+  ],
+  "listen": [],
+  "watch": [
+    {
+      "title": "The Sandwich Man (1983) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Sandwich_Man_(1983_film)",
+      "note": "The three-part film of Huang Chun-ming's stories by Hou Hsiao-hsien, Tseng Chuang-hsiang and Wan Jen."
+    },
+    {
+      "title": "Kaohsiung Incident — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kaohsiung_Incident",
+      "note": "Background on the 1979 rally and trials that sent Wang Tuo and Yang Ching-chu to prison."
+    }
+  ],
+  "fun_fact": {
+    "title": "Was Kafka a Marxist?",
+    "text": "When the students who founded Modern Literature put out their first issue in March 1960, they devoted it to Franz Kafka. Under martial law every publication was watched by the Taiwan Garrison Command, and an officer reportedly came to ask whether this Kafka had any connection to Marx. The magazine survived that visit. The first time it was actually banned came years later, under the editor Ko Ching-ming, and the reason was not politics: a story in the issue was judged to be sexually indecent."
+  },
+  "glossary": [
+    {
+      "term": "nativist literature",
+      "aliases": [
+        "nativists",
+        "xiangtu wenxue"
+      ],
+      "explain": "Xiangtu wenxue (鄉土文學), literally literature of the native soil. Fiction of the 1960s and 1970s about ordinary people in Taiwan's villages, towns and factories, usually realist and often critical of how economic change affected the poor."
+    },
+    {
+      "term": "first nativist literature debate",
+      "aliases": [],
+      "explain": "The argument of 1930–1934, begun by Huang Shih-hui, over whether Taiwanese literature should be written in Taiwanese or in standard written Chinese. Also called the Taiwanese vernacular debate (台灣話文論戰)."
+    },
+    {
+      "term": "martial law",
+      "aliases": [],
+      "explain": "Military rule declared by the Nationalist government in Taiwan in 1949 and lifted in July 1987. It banned new parties and newspapers and allowed military trials of civilians."
+    },
+    {
+      "term": "White Terror",
+      "aliases": [],
+      "explain": "The period of political persecution in Taiwan under martial law, especially in the 1950s and 1960s, when thousands of people were imprisoned or executed as suspected communists or dissidents."
+    },
+    {
+      "term": "modernism",
+      "aliases": [
+        "modernists"
+      ],
+      "explain": "In Taiwan, the 1960s movement around the magazine Modern Literature that translated and imitated Western modernist writers, with stress on form, psychology and the inner life."
+    },
+    {
+      "term": "realism",
+      "aliases": [
+        "realist literature"
+      ],
+      "explain": "Fiction that tries to show society as it is, with ordinary characters and attention to social and economic conditions."
+    },
+    {
+      "term": "Taiwanese Hokkien",
+      "aliases": [],
+      "explain": "The Southern Min language spoken by most Taiwanese families, often simply called Taiwanese (台語)."
+    },
+    {
+      "term": "anti-communist fiction",
+      "aliases": [],
+      "explain": "The officially encouraged literature of 1950s Taiwan, attacking the Chinese Communist Party and often set on the lost mainland."
+    },
+    {
+      "term": "literature of workers, peasants and soldiers",
+      "aliases": [],
+      "explain": "Gongnongbing wenxue (工農兵文學), the official literature of Mao's China, written to serve the revolution. In 1977 comparing Taiwanese writers to it was an accusation of communist sympathy."
+    },
+    {
+      "term": "dangwai",
+      "aliases": [],
+      "explain": "Literally \"outside the party\" (黨外). The opposition movement in Taiwan in the 1970s and 1980s, before opposition parties were legal."
+    },
+    {
+      "term": "Kaohsiung Incident",
+      "aliases": [],
+      "explain": "The clashes after a human rights rally organised by Formosa magazine in Kaohsiung on 10 December 1979, followed by the arrest and military trial of opposition leaders. Also called the Formosa Incident (美麗島事件)."
+    },
+    {
+      "term": "Taiwan consciousness debate",
+      "aliases": [],
+      "explain": "The argument among Taiwanese writers and intellectuals from 1983 over whether Taiwan's culture and identity were part of China's or Taiwan's own."
+    },
+    {
+      "term": "scar literature",
+      "aliases": [],
+      "explain": "Shanghen wenxue (傷痕文學), mainland Chinese fiction of the late 1970s about the suffering caused by the Cultural Revolution, named after Lu Xinhua's story \"Scar\"."
+    },
+    {
+      "term": "pansori",
+      "aliases": [],
+      "explain": "A Korean tradition of long sung stories performed by one singer and a drummer. Kim Chi-ha borrowed its rhythms for his satires."
+    },
+    {
+      "term": "apple-peeling incident",
+      "aliases": [],
+      "explain": "削蘋果事件. The 1983 attempt to cut scenes of poverty from The Taste of Apples, part of The Sandwich Man, which was defeated after a newspaper reported it."
+    },
+    {
+      "term": "Taiwan New Cinema",
+      "aliases": [],
+      "explain": "The movement of realist Taiwanese films that began in the early 1980s with directors such as Hou Hsiao-hsien and Edward Yang."
+    },
+    {
+      "term": "Diaoyutai",
+      "aliases": [],
+      "explain": "The Diaoyutai (釣魚臺) islands north-east of Taiwan, claimed by Taiwan, China and Japan. Protests over them in 1970–71 helped politicise a generation of students."
+    },
+    {
+      "term": "Lai He",
+      "aliases": [],
+      "explain": "賴和 (1894–1943). Doctor and writer in Changhua under Japanese rule, called the father of Taiwan's new literature."
+    },
+    {
+      "term": "Huang Shih-hui",
+      "aliases": [],
+      "explain": "黃石輝. Writer whose 1930 essay \"Why Not Promote Nativist Literature?\" began the first nativist literature debate."
+    },
+    {
+      "term": "Yang Kui",
+      "aliases": [],
+      "explain": "楊逵 (1906–1985). Left-wing writer of the Japanese period, later imprisoned for twelve years by the Nationalist government."
+    },
+    {
+      "term": "Lu Heruo",
+      "aliases": [],
+      "explain": "呂赫若 (1914–c.1950). One of the finest Taiwanese fiction writers of the Japanese period, who wrote mainly in Japanese."
+    },
+    {
+      "term": "Wu Zhuoliu",
+      "aliases": [],
+      "explain": "吳濁流 (1900–1976). Hakka novelist, author of Orphan of Asia, founder of the magazine Taiwan Literature in 1964 and of the Wu Zhuoliu Literary Prize."
+    },
+    {
+      "term": "Yeh Shih-tao",
+      "aliases": [],
+      "explain": "葉石濤 (1925–2008). Critic, novelist and teacher from Tainan who wrote the essay on the history of nativist literature (1977) and the Outline History of Taiwan Literature (1987)."
+    },
+    {
+      "term": "Chung Li-ho",
+      "aliases": [],
+      "explain": "鍾理和 (1915–1960). Hakka novelist from Meinong, author of Lishan Farm, who died young of tuberculosis."
+    },
+    {
+      "term": "Chung Chao-cheng",
+      "aliases": [],
+      "explain": "鍾肇政 (1925–2020). Hakka novelist who wrote the first multi-volume historical sagas of Taiwan, including the Taiwanese Trilogy."
+    },
+    {
+      "term": "Pai Hsien-yung",
+      "aliases": [],
+      "explain": "白先勇 (born 1937). Co-founder of Modern Literature and author of Taipei People, stories about mainlanders who came to Taiwan after 1949."
+    },
+    {
+      "term": "Wang Wen-hsing",
+      "aliases": [],
+      "explain": "王文興 (1939–2023). Modernist novelist and co-founder of Modern Literature, author of Family Catastrophe."
+    },
+    {
+      "term": "Ouyang Tzu",
+      "aliases": [],
+      "explain": "歐陽子 (born 1939). Modernist short-story writer and co-founder of Modern Literature."
+    },
+    {
+      "term": "Chen Ruoxi",
+      "aliases": [],
+      "explain": "陳若曦 (born 1938). Co-founder of Modern Literature who lived in the People's Republic from 1966 to 1973 and wrote \"Mayor Yin\" about the Cultural Revolution."
+    },
+    {
+      "term": "Franz Kafka",
+      "aliases": [
+        "Kafka"
+      ],
+      "explain": "Czech-born German-language writer (1883–1924) of The Trial and The Metamorphosis, a central model for the Taiwanese modernists."
+    },
+    {
+      "term": "Huang Chun-ming",
+      "aliases": [],
+      "explain": "黃春明 (born 1935). Writer from Luodong in Yilan, author of \"His Son's Big Doll\", \"The Gong\", \"The Taste of Apples\" and \"Sayonara, Zaijian\". The best-known nativist writer."
+    },
+    {
+      "term": "Wang Chen-ho",
+      "aliases": [],
+      "explain": "王禎和 (1940–1990). Writer from Hualien, author of \"An Oxcart for Dowry\" and later the satirical novel Rose, Rose, I Love You."
+    },
+    {
+      "term": "Chen Ying-chen",
+      "aliases": [],
+      "explain": "陳映真 (1937–2016). Writer and editor, author of \"The General Clan\", imprisoned 1968–1975, founder of Renjian magazine and later a leading advocate of unification with China."
+    },
+    {
+      "term": "Wang Tuo",
+      "aliases": [],
+      "explain": "王拓 (1944–2016). Writer from the fishing village of Badouzi near Keelung, imprisoned after the Kaohsiung Incident, later a legislator, culture minister and secretary-general of the Democratic Progressive Party."
+    },
+    {
+      "term": "Yang Ching-chu",
+      "aliases": [],
+      "explain": "楊青矗 (born 1940). The \"workers' writer\", who wrote about the Kaohsiung refinery where he worked and was imprisoned after the Kaohsiung Incident."
+    },
+    {
+      "term": "Wei Tien-tsung",
+      "aliases": [],
+      "explain": "尉天驄 (1935–2019). Editor and critic who founded Literary Quarterly in 1966."
+    },
+    {
+      "term": "Lin Hai-yin",
+      "aliases": [],
+      "explain": "林海音 (1918–2001). Writer and editor of the United Daily News literary supplement, who gave early space to Taiwanese writers."
+    },
+    {
+      "term": "Eileen Chang",
+      "aliases": [],
+      "explain": "張愛玲 (1920–1995). Shanghai-born novelist, one of the most admired Chinese writers of the century, who visited Taiwan in 1961."
+    },
+    {
+      "term": "Eugene O'Neill",
+      "aliases": [],
+      "explain": "American playwright (1888–1953), author of Desire Under the Elms, which influenced Wang Chen-ho."
+    },
+    {
+      "term": "Tennessee Williams",
+      "aliases": [],
+      "explain": "American playwright (1911–1983) of A Streetcar Named Desire, an influence on Wang Chen-ho."
+    },
+    {
+      "term": "Chekhov",
+      "aliases": [
+        "Anton Chekhov"
+      ],
+      "explain": "Anton Chekhov (1860–1904), Russian short-story writer and playwright, whom Huang Chun-ming read as a teenager."
+    },
+    {
+      "term": "Shen Congwen",
+      "aliases": [],
+      "explain": "沈從文 (1902–1988). Chinese writer of lyrical stories about rural western Hunan."
+    },
+    {
+      "term": "Ba Jin",
+      "aliases": [],
+      "explain": "巴金 (1904–2005). Chinese novelist of Family, about the breakdown of a traditional household."
+    },
+    {
+      "term": "Hemingway",
+      "aliases": [],
+      "explain": "Ernest Hemingway (1899–1961), American novelist, one of Huang Chun-ming's early models."
+    },
+    {
+      "term": "Mark Twain",
+      "aliases": [],
+      "explain": "American writer (1835–1910) of Adventures of Huckleberry Finn."
+    },
+    {
+      "term": "Faulkner",
+      "aliases": [],
+      "explain": "William Faulkner (1897–1962), American novelist of the rural South."
+    },
+    {
+      "term": "Marx",
+      "aliases": [],
+      "explain": "Karl Marx (1818–1883), whose books were banned in martial-law Taiwan."
+    },
+    {
+      "term": "Lu Xun",
+      "aliases": [],
+      "explain": "魯迅 (1881–1936). The leading writer of modern Chinese fiction, banned in Taiwan under martial law because of his left-wing reputation."
+    },
+    {
+      "term": "Yin Cheng-hsiung",
+      "aliases": [],
+      "explain": "銀正雄. Critic whose April 1977 essay in Cactus warned that nativist fiction could become a vehicle for hatred."
+    },
+    {
+      "term": "Chu Hsi-ning",
+      "aliases": [],
+      "explain": "朱西甯 (1927–1998). Novelist who came to Taiwan with the army and questioned the loyalty of nativist writing to Chinese culture."
+    },
+    {
+      "term": "Peng Ge",
+      "aliases": [],
+      "explain": "彭歌. Chief editorial writer of the Central Daily News, who attacked nativist writers in August 1977."
+    },
+    {
+      "term": "Yu Kwang-chung",
+      "aliases": [],
+      "explain": "余光中 (1928–2017). Major poet and essayist, author of \"The Wolf Is Here\" (1977)."
+    },
+    {
+      "term": "Yen Chia-kan",
+      "aliases": [],
+      "explain": "嚴家淦 (1905–1993). President of the Republic of China from 1975 to 1978."
+    },
+    {
+      "term": "Wang Sheng",
+      "aliases": [],
+      "explain": "王昇 (1915–2006). General in charge of the military's political warfare department, who called off the attacks on nativist writers in January 1978."
+    },
+    {
+      "term": "Yang Chao",
+      "aliases": [],
+      "explain": "楊照 (born 1963). Taiwanese novelist and critic who wrote about the 1977 debate."
+    },
+    {
+      "term": "Kim Chi-ha",
+      "aliases": [],
+      "explain": "김지하 (1941–2022). South Korean poet arrested for \"Five Bandits\" (1970) and sentenced to death in 1974, later commuted."
+    },
+    {
+      "term": "Park Chung-hee",
+      "aliases": [],
+      "explain": "Military ruler of South Korea from 1961 to 1979."
+    },
+    {
+      "term": "Liu Xinwu",
+      "aliases": [],
+      "explain": "劉心武 (born 1942). Mainland Chinese writer of \"The Class Teacher\" (1977)."
+    },
+    {
+      "term": "Lu Xinhua",
+      "aliases": [],
+      "explain": "盧新華 (born 1954). Mainland Chinese writer whose 1978 story \"Scar\" named scar literature."
+    },
+    {
+      "term": "Hou Hsiao-hsien",
+      "aliases": [],
+      "explain": "侯孝賢 (born 1947). Leading director of Taiwan New Cinema, who directed the first part of The Sandwich Man."
+    },
+    {
+      "term": "Tseng Chuang-hsiang",
+      "aliases": [],
+      "explain": "曾壯祥. Director of the second part of The Sandwich Man."
+    },
+    {
+      "term": "Wan Jen",
+      "aliases": [],
+      "explain": "萬仁 (born 1950). Director of The Taste of Apples, the third part of The Sandwich Man."
+    },
+    {
+      "term": "Yang Shih-chi",
+      "aliases": [],
+      "explain": "楊士琪. United Daily News film reporter who exposed the plan to cut The Taste of Apples."
+    },
+    {
+      "term": "Li Ang",
+      "aliases": [],
+      "explain": "李昂 (born 1952). Novelist from Lukang, author of The Butcher's Wife."
+    },
+    {
+      "term": "Ko Ching-ming",
+      "aliases": [],
+      "explain": "柯慶明 (1946–2019). Scholar and critic who edited Modern Literature for a period."
+    },
+    {
+      "term": "Modern Literature",
+      "aliases": [],
+      "explain": "現代文學. Magazine founded in March 1960 by National Taiwan University students to publish modernist fiction and translations. It ran, with a break, until 1984."
+    },
+    {
+      "term": "Literary Quarterly",
+      "aliases": [],
+      "explain": "文學季刊. Magazine founded by Wei Tien-tsung in 1966, the main home of early nativist fiction."
+    },
+    {
+      "term": "Taiwan Literature",
+      "aliases": [],
+      "explain": "台灣文藝. Magazine founded by Wu Zhuoliu in April 1964 for Taiwanese writers."
+    },
+    {
+      "term": "Cactus",
+      "aliases": [],
+      "explain": "仙人掌雜誌. Magazine whose April 1977 issue started the nativist literature debate."
+    },
+    {
+      "term": "Xiachao",
+      "aliases": [],
+      "explain": "夏潮. Left-leaning magazine of the late 1970s that printed Yeh Shih-tao's essay on nativist literature and was edited for a time by Chen Ying-chen."
+    },
+    {
+      "term": "Renjian",
+      "aliases": [],
+      "explain": "人間. Photo-reportage magazine founded by Chen Ying-chen in November 1985 and published until 1989."
+    },
+    {
+      "term": "Formosa magazine",
+      "aliases": [
+        "Formosa"
+      ],
+      "explain": "美麗島. Opposition magazine of 1979 whose rally in Kaohsiung led to the Kaohsiung Incident."
+    },
+    {
+      "term": "United Daily News",
+      "aliases": [],
+      "explain": "聯合報. One of Taiwan's two largest newspapers in the martial-law period."
+    },
+    {
+      "term": "Central Daily News",
+      "aliases": [],
+      "explain": "中央日報. The KMT's official newspaper."
+    },
+    {
+      "term": "China Times",
+      "aliases": [],
+      "explain": "中國時報. One of Taiwan's two largest newspapers in the martial-law period."
+    },
+    {
+      "term": "Wu Ren Bao",
+      "aliases": [],
+      "explain": "伍人報. Left-wing newspaper of the colonial period in which Huang Shih-hui's 1930 essay appeared."
+    },
+    {
+      "term": "Dou Nao Re",
+      "aliases": [],
+      "explain": "鬥鬧熱 (Competing in Festivities, 1926). Lai He's first vernacular short story."
+    },
+    {
+      "term": "A Steelyard",
+      "aliases": [],
+      "explain": "一桿「稱仔」. Lai He's story about a vegetable seller and a Japanese policeman."
+    },
+    {
+      "term": "Why Not Promote Nativist Literature?",
+      "aliases": [],
+      "explain": "怎樣不提倡鄉土文學 (1930). Huang Shih-hui's essay arguing for a literature about Taiwan written in Taiwanese."
+    },
+    {
+      "term": "Orphan of Asia",
+      "aliases": [],
+      "explain": "亞細亞的孤兒. Wu Zhuoliu's novel, completed in 1945, about a Taiwanese intellectual rejected by Japanese and Chinese alike."
+    },
+    {
+      "term": "Lishan Farm",
+      "aliases": [],
+      "explain": "笠山農場. Chung Li-ho's novel about his family's farm in Meinong, which won a prize in 1956 but was not published until after his death."
+    },
+    {
+      "term": "Taipei People",
+      "aliases": [],
+      "explain": "臺北人 (1971). Pai Hsien-yung's collection of fourteen stories about mainland exiles in Taipei."
+    },
+    {
+      "term": "Family Catastrophe",
+      "aliases": [],
+      "explain": "家變 (1973). Wang Wen-hsing's experimental novel about a son and his father."
+    },
+    {
+      "term": "His Son's Big Doll",
+      "aliases": [],
+      "explain": "兒子的大玩偶. Huang Chun-ming's story of a sandwich-board man whose baby recognises him only in clown make-up."
+    },
+    {
+      "term": "The Gong",
+      "aliases": [],
+      "explain": "鑼. Huang Chun-ming's story about a town crier who loses his job to a loudspeaker truck."
+    },
+    {
+      "term": "The Taste of Apples",
+      "aliases": [],
+      "explain": "蘋果的滋味. Huang Chun-ming's story of a poor worker's family after he is hit by an American officer's car, and the third part of the film The Sandwich Man."
+    },
+    {
+      "term": "Sayonara, Zaijian",
+      "aliases": [],
+      "explain": "莎喲娜啦·再見. Huang Chun-ming's story about a Taiwanese office worker guiding Japanese sex tourists."
+    },
+    {
+      "term": "An Oxcart for Dowry",
+      "aliases": [],
+      "explain": "嫁妝一牛車 (1967). Wang Chen-ho's comic and bitter story of a poor man who trades his wife's company for an oxcart."
+    },
+    {
+      "term": "The Noodle Stall",
+      "aliases": [],
+      "explain": "麵攤 (1959). Chen Ying-chen's first published story."
+    },
+    {
+      "term": "The General Clan",
+      "aliases": [],
+      "explain": "將軍族 (1964). Chen Ying-chen's story of an old mainland soldier and a Taiwanese girl sold into prostitution."
+    },
+    {
+      "term": "Aunt Jinshui",
+      "aliases": [],
+      "explain": "金水嬸. Wang Tuo's story of a fishing-village mother, based on his own mother."
+    },
+    {
+      "term": "The Virgin Man",
+      "aliases": [],
+      "explain": "在室男 (1969). Yang Ching-chu's breakthrough story."
+    },
+    {
+      "term": "Factory People",
+      "aliases": [],
+      "explain": "工廠人. Yang Ching-chu's collection of stories about factory workers."
+    },
+    {
+      "term": "Muddy Stream trilogy",
+      "aliases": [],
+      "explain": "濁流三部曲. Chung Chao-cheng's first trilogy of novels, from the early 1960s."
+    },
+    {
+      "term": "Taiwanese Trilogy",
+      "aliases": [],
+      "explain": "臺灣人三部曲. Chung Chao-cheng's three-novel saga of Taiwanese history."
+    },
+    {
+      "term": "An Introduction to the History of Taiwan's Nativist Literature",
+      "aliases": [],
+      "explain": "台灣鄉土文學史導論 (1977). Yeh Shih-tao's essay arguing that Taiwanese literature had developed its own character."
+    },
+    {
+      "term": "Outline History of Taiwan Literature",
+      "aliases": [],
+      "explain": "台灣文學史綱 (1987). Yeh Shih-tao's history of Taiwanese literature."
+    },
+    {
+      "term": "Where Does the Bell in the Graveyard Come From?",
+      "aliases": [],
+      "explain": "墳地裡哪來的鐘聲？ Yin Cheng-hsiung's April 1977 essay criticising Wang Tuo's fiction."
+    },
+    {
+      "term": "Without Human Nature, How Can There Be Literature?",
+      "aliases": [],
+      "explain": "不談人性，何有文學？ Peng Ge's three-part attack on nativist writers in August 1977."
+    },
+    {
+      "term": "The Wolf Is Here",
+      "aliases": [],
+      "explain": "狼來了. Yu Kwang-chung's essay of 20 August 1977 comparing nativist literature to Maoist literature."
+    },
+    {
+      "term": "Literature Comes from Society and Reflects Society",
+      "aliases": [],
+      "explain": "文學來自社會反映社會. One of Chen Ying-chen's 1977 essays defending nativist writing."
+    },
+    {
+      "term": "Five Bandits",
+      "aliases": [],
+      "explain": "오적 (1970). Kim Chi-ha's satirical ballad about South Korea's rulers."
+    },
+    {
+      "term": "The Class Teacher",
+      "aliases": [],
+      "explain": "班主任 (1977). Liu Xinwu's story about the damage the Cultural Revolution did to young people."
+    },
+    {
+      "term": "Scar",
+      "aliases": [],
+      "explain": "傷痕 (1978). Lu Xinhua's story that named scar literature."
+    },
+    {
+      "term": "Mayor Yin",
+      "aliases": [],
+      "explain": "尹縣長 (1974). Chen Ruoxi's story of a former Nationalist officer persecuted in the Cultural Revolution."
+    },
+    {
+      "term": "The Sandwich Man",
+      "aliases": [],
+      "explain": "兒子的大玩偶 (1983). Three-part film of Huang Chun-ming stories directed by Hou Hsiao-hsien, Tseng Chuang-hsiang and Wan Jen."
+    },
+    {
+      "term": "The Butcher's Wife",
+      "aliases": [],
+      "explain": "殺夫 (1983). Li Ang's novella about a woman who kills her abusive husband, which won the United Daily News fiction prize."
+    }
+  ]
+}
