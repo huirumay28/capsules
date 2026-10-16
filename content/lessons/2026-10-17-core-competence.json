@@ -1,0 +1,454 @@
+{
+  "slug": "core-competence",
+  "date": "2026-10-17",
+  "subject": "business",
+  "related": [
+    "five-forces",
+    "seven-powers",
+    "disruptive-innovation",
+    "playing-to-win",
+    "blue-ocean-strategy"
+  ],
+  "title": "Core Competence: building a company from its roots, not its product list",
+  "dek": "In 1990 C.K. Prahalad and Gary Hamel argued in Harvard Business Review that a company should be understood as a portfolio of deep skills, not a portfolio of businesses. This lesson explains the framework, its three tests and its warnings, then follows NEC, Honda, Canon and, two decades later, Fujifilm.",
+  "era": "1990 framework, with its 1992 critique and a 2000s case",
+  "reading_minutes": 17,
+  "honesty": "The framework, the three tests, the tree image and the NEC, GTE, Honda, Canon, Chrysler, JVC and RCA examples all come from Prahalad and Hamel's 1990 Harvard Business Review article, and the figures quoted are the ones printed there. The Fujifilm and Kodak material follows The Economist's January 2012 article 'The last Kodak moment?'. The idea of core rigidities comes from Dorothy Leonard-Barton's 1992 paper in the Strategic Management Journal. The comparison with Porter's five forces is our own framing. The lesson contains no images.",
+  "timeline": [
+    {
+      "year": "Early 1970s",
+      "label": "NEC announces 'C&C'",
+      "detail": "NEC's leaders set out a strategic intent to exploit the convergence of computing and communications, which they called 'C&C', and communicated it inside and outside the company during the mid-1970s. They decided that success would depend on building competencies, especially in semiconductors."
+    },
+    {
+      "year": "1980",
+      "label": "GTE is far bigger than NEC",
+      "detail": "According to Prahalad and Hamel, GTE had sales of $9.98 billion and net cash flow of $1.73 billion, while NEC had sales of $3.8 billion and no experience as an operating telecommunications company."
+    },
+    {
+      "year": "1988",
+      "label": "NEC overtakes GTE",
+      "detail": "The article reports GTE's 1988 sales at $16.46 billion and NEC's at $21.89 billion. GTE had sold or closed several technology businesses; NEC had become a world leader in semiconductors."
+    },
+    {
+      "year": "1990",
+      "label": "'The Core Competence of the Corporation'",
+      "detail": "Prahalad and Hamel publish the article in the May–June issue of Harvard Business Review. It becomes one of the most widely cited strategy articles of the decade."
+    },
+    {
+      "year": "1992",
+      "label": "Core rigidities",
+      "detail": "Dorothy Leonard-Barton shows that the same capabilities that make a company strong can also make it slow to change, and calls this the flip side of core capabilities."
+    },
+    {
+      "year": "2007",
+      "label": "Fujifilm launches Astalift",
+      "detail": "As its film business shrinks, Fujifilm uses its chemistry of collagen and antioxidants to launch a skincare line, one of several moves into new markets."
+    },
+    {
+      "year": "2012",
+      "label": "Kodak files for bankruptcy protection",
+      "detail": "Kodak, which built one of the first digital cameras in 1975, files for Chapter 11 in January. Fujifilm, its old rival, is still profitable."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "The 1980s: companies managed as portfolios of businesses",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the 1980s, most large Western companies were organised as collections of strategic business units, or SBUs. Each unit had its own products, its own market and its own profit target. Headquarters acted like an investor: it moved money toward units that were growing and earning well, and it sold or starved the ones that were not. Portfolio tools such as the Boston Consulting Group's growth-share matrix, created around 1970, encouraged exactly this way of thinking."
+        },
+        {
+          "type": "p",
+          "text": "Prahalad and Hamel open their 1990 article by saying that, in the 1980s, top executives were judged on their ability to restructure, declutter and de-layer their corporations. In the 1990s, they predicted, executives would instead be judged on their ability to identify, cultivate and exploit the core competencies that make growth possible."
+        },
+        {
+          "type": "p",
+          "text": "Their argument grew out of a puzzle. Japanese companies such as NEC, Canon, Honda and Sony kept entering markets that nobody expected them to enter, and they often won. The article lists examples: Canon gave the world personal copiers, Honda moved from motorcycles into four-wheel off-road buggies, Sony developed the 8mm camcorder, and Yamaha developed the digital piano. Western managers who studied only the end products of these rivals could not see where the next attack would come from."
+        },
+        {
+          "type": "p",
+          "text": "The clearest example in the article is NEC against GTE. In 1980, GTE was the stronger company. It had sales of $9.98 billion and was active in telephones, switching and transmission systems, semiconductors, satellites and Sylvania colour televisions. NEC had sales of $3.8 billion. By 1988 the positions had reversed: NEC's sales were $21.89 billion and GTE's were $16.46 billion. GTE had sold its television and packet-switching businesses, put several others into joint ventures and closed down semiconductors. Prahalad and Hamel concluded that GTE had managed a portfolio of businesses, while NEC had managed a portfolio of competencies."
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "kicker": "The framework",
+      "title": "Roots, trunk, branches and leaves",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Prahalad and Hamel describe a diversified company as a tree. The end products that customers buy are the leaves, flowers and fruit. The business units are the smaller branches. The trunk and major limbs are core products, meaning key components or subsystems that go into many end products. The root system, which feeds and stabilises everything, is the company's core competencies. A rival who looks only at another company's end products misses its real strength, in the same way that someone looking only at leaves misses the strength of a tree."
+        },
+        {
+          "type": "p",
+          "text": "They define core competencies as 'the collective learning in the organization, especially how to coordinate diverse production skills and integrate multiple streams of technologies.' A competence is not a single technology or a patent. Their example is Casio. Knowing in theory how to put a radio on a chip does not let a company build a radio the size of a business card. To do that, Casio had to combine know-how in miniaturisation, microprocessor design, materials science and ultrathin precision casing."
+        },
+        {
+          "type": "p",
+          "text": "The article offers three tests for deciding whether something is a core competence:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "It gives potential access to a wide variety of markets. Competence in display systems, for example, lets a company make calculators, miniature televisions, laptop monitors and car dashboards.",
+            "It makes a significant contribution to the benefits customers perceive in the end product. Honda's engine expertise is the article's example.",
+            "It is difficult for competitors to imitate, because it is a complex combination of technologies and production skills rather than one piece of equipment that can be bought."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The authors also warn that few companies can build world leadership in more than five or six fundamental competencies. A company that writes a list of twenty or thirty capabilities, they say, has probably not produced a list of core competencies."
+        },
+        {
+          "type": "p",
+          "text": "Core products sit between competencies and end products, and the article treats them as a separate battle. Matsushita, for instance, made about 45 percent of the world's key VCR components, even though its own brands held only about 20 percent of the VCR market. By selling core products to other companies, a firm can earn money and learn from many markets at once, even where its own brand is weak."
+        },
+        {
+          "type": "p",
+          "text": "Finally, the article explains how the SBU system damages competencies. It names three problems. The first is underinvestment: no single unit feels responsible for building a competence that serves the whole company, so nobody pays for it. The second is imprisoned resources: unit managers treat their best engineers as their own property and may even hide them rather than lend them to another unit. The third is bounded innovation: each unit pursues only small extensions of its own products, so hybrid products such as fax machines or laptop computers, which draw on skills from several units, never get started."
+        },
+        {
+          "type": "p",
+          "text": "The cure the authors propose is a strategic architecture, meaning a map of which competencies the company must build and which technologies make them up, combined with a strategic intent that tells everyone where the company is going. For NEC, that intent was 'C&C', the convergence of computing and communications."
+        },
+        {
+          "type": "p",
+          "text": "It helps to compare this with Michael Porter's five forces, covered in an earlier Saturday lesson. Porter starts outside the company and asks which industries are attractive and where to position within them. Prahalad and Hamel start inside the company and ask what it is uniquely good at, then look for the markets those skills can reach. Later scholars grouped the second approach with the resource-based view of strategy. The two approaches are not opposites, and most strategists now use both."
+        }
+      ]
+    },
+    {
+      "id": "cases",
+      "kicker": "Cases",
+      "title": "NEC, Honda and Canon, then Fujifilm",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "NEC shows how a company can build a competence it does not yet have. Having decided that semiconductors were the key to C&C, NEC used collaborative arrangements to gain technology quickly. The article's summary notes that its collaboration with Honeywell gave it access to mainframe and semiconductor technology. Top managers formed a 'C&C Committee' to oversee the development of core products and competencies across the company. NEC then moved beyond public switching into mobile telephones, fax machines and laptop computers, products that drew on both computing and communications skills."
+        },
+        {
+          "type": "p",
+          "text": "Honda is the article's example of a competence that a company refuses to give away. Honda pooled its engine-related technologies into one company-wide competence and used it in cars, motorcycles, lawn mowers and generators. The authors contrast this with Chrysler, which treated engines and power trains as just another component. Between 1985 and 1987, the number of engines Chrysler bought from outside suppliers, mainly Mitsubishi and Hyundai, rose from 252,000 to 382,000. The authors found it difficult to imagine Honda handing the design or manufacture of such an important part to another company, and they linked Honda's heavy commitment to Formula One racing to the same logic: racing kept its engine engineers at the frontier."
+        },
+        {
+          "type": "p",
+          "text": "The lesson the authors drew from Chrysler is that outsourcing can save money on this year's products while weakening the skills needed for the next generation. In their words, the embedded skills that give rise to new products 'cannot be “rented in” by outsourcing and OEM-supply relationships.'"
+        },
+        {
+          "type": "p",
+          "text": "Canon is the article's example of competencies that carry a company into unexpected markets. According to the authors, Canon's competencies in optics, imaging and microprocessor controls allowed it to enter, and in some cases dominate, copiers, laser printers, cameras and image scanners. A chart in the article groups Canon's products under three roots, precision mechanics, fine optics and microelectronics, and shows how each product draws on two or three of them. The authors point out that Canon looked like a camera company at the very moment it was preparing to become a world leader in copiers."
+        },
+        {
+          "type": "p",
+          "text": "The article also gives a short warning about choosing the wrong competence. JVC's decision in the early 1960s to build a videotape competence passed all three tests, and it led to a leading position in video recording. RCA's decision in the late 1970s to develop a stylus-based video disc system did not."
+        },
+        {
+          "type": "p",
+          "text": "Fujifilm is a later case that shows the framework working under pressure. When digital cameras and then smartphones destroyed the market for photographic film, both Fujifilm and Kodak faced the same crisis. The Economist reported in 2012 that film went from about 60 percent of Fujifilm's profits in 2000 to almost nothing. Shigetaka Komori, who took charge of the company in stages between 2000 and 2003, cut costs and jobs heavily and spent around $9 billion buying about 40 companies."
+        },
+        {
+          "type": "p",
+          "text": "Komori's team also asked what Fujifilm actually knew how to do, apart from making film. One answer was chemistry. Photographic film contains gelatin, which is made from collagen, the same protein found in skin, and photos fade partly because of oxidation. The Economist noted that of the roughly 200,000 chemical compounds in Fujifilm's library, about 4,000 were related to antioxidants. Fujifilm used this knowledge to launch Astalift, a skincare line, and also applied its coating and materials skills in other businesses. In Prahalad and Hamel's terms, the end product had died, but the roots were still alive and could grow new branches."
+        },
+        {
+          "type": "p",
+          "text": "Kodak had similar chemical knowledge. The Economist reports that it, too, thought its researchers' chemicals could be turned into new products, but those efforts fizzled. Kodak also sold its health-imaging business in 2007, even though that business used many of the same imaging skills. Kodak filed for bankruptcy protection in January 2012."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Limits and critiques",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The idea spread quickly, but it was also misused. Because the concept is broad, many companies simply relabelled whatever they already did as a core competence. Prahalad and Hamel had warned against this when they said that a list of twenty or thirty items is not a list of core competencies."
+        },
+        {
+          "type": "p",
+          "text": "In 1992 Dorothy Leonard-Barton published 'Core capabilities and core rigidities' in the Strategic Management Journal. She studied new product development projects and found that a company's core capabilities can also hold it back. The skills, systems and values that made a company excellent in one technology can make people resist projects that need different skills. A company that has spent decades perfecting film chemistry, for example, may find it hard to take digital electronics seriously. Her point is that competencies have to be renewed, not only protected."
+        },
+        {
+          "type": "p",
+          "text": "Another limit is that the framework says little about which industries are worth entering. A company with a strong competence can still apply it in a market where Porter's five forces leave little profit for anyone. This is why later strategists tend to combine the inside-out question, 'what are we uniquely good at?', with the outside-in question, 'where can those skills earn attractive returns?'"
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "C.K. Prahalad",
+              "dates": "1941–2010",
+              "text": "Indian-born professor at the University of Michigan's business school. Co-author of the core competence article and later of The Fortune at the Bottom of the Pyramid, about serving the world's poorest consumers."
+            },
+            {
+              "name": "Gary Hamel",
+              "text": "American strategy scholar and consultant, a longtime visiting professor at London Business School and founder of the consulting firm Strategos. He studied for his doctorate at the University of Michigan, where he worked with Prahalad. Co-author of 'Strategic Intent' (1989), the core competence article (1990) and the book Competing for the Future (1994)."
+            },
+            {
+              "name": "Dorothy Leonard-Barton",
+              "text": "Harvard Business School professor whose 1992 paper introduced the idea of core rigidities, the downside of core capabilities."
+            },
+            {
+              "name": "Shigetaka Komori",
+              "text": "The executive who took charge of Fujifilm in stages between 2000 and 2003 and led its move away from photographic film."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "Find the roots of a company you know",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Choose a company you know well and list its five most important end products. Then ask what skills those products have in common. Do those skills pass Prahalad and Hamel's three tests: do they open several markets, do customers notice them, and would a rival find them hard to copy? Finally, ask Leonard-Barton's question: which of those skills might stop the company from seeing the next change in its industry?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "C.K. Prahalad and Gary Hamel, 'The Core Competence of the Corporation' (Harvard Business Review, May–June 1990)",
+      "url": "https://hbr.org/1990/05/the-core-competence-of-the-corporation",
+      "note": "The original article, with the tree image, the three tests and the NEC, Honda, Canon and Chrysler examples."
+    },
+    {
+      "title": "Gary Hamel and C.K. Prahalad, 'Strategic Intent' (Harvard Business Review)",
+      "url": "https://hbr.org/2005/07/strategic-intent",
+      "note": "The companion article from 1989, republished as an HBR classic, on how ambitious long-term goals drove Japanese challengers."
+    },
+    {
+      "title": "'The last Kodak moment?' (The Economist, 14 January 2012)",
+      "url": "https://www.economist.com/business/2012/01/14/the-last-kodak-moment",
+      "note": "Why Fujifilm survived the end of film and Kodak did not, including the Astalift story."
+    },
+    {
+      "title": "Dorothy Leonard-Barton, 'Core capabilities and core rigidities: A paradox in managing new product development' (Strategic Management Journal, 1992)",
+      "url": "https://doi.org/10.1002/smj.4250131009",
+      "note": "The academic paper that shows how strengths can turn into obstacles."
+    },
+    {
+      "title": "Core competency (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Core_competency",
+      "note": "A short overview of the concept and how it has been used since 1990."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "fun_fact": {
+    "title": "From photo film to face cream",
+    "text": "The Economist pointed out in 2012 that film is a bit like skin, because both contain collagen, and that photos fade partly through oxidation, the same process skincare brands promise to fight. Fujifilm had about 4,000 antioxidant-related compounds in its chemical library, so a film company launched a cosmetics line called Astalift."
+  },
+  "glossary": [
+    {
+      "term": "C.K. Prahalad",
+      "aliases": [
+        "Prahalad",
+        "C. K. Prahalad"
+      ],
+      "explain": "Indian-born University of Michigan business professor (1941–2010), co-author of 'The Core Competence of the Corporation'."
+    },
+    {
+      "term": "Gary Hamel",
+      "aliases": [
+        "Hamel"
+      ],
+      "explain": "American strategy scholar and consultant, co-author with Prahalad of 'Strategic Intent' and 'The Core Competence of the Corporation'."
+    },
+    {
+      "term": "The Core Competence of the Corporation",
+      "aliases": [
+        "core competence article"
+      ],
+      "explain": "Prahalad and Hamel's 1990 Harvard Business Review article arguing that a company is best understood as a portfolio of competencies rather than a portfolio of businesses."
+    },
+    {
+      "term": "Core competence",
+      "aliases": [
+        "core competencies",
+        "core competence",
+        "Core competencies"
+      ],
+      "explain": "The collective learning of an organisation, especially its ability to coordinate different production skills and combine several streams of technology, that gives access to many markets, matters to customers and is hard to copy."
+    },
+    {
+      "term": "Core products",
+      "aliases": [
+        "core product",
+        "Core products"
+      ],
+      "explain": "Key components or subsystems, such as engines or compressors, that embody a core competence and go into many different end products."
+    },
+    {
+      "term": "End products",
+      "aliases": [
+        "end product"
+      ],
+      "explain": "The finished goods customers buy. In Prahalad and Hamel's tree image, they are the leaves and fruit."
+    },
+    {
+      "term": "Strategic business unit",
+      "aliases": [
+        "SBU",
+        "SBUs",
+        "strategic business units"
+      ],
+      "explain": "A division run as a separate business with its own products, market and profit target. The article argues that managing only by SBUs starves shared competencies."
+    },
+    {
+      "term": "Strategic architecture",
+      "aliases": [
+        "strategic architecture"
+      ],
+      "explain": "A company-wide map of which competencies to build and which technologies make them up, used to guide investment across business units."
+    },
+    {
+      "term": "Strategic intent",
+      "aliases": [
+        "strategic intent"
+      ],
+      "explain": "A long-term, ambitious goal that tells the whole organisation where it is going, such as NEC's aim to combine computing and communications."
+    },
+    {
+      "term": "C&C",
+      "aliases": [
+        "C&C Committee"
+      ],
+      "explain": "NEC's strategic intent, short for computers and communications, set out in the early 1970s."
+    },
+    {
+      "term": "NEC",
+      "aliases": [],
+      "explain": "Japanese electronics company that, according to Prahalad and Hamel, grew from $3.8 billion in sales in 1980 to $21.89 billion in 1988 by building competencies in semiconductors, computing and communications."
+    },
+    {
+      "term": "GTE",
+      "aliases": [],
+      "explain": "American telecommunications and electronics group that was larger than NEC in 1980 but had fallen behind by 1988 after selling or closing several technology businesses."
+    },
+    {
+      "term": "Honda",
+      "aliases": [],
+      "explain": "Japanese company whose engine competence runs through its cars, motorcycles, lawn mowers and generators."
+    },
+    {
+      "term": "Canon",
+      "aliases": [],
+      "explain": "Japanese company whose competencies in optics, precision mechanics and microelectronics carried it from cameras into copiers, laser printers and scanners."
+    },
+    {
+      "term": "Chrysler",
+      "aliases": [],
+      "explain": "American carmaker that the article criticises for buying more and more engines from Mitsubishi and Hyundai in the 1980s."
+    },
+    {
+      "term": "Casio",
+      "aliases": [],
+      "explain": "Japanese electronics company whose display and miniaturisation skills the article uses to explain what a competence is."
+    },
+    {
+      "term": "Matsushita",
+      "aliases": [],
+      "explain": "Japanese electronics group (now Panasonic) that made about 45 percent of the world's key VCR components while holding about 20 percent brand share."
+    },
+    {
+      "term": "JVC",
+      "aliases": [],
+      "explain": "Japanese electronics company whose early-1960s commitment to videotape the article cites as a well-chosen competence."
+    },
+    {
+      "term": "RCA",
+      "aliases": [],
+      "explain": "American electronics company whose late-1970s stylus-based video disc system the article cites as a poorly chosen competence."
+    },
+    {
+      "term": "Fujifilm",
+      "aliases": [
+        "Fuji"
+      ],
+      "explain": "Japanese film company that survived the collapse of photographic film by applying its chemical and materials skills to new markets."
+    },
+    {
+      "term": "Shigetaka Komori",
+      "aliases": [
+        "Komori"
+      ],
+      "explain": "The executive who took charge of Fujifilm between 2000 and 2003 and led its restructuring and diversification."
+    },
+    {
+      "term": "Astalift",
+      "aliases": [],
+      "explain": "Fujifilm's skincare line, launched in 2007, built on its knowledge of collagen and antioxidants from film chemistry."
+    },
+    {
+      "term": "Kodak",
+      "aliases": [
+        "Eastman Kodak"
+      ],
+      "explain": "American photography company that built one of the first digital cameras in 1975 but filed for bankruptcy protection in 2012."
+    },
+    {
+      "term": "Dorothy Leonard-Barton",
+      "aliases": [
+        "Leonard-Barton"
+      ],
+      "explain": "Harvard Business School professor who introduced the idea of core rigidities in 1992."
+    },
+    {
+      "term": "Core rigidities",
+      "aliases": [
+        "core rigidity",
+        "core rigidities"
+      ],
+      "explain": "Leonard-Barton's term for the way a company's established strengths can make it resist new skills and projects."
+    },
+    {
+      "term": "Resource-based view",
+      "aliases": [
+        "resource-based view"
+      ],
+      "explain": "A school of strategy that explains competitive advantage by a firm's valuable, rare and hard-to-copy resources and capabilities, rather than by its industry position."
+    },
+    {
+      "term": "Michael Porter",
+      "aliases": [
+        "Porter"
+      ],
+      "explain": "Harvard Business School professor whose five forces framework analyses industry attractiveness from the outside in."
+    },
+    {
+      "term": "Five forces",
+      "aliases": [
+        "five forces"
+      ],
+      "explain": "Porter's framework of rivalry, new entrants, supplier power, buyer power and substitutes, covered in the Saturday lesson on Porter's Five Forces."
+    },
+    {
+      "term": "Growth-share matrix",
+      "aliases": [
+        "growth-share matrix"
+      ],
+      "explain": "The Boston Consulting Group's portfolio tool from around 1970, which sorts business units by market growth and market share."
+    },
+    {
+      "term": "Harvard Business Review",
+      "aliases": [
+        "HBR"
+      ],
+      "explain": "Management magazine published by Harvard Business Publishing, where the core competence article appeared."
+    },
+    {
+      "term": "The Economist",
+      "aliases": [],
+      "explain": "British weekly news magazine whose 2012 article compared the fates of Kodak and Fujifilm."
+    }
+  ]
+}
