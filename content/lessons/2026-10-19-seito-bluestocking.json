@@ -1,0 +1,787 @@
+{
+  "slug": "seito-bluestocking",
+  "date": "2026-10-19",
+  "subject": "feminism",
+  "related": [
+    "first-wave",
+    "wages-for-housework",
+    "care-ethics",
+    "taiwan-womens-movement"
+  ],
+  "title": "Seitō and Japan's 'New Women': the Bluestocking magazine and the motherhood debate (1911–1923)",
+  "dek": "In September 1911 five young women in Tokyo started a literary magazine called Seitō, or Bluestocking. Within four years it had turned from poetry to arguments about marriage, chastity, abortion and prostitution, the government had banned several issues, and its writers had become the first generation of Japanese women to call themselves, or be called, 'new women'.",
+  "era": "1911 to 1923, with roots in the 1870s and effects to 1946",
+  "reading_minutes": 22,
+  "honesty": "This lesson keeps to people, dates and events documented in the English Wikipedia articles on Seitō, Hiratsuka Raichō, Itō Noe, Yosano Akiko, Yamakawa Kikue, the New Women's Association, Ryōsai kenbo and the Amakasu Incident, and in the Japanese Wikipedia articles on Seitō (青鞜) and the motherhood protection debate (母性保護論争). The only direct quotations are Hiratsuka's opening line of the first issue and one sentence from her 1913 essay as translated on Wikipedia. Other positions are paraphrased. Where the English and Japanese sources disagree, for example on exactly which issues were banned and why, the lesson uses only the cases on which they agree. The date of Lu Xun's lecture comes from the Wikisource text of the lecture itself.",
+  "timeline": [
+    {
+      "year": "1875",
+      "label": "'Good wife, wise mother' is coined",
+      "detail": "The educator Nakamura Masanao uses the phrase ryōsai kenbo in a speech. Over the next decades it becomes the official goal of girls' education in Japan."
+    },
+    {
+      "year": "1882",
+      "label": "Kishida Toshiko's lecture tour",
+      "detail": "Kishida Toshiko leaves service at the imperial court and tours Japan giving speeches on women's status for the Freedom and People's Rights Movement. Her speeches inspire the young Fukuda Hideko."
+    },
+    {
+      "year": "1900",
+      "label": "Women barred from politics",
+      "detail": "Article 5 of the Public Order and Police Law forbids women from joining political organizations and from holding or attending political meetings."
+    },
+    {
+      "year": "1901",
+      "label": "Midaregami",
+      "detail": "Yosano Akiko publishes Midaregami (Tangled Hair), 399 tanka poems that speak openly about a woman's desire. Critics attack it, but it is widely read."
+    },
+    {
+      "year": "1911",
+      "label": "Kanno Sugako is executed",
+      "detail": "In January the anarchist and feminist journalist Kanno Sugako is hanged after the High Treason Incident trial, the only woman among the twelve executed."
+    },
+    {
+      "year": "1911",
+      "label": "Seitō's first issue",
+      "detail": "In September the Bluestocking Society publishes the first issue of Seitō. Hiratsuka Raichō's opening essay begins 'In the beginning, woman was the sun.' The same year the actress Matsui Sumako plays Nora in Ibsen's A Doll's House in Tokyo."
+    },
+    {
+      "year": "1912",
+      "label": "The press discovers the 'new woman'",
+      "detail": "Newspapers mock Seitō members after Otake Kōkichi writes about drinking a colourful layered cocktail and visiting the Yoshiwara pleasure quarter. The April issue is banned for Araki Iku's story about adultery."
+    },
+    {
+      "year": "1913",
+      "label": "From literature to 'women's awakening'",
+      "detail": "The February issue is banned because of an essay by Fukuda Hideko judged socialist. In October the society rewrites its rules: its purpose is no longer 'the development of women's literature' but 'to promote the awakening of women'."
+    },
+    {
+      "year": "1915",
+      "label": "Itō Noe takes over",
+      "detail": "From the January 1915 issue the young Itō Noe edits Seitō. Debates on chastity, abortion and prostitution fill its pages. The June issue is banned for Harada Satsuki's essay on abortion."
+    },
+    {
+      "year": "1916",
+      "label": "The last issue",
+      "detail": "Seitō's 52nd and final issue appears in February 1916. Distributors had been pressured to stop carrying it, and Itō soon leaves to live with the anarchist Ōsugi Sakae."
+    },
+    {
+      "year": "1918–19",
+      "label": "The motherhood protection debate",
+      "detail": "Yosano Akiko and Hiratsuka Raichō argue in print about whether mothers should seek economic independence or state support. Yamakawa Kikue and Yamada Waka join in."
+    },
+    {
+      "year": "1919–22",
+      "label": "The New Women's Association",
+      "detail": "Hiratsuka, Ichikawa Fusae and Oku Mumeo found the New Women's Association. In 1922 the Diet amends Article 5 so that women may attend and hold political meetings."
+    },
+    {
+      "year": "1923",
+      "label": "The Amakasu Incident",
+      "detail": "On 16 September, two weeks after the Great Kantō earthquake, military police led by Lieutenant Amakasu Masahiko kill Itō Noe, Ōsugi Sakae and Ōsugi's six-year-old nephew."
+    },
+    {
+      "year": "1946",
+      "label": "Women vote",
+      "detail": "Women's suffrage is granted in November 1945. In the April 1946 general election Japanese women vote for the first time and 39 women are elected to the lower house."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "read": [
+    {
+      "title": "Wikipedia — Seitō (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Seit%C5%8D_(magazine)",
+      "note": "The founders, the background in Meiji family law, the contents of the magazine and its history issue by issue."
+    },
+    {
+      "title": "Wikipedia — Hiratsuka Raichō",
+      "url": "https://en.wikipedia.org/wiki/Hiratsuka_Raich%C5%8D",
+      "note": "Her life from Seitō to the New Women's Association and the postwar peace movement, including the controversy over eugenics."
+    },
+    {
+      "title": "Wikipedia — Itō Noe",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Noe",
+      "note": "Her years as editor, her debate with Yamakawa Kikue on prostitution, and her murder in 1923."
+    },
+    {
+      "title": "Wikipedia — Yosano Akiko",
+      "url": "https://en.wikipedia.org/wiki/Yosano_Akiko",
+      "note": "The poet behind Midaregami and one side of the motherhood debate."
+    },
+    {
+      "title": "Wikipedia — Yamakawa Kikue",
+      "url": "https://en.wikipedia.org/wiki/Yamakawa_Kikue",
+      "note": "The socialist critic who argued that neither independence nor state protection could free women under capitalism."
+    },
+    {
+      "title": "Wikipedia — New Women's Association",
+      "url": "https://en.wikipedia.org/wiki/New_Women%27s_Association",
+      "note": "How Hiratsuka and Ichikawa campaigned to change Article 5 of the Public Order and Police Law."
+    },
+    {
+      "title": "Wikipedia — Ryōsai kenbo (Good Wife, Wise Mother)",
+      "url": "https://en.wikipedia.org/wiki/Ry%C5%8Dsai_kenbo",
+      "note": "Where the ideal came from and how it spread to China and Korea."
+    },
+    {
+      "title": "維基百科（日文）— 母性保護論争",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AF%8D%E6%80%A7%E4%BF%9D%E8%AD%B7%E8%AB%96%E4%BA%89",
+      "note": "A detailed Japanese account of each writer's position in the 1918–1919 debate, with quotations."
+    },
+    {
+      "title": "維基百科（日文）— 青鞜",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E9%9E%9C",
+      "note": "A Japanese history of the magazine, including every office it moved to and every publisher."
+    },
+    {
+      "title": "維基文庫 — 魯迅〈娜拉走後怎樣〉",
+      "url": "https://zh.wikisource.org/wiki/%E5%A8%9C%E6%8B%89%E8%B5%B0%E5%BE%8C%E6%80%8E%E6%A8%A3",
+      "note": "The full text of Lu Xun's 1923 lecture, in Chinese. It is short and worth reading next to Hiratsuka's essays."
+    },
+    {
+      "title": "Wikipedia — Na Hye-sok",
+      "url": "https://en.wikipedia.org/wiki/Na_Hye-sok",
+      "note": "The Korean painter and writer who studied in Tokyo during Seitō's years and became Korea's best-known 'new woman'."
+    }
+  ],
+  "fun_fact": {
+    "title": "A magazine that kept moving house",
+    "text": "Seitō started in Mozume Kazuko's own room in her father's house in Tokyo. After the April 1912 issue was banned, the society was asked to leave and moved into a Buddhist temple, then into the home Hiratsuka shared with Okumura Hiroshi, and finally into the home of Itō Noe and Tsuji Jun. In under five years the society had seven different addresses and the magazine had six different publishers."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before Seitō: a modern state with an old idea of women",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "After the Meiji Restoration of 1868, Japan's leaders rebuilt the country on Western models: a constitution, a national army, railways, factories and compulsory schooling. They did not build a modern idea of women's rights at the same pace. The Civil Code of 1898 placed every family under a male head of household with legal authority over its members, so that even the lowest-ranking man in a household had more legal power than any woman in it. A wife lost control of her property on marriage, and adultery was a crime for a wife but not for a husband."
+        },
+        {
+          "type": "p",
+          "text": "The state's ideal woman had a name: ryōsai kenbo, 'good wife, wise mother'. The educator Nakamura Masanao used the phrase in 1875, and over the following decades it became the official purpose of girls' schools. A girl was educated so that she could run a household and raise loyal, healthy sons for the nation. This was a new ideal, not an ancient one, and it gave women an important role, but only inside the home. In 1890 and again in 1900, laws barred women from political meetings and political organizations. Article 5 of the Public Order and Police Law of 1900 made it illegal for a woman even to attend a political speech."
+        },
+        {
+          "type": "p",
+          "text": "There had been earlier challengers. In the 1880s Kishida Toshiko toured the country giving speeches for the Freedom and People's Rights Movement, with titles such as 'The Government as the Force over Men, and Men as the Force over Women'. Fukuda Hideko, inspired by Kishida, was jailed in 1885 for her part in a radical plot and later founded the socialist women's paper Sekai Fujin. In 1901 the poet Yosano Akiko published Midaregami, a book of tanka in which a woman speaks openly about her own desire. In January 1911 the anarchist journalist Kanno Sugako was hanged after the High Treason Incident, the only woman among the twelve executed. By 1911 there were also girls' schools producing educated, literate young women, and a market of women's magazines that mostly taught them how to be better wives."
+        },
+        {
+          "type": "p",
+          "text": "Two other events in 1911 set the scene. The actress Matsui Sumako played Nora in Henrik Ibsen's A Doll's House in Tokyo, a play that ends with a wife walking out on her husband and children. Educated audiences began to ask whether Japanese women could be Noras too. And the Swedish writer Ellen Key's books on love, marriage and motherhood were being read and translated by young Japanese women, among them a graduate of Japan Women's University named Hiratsuka Haru."
+        }
+      ]
+    },
+    {
+      "id": "founding",
+      "kicker": "The beginning",
+      "title": "'In the beginning, woman was the sun'",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The idea for a magazine written only by women came from the critic Ikuta Chōkō, who suggested it to Hiratsuka Haru. Hiratsuka was reluctant, but her university friend Yasumochi Yoshiko pushed her, and together with Nakano Hatsuko, Kiuchi Teiko and Mozume Kazuko they became the five founders of the Bluestocking Society, Seitō-sha. The name was a translation of 'bluestocking', the English nickname for educated women that went back to an eighteenth-century London literary circle. Hiratsuka's mother provided much of the starting money."
+        },
+        {
+          "type": "p",
+          "text": "The first issue appeared in September 1911. Its cover was drawn by the painter Naganuma Chieko, it opened with a poem by Yosano Akiko, and its editorial manifesto was signed with a new pen name, Raichō, 'thunderbird'. The essay began with the line that made the magazine famous: 'In the beginning, woman was the sun.' Hiratsuka was referring to Amaterasu, the sun goddess of Japanese myth. Her argument was that women had once been a source of their own light and had become a pale moon, shining only by reflecting the light of others. The task was to recover the 'hidden sun', which she described as women's own creative and spiritual power."
+        },
+        {
+          "type": "p",
+          "text": "It is important to see what this manifesto did and did not say. It did not call for the vote, for changes to the Civil Code or for equal pay. Hiratsuka was a practising Zen Buddhist, and her first concern was inner freedom: that a woman should think, write and live as a full person. The society's first rules described its purpose as 'the development of women's literature'. Even so, the first printing of 1,000 copies sold, and according to the English Wikipedia account the office received around 3,000 letters in the first month asking for subscriptions and advice. Many young women were clearly waiting for something like it."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "The women around Seitō",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Hiratsuka Raichō",
+              "dates": "1886–1971",
+              "text": "Founder and first editor. Moved from the spiritual feminism of the 1911 manifesto to political campaigning after 1918. Lived openly with the painter Okumura Hiroshi from 1914 and had two children with him before marrying in 1941. Later a leader of the postwar peace movement."
+            },
+            {
+              "name": "Yosano Akiko",
+              "dates": "1878–1942",
+              "text": "The most famous poet of her generation and a supporter of Seitō from the start. In the motherhood debate she argued that women must aim for full economic independence and should not depend on husbands or on the state."
+            },
+            {
+              "name": "Itō Noe",
+              "dates": "1895–1923",
+              "text": "Escaped an arranged marriage in Kyushu, joined Seitō at seventeen and edited it from 1915. Opened its pages to debates on abortion, prostitution and free love, translated Emma Goldman, and was murdered by military police in 1923."
+            },
+            {
+              "name": "Yamakawa Kikue",
+              "dates": "1890–1980",
+              "text": "Socialist critic who argued with Itō about prostitution in Seitō and later answered both Yosano and Hiratsuka in the motherhood debate. After the war she became the first head of the Women's and Minors' Bureau of the Ministry of Labour."
+            },
+            {
+              "name": "Ichikawa Fusae",
+              "dates": "1893–1981",
+              "text": "Former teacher and the first woman reporter at a Nagoya newspaper. Co-founded the New Women's Association with Hiratsuka and spent the next 25 years campaigning for women's suffrage."
+            },
+            {
+              "name": "Otake Kōkichi",
+              "dates": "joined 1912",
+              "text": "A nineteen-year-old painter who joined in 1912. Her cheerful accounts of a cocktail and a visit to the pleasure quarter gave the newspapers their first Seitō scandal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scandal",
+      "kicker": "The 'new woman'",
+      "title": "How the press made Seitō a scandal",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1912 Otake Kōkichi wrote in the magazine about drinking a 'five-coloured liquor', a layered cocktail, and about a visit to the Yoshiwara pleasure quarter with her uncle, the painter Otake Chikuha. She also wrote openly about her close attachment to Hiratsuka. None of this was very shocking by later standards, but the newspapers seized on it. From May 1912 into the next year many papers and magazines ran mocking features about atarashii onna, the 'new woman'. At first the phrase had meant an awakened woman like Ibsen's Nora. Now it came to mean a woman who drank, went where she should not and had loose morals."
+        },
+        {
+          "type": "p",
+          "text": "Respected educators joined in. Tsuda Umeko, founder of the women's English college that later became Tsuda University, forbade her students to take part in Seitō, and Naruse Jinzō, founder of Japan Women's University, criticized the 'new woman' publicly. Kōkichi left the society under pressure. The April 1912 issue was banned by the Home Ministry because of a short story by Araki Iku about a married woman's affair, and the society was asked to leave the Mozume family house."
+        },
+        {
+          "type": "p",
+          "text": "Seitō answered back. In January and February 1913 it published special supplements titled 'The New Woman and Other Women's Problems'. Several male writers defended the magazine, but the February issue was banned because an essay by the veteran activist Fukuda Hideko was judged socialist. In April 1913 Hiratsuka published 'To the Women of the World', which rejected the good-wife-wise-mother ideal. As translated on Wikipedia, she wrote: 'I wonder how many women have, for the sake of financial security in their lives, entered into loveless marriages to become one man's lifelong servant and prostitute.'"
+        },
+        {
+          "type": "p",
+          "text": "The attacks had an unexpected effect. Because the press insisted on treating Seitō as a feminist magazine, its members began to think of it that way themselves. In October 1913 Hiratsuka rewrote the society's rules. Its purpose was no longer 'the development of women's literature' but 'to promote the awakening of women'. Literature remained, but the centre of the magazine had moved to women's lives."
+        }
+      ]
+    },
+    {
+      "id": "debates",
+      "kicker": "In its pages",
+      "title": "Chastity, abortion and prostitution: the Itō Noe years",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In January 1914 Hiratsuka left her parents' house to live with Okumura Hiroshi, five years younger than her, without marrying him. She published an open letter to her parents explaining why. Some writers praised it and others attacked her. Busy with a new household and short of money, she could not produce the September 1914 issue at all. Itō Noe, then nineteen, produced the November issue and told Hiratsuka she would edit the magazine only if she were given complete control. From the January 1915 issue, Seitō was hers."
+        },
+        {
+          "type": "p",
+          "text": "Itō announced that the society would now have no rules and no fixed policy, and that the magazine would be open to all women. Under her, Seitō became a forum for arguments that respectable magazines would not print:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The chastity debate. Writers including Ikuta Hanayo, Harada Satsuki and Itō herself argued about whether chastity was a real moral value or a rule that men imposed on women, and what a poor woman should do if survival and chastity came into conflict.",
+            "The abortion debate. Harada Satsuki's piece on abortion led the Home Ministry to ban the June 1915 issue. Abortion was a crime in Japan, and the state treated women's fertility as a national resource.",
+            "The prostitution debate. Itō argued that most prostitutes were poor women trying to survive and should not be punished. Yamakawa Kikue, then a young socialist, replied that licensed prostitution was a system of exploitation built on poverty and had to be abolished, not excused."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "These debates mattered because they treated women's sexuality, bodies and economic survival as public questions that women themselves could discuss. They also show that Seitō never had a single line. Its writers disagreed sharply and argued in print."
+        },
+        {
+          "type": "p",
+          "text": "The magazine could not last. Distributors had been pressured to stop carrying it, money was short, and Itō's private life was in turmoil. The 52nd and last issue appeared in February 1916. In April Itō left her husband, the writer Tsuji Jun, for the anarchist Ōsugi Sakae, who was also involved with his wife and with another former Seitō member, Kamichika Ichiko. In November 1916 Kamichika stabbed Ōsugi at a country inn. He survived, and the episode became one more story the press used to discredit the 'new women'."
+        }
+      ]
+    },
+    {
+      "id": "motherhood",
+      "kicker": "The big argument",
+      "title": "The motherhood protection debate (1918–1919)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Two years after Seitō closed, its former writers had their most important argument. The question was simple to state and hard to answer: if women are to be free, should a mother earn her own living, or should society pay her for raising children? The debate is called the bosei hogo ronsō, the motherhood protection debate."
+        },
+        {
+          "type": "p",
+          "text": "It began in March 1918 with a short essay by Yosano Akiko in the magazine Fujin Kōron. Yosano argued that a woman should not marry or have children until she could support herself. Feminists already called it 'slave morality' for a wife to live off her husband in return for bearing his children, she wrote, and for the same reason women should refuse to live off the state. She accepted state help for the very poor, but she saw general state payments to mothers as a new form of dependence. Yosano had raised eleven children of her own, so she was not speaking as an outsider to motherhood."
+        },
+        {
+          "type": "p",
+          "text": "Hiratsuka, who had now had two children herself and had been deeply influenced by Ellen Key, disagreed. She argued that bearing and raising children was not a private matter but social and national work, because the nation's future depended on it. Officials, soldiers and teachers received salaries from the state without anyone calling them dependants, she wrote, so mothers who received state support should not be called dependants either. She also described the dilemma that working mothers still recognize: a woman who tries to be a good mother cannot be a good worker, and a woman who tries to be a good worker cannot be a good mother. Telling poor working women not to have children until they were independent, she said, meant telling most of them never to have children at all."
+        },
+        {
+          "type": "p",
+          "text": "Two more writers joined. Yamada Waka agreed with Hiratsuka but went further: she believed women's true calling was the home and that husbands and the state owed mothers payment. Yamakawa Kikue then analysed both main positions. She pointed out that nobody called a paid nanny a dependant, so a mother raising her own children was also doing valuable unpaid work. She granted that both Yosano and Hiratsuka had part of the truth. But she argued that neither economic independence under the existing system nor state protection would solve the problem, because the problem came from capitalism itself, which needed women as cheap labour and as unpaid carers at the same time."
+        },
+        {
+          "type": "p",
+          "text": "The debate is still worth studying because its three positions are still with us. Yosano's position resembles the liberal argument that women's freedom depends on paid work and financial independence. Hiratsuka's resembles arguments for paid parental leave, child allowances and the social value of care, which you met in the care ethics lesson. Yamakawa's socialist argument that domestic work is unpaid labour anticipates the Wages for Housework campaign of the 1970s by more than half a century."
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "kicker": "Into politics",
+      "title": "From magazine to movement",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Around 1919 Hiratsuka investigated textile factories in Nagoya and was shocked by the conditions of the young women working there. The motherhood debate and the factory visits convinced her that inner awakening was not enough and that women needed political rights. With Ichikawa Fusae and Oku Mumeo she founded the New Women's Association, which began public work in 1920."
+        },
+        {
+          "type": "p",
+          "text": "Because Article 5 banned women from political meetings, the association had to campaign through 'lecture meetings' and petitions to the Diet. It had two main demands. The first was to amend Article 5. In 1922 the Diet did so, allowing women to attend and organize political meetings, though not to join political parties. The second demand, which failed, was a law to stop men with venereal disease from marrying and to let wives of infected men divorce them. Hiratsuka presented it as protection for wives against a double standard that allowed men sexual freedom while demanding purity from women. Historians also note that she framed it in eugenic terms, as protecting the health of the Japanese 'race', and this remains a controversial part of her record."
+        },
+        {
+          "type": "p",
+          "text": "The association dissolved in 1922. Ichikawa went to the United States, where she sought out the American suffrage leader Alice Paul, and in 1924 helped found the Women's Suffrage League, which campaigned for the vote through the 1920s and 1930s. During the war she worked within government-sponsored organizations supporting the war effort, a part of her life that is also debated. Women finally received the vote in November 1945 under the American occupation, and in April 1946 Japanese women voted for the first time and elected 39 women to the lower house."
+        }
+      ]
+    },
+    {
+      "id": "amakasu",
+      "kicker": "A turning point",
+      "title": "The murder of Itō Noe",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On 1 September 1923 the Great Kantō earthquake destroyed much of Tokyo and Yokohama. In the chaos that followed, vigilantes, police and soldiers killed thousands of Korean residents and a number of left-wing activists. On 16 September military police led by Lieutenant Amakasu Masahiko arrested Itō Noe, Ōsugi Sakae and Ōsugi's six-year-old nephew Tachibana Munekazu. All three were killed in custody without trial. Accounts differ on exactly how they died, but all agree it was a deliberate execution. Itō was 28."
+        },
+        {
+          "type": "p",
+          "text": "The court-martial showed how far public opinion had turned against radicals. Amakasu's lawyers argued that he had acted out of patriotism, spectators called him a hero, and thousands signed petitions for leniency. He was sentenced to ten years, the sentence was reduced in 1924, and he was released under an amnesty in October 1926. Itō, who had edited Japan's first feminist magazine at twenty, became a symbol of how dangerous it was for a woman to challenge both the family system and the state."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What was happening elsewhere at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Britain. The years of Seitō were the most militant years of the British suffrage campaign. The Women's Social and Political Union, led by Emmeline Pankhurst and her daughters, broke windows, set fires and went on hunger strike between about 1909 and 1914. Seitō's writers read about them, but their own strategy was very different, partly because Japanese law did not even let women attend a political meeting. British women over thirty who met a property qualification won the vote in 1918, and all women over 21 in 1928. The 'New Woman' itself was a British and American idea of the 1890s, used by writers such as Sarah Grand to describe educated, independent women, and Japanese newspapers borrowed the phrase."
+        },
+        {
+          "type": "p",
+          "text": "China. Ibsen's Nora arrived in China a few years after she arrived in Japan, through the New Culture Movement. In June 1918 the magazine New Youth published a special Ibsen issue, in which Hu Shi praised Nora as a model of the independent individual. In December 1923 Lu Xun gave a lecture at the Beijing Women's Higher Normal School called 'What Happens After Nora Leaves Home?'. His answer was blunt: without money of her own, Nora would either fall into poverty or go back. He told the students that economic rights mattered more than inspiring speeches. It is almost the same question that Yosano and Hiratsuka had argued about in Tokyo five years earlier. The ideal of the 'good wife, wise mother' had also travelled from Japan to China, where Lu Xun and others criticized it."
+        },
+        {
+          "type": "p",
+          "text": "Korea. Korea was a Japanese colony from 1910, and many Korean students studied in Tokyo. One of them, the painter and writer Na Hye-sok, was studying Western oil painting at the Tokyo Arts College for Women during Seitō's years and admired Hiratsuka. In 1918 she published 'Kyonghui', a story about a young woman who rejects the good-wife-wise-mother path to find her own life. She took part in the March 1st independence movement of 1919 and was jailed, and in the 1920s she wrote for Sinyoja, 'New Woman', the first magazine for Korean women. Korean 'new women' faced the same ridicule as the Seitō writers, with the added pressure of colonial rule."
+        },
+        {
+          "type": "p",
+          "text": "The comparison shows that Seitō was part of an East Asian conversation, not just a copy of Western feminism. The same figures, Nora, Ellen Key and the 'new woman', appeared in Tokyo, Beijing and Seoul within about a decade, and in each place women and men argued about whether a woman's freedom began with her inner awakening, her paycheque or her country's politics."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "What followed",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the short term, Seitō failed. It lasted four and a half years, it was banned repeatedly, and the press turned 'new woman' into an insult. Its members went in very different directions: Hiratsuka into reform politics and later the peace movement, Itō into anarchism, Yamakawa into socialism, and Ichikawa into the long suffrage campaign. One Japanese view, quoted on the Japanese Wikipedia, is that the magazine 'did not play a large role in literary history, but its significance in impressing the woman question on society was great'."
+        },
+        {
+          "type": "p",
+          "text": "In the long term, it changed what Japanese women could say in public. It was the first place where women discussed chastity, abortion, prostitution, love and motherhood in their own voices and argued with each other about them. The line 'In the beginning, woman was the sun' is still one of the most quoted sentences in Japanese feminist history."
+        },
+        {
+          "type": "p",
+          "text": "For Taiwan, there is a direct link with an earlier lesson. When Taiwan's women's movement began under martial law in the 1970s and 1980s, it faced many of the same questions Seitō had faced: whether to work through literature or law, whether to stress women's independence or the protection of mothers,."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "In the motherhood debate, Yosano Akiko said a woman should support herself before having children, Hiratsuka Raichō said society should pay mothers for raising children, and Yamakawa Kikue said neither would work without changing the economic system. Which of the three positions is closest to how Taiwan supports mothers today, and which do you find most convincing?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Seitō",
+      "aliases": [
+        "青鞜",
+        "Bluestocking"
+      ],
+      "explain": "Japan's first literary magazine written entirely by women, published by the Bluestocking Society in 52 issues from September 1911 to February 1916. It moved from literature to open debate about women's lives."
+    },
+    {
+      "term": "Bluestocking Society",
+      "aliases": [
+        "Seitō-sha",
+        "青鞜社"
+      ],
+      "explain": "The group of women, founded by Hiratsuka Raichō and four friends in 1911, that published Seitō. The name translated the English nickname for educated women."
+    },
+    {
+      "term": "Hiratsuka Raichō",
+      "aliases": [
+        "平塚らいてう",
+        "Hiratsuka Haru",
+        "Hiratsuka",
+        "Raichō"
+      ],
+      "explain": "Japanese writer and activist (1886–1971) who founded Seitō, argued for state support of mothers in the motherhood protection debate, co-founded the New Women's Association, and led the postwar peace movement."
+    },
+    {
+      "term": "In the beginning, woman was the sun",
+      "aliases": [
+        "元始、女性は太陽であった"
+      ],
+      "explain": "The opening line of Hiratsuka Raichō's manifesto in the first issue of Seitō (1911), referring to the sun goddess Amaterasu and to women's lost spiritual independence."
+    },
+    {
+      "term": "Yosano Akiko",
+      "aliases": [
+        "与謝野晶子",
+        "Yosano"
+      ],
+      "explain": "Japanese poet (1878–1942) whose 1901 collection Midaregami expressed a woman's desire openly. In the motherhood debate she argued for women's full economic independence."
+    },
+    {
+      "term": "Midaregami",
+      "aliases": [
+        "Tangled Hair",
+        "みだれ髪"
+      ],
+      "explain": "Yosano Akiko's first book of tanka (1901), 399 poems that challenged the ideal of the modest, passive woman."
+    },
+    {
+      "term": "Itō Noe",
+      "aliases": [
+        "伊藤野枝",
+        "Itō"
+      ],
+      "explain": "Japanese anarchist, writer and feminist (1895–1923) who edited Seitō from 1915 to 1916 and was murdered by military police in the Amakasu Incident."
+    },
+    {
+      "term": "Yamakawa Kikue",
+      "aliases": [
+        "山川菊栄",
+        "Yamakawa"
+      ],
+      "explain": "Japanese socialist feminist (1890–1980) who argued that licensed prostitution and women's double burden came from capitalism, and later headed the Women's and Minors' Bureau of the Ministry of Labour."
+    },
+    {
+      "term": "Yamada Waka",
+      "aliases": [
+        "山田わか"
+      ],
+      "explain": "Japanese writer who joined the motherhood debate on Hiratsuka's side and argued that mothers had a right to be paid for raising children."
+    },
+    {
+      "term": "Ichikawa Fusae",
+      "aliases": [
+        "市川房枝",
+        "Ichikawa"
+      ],
+      "explain": "Japanese suffrage leader and politician (1893–1981) who co-founded the New Women's Association and led the campaign for women's votes, won in 1945."
+    },
+    {
+      "term": "Oku Mumeo",
+      "aliases": [
+        "奥むめお"
+      ],
+      "explain": "Japanese activist and co-leader of the New Women's Association with Hiratsuka and Ichikawa."
+    },
+    {
+      "term": "New Women's Association",
+      "aliases": [
+        "新婦人協会",
+        "Shin-fujin kyōkai"
+      ],
+      "explain": "Women's rights organization founded by Hiratsuka Raichō, Ichikawa Fusae and Oku Mumeo in 1919–1920. It won the 1922 amendment of Article 5 and dissolved the same year."
+    },
+    {
+      "term": "Article 5",
+      "aliases": [
+        "Public Order and Police Law",
+        "治安警察法"
+      ],
+      "explain": "Article 5 of Japan's Public Order and Police Law of 1900, which barred women from joining political organizations and from holding or attending political meetings. It was partly amended in 1922."
+    },
+    {
+      "term": "good wife, wise mother",
+      "aliases": [
+        "ryōsai kenbo",
+        "良妻賢母",
+        "good-wife-wise-mother"
+      ],
+      "explain": "The official ideal for Japanese women from the late nineteenth century to 1945: educated in order to run the home and raise children for the nation. The idea also spread to China and Korea."
+    },
+    {
+      "term": "new woman",
+      "aliases": [
+        "atarashii onna",
+        "新しい女",
+        "New Woman",
+        "new women"
+      ],
+      "explain": "A term from 1890s Britain and America for educated, independent women. In Japan after 1912 it was first used for awakened women like Ibsen's Nora and then by the press as an insult for the Seitō writers."
+    },
+    {
+      "term": "motherhood protection debate",
+      "aliases": [
+        "bosei hogo ronsō",
+        "母性保護論争",
+        "motherhood debate"
+      ],
+      "explain": "A 1918–1919 debate among Yosano Akiko, Hiratsuka Raichō, Yamakawa Kikue and Yamada Waka over whether mothers should seek economic independence or state support."
+    },
+    {
+      "term": "Ellen Key",
+      "aliases": [
+        "Key"
+      ],
+      "explain": "Swedish writer (1849–1926) on love, marriage, motherhood and children whose books strongly influenced Hiratsuka Raichō's view that motherhood deserved social support."
+    },
+    {
+      "term": "A Doll's House",
+      "aliases": [
+        "Nora",
+        "人形の家"
+      ],
+      "explain": "Henrik Ibsen's 1879 play about a wife, Nora, who leaves her husband and children to become her own person. Its Tokyo production in 1911 and its arrival in China made Nora a symbol of women's independence across East Asia."
+    },
+    {
+      "term": "Henrik Ibsen",
+      "aliases": [
+        "Ibsen"
+      ],
+      "explain": "Norwegian playwright (1828–1906) whose A Doll's House shaped debates about women's freedom in Europe and East Asia."
+    },
+    {
+      "term": "Matsui Sumako",
+      "aliases": [
+        "松井須磨子"
+      ],
+      "explain": "Japanese stage actress (1886–1919) who played Nora in A Doll's House in Tokyo in 1911."
+    },
+    {
+      "term": "Ikuta Chōkō",
+      "aliases": [
+        "生田長江"
+      ],
+      "explain": "Japanese critic and translator who suggested that Hiratsuka start a women's literary magazine and helped name it."
+    },
+    {
+      "term": "Naganuma Chieko",
+      "aliases": [
+        "Takamura Chieko",
+        "長沼智恵子"
+      ],
+      "explain": "Japanese painter (1886–1938), a Japan Women's University graduate, who drew the cover of Seitō's first issue."
+    },
+    {
+      "term": "Otake Kōkichi",
+      "aliases": [
+        "尾竹紅吉",
+        "Kōkichi"
+      ],
+      "explain": "Japanese painter and young Seitō member whose writing about a cocktail and a visit to the Yoshiwara set off the 1912 press campaign against the 'new women'."
+    },
+    {
+      "term": "Araki Iku",
+      "aliases": [
+        "荒木郁"
+      ],
+      "explain": "Seitō writer whose short story about a married woman's affair caused the April 1912 issue to be banned."
+    },
+    {
+      "term": "Harada Satsuki",
+      "aliases": [
+        "原田皐月"
+      ],
+      "explain": "Seitō writer whose essay on abortion caused the June 1915 issue to be banned."
+    },
+    {
+      "term": "Kamichika Ichiko",
+      "aliases": [
+        "神近市子",
+        "Kamichika"
+      ],
+      "explain": "Journalist and former Seitō member who stabbed Ōsugi Sakae in 1916."
+    },
+    {
+      "term": "Ōsugi Sakae",
+      "aliases": [
+        "大杉栄",
+        "Ōsugi"
+      ],
+      "explain": "Japanese anarchist writer (1885–1923), Itō Noe's partner from 1916, murdered with her in the Amakasu Incident."
+    },
+    {
+      "term": "Tsuji Jun",
+      "aliases": [
+        "辻潤"
+      ],
+      "explain": "Japanese writer and translator (1884–1944), Itō Noe's former teacher and first husband."
+    },
+    {
+      "term": "Amakasu Incident",
+      "aliases": [
+        "甘粕事件",
+        "Amakasu Masahiko",
+        "Amakasu"
+      ],
+      "explain": "The killing of Itō Noe, Ōsugi Sakae and Ōsugi's six-year-old nephew by military police under Lieutenant Amakasu Masahiko on 16 September 1923, after the Great Kantō earthquake."
+    },
+    {
+      "term": "Great Kantō earthquake",
+      "aliases": [
+        "関東大震災"
+      ],
+      "explain": "The earthquake of 1 September 1923 that destroyed much of Tokyo and Yokohama and was followed by the killing of Koreans and left-wing activists."
+    },
+    {
+      "term": "Kishida Toshiko",
+      "aliases": [
+        "岸田俊子"
+      ],
+      "explain": "One of Japan's first feminist speakers (1863–1901), who toured the country in the 1880s for the Freedom and People's Rights Movement."
+    },
+    {
+      "term": "Fukuda Hideko",
+      "aliases": [
+        "福田英子"
+      ],
+      "explain": "Japanese socialist feminist (1865–1927), jailed after the 1885 Osaka Incident, whose essay caused the February 1913 Seitō issue to be banned."
+    },
+    {
+      "term": "Kanno Sugako",
+      "aliases": [
+        "管野須賀子"
+      ],
+      "explain": "Japanese anarchist and feminist journalist (1881–1911), the only woman executed after the High Treason Incident."
+    },
+    {
+      "term": "High Treason Incident",
+      "aliases": [
+        "大逆事件"
+      ],
+      "explain": "A 1910 alleged plot to kill the Meiji Emperor, after which twelve anarchists and socialists were executed in January 1911."
+    },
+    {
+      "term": "Freedom and People's Rights Movement",
+      "aliases": [
+        "自由民権運動"
+      ],
+      "explain": "A Japanese political movement of the 1870s and 1880s that demanded an elected assembly and broader rights. Some women, including Kishida Toshiko and Fukuda Hideko, took part."
+    },
+    {
+      "term": "Nakamura Masanao",
+      "aliases": [
+        "中村正直"
+      ],
+      "explain": "Meiji-era educator (1832–1891) who used the phrase 'good wife, wise mother' in an 1875 speech."
+    },
+    {
+      "term": "Tsuda Umeko",
+      "aliases": [
+        "津田梅子"
+      ],
+      "explain": "Japanese educator (1864–1929) who founded the women's English college that became Tsuda University. She forbade her students to join Seitō."
+    },
+    {
+      "term": "Naruse Jinzō",
+      "aliases": [
+        "成瀬仁蔵"
+      ],
+      "explain": "Japanese educator (1858–1919) who founded Japan Women's University and publicly criticized the 'new woman'."
+    },
+    {
+      "term": "Okumura Hiroshi",
+      "aliases": [
+        "奥村博"
+      ],
+      "explain": "Japanese painter, five years younger than Hiratsuka, who lived with Hiratsuka Raichō from 1914 and married her in 1941."
+    },
+    {
+      "term": "Mozume Kazuko",
+      "aliases": [
+        "物集和子"
+      ],
+      "explain": "One of Seitō's five founders. The magazine's first office was her room in her father's house."
+    },
+    {
+      "term": "Emma Goldman",
+      "aliases": [],
+      "explain": "American anarchist writer (1869–1940) whose essays, including 'The Tragedy of Woman's Emancipation', Itō Noe translated into Japanese."
+    },
+    {
+      "term": "Emmeline Pankhurst",
+      "aliases": [
+        "Pankhurst",
+        "WSPU",
+        "Women's Social and Political Union"
+      ],
+      "explain": "Leader (1858–1928) of Britain's militant Women's Social and Political Union, founded in 1903."
+    },
+    {
+      "term": "Sarah Grand",
+      "aliases": [],
+      "explain": "British writer (1854–1943) whose 1894 article helped popularize the phrase 'New Woman'."
+    },
+    {
+      "term": "Alice Paul",
+      "aliases": [],
+      "explain": "American suffrage leader (1885–1977) whom Ichikawa Fusae sought out in the United States in the early 1920s."
+    },
+    {
+      "term": "New Youth",
+      "aliases": [
+        "新青年"
+      ],
+      "explain": "Chinese magazine at the centre of the New Culture Movement. Its June 1918 special issue on Ibsen made Nora famous in China."
+    },
+    {
+      "term": "Hu Shi",
+      "aliases": [
+        "胡適"
+      ],
+      "explain": "Chinese scholar (1891–1962) whose essay 'Ibsenism' in the 1918 New Youth Ibsen issue praised Nora as a model of individual independence."
+    },
+    {
+      "term": "Lu Xun",
+      "aliases": [
+        "魯迅"
+      ],
+      "explain": "Chinese writer (1881–1936) whose 1923 lecture 'What Happens After Nora Leaves Home?' argued that women needed economic rights to make freedom real."
+    },
+    {
+      "term": "What Happens After Nora Leaves Home?",
+      "aliases": [
+        "娜拉走後怎樣"
+      ],
+      "explain": "Lu Xun's lecture of 26 December 1923 at the Beijing Women's Higher Normal School, published in 1924."
+    },
+    {
+      "term": "Na Hye-sok",
+      "aliases": [
+        "나혜석",
+        "羅蕙錫"
+      ],
+      "explain": "Korean painter and writer (1896–1948) who studied in Tokyo, admired Hiratsuka, wrote the 1918 story 'Kyonghui' and became Korea's best-known 'new woman'."
+    },
+    {
+      "term": "Kyonghui",
+      "aliases": [
+        "경희"
+      ],
+      "explain": "Na Hye-sok's 1918 story about a young Korean woman who rejects the good-wife-wise-mother path."
+    },
+    {
+      "term": "Sinyoja",
+      "aliases": [
+        "New Woman magazine"
+      ],
+      "explain": "The first magazine for Korean women, published in the early 1920s, to which Na Hye-sok and Kim Iryeop contributed."
+    }
+  ]
+}
