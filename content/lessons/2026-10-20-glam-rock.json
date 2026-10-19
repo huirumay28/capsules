@@ -1,0 +1,995 @@
+{
+  "slug": "glam-rock",
+  "date": "2026-10-20",
+  "subject": "music",
+  "related": [
+    "psychedelia",
+    "punk",
+    "post-punk",
+    "krautrock",
+    "disco"
+  ],
+  "title": "Glam rock: glitter, Ziggy Stardust and the return of the pop single (1971–1975)",
+  "dek": "In March 1971 Marc Bolan appeared on Top of the Pops in satin clothes with glitter under his eyes. Within two years David Bowie had become Ziggy Stardust, Slade and Sweet were filling the British charts, and rock had swapped long serious albums and denim for costume, make-up, loud singles and open play with gender.",
+  "era": "1971 to 1975, with roots in the late 1960s and effects into punk, the New Romantics and visual kei",
+  "reading_minutes": 20,
+  "honesty": "This lesson keeps to dates, chart positions and events documented in the English Wikipedia articles on glam rock, Marc Bolan, T. Rex, Hot Love, David Bowie, Starman, Ziggy Stardust, Aladdin Sane, Roxy Music, Slade, Cum On Feel the Noize, Sweet, Suzi Quatro, Alice Cooper's School's Out, Transformer, All the Young Dudes, Raw Power, the New York Dolls, Jobriath, The Rocky Horror Show, Kansai Yamamoto and the Sadistic Mika Band. The only direct quotation is a lyric line from Starman. Musical descriptions and the analysis sections are my own summary, not claims from a single source.",
+  "timeline": [
+    {
+      "year": "1968",
+      "label": "Tyrannosaurus Rex",
+      "detail": "Marc Bolan and the percussionist Steve Peregrin Took release acoustic, folk-psychedelic albums as Tyrannosaurus Rex and become favourites of the London hippie underground."
+    },
+    {
+      "year": "1969",
+      "label": "Space Oddity",
+      "detail": "David Bowie has his first hit with Space Oddity, released days before the Apollo 11 Moon landing. For the next two years he struggles to follow it up."
+    },
+    {
+      "year": "1970",
+      "label": "Ride a White Swan",
+      "detail": "Bolan shortens the band's name to T. Rex, plugs in an electric guitar, and Ride a White Swan reaches number two in the UK."
+    },
+    {
+      "year": "1971",
+      "label": "Glitter on Top of the Pops",
+      "detail": "In March Bolan performs Hot Love on the BBC's Top of the Pops in shiny satin and glittery make-up, a look suggested by his stylist Chelita Secunda. Hot Love spends six weeks at number one. This appearance is usually cited as the start of glam rock."
+    },
+    {
+      "year": "1972",
+      "label": "Ziggy Stardust",
+      "detail": "Bowie tells Melody Maker that he is gay, releases The Rise and Fall of Ziggy Stardust and the Spiders from Mars on 16 June, and performs Starman on Top of the Pops (broadcast 6 July). Roxy Music release their first album, and Alice Cooper's School's Out tops the UK chart in August."
+    },
+    {
+      "year": "1973",
+      "label": "Glam's peak year",
+      "detail": "Slade's Cum On Feel the Noize goes straight in at number one, the first single to do so since the Beatles' Get Back in 1969. Sweet's Block Buster!, Suzi Quatro's Can the Can and the New York Dolls' first album follow. The Rocky Horror Show opens in London on 19 June, and on 3 July Bowie retires Ziggy on stage at the Hammersmith Odeon."
+    },
+    {
+      "year": "1974",
+      "label": "Kurofune",
+      "detail": "The Sadistic Mika Band record their second album, Kurofune (Black Ship), in England with the producer Chris Thomas. In 1975 they become the first Japanese rock band to tour the United Kingdom."
+    },
+    {
+      "year": "1975",
+      "label": "Glitter fades",
+      "detail": "Bowie releases the soul-influenced Young Americans, the film The Rocky Horror Picture Show is released, and in New York and London the people who will make punk are already watching the New York Dolls."
+    },
+    {
+      "year": "1977",
+      "label": "Bolan dies",
+      "detail": "Marc Bolan is killed in a car crash in Barnes, south-west London, on 16 September 1977, two weeks before his 30th birthday."
+    }
+  ],
+  "read": [
+    {
+      "title": "Wikipedia — Glam rock",
+      "url": "https://en.wikipedia.org/wiki/Glam_rock",
+      "note": "An overview of the style, its British and American branches, and its influence."
+    },
+    {
+      "title": "Wikipedia — Marc Bolan",
+      "url": "https://en.wikipedia.org/wiki/Marc_Bolan",
+      "note": "Bolan's path from Tyrannosaurus Rex to T. Rex and 'T. Rextasy'."
+    },
+    {
+      "title": "Wikipedia — Hot Love (T. Rex song)",
+      "url": "https://en.wikipedia.org/wiki/Hot_Love_(T._Rex_song)",
+      "note": "The March 1971 Top of the Pops appearances often called the start of glam."
+    },
+    {
+      "title": "Wikipedia — Starman (song)",
+      "url": "https://en.wikipedia.org/wiki/Starman_(song)",
+      "note": "The July 1972 Top of the Pops performance and why fans remember it."
+    },
+    {
+      "title": "Wikipedia — Ziggy Stardust (character)",
+      "url": "https://en.wikipedia.org/wiki/Ziggy_Stardust_(character)",
+      "note": "Bowie's alien rock-star persona and its retirement in July 1973."
+    },
+    {
+      "title": "Wikipedia — Roxy Music",
+      "url": "https://en.wikipedia.org/wiki/Roxy_Music",
+      "note": "Bryan Ferry, Brian Eno and the art-school side of glam."
+    },
+    {
+      "title": "Wikipedia — Slade",
+      "url": "https://en.wikipedia.org/wiki/Slade",
+      "note": "The most successful British singles band of glam's peak years."
+    },
+    {
+      "title": "Wikipedia — New York Dolls",
+      "url": "https://en.wikipedia.org/wiki/New_York_Dolls",
+      "note": "The American band that linked glam to punk."
+    },
+    {
+      "title": "Wikipedia — Sadistic Mika Band",
+      "url": "https://en.wikipedia.org/wiki/Sadistic_Mika_Band",
+      "note": "The Japanese band that recorded in England and toured the UK in 1975."
+    }
+  ],
+  "fun_fact": {
+    "title": "The finger that converted a generation",
+    "text": "When Bowie performed Starman on Top of the Pops in July 1972, he reached the line 'I had to phone someone so I picked on you' and pointed straight into the camera. Many British teenagers watching at home felt he was pointing at them personally. The biographer David Buckley wrote that many fans date their conversion to Bowie to this one appearance. Before it, Starman was at number 41 on the UK chart. Afterwards it climbed to number 10 and pushed the Ziggy Stardust album to number five."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before glam: the serious rock of the late 1960s",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1970, rock in Britain and America had become serious. After psychedelia, the most respected musicians made long albums rather than singles, played extended solos, and dressed down in denim and long hair. Progressive rock bands such as Yes and King Crimson borrowed from classical music. Singer-songwriters such as Carole King, whose album Tapestry came out in 1971, offered quiet personal confession. Rock critics prized authenticity: the idea that a musician should sing honestly about their own life and should not look as if they were trying to sell anything."
+        },
+        {
+          "type": "p",
+          "text": "At the same time, the British singles chart and the BBC's weekly chart show Top of the Pops were still watched by millions of teenagers, many of them younger than the album-buying rock audience. The Beatles had split in 1970. There was room for pop stars who could make three-minute singles exciting again and look extraordinary on a colour television screen. Colour broadcasting had started on BBC One in late 1969, so the way performers looked on television mattered more than ever."
+        },
+        {
+          "type": "p",
+          "text": "Glam rock grew out of this gap. Its musicians took the volume and guitars of rock, the short catchy song of 1950s rock and roll and 1960s pop, and the costume and make-up of theatre and cabaret. They treated pop stardom as a performance that could be designed, rather than as an expression of an inner true self."
+        }
+      ]
+    },
+    {
+      "id": "bolan",
+      "kicker": "Origins",
+      "title": "Marc Bolan and T. Rex: the hippie who plugged in",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Marc Bolan, born Mark Feld in London in 1947, started the 1960s as a mod and a would-be pop star. In 1967 he formed Tyrannosaurus Rex, which soon became a duo of Bolan on acoustic guitar and voice and Steve Peregrin Took on percussion. They sang about wizards, elves and ancient kingdoms, and they were heroes of the London hippie underground. Two of their three albums with Took reached the UK top fifteen, but they were not pop stars."
+        },
+        {
+          "type": "p",
+          "text": "After Took was replaced by Mickey Finn, Bolan let electric guitar into the music. In 1970 he shortened the name to T. Rex and released Ride a White Swan, a short song built on hand claps, a rolling beat and his electric guitar. It reached number two. The next single, Hot Love, went to number one in March 1971 and stayed there for six weeks."
+        },
+        {
+          "type": "p",
+          "text": "Bolan performed Hot Love twice on Top of the Pops that March. For the first time on television he wore shiny satin stage clothes and glitter on his face, at the suggestion of his stylist Chelita Secunda. Writers on the period usually point to these appearances as the start of glam rock. Teenagers copied the look, and the British press called the screaming crowds at T. Rex concerts T. Rextasy, a term that recalled Beatlemania."
+        },
+        {
+          "type": "p",
+          "text": "T. Rex followed with Get It On, Telegram Sam and Metal Guru, all UK number ones, and the album Electric Warrior (1971). Bolan's songs were simple and sexy, full of strange nonsense images, and built on boogie rhythms that came from Chuck Berry and 1950s rock and roll. That mix of an old rock and roll beat with a new, made-up, slightly unreal persona became the basic formula of glam."
+        }
+      ]
+    },
+    {
+      "id": "bowie",
+      "kicker": "Deep dive",
+      "title": "David Bowie and Ziggy Stardust",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "David Bowie had been trying to become a star since the mid-1960s. Space Oddity was a hit in 1969, but his next albums sold poorly. In 1971 and 1972 he built a new character: Ziggy Stardust, a bisexual alien rock star who comes to Earth five years before the end of the world, becomes a messiah to the young, and is destroyed by his own fame. Bowie performed as Ziggy with his band, the Spiders from Mars: the guitarist Mick Ronson, the bassist Trevor Bolder and the drummer Mick Woodmansey."
+        },
+        {
+          "type": "p",
+          "text": "In January 1972 Bowie told the Melody Maker journalist Michael Watts that he was gay. Sex between men had only been partly decriminalised in England and Wales in 1967, and the statement made headlines in Britain and America. Bowie retracted it in another Melody Maker interview in 1977, blaming the drug problems he had at the time. Whatever his motives, it made Bowie a figure that gay and questioning teenagers could see on mainstream television."
+        },
+        {
+          "type": "p",
+          "text": "The album The Rise and Fall of Ziggy Stardust and the Spiders from Mars came out on 16 June 1972. On 5 July Bowie and the Spiders recorded Starman for Top of the Pops, and it was broadcast the following evening. Bowie, with dyed red hair and a bright quilted jumpsuit, draped his arm around Ronson's shoulders as they sang. The performance pushed the single to number 10 and the album to number five."
+        },
+        {
+          "type": "p",
+          "text": "The Ziggy tour went through Britain, North America and Japan. For it, the Japanese fashion designer Kansai Yamamoto created some of Bowie's best-known stage costumes, which were androgynous and futuristic and drew on kimono and Japanese theatre. The next album, Aladdin Sane (April 1973), was described by Bowie as 'Ziggy goes to America'. Its cover, a photograph by Brian Duffy, shows Bowie with a red and blue lightning bolt painted across his face."
+        },
+        {
+          "type": "p",
+          "text": "On 3 July 1973, at the end of a concert at the Hammersmith Odeon in London, Bowie announced from the stage that this was the last show they would ever do. Most of the audience of about 3,500 did not realise he meant Ziggy, not himself. The concert was filmed by D. A. Pennebaker. Bowie went on to soul, then to West Berlin and the electronic albums he made with Brian Eno, but Ziggy remained the image most people connect with glam."
+        },
+        {
+          "type": "p",
+          "text": "Bowie also used his new fame to help the musicians who had influenced him. He wrote All the Young Dudes for the band Mott the Hoople in 1972, after they turned down Suffragette City. He and Mick Ronson produced Lou Reed's album Transformer (November 1972), which included Walk on the Wild Side, a song about people from Andy Warhol's circle in New York, including the trans actresses Candy Darling and Holly Woodlawn. Bowie also helped with the final mix of Iggy and the Stooges' Raw Power (1973)."
+        }
+      ]
+    },
+    {
+      "id": "scene",
+      "kicker": "The scene",
+      "title": "Art-school glam and stomping glitter pop",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Glam was never one sound. It is easiest to understand as two overlapping groups."
+        },
+        {
+          "type": "p",
+          "text": "The first group was art-school glam. Roxy Music formed in London in 1971 around the singer Bryan Ferry, who had studied fine art at Newcastle, and Brian Eno, who played synthesiser and treated the band's sound with tape effects while dressed in feathers and make-up. Their first single, Virginia Plain, reached number four in 1972. Roxy Music treated rock as a collage of references: 1950s crooners, science fiction, fashion magazines and avant-garde sound. Eno left in 1973 after the album For Your Pleasure, mainly because of differences with Ferry. Sparks, two American brothers who moved to London, had a similar arch, theatrical approach with This Town Ain't Big Enough for Both of Us in 1974."
+        },
+        {
+          "type": "p",
+          "text": "The second group was stomping glitter pop, aimed straight at the singles chart. Slade, from the English Midlands, wore enormous platform boots, mirrored top hats and tartan, and spelled their song titles like schoolchildren: Coz I Luv You, Mama Weer All Crazee Now, Cum On Feel the Noize. In early 1973 Cum On Feel the Noize entered the UK chart at number one, the first single to do so since the Beatles' Get Back in 1969, and Skweeze Me Pleeze Me did the same a few months later. Their Christmas single Merry Xmas Everybody (1973) has come back into the UK chart nearly every December since."
+        },
+        {
+          "type": "p",
+          "text": "Many of the biggest glitter hits were written by two songwriters, Nicky Chinn and Mike Chapman. They gave Sweet a run of hits that included Block Buster!, a number one in 1973. They also wrote for Suzi Quatro, an American bassist and singer from Detroit whom the producer Mickie Most had brought to England. Dressed in a leather jumpsuit and playing a bass guitar almost as big as herself, Quatro had a hit with Can the Can in 1973. She showed that a woman could lead a loud rock band rather than sing in the background, and later women rockers such as Joan Jett named her as an influence. Mud, with Tiger Feet in 1974, and Wizzard, led by Roy Wood, also belonged to this world."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Art-school glam: David Bowie, Roxy Music, Sparks, Mott the Hoople, Cockney Rebel.",
+            "Glitter pop: T. Rex, Slade, Sweet, Suzi Quatro, Mud, Wizzard.",
+            "Stars who borrowed from glam without belonging to either group: Elton John, with his flamboyant glasses and costumes, and Queen, whose singer Freddie Mercury drew on glam's theatrical style."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "america",
+      "kicker": "Across the Atlantic",
+      "title": "American glam: Alice Cooper, the New York Dolls and Jobriath",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Glam was mainly a British phenomenon, but it had American branches. Alice Cooper, a band fronted by Vincent Furnier, used horror-film theatre on stage: fake guillotines, snakes and heavy eye make-up. Their single School's Out spent three weeks at number one in the UK in August 1972."
+        },
+        {
+          "type": "p",
+          "text": "In New York, the New York Dolls played loud, rough rock and roll in women's clothing, high heels and lipstick. The classic line-up was David Johansen, Johnny Thunders, Sylvain Sylvain, Arthur Kane and Jerry Nolan, who replaced the original drummer Billy Murcia after Murcia died in London in 1972. Their first album, produced by Todd Rundgren, appeared in 1973. It sold poorly, but its raw energy influenced the young musicians who would start punk in New York and London a few years later. In 1975 the London clothes-shop owner Malcolm McLaren briefly managed the Dolls before going home to manage the Sex Pistols."
+        },
+        {
+          "type": "p",
+          "text": "In Los Angeles, the DJ Rodney Bingenheimer ran a nightclub called Rodney Bingenheimer's English Disco, which played British glam records to Hollywood teenagers until glitter faded later in the decade. The singer Jobriath was signed by Elektra Records for a reported 500,000 dollars and promoted as a new star. He was the first openly gay rock musician signed to a major label, but his records failed and he soon left music. His story shows the limits of what the industry would accept: playing with androgyny on stage sold records, while an openly gay star was a much harder sell."
+        },
+        {
+          "type": "p",
+          "text": "The Rocky Horror Show, a rock musical written by Richard O'Brien, opened at the small Theatre Upstairs at the Royal Court in London on 19 June 1973. Its central character, Dr Frank-N-Furter, played by Tim Curry, is a flamboyant scientist in fishnets and a corset, and its songs are an affectionate parody of 1950s rock and roll. The 1975 film version, The Rocky Horror Picture Show, became a cult classic and has the longest-running release in film history."
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "kicker": "Analysis",
+      "title": "What glam meant",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Glam is often remembered as a fashion, but it carried real ideas about music and identity."
+        },
+        {
+          "type": "list",
+          "items": [
+            "It rejected rock authenticity. Hippie and progressive rock asked musicians to be sincere. Glam musicians invented characters, wore costumes and openly admitted that pop stardom was artificial. Bowie's Ziggy is a story about a manufactured star, sung by a manufactured star.",
+            "It brought back the single and the young fan. Glam records were short, loud and built for radio and Top of the Pops. They were aimed at teenagers and even children, at a time when serious rock had moved towards adult album buyers.",
+            "It made gender into a performance. Men in make-up, glitter and platform boots, and women such as Suzi Quatro in leather playing the bass, challenged what a rock man and a rock woman should look like. This happened in the same years as the new gay liberation movement: the Gay Liberation Front started in New York after the Stonewall riots of 1969, and a London branch began in 1970.",
+            "It had clear limits. Most glam stars were straight or did not say otherwise, and they borrowed camp and androgyny as style. The industry punished real openness, as Jobriath's career shows. Some glitter pop was also crude and laddish, closer to a football chant than to a statement about gender."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Glam also had a working-class side. Slade and Sweet were not art students. For their teenage fans, dressing up in silver and glitter for a concert was an escape from grey towns and the economic troubles of 1970s Britain, which included strikes, power cuts and the three-day week of early 1974."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What was happening elsewhere at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In West Germany, the same years were the peak of krautrock. Can, Kraftwerk and Neu! were trying to build a new popular music by moving away from Anglo-American rock, while glam musicians built theirs by going back to 1950s rock and roll and dressing it up. Bowie later connected the two worlds when he moved to West Berlin in 1976."
+        },
+        {
+          "type": "p",
+          "text": "In Jamaica, reggae was reaching the world. The 1972 film The Harder They Come, starring Jimmy Cliff, and Bob Marley and the Wailers' 1973 album Catch a Fire brought Jamaican music to British and American audiences. Reggae's appeal rested on seriousness and social message, almost the opposite of glam's playful artifice."
+        },
+        {
+          "type": "p",
+          "text": "In Japan, glam had a direct connection to British rock. Kansai Yamamoto dressed Bowie, and the Ziggy tour played Japan in 1973. The Sadistic Mika Band, led by Katō Kazuhiko and the singer Mika, recorded their album Kurofune (Black Ship) in England in 1974 with Chris Thomas, who had asked to produce them after hearing their first record. In 1975 they became the first Japanese rock band to tour the United Kingdom. The band split later that year when Kazuhiko and Mika divorced. Kurofune sold poorly at first but is now considered a landmark of Japanese rock. In the 1980s, Japanese visual kei bands such as X Japan pushed glam's make-up and costume much further."
+        },
+        {
+          "type": "p",
+          "text": "In Taiwan, the mid-1970s produced a very different movement. Under martial law, university students began the campus folk song movement, writing and singing their own songs in Mandarin instead of copying Western hits. A 1975 concert in Taipei by Yang Hsien, who set poems by Yu Kwang-chung to music, is often taken as its starting point. Where British glam played with artificial personas, Taiwan's campus folk valued plain voices, acoustic guitars and songs about one's own place."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "What followed",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1975 glam was fading. Bowie had moved on to soul with Young Americans, Roxy Music had become sleeker, and the glitter pop bands' hits were drying up. Marc Bolan's popularity fell in the mid-1970s, and he died in a car crash in Barnes, south-west London, on 16 September 1977. A memorial at the site, now called Marc Bolan's Rock Shrine, was unveiled in 1997."
+        },
+        {
+          "type": "p",
+          "text": "Glam's influence lasted much longer than its chart run. Punk took the New York Dolls' rough energy, the short single and the idea that a rock star could invent himself or herself. Many British punks of 1976 and 1977 had been teenage Bowie and Roxy Music fans. Post-punk took Roxy Music's and Bowie's art-school experiments further. Around 1979 and 1980 the New Romantic scene in London clubs, with bands such as Visage, Spandau Ballet and Duran Duran, brought make-up and costume back to pop. In America, 1980s glam metal bands combined heavy metal with teased hair and make-up. Japan's visual kei, the films Velvet Goldmine (1998) and Hedwig and the Angry Inch (2001), and many later pop stars who play with gender and persona all draw on what glam began."
+        },
+        {
+          "type": "p",
+          "text": "Bowie in particular became the model of the pop star who reinvents himself with each album. When people today say a singer is in a new era, with its own look, sound and character, they are using a way of thinking that glam made normal."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Glam stars openly wore costumes and invented characters, while the rock they reacted against prized honesty and authenticity. Is a performer who admits that their image is constructed less honest, or more honest, than one who claims to be simply themselves?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "glam rock",
+      "aliases": [
+        "glam",
+        "glitter pop"
+      ],
+      "explain": "A style of rock and pop that started in Britain in 1971, known for costume, make-up, glitter, platform boots, catchy singles and play with gender."
+    },
+    {
+      "term": "Marc Bolan",
+      "aliases": [
+        "Bolan"
+      ],
+      "explain": "English singer and guitarist (1947–1977), born Mark Feld, leader of T. Rex and the first glam star."
+    },
+    {
+      "term": "T. Rex",
+      "aliases": [
+        "Tyrannosaurus Rex"
+      ],
+      "explain": "Marc Bolan's band. As Tyrannosaurus Rex it was an acoustic hippie duo; renamed T. Rex in 1970, it became glam's first hit act."
+    },
+    {
+      "term": "T. Rextasy",
+      "aliases": [],
+      "explain": "The British press's name for the screaming excitement of T. Rex fans in the early 1970s, modelled on Beatlemania."
+    },
+    {
+      "term": "Steve Peregrin Took",
+      "aliases": [
+        "Took"
+      ],
+      "explain": "Percussionist in the original Tyrannosaurus Rex duo with Marc Bolan, later replaced by Mickey Finn."
+    },
+    {
+      "term": "Mickey Finn",
+      "aliases": [],
+      "explain": "Percussionist who replaced Steve Peregrin Took and played on the T. Rex hits."
+    },
+    {
+      "term": "Chelita Secunda",
+      "aliases": [],
+      "explain": "Marc Bolan's stylist, who suggested the satin clothes and glitter make-up he wore on Top of the Pops in March 1971."
+    },
+    {
+      "term": "Ride a White Swan",
+      "aliases": [],
+      "explain": "T. Rex's first single under the new name (1970), which reached number two in the UK."
+    },
+    {
+      "term": "Hot Love",
+      "aliases": [],
+      "explain": "T. Rex's first UK number one (March 1971). Bolan's glittery Top of the Pops performances of it are often called the start of glam."
+    },
+    {
+      "term": "Get It On",
+      "aliases": [],
+      "explain": "T. Rex's 1971 UK number one, released in the United States as Bang a Gong."
+    },
+    {
+      "term": "Telegram Sam",
+      "aliases": [],
+      "explain": "T. Rex's 1972 UK number one."
+    },
+    {
+      "term": "Metal Guru",
+      "aliases": [],
+      "explain": "T. Rex's 1972 UK number one."
+    },
+    {
+      "term": "Electric Warrior",
+      "aliases": [],
+      "explain": "T. Rex's 1971 album, which includes Get It On."
+    },
+    {
+      "term": "Top of the Pops",
+      "aliases": [],
+      "explain": "The BBC's weekly television chart show (1964–2006), where many glam stars made their most famous appearances."
+    },
+    {
+      "term": "Beatlemania",
+      "aliases": [],
+      "explain": "The intense fan excitement around the Beatles in the 1960s."
+    },
+    {
+      "term": "David Bowie",
+      "aliases": [
+        "Bowie"
+      ],
+      "explain": "English musician (1947–2016) who became glam's biggest star as Ziggy Stardust and later reinvented himself many times."
+    },
+    {
+      "term": "Space Oddity",
+      "aliases": [],
+      "explain": "David Bowie's first hit single (1969), about an astronaut called Major Tom."
+    },
+    {
+      "term": "Ziggy Stardust",
+      "aliases": [
+        "Ziggy"
+      ],
+      "explain": "The alien rock-star persona Bowie performed in 1972–73 and retired on stage at the Hammersmith Odeon on 3 July 1973."
+    },
+    {
+      "term": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "aliases": [],
+      "explain": "Bowie's concept album about a doomed alien rock star, released on 16 June 1972."
+    },
+    {
+      "term": "Spiders from Mars",
+      "aliases": [],
+      "explain": "Bowie's backing band in the Ziggy period: Mick Ronson, Trevor Bolder and Mick Woodmansey."
+    },
+    {
+      "term": "Mick Ronson",
+      "aliases": [
+        "Ronson"
+      ],
+      "explain": "English guitarist and arranger (1946–1993), Bowie's partner on stage in the Ziggy years and co-producer of Lou Reed's Transformer."
+    },
+    {
+      "term": "Trevor Bolder",
+      "aliases": [],
+      "explain": "Bassist of the Spiders from Mars."
+    },
+    {
+      "term": "Mick Woodmansey",
+      "aliases": [],
+      "explain": "Drummer of the Spiders from Mars, also known as Woody Woodmansey."
+    },
+    {
+      "term": "Starman",
+      "aliases": [],
+      "explain": "Bowie's 1972 single. His Top of the Pops performance of it in July 1972 is one of the most famous moments in British pop television."
+    },
+    {
+      "term": "Melody Maker",
+      "aliases": [],
+      "explain": "A British weekly music newspaper (1926–2000), in which Bowie said in January 1972 that he was gay."
+    },
+    {
+      "term": "Michael Watts",
+      "aliases": [],
+      "explain": "Melody Maker journalist whose January 1972 interview with Bowie contained his statement that he was gay."
+    },
+    {
+      "term": "Kansai Yamamoto",
+      "aliases": [
+        "山本寛斎"
+      ],
+      "explain": "Japanese fashion designer (1944–2020) who made androgynous, futuristic stage costumes for Bowie in 1972–73."
+    },
+    {
+      "term": "Aladdin Sane",
+      "aliases": [],
+      "explain": "Bowie's April 1973 album, which he called 'Ziggy goes to America'. Its cover shows a lightning bolt painted across his face."
+    },
+    {
+      "term": "Brian Duffy",
+      "aliases": [],
+      "explain": "English photographer (1933–2010) who shot the Aladdin Sane cover."
+    },
+    {
+      "term": "Hammersmith Odeon",
+      "aliases": [],
+      "explain": "London concert hall where Bowie retired Ziggy Stardust on 3 July 1973."
+    },
+    {
+      "term": "D. A. Pennebaker",
+      "aliases": [],
+      "explain": "American documentary filmmaker (1925–2019) who filmed Bowie's last Ziggy concert."
+    },
+    {
+      "term": "All the Young Dudes",
+      "aliases": [],
+      "explain": "A song Bowie wrote and produced for Mott the Hoople in 1972, which became a glam anthem."
+    },
+    {
+      "term": "Mott the Hoople",
+      "aliases": [],
+      "explain": "English rock band revived by Bowie's song All the Young Dudes in 1972."
+    },
+    {
+      "term": "Suffragette City",
+      "aliases": [],
+      "explain": "A Bowie song from the Ziggy Stardust album, first offered to Mott the Hoople, who turned it down."
+    },
+    {
+      "term": "Lou Reed",
+      "aliases": [],
+      "explain": "American singer and songwriter (1942–2013), formerly of the Velvet Underground, whose 1972 album Transformer was produced by Bowie and Ronson."
+    },
+    {
+      "term": "Transformer",
+      "aliases": [],
+      "explain": "Lou Reed's November 1972 album, produced by David Bowie and Mick Ronson."
+    },
+    {
+      "term": "Walk on the Wild Side",
+      "aliases": [],
+      "explain": "Lou Reed's 1972 song about people from Andy Warhol's circle, including Candy Darling and Holly Woodlawn."
+    },
+    {
+      "term": "Andy Warhol",
+      "aliases": [
+        "Warhol"
+      ],
+      "explain": "American pop artist (1928–1987) whose New York studio, the Factory, gathered musicians, actors and drag performers."
+    },
+    {
+      "term": "Candy Darling",
+      "aliases": [],
+      "explain": "American actress (1944–1974) and trans woman from Andy Warhol's circle, named in Walk on the Wild Side."
+    },
+    {
+      "term": "Holly Woodlawn",
+      "aliases": [],
+      "explain": "Puerto Rican-born American actress (1946–2015) and trans woman from Warhol's circle, named in Walk on the Wild Side."
+    },
+    {
+      "term": "Iggy and the Stooges",
+      "aliases": [
+        "Iggy Pop",
+        "the Stooges"
+      ],
+      "explain": "Michigan rock band led by Iggy Pop. Bowie helped with the mix of their 1973 album Raw Power."
+    },
+    {
+      "term": "Raw Power",
+      "aliases": [],
+      "explain": "Iggy and the Stooges' 1973 album, a key influence on punk."
+    },
+    {
+      "term": "Roxy Music",
+      "aliases": [],
+      "explain": "English art-rock band formed in 1971 around Bryan Ferry, with Brian Eno on its first two albums."
+    },
+    {
+      "term": "Bryan Ferry",
+      "aliases": [
+        "Ferry"
+      ],
+      "explain": "English singer and songwriter (born 1945), leader of Roxy Music, who studied fine art at Newcastle."
+    },
+    {
+      "term": "Brian Eno",
+      "aliases": [
+        "Eno"
+      ],
+      "explain": "English musician and producer (born 1948), Roxy Music's synthesiser player until 1973, later a pioneer of ambient music and Bowie's collaborator in Berlin."
+    },
+    {
+      "term": "Virginia Plain",
+      "aliases": [],
+      "explain": "Roxy Music's first single (1972), which reached number four in the UK."
+    },
+    {
+      "term": "For Your Pleasure",
+      "aliases": [],
+      "explain": "Roxy Music's 1973 album, the last with Brian Eno."
+    },
+    {
+      "term": "Sparks",
+      "aliases": [],
+      "explain": "American band of the brothers Ron and Russell Mael, who had their breakthrough in Britain in 1974."
+    },
+    {
+      "term": "This Town Ain't Big Enough for Both of Us",
+      "aliases": [],
+      "explain": "Sparks' 1974 hit single in Britain."
+    },
+    {
+      "term": "Slade",
+      "aliases": [],
+      "explain": "Rock band from the English Midlands, the biggest singles band of glam's peak, known for misspelled song titles."
+    },
+    {
+      "term": "Cum On Feel the Noize",
+      "aliases": [],
+      "explain": "Slade's 1973 single, the first to enter the UK chart at number one since the Beatles' Get Back."
+    },
+    {
+      "term": "Skweeze Me Pleeze Me",
+      "aliases": [],
+      "explain": "Slade's 1973 single, which also went straight to number one."
+    },
+    {
+      "term": "Coz I Luv You",
+      "aliases": [],
+      "explain": "Slade's first UK number one (1971)."
+    },
+    {
+      "term": "Mama Weer All Crazee Now",
+      "aliases": [],
+      "explain": "Slade's 1972 UK number one."
+    },
+    {
+      "term": "Merry Xmas Everybody",
+      "aliases": [],
+      "explain": "Slade's 1973 Christmas number one, which returns to the UK chart most Decembers."
+    },
+    {
+      "term": "Get Back",
+      "aliases": [],
+      "explain": "The Beatles' 1969 single, the last record before Slade's to enter the UK chart at number one."
+    },
+    {
+      "term": "Nicky Chinn and Mike Chapman",
+      "aliases": [
+        "Nicky Chinn",
+        "Mike Chapman"
+      ],
+      "explain": "Songwriting partnership behind many glitter-pop hits for Sweet, Suzi Quatro and Mud."
+    },
+    {
+      "term": "Sweet",
+      "aliases": [],
+      "explain": "British glam band whose hits, mostly written by Chinn and Chapman, included the 1973 number one Block Buster!."
+    },
+    {
+      "term": "Block Buster!",
+      "aliases": [],
+      "explain": "Sweet's 1973 UK number one."
+    },
+    {
+      "term": "Suzi Quatro",
+      "aliases": [
+        "Quatro"
+      ],
+      "explain": "American bassist and singer from Detroit (born 1950), brought to England by Mickie Most, who led her own glam rock band."
+    },
+    {
+      "term": "Can the Can",
+      "aliases": [],
+      "explain": "Suzi Quatro's 1973 hit, written by Chinn and Chapman."
+    },
+    {
+      "term": "Mickie Most",
+      "aliases": [],
+      "explain": "English record producer (1938–2003) who brought Suzi Quatro to England."
+    },
+    {
+      "term": "Joan Jett",
+      "aliases": [],
+      "explain": "American rock singer and guitarist (born 1958) who has named Suzi Quatro as an influence."
+    },
+    {
+      "term": "Mud",
+      "aliases": [],
+      "explain": "English glitter-pop band whose hits included Tiger Feet (1974)."
+    },
+    {
+      "term": "Tiger Feet",
+      "aliases": [],
+      "explain": "Mud's 1974 hit single."
+    },
+    {
+      "term": "Wizzard",
+      "aliases": [],
+      "explain": "Roy Wood's English glam band of the early 1970s."
+    },
+    {
+      "term": "Roy Wood",
+      "aliases": [],
+      "explain": "English musician (born 1946), formerly of the Move, who led Wizzard."
+    },
+    {
+      "term": "Cockney Rebel",
+      "aliases": [],
+      "explain": "English art-rock band led by Steve Harley in the mid-1970s."
+    },
+    {
+      "term": "Elton John",
+      "aliases": [],
+      "explain": "English singer and pianist (born 1947), known in the 1970s for flamboyant glasses and stage costumes."
+    },
+    {
+      "term": "Queen",
+      "aliases": [],
+      "explain": "English rock band formed in 1970."
+    },
+    {
+      "term": "Freddie Mercury",
+      "aliases": [],
+      "explain": "Singer of Queen (1946–1991), who drew on glam's theatrical style."
+    },
+    {
+      "term": "Alice Cooper",
+      "aliases": [],
+      "explain": "American shock-rock band fronted by Vincent Furnier, who later used the name as a solo singer, known for horror-film stage shows."
+    },
+    {
+      "term": "School's Out",
+      "aliases": [],
+      "explain": "Alice Cooper's 1972 single, three weeks at number one in the UK in August 1972."
+    },
+    {
+      "term": "New York Dolls",
+      "aliases": [
+        "the Dolls"
+      ],
+      "explain": "New York rock band of the early 1970s who wore women's clothes and make-up and influenced punk."
+    },
+    {
+      "term": "David Johansen",
+      "aliases": [],
+      "explain": "Singer of the New York Dolls (1950–2025)."
+    },
+    {
+      "term": "Johnny Thunders",
+      "aliases": [],
+      "explain": "Guitarist of the New York Dolls (1952–1991), later of the Heartbreakers."
+    },
+    {
+      "term": "Sylvain Sylvain",
+      "aliases": [],
+      "explain": "Guitarist and pianist of the New York Dolls (1951–2021)."
+    },
+    {
+      "term": "Arthur Kane",
+      "aliases": [],
+      "explain": "Bassist of the New York Dolls (1949–2004)."
+    },
+    {
+      "term": "Jerry Nolan",
+      "aliases": [],
+      "explain": "Drummer of the New York Dolls (1946–1992), who replaced Billy Murcia."
+    },
+    {
+      "term": "Billy Murcia",
+      "aliases": [],
+      "explain": "Original drummer of the New York Dolls (1951–1972), who died in London."
+    },
+    {
+      "term": "Todd Rundgren",
+      "aliases": [],
+      "explain": "American musician and producer (born 1948) who produced the New York Dolls' first album."
+    },
+    {
+      "term": "Malcolm McLaren",
+      "aliases": [
+        "McLaren"
+      ],
+      "explain": "English shop owner and manager (1946–2010) who briefly managed the New York Dolls in 1975 and then the Sex Pistols."
+    },
+    {
+      "term": "Sex Pistols",
+      "aliases": [],
+      "explain": "London punk band managed by Malcolm McLaren, whose 1976–77 records launched British punk."
+    },
+    {
+      "term": "Rodney Bingenheimer",
+      "aliases": [],
+      "explain": "Los Angeles DJ whose early-1970s nightclub, Rodney Bingenheimer's English Disco, played British glam records."
+    },
+    {
+      "term": "Jobriath",
+      "aliases": [],
+      "explain": "American singer (1946–1983), the first openly gay rock musician signed to a major record label (Elektra)."
+    },
+    {
+      "term": "The Rocky Horror Show",
+      "aliases": [],
+      "explain": "Richard O'Brien's rock musical, which opened at the Royal Court's Theatre Upstairs in London on 19 June 1973."
+    },
+    {
+      "term": "The Rocky Horror Picture Show",
+      "aliases": [],
+      "explain": "The 1975 film version of The Rocky Horror Show, a cult classic with the longest-running release in film history."
+    },
+    {
+      "term": "Richard O'Brien",
+      "aliases": [],
+      "explain": "Writer of The Rocky Horror Show, who also played Riff Raff."
+    },
+    {
+      "term": "Tim Curry",
+      "aliases": [],
+      "explain": "English actor who played Dr Frank-N-Furter in The Rocky Horror Show and its film."
+    },
+    {
+      "term": "Gay Liberation Front",
+      "aliases": [],
+      "explain": "Gay rights organisation founded in New York after the 1969 Stonewall riots, with a London branch from 1970."
+    },
+    {
+      "term": "Stonewall riots",
+      "aliases": [],
+      "explain": "Protests in June 1969 after a police raid on the Stonewall Inn in New York, a turning point for gay liberation."
+    },
+    {
+      "term": "authenticity",
+      "aliases": [],
+      "explain": "In rock criticism, the ideal that a musician should be sincere and sing about their real self, which glam deliberately rejected."
+    },
+    {
+      "term": "progressive rock",
+      "aliases": [
+        "prog"
+      ],
+      "explain": "British rock of the late 1960s and 1970s with long pieces, virtuoso playing and classical influences."
+    },
+    {
+      "term": "Yes",
+      "aliases": [],
+      "explain": "English progressive rock band formed in 1968."
+    },
+    {
+      "term": "King Crimson",
+      "aliases": [],
+      "explain": "English progressive rock band formed in 1968."
+    },
+    {
+      "term": "Carole King",
+      "aliases": [],
+      "explain": "American singer-songwriter (born 1942) whose 1971 album Tapestry defined the confessional singer-songwriter style."
+    },
+    {
+      "term": "Tapestry",
+      "aliases": [],
+      "explain": "Carole King's 1971 album."
+    },
+    {
+      "term": "Chuck Berry",
+      "aliases": [],
+      "explain": "American rock and roll pioneer (1926–2017), whose guitar boogie underlies much of glam."
+    },
+    {
+      "term": "Young Americans",
+      "aliases": [],
+      "explain": "Bowie's 1975 soul-influenced album, which marked his move away from glam."
+    },
+    {
+      "term": "The Harder They Come",
+      "aliases": [],
+      "explain": "1972 Jamaican film starring Jimmy Cliff, whose soundtrack spread reggae abroad."
+    },
+    {
+      "term": "Jimmy Cliff",
+      "aliases": [],
+      "explain": "Jamaican singer and actor, star of The Harder They Come."
+    },
+    {
+      "term": "Bob Marley and the Wailers",
+      "aliases": [],
+      "explain": "Jamaican reggae band whose 1973 album Catch a Fire reached international audiences."
+    },
+    {
+      "term": "Catch a Fire",
+      "aliases": [],
+      "explain": "Bob Marley and the Wailers' 1973 album on Island Records."
+    },
+    {
+      "term": "Kraftwerk",
+      "aliases": [],
+      "explain": "West German electronic band from Düsseldorf, founded by Ralf Hütter and Florian Schneider."
+    },
+    {
+      "term": "Neu!",
+      "aliases": [],
+      "explain": "Düsseldorf krautrock duo of Michael Rother and Klaus Dinger."
+    },
+    {
+      "term": "Sadistic Mika Band",
+      "aliases": [
+        "サディスティック・ミカ・バンド"
+      ],
+      "explain": "Japanese rock band formed in 1972 by Katō Kazuhiko and Mika, the first Japanese rock band to tour the UK (1975)."
+    },
+    {
+      "term": "Katō Kazuhiko",
+      "aliases": [
+        "加藤和彦"
+      ],
+      "explain": "Japanese musician (1947–2009) who led the Sadistic Mika Band."
+    },
+    {
+      "term": "Kurofune",
+      "aliases": [
+        "Black Ship",
+        "黒船"
+      ],
+      "explain": "The Sadistic Mika Band's 1974 album, recorded in England with Chris Thomas, now seen as a landmark of Japanese rock."
+    },
+    {
+      "term": "Chris Thomas",
+      "aliases": [],
+      "explain": "English record producer who produced Kurofune and worked with Roxy Music."
+    },
+    {
+      "term": "visual kei",
+      "aliases": [],
+      "explain": "A Japanese rock movement from the 1980s known for dramatic make-up, hair and costume."
+    },
+    {
+      "term": "X Japan",
+      "aliases": [],
+      "explain": "Japanese rock band formed in 1982, central to the visual kei movement."
+    },
+    {
+      "term": "campus folk song movement",
+      "aliases": [
+        "校園民歌"
+      ],
+      "explain": "A 1970s movement in Taiwan in which university students wrote and sang their own Mandarin songs instead of copying Western hits."
+    },
+    {
+      "term": "Yang Hsien",
+      "aliases": [
+        "楊弦"
+      ],
+      "explain": "Taiwanese singer whose 1975 concert of songs set to Yu Kwang-chung's poems is often called the start of the campus folk song movement."
+    },
+    {
+      "term": "Yu Kwang-chung",
+      "aliases": [
+        "余光中"
+      ],
+      "explain": "Taiwanese poet (1928–2017) whose poems Yang Hsien set to music."
+    },
+    {
+      "term": "New Romantic",
+      "aliases": [
+        "New Romantics"
+      ],
+      "explain": "A British club and pop scene around 1979–81 that brought make-up and costume back to pop."
+    },
+    {
+      "term": "Visage",
+      "aliases": [],
+      "explain": "British New Romantic band led by Steve Strange."
+    },
+    {
+      "term": "Spandau Ballet",
+      "aliases": [],
+      "explain": "London band that came out of the New Romantic club scene."
+    },
+    {
+      "term": "Duran Duran",
+      "aliases": [],
+      "explain": "Birmingham band associated with the New Romantic look."
+    },
+    {
+      "term": "glam metal",
+      "aliases": [],
+      "explain": "1980s American heavy metal with teased hair, make-up and catchy choruses."
+    },
+    {
+      "term": "Velvet Goldmine",
+      "aliases": [],
+      "explain": "Todd Haynes' 1998 film inspired by the glam rock era."
+    },
+    {
+      "term": "Hedwig and the Angry Inch",
+      "aliases": [],
+      "explain": "John Cameron Mitchell's 2001 rock musical film about a genderqueer East German singer."
+    },
+    {
+      "term": "Marc Bolan's Rock Shrine",
+      "aliases": [],
+      "explain": "Memorial at the site of Bolan's fatal 1977 car crash in Barnes, London, unveiled in 1997."
+    },
+    {
+      "term": "David Buckley",
+      "aliases": [],
+      "explain": "British author of biographies of David Bowie."
+    },
+    {
+      "term": "three-day week",
+      "aliases": [],
+      "explain": "Emergency measure in Britain in early 1974 that limited commercial electricity use to three days a week during a coal miners' dispute."
+    }
+  ]
+}
