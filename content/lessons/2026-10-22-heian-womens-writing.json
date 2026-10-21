@@ -1,0 +1,939 @@
+{
+  "slug": "heian-womens-writing",
+  "date": "2026-10-22",
+  "subject": "literature",
+  "related": [
+    "seito-bluestocking",
+    "high-modernism",
+    "french-symbolism",
+    "russian-realism",
+    "taiwan-nativist-literature",
+    "japanese-golden-age"
+  ],
+  "title": "Heian Women's Writing (c. 935–1060): the court ladies who invented Japanese prose",
+  "dek": "Around the year 1000, in the imperial capital that is now Kyoto, the most important prose in the Japanese language was written mostly by women. Men of the court were expected to write serious things in classical Chinese, while women wrote in kana, the new phonetic script for Japanese. Out of that division came diaries, a book of lists and opinions, and The Tale of Genji. This lesson explains why women ended up at the centre, who they were, how they competed with each other, and what happened to their work.",
+  "era": "c. 935–1060, in the middle Heian period (794–1185)",
+  "reading_minutes": 20,
+  "honesty": "This lesson relies mainly on the English-language Wikipedia articles on the works and writers named here and on the standard English translations they cite (Arthur Waley, Edward Seidensticker, Ivan Morris, Royall Tyler and Meredith McKinney). Almost nothing about these women is known outside their own writing, so birth and death years are approximate, and most of their personal names are lost: they are known by court nicknames or by a male relative. Short quotations are given as paraphrases of the translations rather than as exact wording. Calling The Tale of Genji the world's first novel is common but disputed, and the lesson says so. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "794",
+      "label": "Heian-kyō becomes the capital",
+      "detail": "Emperor Kanmu moves the court to Heian-kyō, the city now called Kyoto. The period from here to 1185 is named after it."
+    },
+    {
+      "year": "894",
+      "label": "Embassies to Tang China stop",
+      "detail": "On the advice of Sugawara no Michizane the court cancels a planned embassy to Tang China, and no more official missions are sent. Court culture begins to develop more of its own forms, although Chinese learning stays prestigious."
+    },
+    {
+      "year": "c. 905",
+      "label": "The Kokinshū",
+      "detail": "Emperor Daigo orders the Kokin Wakashū, the first imperial anthology of waka poetry in Japanese. Its kana preface by Ki no Tsurayuki argues that Japanese poetry grows from the human heart."
+    },
+    {
+      "year": "c. 935",
+      "label": "The Tosa Diary",
+      "detail": "Ki no Tsurayuki writes a travel diary of his journey home from Tosa province in kana, pretending to be a woman in his household."
+    },
+    {
+      "year": "c. 974",
+      "label": "The Kagerō Diary",
+      "detail": "The woman known as the Mother of Michitsuna finishes her account of twenty years of marriage to the powerful courtier Fujiwara no Kaneie, from 954 to 974."
+    },
+    {
+      "year": "993",
+      "label": "Sei Shōnagon enters court",
+      "detail": "Around this year Sei Shōnagon begins serving Empress Teishi, daughter of the regent Fujiwara no Michitaka."
+    },
+    {
+      "year": "1000",
+      "label": "Two empresses",
+      "detail": "Fujiwara no Michinaga has his daughter Shōshi made empress while Teishi still holds the title, so Emperor Ichijō has two. Teishi dies in childbirth at the end of that year."
+    },
+    {
+      "year": "c. 1002",
+      "label": "The Pillow Book",
+      "detail": "Sei Shōnagon's collection of lists, anecdotes and opinions is in circulation around this time, although she kept adding to it."
+    },
+    {
+      "year": "c. 1005",
+      "label": "Murasaki Shikibu joins Shōshi",
+      "detail": "Already known for the first chapters of her tale, Murasaki Shikibu enters the service of Empress Shōshi around 1005 or 1006."
+    },
+    {
+      "year": "1008",
+      "label": "First mention of Genji",
+      "detail": "Murasaki's diary records that at a court celebration the poet Fujiwara no Kintō asked whether 'our young Murasaki' was there, a joke on a heroine of her tale. This is the earliest dated reference to The Tale of Genji."
+    },
+    {
+      "year": "1018",
+      "label": "Michinaga's full moon",
+      "detail": "With a third daughter made empress, Michinaga recites a poem comparing his power to a full moon with nothing missing. The Fujiwara regency is at its height."
+    },
+    {
+      "year": "1020",
+      "label": "A girl gets the whole Genji",
+      "detail": "The author of the Sarashina Diary, then about twelve, returns from the eastern provinces to the capital and is given the complete Tale of Genji by an aunt."
+    },
+    {
+      "year": "c. 1060",
+      "label": "The Sarashina Diary",
+      "detail": "She finishes her memoir after her husband's death in 1058, looking back on a life spent dreaming of fiction."
+    },
+    {
+      "year": "1180–1185",
+      "label": "The Genpei War",
+      "detail": "The Taira and Minamoto clans fight for control of Japan. The Minamoto victory leads to the Kamakura shogunate and the end of court rule in practice."
+    },
+    {
+      "year": "1925–1933",
+      "label": "Waley's translation",
+      "detail": "Arthur Waley publishes the first nearly complete English translation of The Tale of Genji in six volumes, and Virginia Woolf reviews the first volume."
+    },
+    {
+      "year": "2012",
+      "label": "Classics Day",
+      "detail": "Japan passes a law making 1 November Koten no Hi, Classics Day, after the date of Kintō's remark in 1008."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A court that wrote in a foreign language",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "To understand why women wrote the great prose of this period, start with the scripts. Japan had no writing system of its own. From roughly the fifth century onward it borrowed Chinese characters, and for centuries the official written language of the state was classical Chinese. Laws, government records, histories and the private diaries of male officials were all written in Chinese, or in a Japanese-flavoured version of it called kanbun. For an educated man, writing in Chinese was a sign of learning and rank, much as Latin was for a medieval European cleric."
+        },
+        {
+          "type": "p",
+          "text": "Japanese words could also be written with Chinese characters used only for their sounds. The eighth-century poetry anthology the Man'yōshū was written this way, and the system is called man'yōgana. It was slow and awkward, because one simple Japanese word might need several complicated characters. During the ninth century scribes simplified these sound characters. Writing them quickly in cursive produced hiragana, and taking pieces of them produced katakana. Together these are called kana. For the first time Japanese could be written as quickly as it was spoken."
+        },
+        {
+          "type": "p",
+          "text": "Kana was soon tied to women. Hiragana was sometimes called onnade, 'the woman's hand', while Chinese characters were otokode, 'the man's hand'. This does not mean men never used kana. Men wrote waka, the thirty-one-syllable Japanese poem, in kana, and they exchanged waka constantly in courtship and friendship. What men did not usually do was write extended prose in kana, because prose that mattered was supposed to be in Chinese. Women, on the other hand, were not expected to study Chinese, and a woman who displayed Chinese learning could be mocked for it. That left kana prose as an open field."
+        },
+        {
+          "type": "p",
+          "text": "Two other changes prepared the ground. In 894 the court stopped sending official embassies to Tang China, which was collapsing, and in the following decades court taste turned more toward native forms. Around 905 Emperor Daigo ordered the Kokinshū, the first imperial anthology of Japanese poetry. Its kana preface, by the poet and official Ki no Tsurayuki, claimed that Japanese poetry has its seeds in the human heart. Waka was now officially respectable, and the ability to compose a good poem on the spot became one of the most important social skills at court, for women as well as men."
+        },
+        {
+          "type": "p",
+          "text": "Then, around 935, Ki no Tsurayuki did something odd. Returning from a term as governor of Tosa province on the island of Shikoku, he wrote a diary of the journey in kana and opened it by saying, in effect, that diaries are something men write, but he would see whether a woman could write one too. The Tosa Diary is narrated by an unnamed woman in his household. It mixes daily events with poems and with grief for a daughter who died in Tosa. By pretending to be a woman, Tsurayuki could write in Japanese about feelings, which a man's Chinese diary would not normally contain. The women who came after him did not need to pretend."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "Why the women's writing was different",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The writers in this lesson were mostly daughters of the middle aristocracy: provincial governors, scholars and minor officials. Their families were educated but not at the top of the court. Many of them served as ladies-in-waiting to an empress, which gave them a close view of court life and free time to write. Their works fall into a few kinds."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Nikki, or diaries. These are not day-by-day logs. They are memoirs, usually written or revised years later, that look back on a part of the writer's life and include many of the poems she exchanged. The Kagerō Diary, the Izumi Shikibu Diary, the Murasaki Shikibu Diary and the Sarashina Diary are the best known.",
+            "Zuihitsu, often translated as 'following the brush'. This is a loose collection of short pieces, lists, anecdotes and opinions in no fixed order. The Pillow Book of Sei Shōnagon is the founding example.",
+            "Monogatari, or tales. Earlier tales such as The Tale of the Bamboo Cutter were short, fantastic stories. The Tale of Genji turned the form into a long, realistic narrative about many characters over several generations.",
+            "Waka poetry runs through all of them. The poems are part of the plot: a love affair in these works is mostly a correspondence in poems, and a poorly written or late reply can end a relationship."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "What these works share is attention to inner life. The male Chinese diaries of the same court record ceremonies, appointments and the weather. Fujiwara no Michinaga, the most powerful man of the age, kept such a diary, the Midō Kanpakuki, and the original survives. The women recorded jealousy, boredom, waiting for a husband who did not come, embarrassment at a badly judged remark, and the beauty of a particular evening. Later Japanese critics gave a name to the mood of this writing. In the eighteenth century the scholar Motoori Norinaga argued that the heart of The Tale of Genji was mono no aware, a sensitivity to things and to their passing. The phrase is now used for the whole literature of the period."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "The writers and their rivalries",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The first great prose work by a woman is the Kagerō Diary, usually translated as The Gossamer Years. Its author is known only as the Mother of Michitsuna, after her son. She was married, as one of several wives, to Fujiwara no Kaneie, who later became regent and was the father of Michinaga. Her diary covers 954 to 974 and is mostly about the pain of that marriage: Kaneie's visits become rarer, he takes up with other women, and she waits. She says at the start that the old tales are full of made-up things, so she will write about her own life as it really was. The result is bitter, self-absorbed and very modern in feeling. One of her poems, about how long a night is for a woman who sleeps alone, is in the famous anthology Hyakunin Isshu."
+        },
+        {
+          "type": "p",
+          "text": "By the 990s the court had a new kind of competition. The Fujiwara family ruled by marrying their daughters to emperors and serving as regents for the resulting young sons. A daughter who became empress needed an attractive household around her to keep the emperor visiting, and that meant clever, witty ladies-in-waiting. Literary talent became a political asset."
+        },
+        {
+          "type": "p",
+          "text": "Sei Shōnagon served Empress Teishi, daughter of the regent Fujiwara no Michitaka, from around 993. Her Pillow Book is a sharp, funny and often snobbish collection. It contains lists with titles such as 'Hateful things', 'Things that make the heart beat faster' and 'Things that have lost their power', descriptions of the seasons, and stories of her own quick replies. It opens with a famous passage saying that in spring the best time is dawn, in summer the night, in autumn the evening and in winter the early morning. One well-known story shows the kind of game the court played. On a snowy day Teishi asked her what the snow on Xianglu Peak was like. Sei Shōnagon rolled up the blind, because a poem by the Chinese poet Bai Juyi describes looking at the snow on Xianglu Peak by raising the blind. She was showing off Chinese learning, and doing it in a way that made her mistress look good."
+        },
+        {
+          "type": "p",
+          "text": "Teishi's family lost power after Michitaka died in 995. His brother Michinaga took control, and in 1000 he had his own daughter Shōshi made empress alongside Teishi. Teishi died at the end of that year. Michinaga then gathered the most talented women he could find for Shōshi's household. They included Murasaki Shikibu, author of The Tale of Genji; Izumi Shikibu, the most passionate poet of the age; and Akazome Emon, a poet who is often credited with part of a history of the Fujiwara called the Eiga Monogatari, or Tale of Flowering Fortunes."
+        },
+        {
+          "type": "p",
+          "text": "Izumi Shikibu was famous, and notorious, for her love affairs. After a love affair with Prince Tametaka, who died in 1002, she began another with his younger brother Prince Atsumichi. The Izumi Shikibu Diary tells this second affair, largely through the poems the two exchanged, and is written in the third person, which has led to arguments about whether she wrote it herself. Her poems about desire and Buddhist longing are among the most admired in classical Japanese."
+        },
+        {
+          "type": "p",
+          "text": "Murasaki Shikibu is also a nickname. Her personal name is unknown. Murasaki is probably taken from the heroine of her tale, and Shikibu from a government ministry where her father, the scholar Fujiwara no Tametoki, had served. According to her own diary, she learned Chinese as a child by listening to her brother's lessons and learned faster than he did, and her father said it was a pity she had not been born a boy. At court she hid this learning, but she quietly taught Empress Shōshi the poems of Bai Juyi. Her diary, which covers roughly 1008 to 1010, includes an unkind judgement of Sei Shōnagon, who had left court years earlier: she calls her dreadfully conceited, says she scatters Chinese characters about although her knowledge is thin, and predicts a bad end for her. The two may never have met, but their names have been paired as rivals ever since."
+        },
+        {
+          "type": "p",
+          "text": "The last major writer in this group belongs to the next generation. The daughter of Sugawara no Takasue, a descendant of Sugawara no Michizane, was born in 1008 and grew up in Kazusa province in the east, where her father was governor. Her Sarashina Diary begins with her as a girl longing to read the tales she had heard about from older women. When the family returned to the capital in 1020, an aunt gave her the complete Tale of Genji in a box, and she describes lying alone reading it all day and night. The rest of the book follows a life that never matched the stories: a brief time at court, a late marriage, pilgrimages, and in the end the conclusion that she should have spent less time on fiction and more on her prayers. It is the first record in Japan of a reader whose life was shaped by a novel."
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "Deep dive",
+      "title": "The Tale of Genji",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Tale of Genji is a prose narrative of fifty-four chapters, containing about eight hundred waka poems, that follows the life of a fictional prince and then his descendants over some seventy years. Murasaki seems to have been writing it before she came to court, and chapters circulated in copies as she wrote. It is very long: the modern English translations run to more than a thousand pages."
+        },
+        {
+          "type": "p",
+          "text": "The hero, Genji, is the son of an emperor and a lowly ranked consort whom the emperor loves too much. The other consorts torment her and she dies when Genji is three. Because his mother's family has no power, his father removes him from the imperial line and makes him a commoner with the surname Minamoto, or Genji. He is extraordinarily beautiful and gifted, which is why he is called the Shining Genji. The first half of the book follows his love affairs. Several of them come from the same loss. He falls in love with his father's new consort Fujitsubo because she resembles his dead mother, and they have a son who is raised as the emperor's child and later becomes emperor himself. He then finds a girl of about ten who looks like Fujitsubo, takes her into his house and raises her to become his wife. She is the Murasaki of the title. Other affairs end in disaster: one young woman, Yūgao, dies in a deserted house after being attacked by a spirit, and the jealous spirit of the proud Lady Rokujō, who leaves her body without knowing it, kills Genji's first wife Aoi."
+        },
+        {
+          "type": "p",
+          "text": "After a period of exile at Suma, caused by a political scandal, Genji returns to the capital and reaches great power. He builds a mansion with four quarters arranged by season and houses his women in them. In the chapters called Wakana, or New Herbs, the book darkens. In middle age Genji accepts a young princess, the Third Princess, as his principal wife, which deeply wounds Murasaki. The princess is seduced by a young man, Kashiwagi, and bears a son, and Genji has to raise him knowing what his own father must have felt. Murasaki falls ill and dies. A chapter titled Vanished into the Clouds contains no text, and the next chapter shows that Genji has died."
+        },
+        {
+          "type": "p",
+          "text": "The last thirteen chapters move on to Kaoru, the son of the Third Princess and Kashiwagi, and his friend Niou, a grandson of Genji. The final ten are set largely at Uji, a riverside place south of the capital. Kaoru is serious and hesitant, Niou is charming and careless, and both pursue a young woman named Ukifune. Caught between them, she tries to drown herself in the river, is rescued, and becomes a Buddhist nun. When Kaoru finally finds her, she refuses to see him. The book ends there, without a resolution."
+        },
+        {
+          "type": "p",
+          "text": "Several things explain why readers rank it so highly. The characters have psychology: we see why Genji repeats the same pattern, and how Murasaki suffers without being allowed to complain. The book changes tone as its characters age, from bright romance to regret and religious doubt. It shows clearly how little control aristocratic women had, since even the most loved of them depend entirely on men's visits and favour. In one famous passage Genji, teasing a young woman who loves tales, argues that fiction can tell more of the truth about human life than official histories, which he says show only one side of things. It is hard not to read that as Murasaki defending her own work against the Chinese histories men respected."
+        },
+        {
+          "type": "p",
+          "text": "It is often called the world's first novel. That claim depends on how a novel is defined. Earlier long prose fictions exist, such as Greek romances and The Golden Ass by Apuleius, but few earlier works sustain realistic characters and their inner lives over such a length. It is safer to say that The Tale of Genji is one of the earliest works that readers today easily recognise as a novel."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "A birth, a party and a joke about Murasaki",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The best picture of this court at work is in Murasaki's diary, which opens in the autumn of 1008 at Michinaga's mansion, where Empress Shōshi had gone to give birth. For Michinaga the stakes were enormous. If his daughter had a son who became emperor, Michinaga would be grandfather to the throne and could rule as regent."
+        },
+        {
+          "type": "p",
+          "text": "Murasaki describes the long wait, the priests chanting and shouting at spirits that might harm the mother, the ladies-in-waiting crowding the rooms in white robes, and the relief when a boy was born. The boy later became Emperor Go-Ichijō. Then come the celebrations. At one of them, a drunken banquet on the fiftieth day after the birth, the courtier and poet Fujiwara no Kintō came to the ladies' screens and asked whether 'our young Murasaki' was there. He was joking about her tale, in which the girl Genji raises is called Murasaki. Murasaki writes that she thought there was nobody there who looked like Genji, so how could his Murasaki be present, and she said nothing."
+        },
+        {
+          "type": "p",
+          "text": "The same diary records less flattering scenes. She describes the men getting drunk and grabbing at women's sleeves, her discomfort at being on show, and her fear that people thought her proud and cold. She also mentions that Michinaga took a copy of her tale from her room without asking and gave it away. The scene shows why the tale existed: it was entertainment for a political household, circulated to win admiration, and its author was a servant of the most powerful family in the country. The remark at the banquet is the earliest dated evidence that The Tale of Genji existed, and the day it happened, the first day of the eleventh month, later became Japan's Classics Day."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What was happening elsewhere at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The situation in Japan was unusual. In most of the literate world around the year 1000, serious writing was done in a classical or sacred language that women seldom learned, and writing in the spoken language was low in status. Japan had the same pattern, but because the low-status script happened to be the one women used, women ended up producing the major prose."
+        },
+        {
+          "type": "list",
+          "items": [
+            "China. The Song dynasty was founded in 960. Its literature was dominated by male scholar-officials who passed the civil service examinations, writing essays, shi poetry and the newer song lyric form called ci. The greatest female poet of classical China, Li Qingzhao, was born in 1084, after the period of this lesson, and wrote ci, not prose fiction.",
+            "Korea. The Goryeo dynasty, founded in 918, introduced a civil service examination in 958, and educated men wrote in Chinese. Korea had no native alphabet until King Sejong introduced hangul in the 1440s, so there was no Korean equivalent of kana for women to write in.",
+            "Persia. Around 1010 the poet Ferdowsi completed the Shahnameh, a vast epic of the kings of Iran written in Persian rather than Arabic, the language of learning. Like kana prose, it helped establish a spoken language as a literary one, but it was a work of national history by a man, not a record of private life.",
+            "Europe. In England the single manuscript of Beowulf was copied around this time. In Saxony the canoness Hrotsvitha of Gandersheim, who died around 973, wrote plays and poems in Latin, which makes her one of very few known women writers in Europe in that century. Literature by women in the European vernaculars, such as the lais of Marie de France, appears only in the late twelfth century."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The comparison makes the point that the Heian women did not write because their society respected women's minds. They wrote because the respected language was closed to them, and the language left to them turned out to be the one that could express what people actually felt."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Warriors, scrolls, scholars and translators",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "No woman of the following generations matched these writers. Women continued to write diaries and poetry in the later Heian period and under the Kamakura shogunate, but the centre of literature shifted. The Genpei War of 1180 to 1185 brought warrior rule, and the most important works of the next period, such as Kamo no Chōmei's Hōjōki of 1212 and The Tale of the Heike, are by or about men and are coloured by Buddhist ideas of impermanence and by war."
+        },
+        {
+          "type": "p",
+          "text": "The Tale of Genji, however, became the central classic of Japanese culture. In the twelfth century it was illustrated in the Genji Monogatari Emaki, the oldest surviving illustrated scrolls of the tale, whose surviving sections are now national treasures. Poets were told they had to know it; in the late twelfth century the poet Fujiwara no Shunzei said that composing poetry without having read Genji was regrettable. Commentaries piled up over the centuries, scenes from it were painted on screens and fans, and Noh plays were written about its characters. In the eighteenth century Motoori Norinaga's reading of it in terms of mono no aware made it a symbol of a Japanese sensibility separate from China."
+        },
+        {
+          "type": "p",
+          "text": "In the twentieth century the women's classics were translated into modern Japanese and into other languages. The poet Yosano Akiko, who wrote the opening poem for the feminist magazine Seitō, published a modern Japanese version of Genji in 1912 and 1913, and the novelist Tanizaki Jun'ichirō published another beginning in 1939. In English, Arthur Waley's free and elegant translation appeared between 1925 and 1933. Virginia Woolf reviewed the first volume in 1925, and the book was read alongside the modernist novels of the time. Later English translations by Edward Seidensticker in 1976, Royall Tyler in 2001 and Dennis Washburn in 2015 stay closer to the original. Ivan Morris translated The Pillow Book in 1967, and Meredith McKinney produced a newer version in 2006."
+        },
+        {
+          "type": "p",
+          "text": "The writers have also become public figures. Since 2000 the Japanese 2,000-yen note has carried a scene from the Genji scrolls and a picture of Murasaki Shikibu. In 2024 NHK's year-long historical drama Hikaru Kimi e, about Murasaki Shikibu's life, put the rivalry between her, Sei Shōnagon and the households of Teishi and Shōshi on Japanese television every week. A thousand years after the fact, the women who were not supposed to write serious literature are the reason most people know anything about the Heian court at all."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "The Heian women wrote the great prose of their time partly because they were shut out of the prestigious language of men. Can you think of other cases, in any country or period, where people excluded from the official forms of culture created something that later became the most valued part of it? What made that possible, and who decided later that it mattered?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "The Tale of Genji (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
+      "note": "The book's structure, authorship questions, manuscripts and translations."
+    },
+    {
+      "title": "Murasaki Shikibu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Murasaki_Shikibu",
+      "note": "Her family, education, court service and diary, with a detailed bibliography."
+    },
+    {
+      "title": "The Pillow Book (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Pillow_Book",
+      "note": "Sei Shōnagon's book, its lists and its translations."
+    },
+    {
+      "title": "Kagerō Nikki (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kager%C5%8D_Nikki",
+      "note": "The Gossamer Years and its author, the Mother of Michitsuna."
+    },
+    {
+      "title": "Sarashina Nikki (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sarashina_Nikki",
+      "note": "The memoir of the girl who grew up dreaming of The Tale of Genji."
+    },
+    {
+      "title": "Hiragana (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hiragana",
+      "note": "How the script developed from Chinese characters and why it was linked with women."
+    }
+  ],
+  "listen": [],
+  "watch": [
+    {
+      "title": "Genji Monogatari Emaki (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Genji_Monogatari_Emaki",
+      "note": "The twelfth-century illustrated scrolls of the tale, with reproductions of the surviving scenes."
+    },
+    {
+      "title": "Dear Radiance (Hikaru Kimi e), NHK 2024 (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dear_Radiance",
+      "note": "The NHK historical drama about Murasaki Shikibu's life and her world."
+    }
+  ],
+  "fun_fact": {
+    "title": "A national holiday for a joke at a party",
+    "text": "Japan has an official Classics Day, Koten no Hi, on 1 November, created by a law passed in 2012. The date comes from Murasaki Shikibu's diary: on the first day of the eleventh month of 1008, at a drunken banquet, the poet Fujiwara no Kintō asked whether 'our young Murasaki' was around, teasing her about the heroine of her tale. It is the oldest dated proof that The Tale of Genji existed, so a courtier's tipsy joke is now commemorated by the Japanese state."
+  },
+  "glossary": [
+    {
+      "term": "Heian period",
+      "aliases": [],
+      "explain": "The period of Japanese history from 794 to 1185, when the imperial court was based at Heian-kyō, now Kyoto, and aristocratic culture flourished."
+    },
+    {
+      "term": "Heian-kyō",
+      "aliases": [
+        "Kyoto"
+      ],
+      "explain": "The imperial capital founded in 794, laid out on a grid modelled on the Chinese capital Chang'an. It is the modern city of Kyoto."
+    },
+    {
+      "term": "kana",
+      "aliases": [],
+      "explain": "The two Japanese phonetic scripts, hiragana and katakana, developed in the ninth century from simplified Chinese characters used for their sound."
+    },
+    {
+      "term": "hiragana",
+      "aliases": [],
+      "explain": "The cursive kana script, made by writing sound-characters quickly in a flowing hand. It was used for waka and for the women's prose of the Heian period."
+    },
+    {
+      "term": "katakana",
+      "aliases": [],
+      "explain": "The angular kana script, made from parts of Chinese characters. In the Heian period it was used mainly by monks and scholars to annotate Chinese texts."
+    },
+    {
+      "term": "man'yōgana",
+      "aliases": [],
+      "explain": "The older system of writing Japanese by using Chinese characters for their sounds alone, named after the Man'yōshū."
+    },
+    {
+      "term": "Man'yōshū",
+      "aliases": [],
+      "explain": "The oldest surviving anthology of Japanese poetry, compiled in the eighth century and written in man'yōgana."
+    },
+    {
+      "term": "onnade",
+      "aliases": [],
+      "explain": "'The woman's hand', a Heian name for hiragana, contrasted with otokode, 'the man's hand', for Chinese characters."
+    },
+    {
+      "term": "otokode",
+      "aliases": [],
+      "explain": "'The man's hand', the Heian term for writing in Chinese characters."
+    },
+    {
+      "term": "kanbun",
+      "aliases": [],
+      "explain": "Classical Chinese as written in Japan, sometimes with Japanese reading marks. It was the language of government and of men's official writing."
+    },
+    {
+      "term": "classical Chinese",
+      "aliases": [],
+      "explain": "The written literary language of China, used across East Asia for government, scholarship and prestige writing, much as Latin was in Europe."
+    },
+    {
+      "term": "waka",
+      "aliases": [],
+      "explain": "The classical Japanese poem of thirty-one syllables in lines of 5-7-5-7-7. Exchanging waka was central to Heian courtship and social life."
+    },
+    {
+      "term": "Kokinshū",
+      "aliases": [
+        "Kokin Wakashū"
+      ],
+      "explain": "The first imperial anthology of Japanese poetry, ordered by Emperor Daigo around 905, with a famous kana preface by Ki no Tsurayuki."
+    },
+    {
+      "term": "Emperor Daigo",
+      "aliases": [],
+      "explain": "Japanese emperor from 897 to 930 who ordered the compilation of the Kokinshū."
+    },
+    {
+      "term": "Ki no Tsurayuki",
+      "aliases": [
+        "Tsurayuki"
+      ],
+      "explain": "Poet and official (c. 872–945), chief compiler of the Kokinshū and author of the Tosa Diary, written in the voice of a woman."
+    },
+    {
+      "term": "Tosa Diary",
+      "aliases": [
+        "Tosa Nikki"
+      ],
+      "explain": "Ki no Tsurayuki's kana diary of his journey home from Tosa province around 935, narrated by a fictional woman. It is the first literary diary in Japanese."
+    },
+    {
+      "term": "Sugawara no Michizane",
+      "aliases": [
+        "Michizane"
+      ],
+      "explain": "Scholar and statesman (845–903) who advised ending the embassies to Tang China in 894. He was later worshipped as Tenjin, a god of learning."
+    },
+    {
+      "term": "Tang China",
+      "aliases": [
+        "Tang"
+      ],
+      "explain": "The Chinese dynasty of 618–907, whose capital, laws and literature were models for the Japanese court."
+    },
+    {
+      "term": "Emperor Kanmu",
+      "aliases": [],
+      "explain": "Japanese emperor who moved the capital to Heian-kyō in 794."
+    },
+    {
+      "term": "nikki",
+      "aliases": [
+        "diaries",
+        "diary"
+      ],
+      "explain": "In Heian literature, a memoir in kana prose and poems, often written in retrospect, rather than a day-by-day record."
+    },
+    {
+      "term": "zuihitsu",
+      "aliases": [],
+      "explain": "'Following the brush', a genre of loosely connected essays, lists and anecdotes. The Pillow Book is its founding example."
+    },
+    {
+      "term": "monogatari",
+      "aliases": [
+        "tales"
+      ],
+      "explain": "'Telling of things', the Japanese word for tales or prose narratives, from short folk stories to The Tale of Genji."
+    },
+    {
+      "term": "The Tale of the Bamboo Cutter",
+      "aliases": [],
+      "explain": "An early Japanese tale, probably from the ninth or tenth century, about Princess Kaguya, a girl found in a bamboo stalk who returns to the moon."
+    },
+    {
+      "term": "mono no aware",
+      "aliases": [],
+      "explain": "A sensitivity to things and to their passing. The phrase was made central to Genji criticism by Motoori Norinaga in the eighteenth century."
+    },
+    {
+      "term": "Motoori Norinaga",
+      "aliases": [
+        "Norinaga"
+      ],
+      "explain": "Scholar of Japanese classics (1730–1801) who argued that mono no aware was the essence of The Tale of Genji and of Japanese literature."
+    },
+    {
+      "term": "Midō Kanpakuki",
+      "aliases": [],
+      "explain": "The diary of Fujiwara no Michinaga, written in kanbun. Parts survive in his own hand, and it is listed in UNESCO's Memory of the World register."
+    },
+    {
+      "term": "Kagerō Diary",
+      "aliases": [
+        "Kagerō Nikki",
+        "The Gossamer Years"
+      ],
+      "explain": "The memoir by the Mother of Michitsuna of her marriage to Fujiwara no Kaneie from 954 to 974. It is the first major prose work by a Japanese woman."
+    },
+    {
+      "term": "Mother of Michitsuna",
+      "aliases": [],
+      "explain": "Author of the Kagerō Diary (c. 935–995). Her personal name is unknown; she is named after her son, Fujiwara no Michitsuna."
+    },
+    {
+      "term": "Fujiwara no Kaneie",
+      "aliases": [
+        "Kaneie"
+      ],
+      "explain": "Courtier (929–990) who became regent, husband of the Mother of Michitsuna and father of Michitaka and Michinaga."
+    },
+    {
+      "term": "Hyakunin Isshu",
+      "aliases": [],
+      "explain": "A thirteenth-century anthology of one hundred poems by one hundred poets, still widely known in Japan through a card game."
+    },
+    {
+      "term": "Fujiwara",
+      "aliases": [
+        "Fujiwara family",
+        "Fujiwara regency"
+      ],
+      "explain": "The aristocratic clan that dominated the Heian court by marrying daughters to emperors and serving as regents for their sons."
+    },
+    {
+      "term": "Fujiwara no Michitaka",
+      "aliases": [
+        "Michitaka"
+      ],
+      "explain": "Regent (953–995) and father of Empress Teishi. His family's fortunes collapsed after his death."
+    },
+    {
+      "term": "Fujiwara no Michinaga",
+      "aliases": [
+        "Michinaga"
+      ],
+      "explain": "The most powerful courtier of the age (966–1028). Three of his daughters became empresses, and he gathered Murasaki Shikibu and other writers in Empress Shōshi's household."
+    },
+    {
+      "term": "Empress Teishi",
+      "aliases": [
+        "Teishi"
+      ],
+      "explain": "Consort of Emperor Ichijō (977–1001) and daughter of Michitaka. Sei Shōnagon served in her household."
+    },
+    {
+      "term": "Empress Shōshi",
+      "aliases": [
+        "Shōshi"
+      ],
+      "explain": "Consort of Emperor Ichijō (988–1074) and daughter of Michinaga. Murasaki Shikibu, Izumi Shikibu and Akazome Emon served her."
+    },
+    {
+      "term": "Emperor Ichijō",
+      "aliases": [],
+      "explain": "Japanese emperor from 986 to 1011, the husband of both Teishi and Shōshi."
+    },
+    {
+      "term": "Emperor Go-Ichijō",
+      "aliases": [],
+      "explain": "Son of Shōshi and Emperor Ichijō, born in 1008, whose birth opens Murasaki's diary. He reigned from 1016 to 1036."
+    },
+    {
+      "term": "Sei Shōnagon",
+      "aliases": [],
+      "explain": "Lady-in-waiting to Empress Teishi (c. 966–c. 1025) and author of The Pillow Book. Shōnagon is a court title; her personal name is unknown."
+    },
+    {
+      "term": "The Pillow Book",
+      "aliases": [
+        "Makura no Sōshi",
+        "Pillow Book"
+      ],
+      "explain": "Sei Shōnagon's collection of lists, anecdotes and opinions about court life, completed around 1002 and revised later."
+    },
+    {
+      "term": "Bai Juyi",
+      "aliases": [],
+      "explain": "Tang dynasty Chinese poet (772–846), by far the most popular Chinese poet at the Heian court."
+    },
+    {
+      "term": "Xianglu Peak",
+      "aliases": [],
+      "explain": "A peak on Mount Lu in China. A poem by Bai Juyi mentions raising the blind to look at its snow, which Sei Shōnagon acted out for Empress Teishi."
+    },
+    {
+      "term": "Murasaki Shikibu",
+      "aliases": [],
+      "explain": "Author of The Tale of Genji and a diary (c. 973–c. 1014 or later). She served Empress Shōshi; her personal name is unknown."
+    },
+    {
+      "term": "Fujiwara no Tametoki",
+      "aliases": [
+        "Tametoki"
+      ],
+      "explain": "Scholar of Chinese and provincial governor, father of Murasaki Shikibu."
+    },
+    {
+      "term": "Murasaki Shikibu Diary",
+      "aliases": [
+        "her diary",
+        "Murasaki's diary"
+      ],
+      "explain": "Murasaki Shikibu's memoir of life in Shōshi's household from about 1008 to 1010, including the birth of a prince and her comments on other women writers."
+    },
+    {
+      "term": "Izumi Shikibu",
+      "aliases": [],
+      "explain": "Poet (born c. 976) famous for her love poetry and her affairs with two imperial princes. She served Empress Shōshi."
+    },
+    {
+      "term": "Izumi Shikibu Diary",
+      "aliases": [],
+      "explain": "A third-person account of Izumi Shikibu's love affair with Prince Atsumichi, told largely through their exchanged poems."
+    },
+    {
+      "term": "Prince Tametaka",
+      "aliases": [],
+      "explain": "Son of Emperor Reizei and lover of Izumi Shikibu. He died in 1002."
+    },
+    {
+      "term": "Prince Atsumichi",
+      "aliases": [],
+      "explain": "Younger brother of Prince Tametaka and lover of Izumi Shikibu, the subject of the Izumi Shikibu Diary. He died in 1007."
+    },
+    {
+      "term": "Akazome Emon",
+      "aliases": [],
+      "explain": "Poet in Empress Shōshi's household, often credited with part of the Eiga Monogatari."
+    },
+    {
+      "term": "Eiga Monogatari",
+      "aliases": [
+        "Tale of Flowering Fortunes"
+      ],
+      "explain": "A historical tale in kana celebrating the Fujiwara, especially Michinaga."
+    },
+    {
+      "term": "Sarashina Diary",
+      "aliases": [
+        "Sarashina Nikki"
+      ],
+      "explain": "The memoir of the daughter of Sugawara no Takasue, covering about 1020 to 1059, which begins with her childhood longing to read The Tale of Genji."
+    },
+    {
+      "term": "daughter of Sugawara no Takasue",
+      "aliases": [
+        "Sugawara no Takasue"
+      ],
+      "explain": "Author of the Sarashina Diary, born in 1008. Her own name is unknown; Takasue was her father, a provincial governor."
+    },
+    {
+      "term": "Kazusa",
+      "aliases": [],
+      "explain": "A province east of the capital, in present-day Chiba prefecture, where the author of the Sarashina Diary spent her childhood."
+    },
+    {
+      "term": "The Tale of Genji",
+      "aliases": [
+        "Genji Monogatari",
+        "Tale of Genji"
+      ],
+      "explain": "Murasaki Shikibu's tale in fifty-four chapters, written in the early eleventh century, following Genji and his descendants. It is the central classic of Japanese literature."
+    },
+    {
+      "term": "Genji",
+      "aliases": [
+        "Shining Genji",
+        "Hikaru Genji"
+      ],
+      "explain": "The hero of The Tale of Genji, an emperor's son made a commoner, famous for his beauty and his love affairs."
+    },
+    {
+      "term": "Fujitsubo",
+      "aliases": [],
+      "explain": "In The Tale of Genji, the emperor's consort who resembles Genji's dead mother. Her secret son by Genji becomes emperor."
+    },
+    {
+      "term": "Murasaki",
+      "aliases": [
+        "the girl Genji raises"
+      ],
+      "explain": "In The Tale of Genji, the girl Genji takes in and raises to be his wife, and the most fully drawn woman in the book."
+    },
+    {
+      "term": "Yūgao",
+      "aliases": [],
+      "explain": "In The Tale of Genji, a young woman of obscure rank who dies in a deserted house after an attack by a spirit."
+    },
+    {
+      "term": "Lady Rokujō",
+      "aliases": [],
+      "explain": "In The Tale of Genji, Genji's proud older lover whose jealous spirit leaves her body and kills his wife Aoi."
+    },
+    {
+      "term": "Aoi",
+      "aliases": [],
+      "explain": "In The Tale of Genji, Genji's first wife, killed by the possessing spirit of Lady Rokujō after giving birth."
+    },
+    {
+      "term": "Suma",
+      "aliases": [],
+      "explain": "A coastal place west of the capital where Genji goes into exile."
+    },
+    {
+      "term": "Wakana",
+      "aliases": [
+        "New Herbs"
+      ],
+      "explain": "Two chapters in the middle of The Tale of Genji in which Genji marries the Third Princess and the book darkens."
+    },
+    {
+      "term": "Third Princess",
+      "aliases": [],
+      "explain": "In The Tale of Genji, the young princess Genji marries in middle age. Her affair with Kashiwagi produces Kaoru."
+    },
+    {
+      "term": "Kashiwagi",
+      "aliases": [],
+      "explain": "In The Tale of Genji, the young man who seduces the Third Princess. He dies of guilt and fear."
+    },
+    {
+      "term": "Vanished into the Clouds",
+      "aliases": [
+        "Kumogakure"
+      ],
+      "explain": "A chapter of The Tale of Genji that exists only as a title, marking Genji's death."
+    },
+    {
+      "term": "Kaoru",
+      "aliases": [],
+      "explain": "In The Tale of Genji, the son of the Third Princess and Kashiwagi, raised as Genji's son. He is the serious hero of the final chapters."
+    },
+    {
+      "term": "Niou",
+      "aliases": [],
+      "explain": "In The Tale of Genji, a grandson of Genji and Kaoru's charming, careless rival."
+    },
+    {
+      "term": "Uji",
+      "aliases": [],
+      "explain": "A riverside place south of Kyoto where the last ten chapters of The Tale of Genji are set."
+    },
+    {
+      "term": "Ukifune",
+      "aliases": [],
+      "explain": "In The Tale of Genji, the young woman pursued by Kaoru and Niou who tries to drown herself and becomes a nun."
+    },
+    {
+      "term": "The Golden Ass",
+      "aliases": [],
+      "explain": "A Latin prose fiction by Apuleius from the second century, one of the earlier long fictions sometimes compared with Genji."
+    },
+    {
+      "term": "Fujiwara no Kintō",
+      "aliases": [
+        "Kintō"
+      ],
+      "explain": "Poet and critic (966–1041) whose joke about 'our young Murasaki' in 1008 is the earliest dated mention of The Tale of Genji."
+    },
+    {
+      "term": "Koten no Hi",
+      "aliases": [
+        "Classics Day"
+      ],
+      "explain": "Japan's Classics Day on 1 November, set by a 2012 law after the date of Kintō's remark in Murasaki's diary."
+    },
+    {
+      "term": "Song dynasty",
+      "aliases": [
+        "Song"
+      ],
+      "explain": "The Chinese dynasty founded in 960, known for its examination-based scholar-official class."
+    },
+    {
+      "term": "ci",
+      "aliases": [],
+      "explain": "A Chinese poetic form written to existing tunes, which flourished under the Song dynasty."
+    },
+    {
+      "term": "Li Qingzhao",
+      "aliases": [],
+      "explain": "The most celebrated woman poet of classical China (1084–c. 1155), known for her ci."
+    },
+    {
+      "term": "Goryeo",
+      "aliases": [],
+      "explain": "The Korean dynasty of 918 to 1392."
+    },
+    {
+      "term": "hangul",
+      "aliases": [],
+      "explain": "The Korean alphabet, created under King Sejong in the 1440s."
+    },
+    {
+      "term": "King Sejong",
+      "aliases": [],
+      "explain": "King of Korea's Joseon dynasty from 1418 to 1450, who introduced hangul."
+    },
+    {
+      "term": "Ferdowsi",
+      "aliases": [],
+      "explain": "Persian poet (940–1020) who completed the Shahnameh around 1010."
+    },
+    {
+      "term": "Shahnameh",
+      "aliases": [],
+      "explain": "Ferdowsi's epic of the kings of Iran, written in Persian, one of the foundations of Persian literature."
+    },
+    {
+      "term": "Beowulf",
+      "aliases": [],
+      "explain": "The Old English epic poem, which survives in a single manuscript copied around the year 1000."
+    },
+    {
+      "term": "Hrotsvitha of Gandersheim",
+      "aliases": [
+        "Hrotsvitha"
+      ],
+      "explain": "A Saxon canoness of the tenth century who wrote Latin plays, legends and poems."
+    },
+    {
+      "term": "Marie de France",
+      "aliases": [],
+      "explain": "A poet of the late twelfth century who wrote short verse narratives called lais in French."
+    },
+    {
+      "term": "Genpei War",
+      "aliases": [],
+      "explain": "The war of 1180 to 1185 between the Taira and Minamoto clans, which ended in the Kamakura shogunate."
+    },
+    {
+      "term": "Kamakura shogunate",
+      "aliases": [],
+      "explain": "The first warrior government of Japan, established after the Genpei War and lasting until 1333."
+    },
+    {
+      "term": "Kamo no Chōmei",
+      "aliases": [],
+      "explain": "Poet and recluse (c. 1155–1216), author of the Hōjōki."
+    },
+    {
+      "term": "Hōjōki",
+      "aliases": [],
+      "explain": "Kamo no Chōmei's short essay of 1212 on disasters, impermanence and life in a tiny hut."
+    },
+    {
+      "term": "The Tale of the Heike",
+      "aliases": [],
+      "explain": "The war epic of the fall of the Taira clan in the Genpei War, shaped by the Buddhist idea of impermanence."
+    },
+    {
+      "term": "Genji Monogatari Emaki",
+      "aliases": [
+        "Genji scrolls"
+      ],
+      "explain": "Twelfth-century illustrated handscrolls of The Tale of Genji, the oldest surviving illustrations of the tale and national treasures of Japan."
+    },
+    {
+      "term": "Fujiwara no Shunzei",
+      "aliases": [
+        "Shunzei"
+      ],
+      "explain": "Leading poet and critic of the late twelfth century (1114–1204), who said poets should know The Tale of Genji."
+    },
+    {
+      "term": "Noh",
+      "aliases": [],
+      "explain": "The classical Japanese masked theatre that developed in the fourteenth century, several of whose plays draw on Genji."
+    },
+    {
+      "term": "Yosano Akiko",
+      "aliases": [],
+      "explain": "Poet (1878–1942) who wrote the opening poem of Seitō and published modern Japanese versions of The Tale of Genji."
+    },
+    {
+      "term": "Seitō",
+      "aliases": [],
+      "explain": "The Japanese women's literary magazine founded in 1911, covered in the feminism lesson on Japan's New Women."
+    },
+    {
+      "term": "Tanizaki Jun'ichirō",
+      "aliases": [],
+      "explain": "Japanese novelist (1886–1965) who made three modern Japanese versions of The Tale of Genji."
+    },
+    {
+      "term": "Arthur Waley",
+      "aliases": [
+        "Waley"
+      ],
+      "explain": "English translator (1889–1966) whose six-volume Tale of Genji (1925–1933) introduced the book to Western readers."
+    },
+    {
+      "term": "Virginia Woolf",
+      "aliases": [],
+      "explain": "English modernist novelist (1882–1941), who reviewed Waley's first Genji volume in 1925."
+    },
+    {
+      "term": "Edward Seidensticker",
+      "aliases": [],
+      "explain": "American translator (1921–2007) of The Tale of Genji (1976) and the Kagerō Diary."
+    },
+    {
+      "term": "Royall Tyler",
+      "aliases": [],
+      "explain": "Translator of The Tale of Genji (2001), known for staying close to the original's style."
+    },
+    {
+      "term": "Dennis Washburn",
+      "aliases": [],
+      "explain": "American scholar whose translation of The Tale of Genji appeared in 2015."
+    },
+    {
+      "term": "Ivan Morris",
+      "aliases": [],
+      "explain": "British scholar (1925–1976) who translated The Pillow Book and the Sarashina Diary."
+    },
+    {
+      "term": "Meredith McKinney",
+      "aliases": [],
+      "explain": "Translator of a 2006 English version of The Pillow Book."
+    },
+    {
+      "term": "Hikaru Kimi e",
+      "aliases": [
+        "Dear Radiance"
+      ],
+      "explain": "NHK's 2024 year-long historical drama about the life of Murasaki Shikibu."
+    },
+    {
+      "term": "NHK",
+      "aliases": [],
+      "explain": "Japan's public broadcaster."
+    }
+  ]
+}
