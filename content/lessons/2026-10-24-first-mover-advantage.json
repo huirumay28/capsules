@@ -1,0 +1,564 @@
+{
+  "slug": "first-mover-advantage",
+  "date": "2026-10-24",
+  "subject": "business",
+  "related": [
+    "seven-powers",
+    "disruptive-innovation",
+    "core-competence",
+    "five-forces"
+  ],
+  "title": "First-Mover Advantage: when being first pays, and when it does not",
+  "dek": "Business folklore says the first company into a new market wins. In 1988 Marvin Lieberman and David Montgomery explained how a pioneer can build a lasting lead, and also how it can lose one. In 1993 Peter Golder and Gerard Tellis checked the history of about 500 brands and found that almost half of all pioneers failed. In 2005 Fernando Suárez and Gianvito Lanzolla offered a simple test for telling the two situations apart. This lesson explains the framework first and then follows the companies that won and lost by it.",
+  "era": "1988 framework, a 1993 historical test, and a 2005 decision matrix",
+  "reading_minutes": 16,
+  "honesty": "The three sources of advantage and the four disadvantages come from Lieberman and Montgomery's 1988 paper 'First-Mover Advantages' in the Strategic Management Journal. The failure rate, market share figures, entry-gap figures and the category examples (video recorders, personal computers, disposable diapers, safety razors, copiers, fax machines, personal stereos and video games) come from Golder and Tellis's 1993 article in the Journal of Marketing Research, and the entry years are the ones printed in its Table 3. The five factors behind enduring leaders come from Tellis and Golder's 1996 MIT Sloan Management Review article. The two-speed matrix and the Hoover, Walkman, Sony digital camera and Netscape examples come from Suárez and Lanzolla's April 2005 Harvard Business Review article. The questions for managers at the end are our own framing. The lesson contains no images.",
+  "timeline": [
+    {
+      "year": "1876",
+      "label": "Star sells a safety razor",
+      "detail": "Golder and Tellis list the Star razor as the pioneer of the safety razor category. Gillette, which later led the category, entered in 1903."
+    },
+    {
+      "year": "1950",
+      "label": "Chux and Thermofax",
+      "detail": "Chux enters the disposable diaper market and 3M's Thermofax enters office copying in the same year, according to Golder and Tellis. Procter & Gamble (Pampers) follows in 1961 and Xerox in 1959, and both become the long-term leaders."
+    },
+    {
+      "year": "1956",
+      "label": "Ampex records video",
+      "detail": "Ampex is the product pioneer in video recorders. By the time Golder and Tellis wrote, the category was led by RCA and Matsushita, which entered in 1977."
+    },
+    {
+      "year": "1975",
+      "label": "MITS starts personal computing",
+      "detail": "MITS is the pioneer in personal computers. IBM, which entered in 1981, was the leader when Golder and Tellis studied the category, and Apple was one of dozens of companies that came after MITS."
+    },
+    {
+      "year": "1988",
+      "label": "Lieberman and Montgomery",
+      "detail": "Marvin Lieberman and David Montgomery publish 'First-Mover Advantages' in the Strategic Management Journal, setting out how pioneers gain an edge and how they lose it."
+    },
+    {
+      "year": "1993",
+      "label": "Golder and Tellis test the legend",
+      "detail": "'Pioneer Advantage: Marketing Logic or Marketing Legend?' studies about 500 brands in 50 categories and finds a 47 percent failure rate among market pioneers."
+    },
+    {
+      "year": "1996",
+      "label": "First to market, first to fail?",
+      "detail": "Tellis and Golder publish a version for managers in MIT Sloan Management Review, naming five traits of enduring leaders."
+    },
+    {
+      "year": "2005",
+      "label": "The half-truth",
+      "detail": "Suárez and Lanzolla publish 'The Half-Truth of First-Mover Advantage' in Harvard Business Review, linking the odds of a lasting lead to the speed of technology and market change."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "The belief that the first company wins",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the 1980s, many managers treated being first to market as one of the most dependable rules in business. The idea felt intuitive. The first company in a new category gets to set the standard, sign the best suppliers, take the best shelf space and teach customers what the product is. Later companies then have to persuade those customers to switch."
+        },
+        {
+          "type": "p",
+          "text": "Research seemed to support the rule. Tellis and Golder later summarised this earlier work in their 1996 article. Several studies of the PIMS database (Profit Impact of Market Strategies, a large survey of American businesses) found average market shares of around 30 percent for market pioneers, 19 percent for early followers and 13 percent for late entrants. PIMS data also suggested that more than 70 percent of current market leaders had been pioneers. A study using a different database, called ASSESSOR, produced similar numbers. Some writers even advised companies to announce products early so that they could claim the pioneer's rewards."
+        },
+        {
+          "type": "p",
+          "text": "Strategy scholars Marvin Lieberman and David Montgomery, writing in 1988, took the idea more carefully. They did not ask whether being first is good. They asked what, exactly, would allow a first mover to earn more than its rivals, and what could take that edge away."
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "kicker": "The framework",
+      "title": "Three ways a pioneer builds a lead, and four ways it loses one",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lieberman and Montgomery defined first-mover advantage as the ability of a pioneering firm to earn positive economic profits, meaning profits above its cost of capital, because it moved early. They argued that such an advantage comes from three main mechanisms."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Technological leadership. The pioneer can move down the learning curve first, so its costs fall before rivals have started producing. It can also win patents and keep research results to itself for a time.",
+            "Pre-emption of scarce assets. The pioneer can take things that later entrants cannot easily get: the best locations, key raw materials, the most useful suppliers, or space in customers' minds and on store shelves. It can also build extra capacity that makes a newcomer's investment look risky.",
+            "Buyer switching costs. Once customers have learned to use a product, signed a contract or built their habits around a brand, changing to a rival costs them time, money or effort. The pioneer is the first company to collect these locked-in customers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The same paper listed four first-mover disadvantages. These are the reasons a later entrant, often called a fast follower or second mover, can do better than the pioneer."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Free riding. A follower can copy the pioneer's product, hire its trained staff and benefit from the pioneer's work educating customers, without paying the same cost.",
+            "Resolution of uncertainty. The pioneer has to guess what customers want and which technical design will win. A follower can wait, watch and enter once the answer is clearer.",
+            "Shifts in technology or customer needs. A new technology can make the pioneer's investment obsolete, and buyers' tastes can move away from what the pioneer built.",
+            "Incumbent inertia. Having invested in particular factories, products and habits, the pioneer may be slow to change. It may also hesitate to replace its own successful product with a newer one."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The value of the framework is that it turns a slogan into a checklist. A manager can ask which of the three advantages is actually available in a given market, and how strongly each of the four disadvantages applies. If none of the advantages is available, being first simply means paying to teach the market for someone else."
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "kicker": "The evidence",
+      "title": "Golder and Tellis go back to the historical record",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1993 Peter Golder and Gerard Tellis argued that the earlier studies had three weaknesses. The PIMS and ASSESSOR databases surveyed only firms that still existed, so failed pioneers were invisible. Those databases identified the pioneer by asking a current employee, and employees of successful firms tend to remember their company as having been first. And the studies relied on a small number of databases."
+        },
+        {
+          "type": "p",
+          "text": "Golder and Tellis used a different method: historical analysis of old trade magazines, newspapers, company histories and other records. They studied about 500 brands in 50 product categories. They distinguished the product pioneer (the first firm to develop a working product) from the market pioneer (the first firm to sell it), and both from the current leader."
+        },
+        {
+          "type": "p",
+          "text": "Their results were very different from the earlier picture. Almost half of market pioneers, 47 percent, had failed, meaning they had stopped selling in the category under the brand they entered with. The failure rate for durable goods was more than twice as high as for nondurable goods, which the authors linked to faster technological change. The average market share of pioneers was 10 percent, and only 7 percent in categories that began after the Second World War, compared with about 30 percent in the earlier studies. The firms that did dominate were usually what Golder and Tellis called early leaders. On average these firms entered 13 years after the market pioneer."
+        },
+        {
+          "type": "p",
+          "text": "Their Table 3 reads like a list of forgotten names next to famous ones. The entry years below are the ones printed in the article."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Safety razors: Star (1876) came first; Gillette (1903) became the leader. Golder and Tellis note that Gillette kept its lead by constantly innovating, even when this meant cannibalising its own older brands.",
+            "Disposable diapers: Chux (1950) came first; Procter & Gamble's Pampers and Luvs (1961) became the leaders.",
+            "Copiers: 3M's Thermofax (1950) came first; Xerox (1959) became the leader.",
+            "Video recorders: Ampex developed the product in 1956; RCA and Matsushita (1977) led the market.",
+            "Fax machines: Xerox (1964) came first; Sharp (1982) became the leader.",
+            "Personal computers: MITS (1975) came first; IBM (1981) led when the study was written. Apple, often called the pioneer, entered after MITS along with dozens of other companies.",
+            "Personal stereos: Panasonic (1970) came first; Sony (1979) became the leader.",
+            "Video games: Magnavox's Odyssey (listed as 1973) came first; Nintendo (1985) became the leader.",
+            "Light beer and diet cola: Trommer's Red Letter (1961) and Kirsch's No-Cal (1952) came first; Miller Lite (1975) and Diet Coke (1982) became the leaders."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Coca-Cola and Crisco are among the examples where the pioneer did stay on top, so the study does not say that pioneers always lose. It says that the success of famous pioneers had been overstated, partly because people misremember who was first."
+        },
+        {
+          "type": "p",
+          "text": "In their 1996 MIT Sloan Management Review article, 'First to Market, First to Fail?', Tellis and Golder asked what the enduring leaders had in common. They named five factors: vision, persistence, commitment, innovation and asset leverage, meaning the use of strengths built in a related business. In other words, the winners were often the firms that saw how big a market could become and spent heavily to build it, not the firms that happened to arrive first."
+        }
+      ]
+    },
+    {
+      "id": "matrix",
+      "kicker": "A decision tool",
+      "title": "Suárez and Lanzolla's calm and rough waters",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fernando Suárez and Gianvito Lanzolla, writing in Harvard Business Review in April 2005, said that first-mover advantage is more than a myth but far less than a sure thing. They based this on the research literature and on more than 30 cases of early entry. Their key point is that two outside forces, which no single company controls, matter as much as the company's own resources: the pace at which the product's technology evolves and the pace at which the market for it grows."
+        },
+        {
+          "type": "p",
+          "text": "Putting those two speeds together gives four situations."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Slow technology and slow market growth, which they call calm waters. This is the best setting for a pioneer. It can build a lasting lead even without exceptional skills or deep pockets. Their example is Hoover in vacuum cleaners.",
+            "Slow technology but a fast-growing market. A pioneer with large resources can build a lasting lead, because it can keep up with demand and build its brand and distribution. Their example is Sony's Walkman. A pioneer with few resources will probably only get a short-term benefit.",
+            "Fast technology but a slowly growing market. Neither a lasting nor a short-term advantage is likely, because the product keeps changing before the market is ready. Only companies with very deep pockets survive. Their example is Sony and the digital cameras it pioneered.",
+            "Fast technology and a fast-growing market, which they call rough waters. This is the worst setting for a lasting lead. A pioneer can still make a worthwhile short-term gain if it knows when to get out. Their example is Netscape, which agreed to be acquired by AOL."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Their advice is to analyse the environment and your own resources before entering a new market, and then decide which kind of first-mover advantage, lasting or temporary, is realistic. They end with the line that once you have gone into the water, you have no choice but to swim."
+        },
+        {
+          "type": "p",
+          "text": "The matrix also explains a pattern in Golder and Tellis's data. Durable goods such as video recorders, fax machines and personal computers sat in fast-moving technology, where the disadvantages of going first, especially technology shifts and the follower's chance to learn, were strongest. Their pioneers failed much more often than pioneers in slow-changing household products."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "What managers took from the debate",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The debate changed the question managers ask. The old question was how to get to market first. The newer question is whether this particular market rewards being first, and if so, which of Lieberman and Montgomery's three advantages the company can actually capture."
+        },
+        {
+          "type": "p",
+          "text": "It also connects to other frameworks in this series. The Seven Powers lesson describes switching costs, scale economies and network economies as durable sources of advantage; these are close cousins of Lieberman and Montgomery's mechanisms, and a pioneer only keeps its lead if it turns early entry into one of them. The disruptive innovation lesson shows the incumbent inertia problem from the other side. The core competence lesson shows how a company can use skills built elsewhere, which is what Tellis and Golder meant by asset leverage."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Marvin Lieberman",
+              "text": "Strategy professor at UCLA's Anderson School of Management, co-author of 'First-Mover Advantages' (1988)."
+            },
+            {
+              "name": "David Montgomery",
+              "text": "Marketing professor at Stanford's Graduate School of Business, co-author of 'First-Mover Advantages' (1988)."
+            },
+            {
+              "name": "Peter Golder",
+              "text": "Marketing scholar who, with Gerard Tellis, tested the pioneer advantage against the historical record in 1993; he was at New York University's Stern School when the 1996 article appeared."
+            },
+            {
+              "name": "Gerard Tellis",
+              "text": "Marketing professor at the University of Southern California, co-author of the 1993 and 1996 studies of pioneers and enduring leaders."
+            },
+            {
+              "name": "Fernando Suárez",
+              "text": "Strategy scholar who, with Gianvito Lanzolla, wrote 'The Half-Truth of First-Mover Advantage' (2005)."
+            },
+            {
+              "name": "Gianvito Lanzolla",
+              "text": "Strategy scholar and co-author of 'The Half-Truth of First-Mover Advantage' (2005)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "Should this company go first?",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Pick a new product category you have seen appear in the last few years. Who was the first company to sell it, and who leads it today? Using Suárez and Lanzolla's two speeds, decide whether the technology and the market are moving slowly or quickly. Then ask which of Lieberman and Montgomery's three advantages, technology leadership, scarce assets or switching costs, the pioneer could realistically lock in. Would you advise a new company to go first, or to wait and follow?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Fernando Suárez and Gianvito Lanzolla, 'The Half-Truth of First-Mover Advantage' (Harvard Business Review, April 2005)",
+      "url": "https://hbr.org/2005/04/the-half-truth-of-first-mover-advantage",
+      "note": "The two-speed matrix with the Hoover, Walkman, digital camera and Netscape examples."
+    },
+    {
+      "title": "Gerard J. Tellis and Peter N. Golder, 'First to Market, First to Fail? Real Causes of Enduring Market Leadership' (MIT Sloan Management Review, Winter 1996)",
+      "url": "https://sloanreview.mit.edu/article/first-to-market-first-to-fail-real-causes-of-enduring-market-leadership/",
+      "note": "The manager-friendly version of the historical study, with the five factors behind enduring leaders."
+    },
+    {
+      "title": "Peter N. Golder and Gerard J. Tellis, 'Pioneer Advantage: Marketing Logic or Marketing Legend?' (Journal of Marketing Research, 1993)",
+      "url": "https://gtellis.net/wp-content/uploads/2020/09/pioneering-advantage-marketing-logic-or-marketing-legend.pdf",
+      "note": "The original study of about 500 brands in 50 categories, including the full table of pioneers and leaders."
+    },
+    {
+      "title": "First-mover advantage (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/First-mover_advantage",
+      "note": "An overview of the three mechanisms and the debate about second movers."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "fun_fact": {
+    "title": "Goodyear was not first either",
+    "text": "Many people assume Goodyear pioneered rubber because Charles Goodyear discovered how to vulcanise it. Golder and Tellis point out that the Goodyear company was founded decades after his death, and decades after Goodrich entered the market. In their table Goodrich is the rubber pioneer (1869) and Goodyear the later leader (1898)."
+  },
+  "glossary": [
+    {
+      "term": "First-mover advantage",
+      "aliases": [
+        "first-mover advantages",
+        "first mover advantage",
+        "pioneer advantage"
+      ],
+      "explain": "The ability of the first firm in a new market to earn above-normal profits because it entered early."
+    },
+    {
+      "term": "First-mover disadvantages",
+      "aliases": [
+        "first-mover disadvantage"
+      ],
+      "explain": "Reasons a pioneer can lose to later entrants: free riding, resolution of uncertainty, shifts in technology or needs, and incumbent inertia."
+    },
+    {
+      "term": "Fast follower",
+      "aliases": [
+        "second mover",
+        "second movers",
+        "fast followers"
+      ],
+      "explain": "A company that deliberately enters a market soon after the pioneer, learning from its mistakes."
+    },
+    {
+      "term": "Market pioneer",
+      "aliases": [
+        "market pioneers",
+        "pioneers",
+        "pioneer"
+      ],
+      "explain": "In Golder and Tellis's terms, the first firm to sell a product in a new category."
+    },
+    {
+      "term": "Product pioneer",
+      "aliases": [
+        "product pioneers"
+      ],
+      "explain": "In Golder and Tellis's terms, the first firm to develop a working model of a new product, which may not be the first to sell it."
+    },
+    {
+      "term": "Early leader",
+      "aliases": [
+        "early leaders"
+      ],
+      "explain": "The firm with the largest market share during a category's early growth phase; on average these entered 13 years after the pioneer."
+    },
+    {
+      "term": "Technological leadership",
+      "aliases": [
+        "technology leadership"
+      ],
+      "explain": "A first-mover advantage based on moving down the learning curve first or holding patents and secret know-how."
+    },
+    {
+      "term": "Learning curve",
+      "aliases": [
+        "experience curve"
+      ],
+      "explain": "The pattern in which unit costs fall as a firm's cumulative production grows."
+    },
+    {
+      "term": "Pre-emption of scarce assets",
+      "aliases": [
+        "pre-emption",
+        "preemption of scarce assets"
+      ],
+      "explain": "A first-mover advantage based on taking the best locations, suppliers, materials or shelf space before rivals arrive."
+    },
+    {
+      "term": "Switching costs",
+      "aliases": [
+        "buyer switching costs",
+        "switching cost"
+      ],
+      "explain": "The time, money or effort a customer must spend to move from one supplier to another."
+    },
+    {
+      "term": "Free riding",
+      "aliases": [
+        "free-rider",
+        "free rider"
+      ],
+      "explain": "A follower benefiting from the pioneer's spending on research, training or customer education without paying for it."
+    },
+    {
+      "term": "Incumbent inertia",
+      "aliases": [
+        "inertia"
+      ],
+      "explain": "A leading firm's slowness to change because of its existing investments, products and habits."
+    },
+    {
+      "term": "Survival bias",
+      "aliases": [
+        "survivorship bias"
+      ],
+      "explain": "The error of studying only firms that still exist, which hides the ones that failed."
+    },
+    {
+      "term": "PIMS",
+      "aliases": [
+        "Profit Impact of Market Strategies",
+        "PIMS database"
+      ],
+      "explain": "A large database of business-unit performance used in 1980s studies that seemed to show strong pioneer advantages."
+    },
+    {
+      "term": "ASSESSOR",
+      "aliases": [
+        "ASSESSOR data"
+      ],
+      "explain": "A database of consumer packaged-goods launches used by Urban and colleagues in 1986."
+    },
+    {
+      "term": "Calm waters",
+      "aliases": [],
+      "explain": "Suárez and Lanzolla's name for a market where both technology and demand change slowly, the best setting for a lasting first-mover lead."
+    },
+    {
+      "term": "Rough waters",
+      "aliases": [],
+      "explain": "Suárez and Lanzolla's name for a market where both technology and demand change quickly, the worst setting for a lasting lead."
+    },
+    {
+      "term": "Asset leverage",
+      "aliases": [],
+      "explain": "One of Tellis and Golder's five factors: using strengths built in one business to win in a related new one."
+    },
+    {
+      "term": "Marvin Lieberman",
+      "aliases": [
+        "Lieberman"
+      ],
+      "explain": "UCLA strategy professor, co-author of 'First-Mover Advantages' (1988)."
+    },
+    {
+      "term": "David Montgomery",
+      "aliases": [
+        "Montgomery"
+      ],
+      "explain": "Stanford marketing professor, co-author of 'First-Mover Advantages' (1988)."
+    },
+    {
+      "term": "Peter Golder",
+      "aliases": [
+        "Golder",
+        "Peter N. Golder"
+      ],
+      "explain": "Marketing scholar, co-author of the 1993 and 1996 historical studies of pioneers."
+    },
+    {
+      "term": "Gerard Tellis",
+      "aliases": [
+        "Tellis",
+        "Gerard J. Tellis"
+      ],
+      "explain": "USC marketing professor, co-author of the 1993 and 1996 historical studies of pioneers."
+    },
+    {
+      "term": "Fernando Suárez",
+      "aliases": [
+        "Suárez",
+        "Suarez",
+        "Fernando Suarez"
+      ],
+      "explain": "Strategy scholar, co-author of 'The Half-Truth of First-Mover Advantage' (2005)."
+    },
+    {
+      "term": "Gianvito Lanzolla",
+      "aliases": [
+        "Lanzolla"
+      ],
+      "explain": "Strategy scholar, co-author of 'The Half-Truth of First-Mover Advantage' (2005)."
+    },
+    {
+      "term": "First-Mover Advantages",
+      "aliases": [],
+      "explain": "Lieberman and Montgomery's 1988 Strategic Management Journal paper that set out the mechanisms and disadvantages of moving first."
+    },
+    {
+      "term": "Pioneer Advantage: Marketing Logic or Marketing Legend?",
+      "aliases": [
+        "Marketing Logic or Marketing Legend"
+      ],
+      "explain": "Golder and Tellis's 1993 Journal of Marketing Research article showing that 47 percent of market pioneers failed."
+    },
+    {
+      "term": "First to Market, First to Fail?",
+      "aliases": [],
+      "explain": "Tellis and Golder's 1996 MIT Sloan Management Review article on the real causes of enduring market leadership."
+    },
+    {
+      "term": "The Half-Truth of First-Mover Advantage",
+      "aliases": [
+        "The Half-Truth"
+      ],
+      "explain": "Suárez and Lanzolla's April 2005 Harvard Business Review article linking first-mover odds to the pace of technology and market change."
+    },
+    {
+      "term": "Gillette",
+      "aliases": [],
+      "explain": "Razor company that entered in 1903, after the Star razor, and became the long-term leader by constant innovation."
+    },
+    {
+      "term": "Star razor",
+      "aliases": [
+        "Star"
+      ],
+      "explain": "The 1876 safety razor that Golder and Tellis list as the category pioneer."
+    },
+    {
+      "term": "Chux",
+      "aliases": [],
+      "explain": "The disposable diaper brand that pioneered the category in 1950, according to Golder and Tellis."
+    },
+    {
+      "term": "Pampers",
+      "aliases": [
+        "Luvs"
+      ],
+      "explain": "Procter & Gamble's disposable diaper brands; P&G entered in 1961 and became the leader."
+    },
+    {
+      "term": "Thermofax",
+      "aliases": [
+        "3M Thermofax"
+      ],
+      "explain": "3M's 1950 office copier, the pioneer that Xerox overtook."
+    },
+    {
+      "term": "Xerox",
+      "aliases": [],
+      "explain": "Copier maker that entered in 1959 and led the category; it also pioneered fax machines in 1964 but lost that market to Sharp."
+    },
+    {
+      "term": "Ampex",
+      "aliases": [],
+      "explain": "American company that developed the video recorder in 1956."
+    },
+    {
+      "term": "MITS",
+      "aliases": [],
+      "explain": "The company Golder and Tellis identify as the 1975 pioneer of personal computers."
+    },
+    {
+      "term": "IBM",
+      "aliases": [],
+      "explain": "Entered personal computers in 1981 and led the market when Golder and Tellis studied it."
+    },
+    {
+      "term": "Magnavox Odyssey",
+      "aliases": [
+        "Odyssey"
+      ],
+      "explain": "The first home video game console, listed by Golder and Tellis as the category pioneer; Nintendo later led."
+    },
+    {
+      "term": "Sony Walkman",
+      "aliases": [
+        "Walkman"
+      ],
+      "explain": "Sony's 1979 personal stereo; Panasonic was earlier, but Sony built the lasting lead."
+    },
+    {
+      "term": "Hoover",
+      "aliases": [],
+      "explain": "Vacuum cleaner maker cited by Suárez and Lanzolla as a pioneer that held its lead in calm waters."
+    },
+    {
+      "term": "Netscape",
+      "aliases": [],
+      "explain": "Early web browser company cited by Suárez and Lanzolla as a pioneer that gained by agreeing to be acquired by AOL."
+    },
+    {
+      "term": "Goodrich",
+      "aliases": [],
+      "explain": "The 1869 rubber pioneer in Golder and Tellis's table; Goodyear later led."
+    },
+    {
+      "term": "Goodyear",
+      "aliases": [
+        "Charles Goodyear"
+      ],
+      "explain": "Charles Goodyear discovered vulcanisation; the company named after him entered in 1898 and became the leader."
+    }
+  ]
+}
