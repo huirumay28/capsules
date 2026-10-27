@@ -1,0 +1,1271 @@
+{
+  "slug": "feminist-film-theory",
+  "date": "2026-10-28",
+  "subject": "film",
+  "related": [
+    "french-new-wave",
+    "czechoslovak-new-wave",
+    "new-hollywood",
+    "film-noir",
+    "taiwan-new-cinema",
+    "hong-kong-new-wave",
+    "second-wave",
+    "taiwan-womens-movement",
+    "riot-grrrl"
+  ],
+  "title": "Feminist film theory and women's cinema, 1972 to 1992",
+  "dek": "In 1972 two festivals, one in New York and one in Edinburgh, showed audiences something most of them had never seen in one place: decades of films directed by women. Over the next twenty years critics asked why women on screen so often existed only to be looked at, theorists like Laura Mulvey gave that problem a name, the male gaze, and directors such as Chantal Akerman, Agnès Varda and Sally Potter made films that refused to look at women the old way. This lesson covers the ideas, the films and the arguments, and ends in Taipei, where a women's film festival began in 1993 and is still run today by one of the organisations on Huiru's partner list.",
+  "era": "c. 1972 to 1992, with roots in the 1960s women's movement",
+  "reading_minutes": 19,
+  "honesty": "This lesson keeps to facts documented in Wikipedia articles on the films, critics and festivals, the BFI's report on the 2022 Sight and Sound poll, the 1972 New York Times notice of the New York festival, Edinburgh festival histories, and the Taiwan Women's Film Association's own history page. Quotations from Mulvey come from the published text of her 1975 essay. Where a detail could not be checked, it was left out. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1962",
+      "label": "Cléo from 5 to 7",
+      "detail": "Agnès Varda follows a singer through ninety minutes in Paris as she waits for a medical result. It becomes a reference point for later feminist critics."
+    },
+    {
+      "year": "1970",
+      "label": "Wanda",
+      "detail": "Barbara Loden writes, directs and stars in a low-budget film about a drifting working-class woman. It wins a prize at the Venice Film Festival."
+    },
+    {
+      "year": "1972",
+      "label": "Two women's film festivals",
+      "detail": "The First International Festival of Women's Films runs in New York in June. In August, Lynda Myles, Laura Mulvey and Claire Johnston programme a women's film event at the Edinburgh International Film Festival, the first in Europe."
+    },
+    {
+      "year": "1972",
+      "label": "Women and Film",
+      "detail": "The first issue of the journal Women and Film appears in California, and Women Make Movies is founded in New York."
+    },
+    {
+      "year": "1973",
+      "label": "Counter-cinema",
+      "detail": "Claire Johnston publishes 'Women's Cinema as Counter-Cinema', and Marjorie Rosen publishes Popcorn Venus."
+    },
+    {
+      "year": "1974",
+      "label": "From Reverence to Rape",
+      "detail": "Molly Haskell's history of women in Hollywood films is published. In West Germany, Helke Sander founds the journal Frauen und Film."
+    },
+    {
+      "year": "1975",
+      "label": "The male gaze",
+      "detail": "Laura Mulvey's essay 'Visual Pleasure and Narrative Cinema' appears in the British journal Screen. In the same year Chantal Akerman makes Jeanne Dielman."
+    },
+    {
+      "year": "1976",
+      "label": "Camera Obscura",
+      "detail": "A collective of feminist scholars founds the journal Camera Obscura in the United States."
+    },
+    {
+      "year": "1977",
+      "label": "Riddles of the Sphinx",
+      "detail": "Mulvey and Peter Wollen release a film that tries to put her theory into practice. Larisa Shepitko's The Ascent wins the Golden Bear in Berlin."
+    },
+    {
+      "year": "1981",
+      "label": "Afterthoughts",
+      "detail": "Mulvey returns to her essay to ask about the woman in the audience. Margarethe von Trotta's Marianne and Juliane wins the Golden Lion in Venice."
+    },
+    {
+      "year": "1982",
+      "label": "The masquerade",
+      "detail": "Mary Ann Doane's essay 'Film and the Masquerade' asks how a female spectator watches films built for male looking."
+    },
+    {
+      "year": "1983",
+      "label": "New feminist features",
+      "detail": "Sally Potter's The Gold Diggers and Lizzie Borden's Born in Flames are released."
+    },
+    {
+      "year": "1985",
+      "label": "The Rule",
+      "detail": "Alison Bechdel's comic strip Dykes to Watch Out For prints the rule now called the Bechdel test."
+    },
+    {
+      "year": "1991",
+      "label": "Daughters of the Dust",
+      "detail": "Julie Dash's film becomes the first feature by an African American woman to get a general theatrical release in the United States."
+    },
+    {
+      "year": "1992",
+      "label": "The oppositional gaze",
+      "detail": "bell hooks publishes 'The Oppositional Gaze' in Black Looks, and Carol Clover publishes Men, Women, and Chain Saws."
+    },
+    {
+      "year": "1993",
+      "label": "Women Make Waves in Taipei",
+      "detail": "Awakening Foundation (婦女新知) and the Black and White Studio (黑白屋電影工作室) hold the first 女性影像藝術展 in Taipei, the start of today's Women Make Waves festival."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeanne_Dielman,_23_quai_du_Commerce,_1080_Bruxelles",
+      "note": "Akerman's 1975 film about three days in a Brussels widow's routine, voted the greatest film of all time in 2022."
+    },
+    {
+      "title": "Wanda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wanda_(film)",
+      "note": "Barbara Loden's only feature, made for about $115,000."
+    },
+    {
+      "title": "Cléo from 5 to 7 — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cl%C3%A9o_from_5_to_7",
+      "note": "Varda's 1962 film, told almost in real time."
+    },
+    {
+      "title": "The Gold Diggers — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Gold_Diggers_(1983_film)",
+      "note": "Sally Potter's 1983 feature with Julie Christie, made by an all-woman crew."
+    },
+    {
+      "title": "Daughters of the Dust — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daughters_of_the_Dust",
+      "note": "Julie Dash's 1991 film about a Gullah family on a South Carolina sea island in 1902."
+    },
+    {
+      "title": "Born in Flames — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Born_in_Flames",
+      "note": "Lizzie Borden's 1983 low-budget science fiction film about women's militias in a socialist America."
+    }
+  ],
+  "read": [
+    {
+      "title": "Wikipedia — Feminist film theory",
+      "url": "https://en.wikipedia.org/wiki/Feminist_film_theory",
+      "note": "An overview of the field, its main writers and its later critiques."
+    },
+    {
+      "title": "Wikipedia — Male gaze",
+      "url": "https://en.wikipedia.org/wiki/Male_gaze",
+      "note": "Where Mulvey's term came from and how it has been used and argued over since."
+    },
+    {
+      "title": "Wikipedia — Visual Pleasure and Narrative Cinema",
+      "url": "https://en.wikipedia.org/wiki/Visual_Pleasure_and_Narrative_Cinema",
+      "note": "A summary of the 1975 essay's argument."
+    },
+    {
+      "title": "Wikipedia — Laura Mulvey",
+      "url": "https://en.wikipedia.org/wiki/Laura_Mulvey",
+      "note": "Her life, essays and films."
+    },
+    {
+      "title": "Wikipedia — Chantal Akerman",
+      "url": "https://en.wikipedia.org/wiki/Chantal_Akerman",
+      "note": "The Belgian director's career, from Saute ma ville to No Home Movie."
+    },
+    {
+      "title": "BFI — Results of the 2022 Sight and Sound Greatest Films poll",
+      "url": "https://www.bfi.org.uk/news/revealed-results-2022-sight-sound-greatest-films-all-time-poll",
+      "note": "Why Jeanne Dielman's first place was news."
+    },
+    {
+      "title": "Wikipedia — Bechdel test",
+      "url": "https://en.wikipedia.org/wiki/Bechdel_test",
+      "note": "The 1985 comic strip and the test's later life."
+    },
+    {
+      "title": "台灣女性影像學會 — 學會簡介",
+      "url": "https://www.wmw.org.tw/tw/category/77",
+      "note": "The association's own history of the Women Make Waves festival since 1993."
+    }
+  ],
+  "fun_fact": {
+    "title": "A joke that became a measuring stick",
+    "text": "The Bechdel test began in 1985 as a single strip in Alison Bechdel's comic Dykes to Watch Out For, printed in alternative and feminist newspapers. In the strip, called 'The Rule', one woman explains that she only goes to a film if it has at least two women in it, who talk to each other, about something other than a man. Bechdel credited the idea to her friend Liz Wallace, and it also echoes Virginia Woolf's complaint in A Room of One's Own (1929) that women in fiction are almost always shown only in relation to men. Bechdel later called it a little lesbian joke in an alternative feminist newspaper. By the 2000s critics, journalists and researchers were using it to count films, which is why it is now often called the Bechdel–Wallace test."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before 1972: women behind the camera, mostly forgotten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Women were present at the start of cinema. In France, Alice Guy, who worked for the Gaumont company, is often credited with one of the earliest fiction films, around 1896, and went on to run her own studio in the United States. In the Hollywood of the 1910s, Lois Weber was one of the most successful directors in the business and made films about birth control and abortion such as Where Are My Children? (1916). When the studios became big industrial businesses in the 1920s and 1930s, these jobs largely closed to women. For much of the 1930s Dorothy Arzner was the only woman directing features inside the studio system, with films like Dance, Girl, Dance (1940). In the 1950s the actress Ida Lupino directed low-budget dramas and The Hitch-Hiker (1953), usually described as the first mainstream American film noir directed by a woman."
+        },
+        {
+          "type": "p",
+          "text": "Outside Hollywood, women made some of the most adventurous films of the century. Maya Deren's short Meshes of the Afternoon (1943), made with Alexander Hammid, became a founding work of the American avant-garde. Agnès Varda made her first feature in 1955, before the French New Wave had a name, and Cléo from 5 to 7 (1962) follows a young singer through ninety minutes of a Paris afternoon while she waits for a cancer test result. In Czechoslovakia, Věra Chytilová's Daisies (1966) showed two young women wrecking a banquet. In the Soviet Union, Larisa Shepitko made Wings (1966) about a former fighter pilot who cannot fit into peacetime life."
+        },
+        {
+          "type": "p",
+          "text": "Yet in the 1960s there was no shared story of women's cinema. Histories of film were written as lists of great male directors, and the few women in them looked like exceptions. That changed when the second wave of the women's movement reached film culture. Books like Betty Friedan's The Feminine Mystique (1963) had already asked how mass media shaped women's lives. In 1971 the Manifesto of the 343, in which French women declared that they had had illegal abortions, was signed by film people including Agnès Varda and the actress Delphine Seyrig. Feminists began asking the same questions of cinema that they asked of law and the family: who makes it, who is shown, and whose interests does it serve."
+        }
+      ]
+    },
+    {
+      "id": "festivals",
+      "kicker": "The spark",
+      "title": "1972: the year women's cinema became visible",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Two events in 1972 gave the new movement a public face. From 5 to 21 June the First International Festival of Women's Films ran at the Fifth Avenue Cinema in New York. According to the New York Times notice that May, it showed 13 features, 4 documentary features and 13 programmes of shorts, including Dorothy Arzner's The Wild Party (1929), Ida Lupino's The Bigamist (1953), Varda's Cléo from 5 to 7 and Barbara Loden's Wanda."
+        },
+        {
+          "type": "p",
+          "text": "Two months later, at the Edinburgh International Film Festival in Scotland, Lynda Myles, Laura Mulvey and Claire Johnston programmed a season of more than 30 films made by women between 1923 and 1972. It ran from Germaine Dulac's The Smiling Madame Beudet (1923) and Leontine Sagan's Girls in Uniform (1931) through Arzner, Lupino, Deren and Chytilová. It was the first event of its kind in Europe. A year later Myles became the festival's director, which the festival describes as the first time a woman ran an international film festival anywhere."
+        },
+        {
+          "type": "p",
+          "text": "The same year saw the first issue of the journal Women and Film in California and the founding of Women Make Movies, a New York group that taught women filmmaking and later became one of the main distributors of films by women. In West Germany the director Helke Sander founded Frauen und Film (Women and Film) in 1974, and in the United States the journal Camera Obscura began in 1976. Within a few years there was a network of festivals, journals and distributors where none had existed before."
+        },
+        {
+          "type": "p",
+          "text": "Barbara Loden's Wanda (1970), which both festivals showed, explains why this mattered. Loden, an actress married to the director Elia Kazan, wrote, directed and starred in it for about $115,000. Wanda is a passive, broke woman from a Pennsylvania coal town who leaves her husband and children and drifts into a partnership with a small-time bank robber. The film won the Pasinetti award for best foreign film at Venice in 1970 but had little distribution in the United States. Loden died of cancer in 1980, and Wanda was her only feature. Today it is regarded as a classic, an example of how a film can disappear when there are no institutions to keep it in view."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "From images of women to the male gaze",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The first wave of feminist film criticism, in the early 1970s, mostly looked at images of women. Marjorie Rosen's Popcorn Venus (1973) and Molly Haskell's From Reverence to Rape (1974) traced how Hollywood showed women decade by decade. Haskell, a critic in New York, argued that the strong career women played by actresses such as Bette Davis and Katharine Hepburn in the 1930s and 1940s had given way to weaker and more sexualised roles, and that American films of the early 1970s were among the worst for women. This approach asked whether a character was a positive or negative image, a stereotype or a real person."
+        },
+        {
+          "type": "p",
+          "text": "British critics close to the journal Screen thought this did not go far enough. In 'Women's Cinema as Counter-Cinema' (1973), Claire Johnston argued that the problem was not just bad characters but the language of mainstream cinema itself. In Hollywood films, she wrote, woman works as a sign, a fixed idea that stands for what men want or fear, rather than as a person. She also suggested that some women directors inside the studio system, especially Arzner, had found ways to make that language visible from the inside. Johnston and Pam Cook developed this argument in a 1975 BFI book on Arzner."
+        },
+        {
+          "type": "p",
+          "text": "Laura Mulvey went further. Her essay 'Visual Pleasure and Narrative Cinema', published in Screen in the autumn of 1975, used ideas from Freud and Lacan to ask why classical Hollywood films are pleasurable to watch, and for whom. Its main claims can be put simply:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Looking is itself a pleasure. Mulvey used Freud's term scopophilia, the pleasure of looking at another person as an object, and argued that cinema is built to provide it, since the audience sits in the dark and watches people who cannot look back.",
+            "That pleasure is split by gender. In her best-known sentence, 'In a world ordered by sexual imbalance, pleasure in looking has been split between active/male and passive/female.' The man looks and acts; the woman is displayed.",
+            "Women on screen carry what she called to-be-looked-at-ness. They are lit, framed and costumed as spectacle, and the story often stops so the camera can dwell on them, as in a showgirl's number.",
+            "Cinema combines three looks: the camera's, the characters' and the audience's. Classical films hide the first and last, so the audience identifies with the male hero's look at the woman. This structure is what later writers called the male gaze.",
+            "Her examples were the films of Josef von Sternberg with Marlene Dietrich and Alfred Hitchcock's Rear Window, Vertigo and Marnie, in which the hero watches, follows and investigates a woman."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Mulvey did not want to improve Hollywood. She wanted to break its pleasure on purpose. The essay says so plainly: 'It is said that analysing pleasure, or beauty, destroys it. That is the intention of this article.' She called for a counter-cinema that would free the camera's look and make the audience aware of how it was watching. With her partner Peter Wollen she made films on those lines, most famously Riddles of the Sphinx (1977), a slow, partly abstract film about a mother in London trying to arrange childcare."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "The filmmakers: many ways to look differently",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Feminist filmmakers did not follow one style. Some made essay films and experimental work in the spirit of Mulvey and Wollen. Yvonne Rainer, a dancer from New York, made Film About a Woman Who... (1974), which breaks up a love story with on-screen text and narration. Sally Potter's short Thriller (1979) retells the opera La Bohème from the point of view of Mimì, the seamstress who dies at the end, and asks why she had to die. Potter's feature The Gold Diggers (1983), starring Julie Christie, was made by an all-woman crew. Barbara Hammer made some of the first openly lesbian experimental films, including Dyketactics (1974)."
+        },
+        {
+          "type": "p",
+          "text": "Others worked closer to art-house storytelling. In West Germany, Helke Sander's The All-Round Reduced Personality (1978), often called Redupers, follows a single mother working as a photographer in West Berlin, and Margarethe von Trotta's Marianne and Juliane (1981), about two sisters, one a journalist and one a militant, won the Golden Lion at Venice. In France, Varda's One Sings, the Other Doesn't (1977) follows two friends through the abortion rights campaigns of the 1970s, and her Vagabond (1985), about a young woman found frozen in a ditch, won the Golden Lion. In the Netherlands, Marleen Gorris's A Question of Silence (1982) shows three women who kill a shopkeeper and the psychiatrist who tries to understand them. In the Soviet Union, Larisa Shepitko's war film The Ascent won the Golden Bear in Berlin in 1977."
+        },
+        {
+          "type": "p",
+          "text": "Some made political genre films. Lizzie Borden's Born in Flames (1983) imagines an American socialist government ten years after a peaceful revolution, under which women still face harassment and unemployment. Groups of Black, Latina, lesbian and white women argue over tactics and form militias and pirate radio stations. It was shot cheaply in New York, and its arguments about which women a movement speaks for anticipated the debates of the next decade."
+        },
+        {
+          "type": "p",
+          "text": "Documentary was just as important. Delphine Seyrig, one of the best-known actresses in Europe after Last Year at Marienbad (1961), learned video with Carole Roussopoulos and Ioana Wieder. In 1982 the three founded the Centre audiovisuel Simone de Beauvoir in Paris to collect and preserve women's films and videos, an early example of a feminist media archive, which is close to Huiru's own idea of archiving everything."
+        }
+      ]
+    },
+    {
+      "id": "jeanne-dielman",
+      "kicker": "Deep dive",
+      "title": "Jeanne Dielman: three days of potatoes, beds and dread",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chantal Akerman was born in Brussels in 1950 to a Jewish family; her mother had survived Auschwitz. She was 25 when she shot Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles in 1975. The film is about 200 minutes long. Delphine Seyrig plays a widow who lives with her teenage son in a small Brussels flat. Over three days we watch her routine in long, fixed shots, often from a single frontal position, with almost no music: she peels potatoes, makes the bed, washes up, breads veal cutlets, buys buttons, and in the afternoons, while the potatoes boil, has sex with a male client for money. The cinematographer was Babette Mangolte, and according to the Rotterdam festival about 80 per cent of the crew were women."
+        },
+        {
+          "type": "p",
+          "text": "The film does not use the male gaze that Mulvey described. The camera does not move in to admire Seyrig, and it does not cut away from the dull parts. The sex scenes happen behind a closed door. What the camera does show in full, in real time, is housework, the labour that most films skip in a single cut. Akerman later said the film came from watching her mother: 'It came from what I saw as a kid, all those gestures of my mother. That's why the film is so precise.'"
+        },
+        {
+          "type": "p",
+          "text": "On the second day small things begin to go wrong. Jeanne overcooks the potatoes, drops a spoon, forgets to button her housecoat, and sits idle in a chair. Because the first day was so regular, these small slips feel shocking. On the third day she kills her client with a pair of scissors and then sits at the dining table in silence for several minutes as the film ends. Critics have read the ending in many ways, as a protest against a life without freedom, as a breakdown, or as something the film refuses to explain."
+        },
+        {
+          "type": "p",
+          "text": "When it opened in Paris in 1976, Le Monde called it the first masterpiece of the feminine in the history of the cinema. For decades it was mainly a film for festivals, universities and cinephiles. In 2022 more than 1,600 critics, scholars and programmers voted it first in Sight and Sound's once-a-decade poll of the greatest films of all time, up from 36th place in 2012. It was the first time in the poll's 70 years that a film directed by a woman came first. Hitchcock's Vertigo, one of Mulvey's main examples of the male gaze, came second. The result showed how far the questions of the 1970s had moved from the margins into the centre of film culture, and it also started arguments about whether a slow avant-garde film should top a list most people use to find films to watch."
+        }
+      ]
+    },
+    {
+      "id": "critiques",
+      "kicker": "The argument",
+      "title": "Who is the woman in the audience?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mulvey's essay was hugely influential and quickly criticised, including by Mulvey herself. The obvious question was where women in the audience fit. If classical films ask every viewer to identify with the male hero, how do women watch, and why do so many enjoy melodramas and romances? In 1981 Mulvey published 'Afterthoughts on Visual Pleasure and Narrative Cinema', inspired by the western Duel in the Sun (1946), arguing that women viewers may move back and forth between identifying with the active hero and the passive heroine."
+        },
+        {
+          "type": "p",
+          "text": "Other writers built a theory of the female spectator. Mary Ann Doane's 'Film and the Masquerade' (1982) argued that women watching films are pushed either into over-identifying with the image or into taking up a masculine position, and that femininity itself can be a mask worn for the viewer. Teresa de Lauretis's book Alice Doesn't (1984) asked how women are formed as subjects through stories and images. E. Ann Kaplan's collection Women in Film Noir (1978) showed how the femme fatale is both punished by noir plots and remembered as their most powerful figure. Tania Modleski's The Women Who Knew Too Much (1988) re-read Hitchcock to show that his films are more troubled by women than Mulvey had allowed."
+        },
+        {
+          "type": "p",
+          "text": "The strongest criticism came from Black feminists. In 'The Oppositional Gaze: Black Female Spectators', published in her book Black Looks (1992), bell hooks pointed out that psychoanalytic film theory talked about women as if they were all white. Black women, she wrote, had rarely seen themselves on screen at all, and had learned to watch Hollywood critically, with a gaze that looked back and resisted. A year earlier Julie Dash had released Daughters of the Dust (1991), about three generations of Gullah women on a South Carolina sea island in 1902, preparing to move north. It was the first feature directed by an African American woman to receive a general theatrical release in the United States, and it showed in practice what a film made from Black women's point of view could look like."
+        },
+        {
+          "type": "p",
+          "text": "Popular genres got new readings too. In Men, Women, and Chain Saws (1992), Carol Clover studied slasher films and named the final girl, the young woman who survives to the end and fights back. She argued that the mostly young male audiences of these films were asked to identify with her, which complicated the simple idea that men in the audience only look at women from outside. By the early 1990s the field had moved from one big theory to many arguments about race, sexuality, genre and real audiences."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Taiwan and Asia at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "While feminist film theory grew in Britain and the United States, Taiwan was under martial law, and the women's movement there worked carefully. In 1974 呂秀蓮 Annette Lu published 新女性主義 (New Feminism), and in 1982 李元貞 and others founded the magazine that became the Awakening Foundation (婦女新知基金會). Film was part of the change. In 1981 the actress and singer Sylvia Chang 張艾嘉 produced the television anthology 十一個女人 (Eleven Women) for TTV, adapting short stories about women's lives in Taiwan. She directed one episode herself, 〈自己的天空〉, and hired young directors including Edward Yang 楊德昌, whose episode 〈浮萍〉, about a country girl chasing fame in Taipei, was his directing debut. The series is now seen as one of the starting points of Taiwan New Cinema. In 1984 曾壯祥 Tseng Chuang-hsiang filmed 殺夫 (The Woman of Wrath), adapted from 李昂 Li Ang's 1983 novella about a woman driven to kill her abusive husband. Women directors such as 黃玉珊 Huang Yu-shan, whose 落山風 (Autumn Tempest) came out in 1988, and 王小棣 Wang Shaudi also began working in this period."
+        },
+        {
+          "type": "p",
+          "text": "In 1993 the Awakening Foundation, with the scholars and activists 李元貞, 王蘋, 張小虹 and 丁乃非, and 黃玉珊's Black and White Studio (黑白屋電影工作室), organised the first 女性影像藝術展 (Women Make Waves) at the 霍克藝術會館 art space in Taipei, showing 16 films. It grew into a regular festival. In September 1998 its organisers registered the Taipei Women's Film Association (台北市女性影像學會), with 黃玉珊 as its first chair, and in 2004 it became the national Taiwan Women's Film Association (台灣女性影像學會). Since 2012 the festival has been called the Women Make Waves International Film Festival, Taiwan, and the association describes it as the oldest issue-based film festival in Taiwan and one of the earliest women's film festivals in Asia. Since 2001 it has also toured screenings to cinemas, schools and community spaces outside Taipei. This is the 女性影像學會 on the orgs page of Huiru's feminism class site, so the history in this lesson is also background for thinking about it as a possible cool dairy partner."
+        },
+        {
+          "type": "p",
+          "text": "Elsewhere in Asia, the Hong Kong New Wave included Ann Hui, whose first feature The Secret (1979) and later Boat People (1982) made her one of the leading directors of the region. Across the world, the United Nations declared 1975 International Women's Year and held its first world conference on women in Mexico City, the same year that Mulvey's essay and Jeanne Dielman appeared."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Legacy: from theory to everyday vocabulary",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Feminist film theory changed how films are taught and talked about. The term male gaze moved from an academic journal into ordinary criticism, fashion writing and social media, often used loosely to mean any sexualised image of a woman. Its opposite, the female gaze, became a popular way to describe films by women such as Céline Sciamma's Portrait of a Lady on Fire (2019), which won the screenplay prize at Cannes."
+        },
+        {
+          "type": "p",
+          "text": "Women directors also slowly reached the top prizes. Jane Campion's The Piano shared the Palme d'Or at Cannes in 1993, the first time a woman won it. Kathryn Bigelow became the first woman to win the Academy Award for best director, for The Hurt Locker, in 2010. Julia Ducournau won the Palme d'Or for Titane in 2021 and Justine Triet for Anatomy of a Fall in 2023. Counting projects like the Bechdel test and studies of who directs and speaks on screen grew from the same question the 1972 festivals asked: where are the women?"
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Mulvey wanted to destroy the pleasure of the male gaze, while Akerman made a film that refuses it by showing housework in real time. Think of a film or music video you love. Who is doing the looking, and who is being looked at? Would it lose something, or gain something, if it were filmed the way Jeanne Dielman is filmed?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "feminist film theory",
+      "aliases": [
+        "film theory"
+      ],
+      "explain": "An approach to cinema, developed from the early 1970s, that studies how films represent women, how they shape the way audiences look, and how women can make films differently."
+    },
+    {
+      "term": "male gaze",
+      "aliases": [
+        "the male gaze"
+      ],
+      "explain": "Laura Mulvey's idea, from her 1975 essay, that classical films are built so the audience looks at women through the eyes of an active male hero."
+    },
+    {
+      "term": "female gaze",
+      "aliases": [],
+      "explain": "A later, looser term for films that look at women and the world from a woman's point of view rather than as spectacle for men."
+    },
+    {
+      "term": "scopophilia",
+      "aliases": [],
+      "explain": "Freud's term for the pleasure of looking at another person as an object, which Mulvey argued cinema is built to provide."
+    },
+    {
+      "term": "to-be-looked-at-ness",
+      "aliases": [],
+      "explain": "Mulvey's phrase for the way women on screen are lit, framed and costumed to be looked at."
+    },
+    {
+      "term": "counter-cinema",
+      "aliases": [
+        "Counter-Cinema"
+      ],
+      "explain": "Films that deliberately break the conventions of mainstream cinema in order to make audiences aware of how films work."
+    },
+    {
+      "term": "images of women",
+      "aliases": [],
+      "explain": "The early 1970s approach that judged films by whether their female characters were positive or negative, stereotyped or realistic."
+    },
+    {
+      "term": "female spectator",
+      "aliases": [
+        "woman in the audience"
+      ],
+      "explain": "The woman watching a film, and the question of how she relates to images made mainly for male looking."
+    },
+    {
+      "term": "masquerade",
+      "aliases": [],
+      "explain": "Mary Ann Doane's idea that femininity can work as a mask, worn for a viewer, which a film can show as a performance."
+    },
+    {
+      "term": "final girl",
+      "aliases": [],
+      "explain": "Carol Clover's name for the young woman who survives to the end of a slasher film and fights back."
+    },
+    {
+      "term": "oppositional gaze",
+      "aliases": [
+        "The Oppositional Gaze"
+      ],
+      "explain": "bell hooks's term for the critical, resisting way Black women watch films that ignore or demean them."
+    },
+    {
+      "term": "Bechdel test",
+      "aliases": [
+        "Bechdel–Wallace test"
+      ],
+      "explain": "A test of whether a film has at least two women who talk to each other about something other than a man, from Alison Bechdel's 1985 comic strip."
+    },
+    {
+      "term": "second wave",
+      "aliases": [],
+      "explain": "The women's movement of the 1960s to 1980s, which campaigned on work, family, sexuality, abortion and the media."
+    },
+    {
+      "term": "psychoanalysis",
+      "aliases": [],
+      "explain": "The theory of the mind founded by Sigmund Freud, which feminist film theorists used to explain desire and looking in cinema."
+    },
+    {
+      "term": "classical Hollywood",
+      "aliases": [],
+      "explain": "The style of American studio films from about 1917 to 1960: clear stories, invisible editing and stars."
+    },
+    {
+      "term": "Laura Mulvey",
+      "aliases": [
+        "Mulvey"
+      ],
+      "explain": "British film theorist and filmmaker, born 1941, author of 'Visual Pleasure and Narrative Cinema' (1975)."
+    },
+    {
+      "term": "Visual Pleasure and Narrative Cinema",
+      "aliases": [],
+      "explain": "Mulvey's 1975 essay in Screen that introduced the idea of the male gaze."
+    },
+    {
+      "term": "Afterthoughts on Visual Pleasure and Narrative Cinema",
+      "aliases": [
+        "Afterthoughts"
+      ],
+      "explain": "Mulvey's 1981 follow-up essay about how women in the audience watch."
+    },
+    {
+      "term": "Screen",
+      "aliases": [],
+      "explain": "A British film theory journal that in the 1970s introduced psychoanalysis and Marxism into film criticism."
+    },
+    {
+      "term": "Claire Johnston",
+      "aliases": [
+        "Johnston"
+      ],
+      "explain": "British feminist film critic who co-programmed the 1972 Edinburgh women's event and wrote 'Women's Cinema as Counter-Cinema'."
+    },
+    {
+      "term": "Women's Cinema as Counter-Cinema",
+      "aliases": [],
+      "explain": "Claire Johnston's 1973 essay arguing that the language of mainstream cinema turns woman into a sign."
+    },
+    {
+      "term": "Pam Cook",
+      "aliases": [],
+      "explain": "British film critic who worked with Claire Johnston on feminist readings of Dorothy Arzner."
+    },
+    {
+      "term": "Lynda Myles",
+      "aliases": [
+        "Myles"
+      ],
+      "explain": "British programmer who co-organised the 1972 Edinburgh women's film event and became the festival's director in 1973."
+    },
+    {
+      "term": "Molly Haskell",
+      "aliases": [
+        "Haskell"
+      ],
+      "explain": "American film critic, author of From Reverence to Rape (1974)."
+    },
+    {
+      "term": "From Reverence to Rape",
+      "aliases": [],
+      "explain": "Molly Haskell's 1974 history of how Hollywood portrayed women."
+    },
+    {
+      "term": "Marjorie Rosen",
+      "aliases": [],
+      "explain": "American writer, author of Popcorn Venus (1973)."
+    },
+    {
+      "term": "Popcorn Venus",
+      "aliases": [],
+      "explain": "Marjorie Rosen's 1973 book on women in American films."
+    },
+    {
+      "term": "Mary Ann Doane",
+      "aliases": [
+        "Doane"
+      ],
+      "explain": "American film theorist, author of 'Film and the Masquerade' (1982)."
+    },
+    {
+      "term": "Film and the Masquerade",
+      "aliases": [],
+      "explain": "Mary Ann Doane's 1982 essay on the female spectator."
+    },
+    {
+      "term": "Teresa de Lauretis",
+      "aliases": [],
+      "explain": "Italian-born feminist theorist, author of Alice Doesn't (1984)."
+    },
+    {
+      "term": "Alice Doesn't",
+      "aliases": [],
+      "explain": "Teresa de Lauretis's 1984 book on women, cinema and storytelling."
+    },
+    {
+      "term": "E. Ann Kaplan",
+      "aliases": [],
+      "explain": "British-born American scholar who edited Women in Film Noir (1978)."
+    },
+    {
+      "term": "Women in Film Noir",
+      "aliases": [],
+      "explain": "A 1978 collection of feminist essays on film noir and the femme fatale."
+    },
+    {
+      "term": "Tania Modleski",
+      "aliases": [],
+      "explain": "American scholar, author of The Women Who Knew Too Much (1988), a feminist study of Hitchcock."
+    },
+    {
+      "term": "The Women Who Knew Too Much",
+      "aliases": [],
+      "explain": "Tania Modleski's 1988 book on Hitchcock and women."
+    },
+    {
+      "term": "bell hooks",
+      "aliases": [
+        "hooks"
+      ],
+      "explain": "American writer and cultural critic (1952 to 2021) who wrote on race, gender and class."
+    },
+    {
+      "term": "Black Looks",
+      "aliases": [],
+      "explain": "bell hooks's 1992 essay collection on race and representation."
+    },
+    {
+      "term": "Carol Clover",
+      "aliases": [
+        "Clover"
+      ],
+      "explain": "American scholar, author of Men, Women, and Chain Saws (1992)."
+    },
+    {
+      "term": "Men, Women, and Chain Saws",
+      "aliases": [],
+      "explain": "Carol Clover's 1992 study of gender in horror films."
+    },
+    {
+      "term": "Alison Bechdel",
+      "aliases": [
+        "Bechdel"
+      ],
+      "explain": "American cartoonist, author of Dykes to Watch Out For and the memoir Fun Home."
+    },
+    {
+      "term": "Dykes to Watch Out For",
+      "aliases": [],
+      "explain": "Alison Bechdel's long-running comic strip about a group of lesbian friends."
+    },
+    {
+      "term": "Liz Wallace",
+      "aliases": [],
+      "explain": "Alison Bechdel's friend, credited with the idea behind the Bechdel test."
+    },
+    {
+      "term": "Virginia Woolf",
+      "aliases": [],
+      "explain": "English modernist writer (1882 to 1941)."
+    },
+    {
+      "term": "A Room of One's Own",
+      "aliases": [],
+      "explain": "Virginia Woolf's 1929 essay on women and writing."
+    },
+    {
+      "term": "Chantal Akerman",
+      "aliases": [
+        "Akerman"
+      ],
+      "explain": "Belgian director (1950 to 2015), maker of Jeanne Dielman and many experimental and documentary films."
+    },
+    {
+      "term": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+      "aliases": [
+        "Jeanne Dielman"
+      ],
+      "explain": "Chantal Akerman's 1975 film about three days in a widow's routine, voted first in Sight and Sound's 2022 poll."
+    },
+    {
+      "term": "Delphine Seyrig",
+      "aliases": [
+        "Seyrig"
+      ],
+      "explain": "French actress (1932 to 1990), star of Jeanne Dielman and a feminist video maker."
+    },
+    {
+      "term": "Last Year at Marienbad",
+      "aliases": [],
+      "explain": "Alain Resnais's 1961 film starring Delphine Seyrig."
+    },
+    {
+      "term": "Babette Mangolte",
+      "aliases": [],
+      "explain": "French-born cinematographer who shot Jeanne Dielman."
+    },
+    {
+      "term": "Sight and Sound",
+      "aliases": [],
+      "explain": "The British Film Institute's magazine, which runs a poll of the greatest films every ten years."
+    },
+    {
+      "term": "Carole Roussopoulos",
+      "aliases": [],
+      "explain": "Swiss-born feminist video maker, co-founder of the Centre audiovisuel Simone de Beauvoir."
+    },
+    {
+      "term": "Ioana Wieder",
+      "aliases": [],
+      "explain": "Feminist video maker, co-founder of the Centre audiovisuel Simone de Beauvoir."
+    },
+    {
+      "term": "Centre audiovisuel Simone de Beauvoir",
+      "aliases": [],
+      "explain": "A Paris archive of women's films and videos founded in 1982."
+    },
+    {
+      "term": "Manifesto of the 343",
+      "aliases": [],
+      "explain": "A 1971 French declaration by 343 women that they had had illegal abortions."
+    },
+    {
+      "term": "Agnès Varda",
+      "aliases": [
+        "Varda"
+      ],
+      "explain": "Belgian-born French director (1928 to 2019), often called a mother of the French New Wave."
+    },
+    {
+      "term": "Cléo from 5 to 7",
+      "aliases": [],
+      "explain": "Agnès Varda's 1962 film about a singer waiting for a medical result."
+    },
+    {
+      "term": "One Sings, the Other Doesn't",
+      "aliases": [],
+      "explain": "Agnès Varda's 1977 film about two friends and the abortion rights movement."
+    },
+    {
+      "term": "Vagabond",
+      "aliases": [],
+      "explain": "Agnès Varda's 1985 film about a young drifter, winner of the Golden Lion."
+    },
+    {
+      "term": "Barbara Loden",
+      "aliases": [
+        "Loden"
+      ],
+      "explain": "American actress and director (1932 to 1980), maker of Wanda."
+    },
+    {
+      "term": "Wanda",
+      "aliases": [],
+      "explain": "Barbara Loden's 1970 film about a drifting working-class woman."
+    },
+    {
+      "term": "Elia Kazan",
+      "aliases": [],
+      "explain": "American director of On the Waterfront, married to Barbara Loden."
+    },
+    {
+      "term": "Alice Guy",
+      "aliases": [],
+      "explain": "French pioneer director (1873 to 1968), one of the first makers of fiction films."
+    },
+    {
+      "term": "Gaumont",
+      "aliases": [],
+      "explain": "A French film company founded in the 1890s, where Alice Guy began directing."
+    },
+    {
+      "term": "Lois Weber",
+      "aliases": [],
+      "explain": "American director of the 1910s, one of the most successful of the silent era."
+    },
+    {
+      "term": "Where Are My Children?",
+      "aliases": [],
+      "explain": "Lois Weber's 1916 film about birth control and abortion."
+    },
+    {
+      "term": "Dorothy Arzner",
+      "aliases": [
+        "Arzner"
+      ],
+      "explain": "American director (1897 to 1979), the main woman directing Hollywood features in the 1930s."
+    },
+    {
+      "term": "Dance, Girl, Dance",
+      "aliases": [],
+      "explain": "Dorothy Arzner's 1940 film about two dancers, admired by feminist critics."
+    },
+    {
+      "term": "The Wild Party",
+      "aliases": [],
+      "explain": "Dorothy Arzner's 1929 film starring Clara Bow."
+    },
+    {
+      "term": "Ida Lupino",
+      "aliases": [
+        "Lupino"
+      ],
+      "explain": "English-born actress and director (1918 to 1995) who directed films in 1950s Hollywood."
+    },
+    {
+      "term": "The Hitch-Hiker",
+      "aliases": [],
+      "explain": "Ida Lupino's 1953 thriller, usually called the first mainstream American noir directed by a woman."
+    },
+    {
+      "term": "The Bigamist",
+      "aliases": [],
+      "explain": "Ida Lupino's 1953 drama about a man with two wives."
+    },
+    {
+      "term": "Maya Deren",
+      "aliases": [
+        "Deren"
+      ],
+      "explain": "Ukrainian-born American experimental filmmaker (1917 to 1961)."
+    },
+    {
+      "term": "Meshes of the Afternoon",
+      "aliases": [],
+      "explain": "Maya Deren and Alexander Hammid's 1943 dreamlike short film."
+    },
+    {
+      "term": "Alexander Hammid",
+      "aliases": [],
+      "explain": "Czech-born filmmaker who co-made Meshes of the Afternoon."
+    },
+    {
+      "term": "Germaine Dulac",
+      "aliases": [],
+      "explain": "French avant-garde director (1882 to 1942)."
+    },
+    {
+      "term": "The Smiling Madame Beudet",
+      "aliases": [],
+      "explain": "Germaine Dulac's 1923 film about an unhappy wife, an early feminist film."
+    },
+    {
+      "term": "Leontine Sagan",
+      "aliases": [],
+      "explain": "Austrian-born director of Girls in Uniform (1931)."
+    },
+    {
+      "term": "Girls in Uniform",
+      "aliases": [],
+      "explain": "Leontine Sagan's 1931 German film about a girls' boarding school."
+    },
+    {
+      "term": "Věra Chytilová",
+      "aliases": [
+        "Chytilová"
+      ],
+      "explain": "Czech director (1929 to 2014) of Daisies."
+    },
+    {
+      "term": "Daisies",
+      "aliases": [],
+      "explain": "Věra Chytilová's 1966 anarchic comedy about two young women."
+    },
+    {
+      "term": "Larisa Shepitko",
+      "aliases": [
+        "Shepitko"
+      ],
+      "explain": "Soviet director (1938 to 1979) of Wings and The Ascent."
+    },
+    {
+      "term": "Wings",
+      "aliases": [],
+      "explain": "Larisa Shepitko's 1966 film about a former woman fighter pilot."
+    },
+    {
+      "term": "The Ascent",
+      "aliases": [],
+      "explain": "Larisa Shepitko's 1977 war film, winner of the Golden Bear."
+    },
+    {
+      "term": "Betty Friedan",
+      "aliases": [],
+      "explain": "American feminist (1921 to 2006), author of The Feminine Mystique."
+    },
+    {
+      "term": "The Feminine Mystique",
+      "aliases": [],
+      "explain": "Betty Friedan's 1963 book on the dissatisfaction of American housewives."
+    },
+    {
+      "term": "First International Festival of Women's Films",
+      "aliases": [],
+      "explain": "The New York festival of June 1972, the first festival of films by women."
+    },
+    {
+      "term": "Edinburgh International Film Festival",
+      "aliases": [
+        "Edinburgh"
+      ],
+      "explain": "A Scottish film festival founded in 1947, home of the 1972 women's event."
+    },
+    {
+      "term": "Women and Film",
+      "aliases": [],
+      "explain": "An American feminist film journal first published in 1972."
+    },
+    {
+      "term": "Women Make Movies",
+      "aliases": [],
+      "explain": "A New York organisation founded in 1972 that trains and distributes women filmmakers."
+    },
+    {
+      "term": "Frauen und Film",
+      "aliases": [],
+      "explain": "A West German feminist film journal founded by Helke Sander in 1974."
+    },
+    {
+      "term": "Camera Obscura",
+      "aliases": [],
+      "explain": "An American feminist film journal founded in 1976."
+    },
+    {
+      "term": "Helke Sander",
+      "aliases": [
+        "Sander"
+      ],
+      "explain": "German director and activist, founder of Frauen und Film."
+    },
+    {
+      "term": "The All-Round Reduced Personality",
+      "aliases": [
+        "Redupers"
+      ],
+      "explain": "Helke Sander's 1978 film about a single mother and photographer in West Berlin."
+    },
+    {
+      "term": "Margarethe von Trotta",
+      "aliases": [
+        "von Trotta"
+      ],
+      "explain": "German director of Marianne and Juliane and Rosa Luxemburg."
+    },
+    {
+      "term": "Marianne and Juliane",
+      "aliases": [],
+      "explain": "Margarethe von Trotta's 1981 film about two sisters, winner of the Golden Lion."
+    },
+    {
+      "term": "Peter Wollen",
+      "aliases": [
+        "Wollen"
+      ],
+      "explain": "British film theorist and director (1938 to 2019), Mulvey's partner and co-director."
+    },
+    {
+      "term": "Riddles of the Sphinx",
+      "aliases": [],
+      "explain": "Mulvey and Wollen's 1977 experimental film about motherhood."
+    },
+    {
+      "term": "Yvonne Rainer",
+      "aliases": [
+        "Rainer"
+      ],
+      "explain": "American dancer and filmmaker, maker of Film About a Woman Who..."
+    },
+    {
+      "term": "Film About a Woman Who...",
+      "aliases": [],
+      "explain": "Yvonne Rainer's 1974 experimental feature."
+    },
+    {
+      "term": "Sally Potter",
+      "aliases": [
+        "Potter"
+      ],
+      "explain": "British director of Thriller, The Gold Diggers and Orlando."
+    },
+    {
+      "term": "Thriller",
+      "aliases": [],
+      "explain": "Sally Potter's 1979 short film retelling La Bohème from Mimì's point of view."
+    },
+    {
+      "term": "La Bohème",
+      "aliases": [],
+      "explain": "Puccini's 1896 opera, in which the seamstress Mimì dies."
+    },
+    {
+      "term": "The Gold Diggers",
+      "aliases": [],
+      "explain": "Sally Potter's 1983 feature made by an all-woman crew."
+    },
+    {
+      "term": "Julie Christie",
+      "aliases": [],
+      "explain": "British actress, star of The Gold Diggers."
+    },
+    {
+      "term": "Barbara Hammer",
+      "aliases": [
+        "Hammer"
+      ],
+      "explain": "American experimental filmmaker (1939 to 2019), a pioneer of lesbian cinema."
+    },
+    {
+      "term": "Dyketactics",
+      "aliases": [],
+      "explain": "Barbara Hammer's 1974 short film."
+    },
+    {
+      "term": "Marleen Gorris",
+      "aliases": [
+        "Gorris"
+      ],
+      "explain": "Dutch director of A Question of Silence and Antonia's Line."
+    },
+    {
+      "term": "A Question of Silence",
+      "aliases": [],
+      "explain": "Marleen Gorris's 1982 film about three women who kill a shopkeeper."
+    },
+    {
+      "term": "Lizzie Borden",
+      "aliases": [
+        "Borden"
+      ],
+      "explain": "American director of Born in Flames (1983)."
+    },
+    {
+      "term": "Born in Flames",
+      "aliases": [],
+      "explain": "Lizzie Borden's 1983 film about women's militias after a socialist revolution."
+    },
+    {
+      "term": "Julie Dash",
+      "aliases": [
+        "Dash"
+      ],
+      "explain": "American director of Daughters of the Dust (1991)."
+    },
+    {
+      "term": "Daughters of the Dust",
+      "aliases": [],
+      "explain": "Julie Dash's 1991 film about Gullah women in 1902."
+    },
+    {
+      "term": "Gullah",
+      "aliases": [],
+      "explain": "African American communities of the coastal islands of South Carolina and Georgia, with their own language and culture."
+    },
+    {
+      "term": "Josef von Sternberg",
+      "aliases": [
+        "Sternberg"
+      ],
+      "explain": "Austrian-American director of Marlene Dietrich's 1930s films."
+    },
+    {
+      "term": "Marlene Dietrich",
+      "aliases": [
+        "Dietrich"
+      ],
+      "explain": "German-American actress and singer (1901 to 1992)."
+    },
+    {
+      "term": "Alfred Hitchcock",
+      "aliases": [
+        "Hitchcock"
+      ],
+      "explain": "English director (1899 to 1980) of suspense films."
+    },
+    {
+      "term": "Rear Window",
+      "aliases": [],
+      "explain": "Hitchcock's 1954 film about a man spying on his neighbours."
+    },
+    {
+      "term": "Vertigo",
+      "aliases": [],
+      "explain": "Hitchcock's 1958 film about a man obsessed with remaking a woman; second in the 2022 Sight and Sound poll."
+    },
+    {
+      "term": "Marnie",
+      "aliases": [],
+      "explain": "Hitchcock's 1964 film about a compulsive thief."
+    },
+    {
+      "term": "Duel in the Sun",
+      "aliases": [],
+      "explain": "King Vidor's 1946 western, the subject of Mulvey's 'Afterthoughts'."
+    },
+    {
+      "term": "femme fatale",
+      "aliases": [],
+      "explain": "The dangerous, seductive woman of film noir."
+    },
+    {
+      "term": "Céline Sciamma",
+      "aliases": [
+        "Sciamma"
+      ],
+      "explain": "French director of Portrait of a Lady on Fire."
+    },
+    {
+      "term": "Portrait of a Lady on Fire",
+      "aliases": [],
+      "explain": "Céline Sciamma's 2019 film about a painter and her subject."
+    },
+    {
+      "term": "Jane Campion",
+      "aliases": [
+        "Campion"
+      ],
+      "explain": "New Zealand director, the first woman to win the Palme d'Or."
+    },
+    {
+      "term": "The Piano",
+      "aliases": [],
+      "explain": "Jane Campion's 1993 film, co-winner of the Palme d'Or."
+    },
+    {
+      "term": "Kathryn Bigelow",
+      "aliases": [
+        "Bigelow"
+      ],
+      "explain": "American director, the first woman to win the Oscar for best director."
+    },
+    {
+      "term": "The Hurt Locker",
+      "aliases": [],
+      "explain": "Kathryn Bigelow's 2008 film about a bomb disposal team in Iraq."
+    },
+    {
+      "term": "Julia Ducournau",
+      "aliases": [
+        "Ducournau"
+      ],
+      "explain": "French director of Titane (2021)."
+    },
+    {
+      "term": "Titane",
+      "aliases": [],
+      "explain": "Julia Ducournau's 2021 body-horror film, winner of the Palme d'Or."
+    },
+    {
+      "term": "Justine Triet",
+      "aliases": [
+        "Triet"
+      ],
+      "explain": "French director of Anatomy of a Fall (2023)."
+    },
+    {
+      "term": "Anatomy of a Fall",
+      "aliases": [],
+      "explain": "Justine Triet's 2023 courtroom drama, winner of the Palme d'Or."
+    },
+    {
+      "term": "Ann Hui",
+      "aliases": [],
+      "explain": "Hong Kong director, a leader of the Hong Kong New Wave."
+    },
+    {
+      "term": "Boat People",
+      "aliases": [],
+      "explain": "Ann Hui's 1982 film about Vietnam after the war."
+    },
+    {
+      "term": "International Women's Year",
+      "aliases": [],
+      "explain": "The United Nations' name for 1975, marked by the first world conference on women in Mexico City."
+    },
+    {
+      "term": "呂秀蓮",
+      "aliases": [
+        "Annette Lu"
+      ],
+      "explain": "Taiwanese feminist and politician who launched the 新女性主義 movement in the 1970s and later became vice-president."
+    },
+    {
+      "term": "新女性主義",
+      "aliases": [
+        "New Feminism"
+      ],
+      "explain": "呂秀蓮's 1970s feminist programme and 1974 book."
+    },
+    {
+      "term": "婦女新知基金會",
+      "aliases": [
+        "Awakening Foundation",
+        "婦女新知"
+      ],
+      "explain": "Taiwan's oldest feminist organisation, founded as a magazine in 1982."
+    },
+    {
+      "term": "李元貞",
+      "aliases": [],
+      "explain": "Taiwanese poet, scholar and a founder of 婦女新知."
+    },
+    {
+      "term": "王蘋",
+      "aliases": [],
+      "explain": "Taiwanese activist, one of the organisers of the 1993 women's film exhibition."
+    },
+    {
+      "term": "張小虹",
+      "aliases": [],
+      "explain": "Taiwanese scholar of gender and culture at National Taiwan University."
+    },
+    {
+      "term": "丁乃非",
+      "aliases": [],
+      "explain": "Taiwanese feminist and queer studies scholar."
+    },
+    {
+      "term": "張艾嘉",
+      "aliases": [
+        "Sylvia Chang"
+      ],
+      "explain": "Taiwanese actress, singer, director and producer, born 1953."
+    },
+    {
+      "term": "十一個女人",
+      "aliases": [
+        "Eleven Women"
+      ],
+      "explain": "A 1981 TTV anthology series produced by 張艾嘉 that gave several young directors their start."
+    },
+    {
+      "term": "楊德昌",
+      "aliases": [
+        "Edward Yang"
+      ],
+      "explain": "Taiwanese director (1947 to 2007) of A Brighter Summer Day and Yi Yi."
+    },
+    {
+      "term": "浮萍",
+      "aliases": [],
+      "explain": "楊德昌's 1981 episode of 十一個女人, his directing debut."
+    },
+    {
+      "term": "曾壯祥",
+      "aliases": [
+        "Tseng Chuang-hsiang"
+      ],
+      "explain": "Taiwan New Cinema director of 殺夫 (1984)."
+    },
+    {
+      "term": "殺夫",
+      "aliases": [
+        "The Woman of Wrath"
+      ],
+      "explain": "李昂's 1983 novella and 曾壯祥's 1984 film about a woman who kills her abusive husband."
+    },
+    {
+      "term": "李昂",
+      "aliases": [
+        "Li Ang"
+      ],
+      "explain": "Taiwanese novelist, born 1952, known for 殺夫."
+    },
+    {
+      "term": "黃玉珊",
+      "aliases": [
+        "Huang Yu-shan"
+      ],
+      "explain": "Taiwanese director, co-founder of the 1993 women's film exhibition and first chair of the women's film association."
+    },
+    {
+      "term": "落山風",
+      "aliases": [
+        "Autumn Tempest"
+      ],
+      "explain": "黃玉珊's 1988 feature film."
+    },
+    {
+      "term": "王小棣",
+      "aliases": [
+        "Wang Shaudi"
+      ],
+      "explain": "Taiwanese director and screenwriter."
+    },
+    {
+      "term": "黑白屋電影工作室",
+      "aliases": [
+        "Black and White Studio"
+      ],
+      "explain": "黃玉珊's film studio, co-organiser of the first women's film exhibition in 1993."
+    },
+    {
+      "term": "女性影像藝術展",
+      "aliases": [
+        "Women Make Waves"
+      ],
+      "explain": "The 1993 Taipei exhibition that grew into the Women Make Waves International Film Festival, Taiwan."
+    },
+    {
+      "term": "台灣女性影像學會",
+      "aliases": [
+        "Taiwan Women's Film Association",
+        "女性影像學會",
+        "台北市女性影像學會",
+        "Taipei Women's Film Association"
+      ],
+      "explain": "The non-profit association, registered in Taipei in 1998 and national since 2004, that runs the Women Make Waves festival."
+    },
+    {
+      "term": "cool dairy",
+      "aliases": [],
+      "explain": "Huiru's vintage shop project whose proceeds will go to Taiwan women's organisations."
+    }
+  ]
+}
