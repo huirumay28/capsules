@@ -1,0 +1,925 @@
+{
+  "slug": "taiwan-womens-fiction",
+  "date": "2026-10-29",
+  "subject": "literature",
+  "related": [
+    "taiwan-nativist-literature",
+    "heian-womens-writing",
+    "seito-bluestocking",
+    "taiwan-womens-movement",
+    "feminist-film-theory",
+    "taiwan-new-cinema"
+  ],
+  "title": "Taiwan's Women's Fiction (c. 1976–1995): from newspaper prizes to The Butcher's Wife and Notes of a Crocodile",
+  "dek": "Between the late 1970s and the mid-1990s, a generation of Taiwanese women novelists moved from the edge of the literary world to its centre. They won the big newspaper fiction prizes, were dismissed by some critics as 'boudoir writers', and then wrote books about marriage, money, violence, sex and, by the 1990s, queer love that the island had never read before. This lesson explains how that happened, who the writers were, and why Li Ang's The Butcher's Wife (殺夫) is still the book everyone argues about.",
+  "era": "c. 1976–1995, from the last years of martial law to the first years of democracy",
+  "reading_minutes": 20,
+  "honesty": "This lesson relies mainly on the Chinese- and English-language Wikipedia articles on the writers and works named here, which in turn cite Taiwanese literary histories and the 台灣作家作品目錄資料庫. Prize years and publication dates are taken from those articles; where two sources disagree (for example, some give 1982 rather than 1983 for The Butcher's Wife), the lesson uses the date of the prize and the newspaper serialisation. The label 閨秀文學 was used loosely by critics and journalists rather than by the writers themselves, so it is described here as a label, not as a school with members. No direct quotations from the novels are given, only summaries. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1976",
+      "label": "The United Daily News fiction prize begins",
+      "detail": "The 聯合報 newspaper launches its short-story prize. In 1979 it is renamed the United Daily News Fiction Prize and adds novella and novel categories. For the next two decades, winning it can make an unknown writer famous overnight."
+    },
+    {
+      "year": "1976",
+      "label": "The Pioneer Press",
+      "detail": "Annette Lu (呂秀蓮), Shih Shu-ching (施叔青) and other activists found 拓荒者出版社, a publishing house run entirely by women to spread Lu's 'new feminism'. Harassment by the security services shuts it down in 1977."
+    },
+    {
+      "year": "1977",
+      "label": "The Threes and a schoolgirl's diary",
+      "detail": "Chu T'ien-wen (朱天文), Chu T'ien-hsin (朱天心) and friends found the literary journal 三三集刊. Chu T'ien-hsin, still a teenager, publishes 擊壤歌, a prose memoir of her years at Taipei First Girls' High School, which becomes a bestseller."
+    },
+    {
+      "year": "1978",
+      "label": "The China Times prize begins",
+      "detail": "The 中國時報 literary supplement, edited by 高信疆, launches the China Times Literary Award. The two newspaper prizes become the most important gateways into Taiwanese literature."
+    },
+    {
+      "year": "1979",
+      "label": "'Stay With Him for a While'",
+      "detail": "Su Wei-chen (蘇偉貞) publishes the story 陪他一段, about a woman who gives herself completely to a love affair, and becomes well known."
+    },
+    {
+      "year": "1980",
+      "label": "'A Sky of One's Own' and a long rural novel",
+      "detail": "Yuan Chiung-chiung (袁瓊瓊) wins the United Daily News first prize for 自己的天空, a story about a wife who is left by her husband and discovers she can live on her own. Hsiao Li-hung (蕭麗紅) wins a novel prize in the same competition for 千江有水千江月."
+    },
+    {
+      "year": "1982",
+      "label": "'Rapeseed'",
+      "detail": "Liao Hui-ying (廖輝英) wins first prize at the fifth China Times Literary Award with 油麻菜籽, the story of a daughter growing up under a careless father and an exhausted mother."
+    },
+    {
+      "year": "1983",
+      "label": "The Butcher's Wife",
+      "detail": "Li Ang's novella 殺夫 wins the United Daily News novella first prize, is serialised in the paper from 22 September and comes out as a book from Linking Publishing in November. Liao Hui-ying's 不歸路, about a young woman trapped as a married man's mistress, wins a special recommendation in the same year's competition."
+    },
+    {
+      "year": "1984",
+      "label": "From page to screen",
+      "detail": "Tseng Chuang-hsiang (曾壯祥) films The Woman of Wrath (殺夫), and Wan Jen (萬仁) films Ah Fei (油麻菜籽), co-written by Hou Hsiao-hsien (侯孝賢) and Liao Hui-ying, which wins the Golden Horse award for best adapted screenplay."
+    },
+    {
+      "year": "1987",
+      "label": "Martial law ends",
+      "detail": "Martial law, in force since 1949, is lifted on 15 July 1987. Press and publishing restrictions loosen over the following years, and the women's movement, the opposition and new identity politics all become louder."
+    },
+    {
+      "year": "1994",
+      "label": "Two notebooks of queer love",
+      "detail": "Chu T'ien-wen's 荒人手記 (Notes of a Desolate Man), narrated by a gay man, wins the first China Times Million Dollar Novel Prize. Qiu Miaojin (邱妙津) publishes 鱷魚手記 (Notes of a Crocodile), a lesbian campus novel that gives Taiwan the slang words 鱷魚 and 拉子."
+    },
+    {
+      "year": "1995",
+      "label": "Two deaths",
+      "detail": "Qiu Miaojin dies by suicide in Paris in June, aged 26. Her last novel, 蒙馬特遺書 (Last Words from Montmartre), appears in 1996. In September, Eileen Chang (張愛玲), the Shanghai-born writer whose style shaped many of these women, dies in Los Angeles."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Modernists, nativists and an island under martial law",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "To see what changed, start with the literary world of the 1960s and early 1970s. Taiwan was under martial law, and anything that sounded like criticism of the Kuomintang government or sympathy for communism could end a career or a life. Serious fiction mostly followed two paths. The modernists around the journal Modern Literature (現代文學), founded in 1960 by Pai Hsien-yung (白先勇) and his classmates at National Taiwan University, wrote psychological stories influenced by Joyce, Kafka and existentialism. The nativists, whom you met in the lesson on Taiwan's Nativist Literature, wrote realist stories about farmers, workers and small towns, and in 1977 fought a public battle over whether literature should serve the Taiwanese people."
+        },
+        {
+          "type": "p",
+          "text": "Women were present in both camps but rarely at the centre of the arguments. Shih Shu-ching (施叔青), born in Lukang (鹿港) in 1945, published her first story at seventeen and was praised by Pai Hsien-yung for its nightmarish atmosphere. She helped found the journal 文學季刊 in 1966 with Chen Ying-chen, Huang Chun-ming and others. Her younger sister, born Shih Shu-tuan in 1952 and later known as Li Ang (李昂), started publishing modernist stories as a high-school student in the late 1960s. Both sisters grew up in the same old port town, and Lukang would become the setting for much of Li Ang's later work."
+        },
+        {
+          "type": "p",
+          "text": "There was also a huge popular market for romance fiction. Chiung Yao (瓊瑤) had been the best-selling novelist in the Chinese-speaking world since the 1960s, with love stories that were turned into films and television series. Critics treated this kind of writing as entertainment for girls. That prejudice matters, because when serious women writers arrived in large numbers at the end of the 1970s, many critics read them through the same lens."
+        },
+        {
+          "type": "p",
+          "text": "Two other forces were moving underneath. One was the women's movement. In 1971 Annette Lu (呂秀蓮) began publishing essays on what she called new feminism (新女性主義), and in 1976 she and Shih Shu-ching were among the founders of the Pioneer Press (拓荒者出版社), the first publishing house run entirely by women. The secret police harassed it until it stopped in 1977, and Lu was jailed after the Kaohsiung Incident of 1979. The other force was money. Taiwan's economy was growing fast, women were entering offices and universities, and the two great newspapers, the United Daily News (聯合報) and the China Times (中國時報), had become powerful cultural institutions with daily literary supplements read by millions."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "How newspaper prizes made a generation, and what 'boudoir literature' meant",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The key institution of this period was the newspaper literary prize. The United Daily News started its short-story prize in 1976, and in 1979 added novellas and novels. The China Times Literary Award followed in 1978, run by the editor 高信疆, who had also invented reportage literature as a newspaper genre. Winning stories were printed in the supplements, collected in annual anthologies by publishers such as 爾雅 and 洪範, and often bought by film and television producers. A young woman with no connections could become a national name in a single season."
+        },
+        {
+          "type": "p",
+          "text": "Between about 1979 and 1984 women won these prizes again and again. Yuan Chiung-chiung, Liao Hui-ying, Hsiao Li-hung, Su Wei-chen, Chu T'ien-wen, Chu T'ien-hsin and Li Ang were all prize winners, and their books sold well. The wave was so obvious that journalists and critics gave it a name: 閨秀文學, which can be translated as 'boudoir literature' or 'the literature of well-bred young ladies'. The word 閨秀 refers to a daughter of a good family who stays in the inner rooms of the house."
+        },
+        {
+          "type": "p",
+          "text": "The label was partly descriptive and partly a put-down. It suggested that these writers came from comfortable homes, wrote about love, marriage and family rather than politics or class, and wrote in a polished, lyrical style. Some of that was true of some writers. But the label lumped together very different people and hid what many of the stories were actually doing, which was looking hard at what marriage, money and family did to women in a society that was changing faster than its rules."
+        },
+        {
+          "type": "p",
+          "text": "It helps to sort the writing of this period into a few kinds:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Stories of the new urban woman. Yuan Chiung-chiung's 自己的天空 ('A Sky of One's Own', 1980) follows a wife whose husband leaves her; she gets a job, makes her own decisions and finds she does not want him back. The title deliberately echoes Virginia Woolf's A Room of One's Own. Liao Hui-ying's 不歸路 (1983) shows an ordinary office worker drawn into years as a married man's mistress.",
+            "Family sagas about mothers and daughters. Liao Hui-ying's 油麻菜籽 (1982) takes its title from a Taiwanese saying that a daughter is like a rapeseed, which grows wherever it is scattered, meaning a girl's fate depends on whom she marries. Hsiao Li-hung's 桂花巷 and 千江有水千江月 (1980) are slow, lyrical novels of small-town southern Taiwan and old Chinese customs.",
+            "Lyrical stories of love and loss shaped by Eileen Chang. Su Wei-chen's 陪他一段 (1979) and 紅顏已老 are cool, precise accounts of women who give everything to love. The critic David Der-wei Wang (王德威) later described her as having the essence of Eileen Chang, writing hot passion with a cold pen.",
+            "Fiction that broke taboos about sex and violence. Li Ang's The Butcher's Wife (1983) is the most famous example, and the one that made the 'boudoir' label impossible to maintain."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The influence of Eileen Chang (張愛玲) runs through much of this writing. Chang had become famous in Japanese-occupied Shanghai in the 1940s with sharp, ironic stories about women, money and marriage, and after she was rediscovered in the late 1960s she became a model for Taiwanese writers. The Chu sisters were connected to her twice over: their father, the novelist Chu Hsi-ning (朱西甯), admired her deeply, and her former husband Hu Lancheng (胡蘭成) lived next door to the family in the 1970s and tutored the daughters."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "The writers",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Li Ang (李昂), born Shih Shu-tuan in Lukang in 1952, is the central figure of this lesson. She studied philosophy at the Chinese Culture College (now Chinese Culture University) and drama at the University of Oregon, then returned to Taiwan to teach at her old university. She has said that her feminist ideas in the 1970s came from Annette Lu and from the writer Yang Mei-hui (楊美惠). After The Butcher's Wife she went on to write about politics and national identity, most famously in The Lost Garden (迷園), and in 1997 published 北港香爐人人插, a story collection about women in the opposition movement that caused a scandal because readers believed one story was about a real politician. In 2004 France made her a Chevalier of the Order of Arts and Letters."
+        },
+        {
+          "type": "p",
+          "text": "Liao Hui-ying (廖輝英), born in 1948 in Fengyuan, Taichung, studied Chinese literature at National Taiwan University and worked as an advertising copywriter at the China Times before her fiction began winning prizes. She wrote about the lives of women on the lower rungs of a booming economy: daughters expected to sacrifice for brothers, office workers, mistresses. Many of her books became films or television dramas, and she later became a widely read columnist and adviser on love and marriage."
+        },
+        {
+          "type": "p",
+          "text": "Yuan Chiung-chiung (袁瓊瓊), born in Hsinchu in 1950, never went to university and wrote poetry under the pen name 朱陵 before turning to fiction. 'A Sky of One's Own' won the United Daily News first prize in 1980, and she went on to write television drama as well as fiction and essays. Hsiao Li-hung (蕭麗紅), born in Chiayi County in 1950, is the most classical of the group; her novels are full of old customs, Buddhist ideas and Chinese poetry, and 桂花巷 was made into a film."
+        },
+        {
+          "type": "p",
+          "text": "Su Wei-chen (蘇偉貞), born in 1954 in Tainan, grew up in a military dependants' village (眷村), studied drama at the army's Political Warfare Cadres Academy and worked for the Ministry of Defence's arts troupe before becoming a newspaper editor. Later she earned a doctorate from the University of Hong Kong and became a professor at National Cheng Kung University. Her 1994 novel 沉默之島 received a jury award at the first China Times Million Dollar Novel Prize, the same competition that Chu T'ien-wen won."
+        },
+        {
+          "type": "p",
+          "text": "Chu T'ien-wen (朱天文), born in 1956, and Chu T'ien-hsin (朱天心), born in 1958, are daughters of the novelist Chu Hsi-ning and the translator Liu Mu-sha (劉慕沙). Their early work, including Chu T'ien-hsin's memoir 擊壤歌 (1977), was exactly what critics meant by boudoir literature: pure, romantic, centred on school and family. Both changed. Chu T'ien-wen became the screenwriter for most of Hou Hsiao-hsien's films, from The Boys from Fengkuei to A City of Sadness, and her 1994 novel Notes of a Desolate Man is narrated by a gay man mourning a friend who has died of AIDS. Chu T'ien-hsin turned to political and memory writing in the late 1980s, including 想我眷村的兄弟們 about the military villages and The Old Capital (古都)."
+        },
+        {
+          "type": "p",
+          "text": "Ping Lu (平路), born in Kaohsiung in 1953, became known as a novelist and cultural critic who writes about history, power and gender. Qiu Miaojin (邱妙津), born in Changhua in 1969, belongs to the next generation. She studied psychology at National Taiwan University, worked as a reporter for the magazine 新新聞, and in 1994 moved to Paris to study clinical psychology and feminism at the University of Paris VIII, where she studied with Hélène Cixous. Her Notes of a Crocodile (1994) and Last Words from Montmartre (1996) became founding texts of lesbian writing in Chinese."
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "Deep dive",
+      "title": "The Butcher's Wife (殺夫, 1983)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Butcher's Wife was originally titled 婦人殺夫, 'A woman kills her husband'. It is set in Lucheng (鹿城), a fictional town modelled on Li Ang's own Lukang, in an unspecified past that readers usually place in the early twentieth century. The heroine, Lin Shi (林市), is an orphan. When she was a child, her starving mother was caught having sex with a soldier in exchange for food and was punished by the clan, and Lin Shi never saw her again. Her uncle marries her off to Chen Jiangshui (陳江水), a pig butcher, in exchange for a regular supply of pork."
+        },
+        {
+          "type": "p",
+          "text": "The novella describes her marriage in direct physical detail. Chen Jiangshui rapes her, starves her when she resists, and enjoys her screams. The slaughterhouse where he works is described with the same unflinching attention as the bedroom, so that the killing of pigs and the treatment of Lin Shi echo each other. Around her, the women of the neighbourhood, led by an old widow named Auntie Ah Wang (阿罔官), gossip, judge and watch, enforcing the rules that keep her trapped rather than helping her. In the end, half mad from hunger and fear, Lin Shi kills her husband with his own butcher's knife and cuts up his body as he would cut up a pig."
+        },
+        {
+          "type": "p",
+          "text": "Li Ang based the story on a real crime from 1945 Shanghai, the case of 詹周氏, a woman who killed her violent, gambling husband with a kitchen knife and dismembered the body. The Shanghai papers of the time portrayed her as a depraved woman with a secret lover; others argued she had been driven to it. Li Ang moved the story to rural Taiwan and kept the central question: what does a society do to a woman before she does something terrible, and who is responsible?"
+        },
+        {
+          "type": "p",
+          "text": "When the novella won the United Daily News novella prize and was serialised in the paper from 22 September 1983, it caused a storm. Some readers and critics called it pornographic and disgusting, and attacks on Li Ang's character followed her for years. Others saw it as the first Taiwanese novel to show domestic violence, marital rape and the economic dependence of women without softening any of it. It was published as a book by Linking Publishing in November 1983, filmed in 1984 by Tseng Chuang-hsiang as The Woman of Wrath, and translated into English by Howard Goldblatt and Ellen Yeung as The Butcher's Wife. It has since appeared in many languages."
+        },
+        {
+          "type": "p",
+          "text": "It is worth connecting this to the feminism lessons on this site. Taiwan had no law against domestic violence in 1983. The Domestic Violence Prevention Act came only in 1998, after years of campaigning by groups such as the Awakening Foundation and the Garden of Hope. When people say literature can make a problem visible before the law catches up, The Butcher's Wife is one of the clearest Taiwanese examples. The writer and editor 李敬澤 and the novelist 徐坤 have also argued that the novella shook mainland Chinese writers when it reached them in the 1980s, and influenced women writers there such as Tie Ning (鐵凝), Zhang Jie (張潔) and Lin Bai (林白)."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "The crocodile who invented a word",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By the early 1990s martial law was gone, the women's movement was openly campaigning, and a new generation of writers was taking on subjects that had been unthinkable a decade earlier. In 1994 two books about gay and lesbian lives appeared in the same year."
+        },
+        {
+          "type": "p",
+          "text": "The first was Chu T'ien-wen's Notes of a Desolate Man. Its narrator, Xiao Shao (小韶), a forty-year-old gay man, travels to Japan for the funeral of his childhood friend Ah Yao (阿堯), who has died of complications from AIDS. Looking back on his lovers, he writes a dense, meditative notebook about desire, aging and death. That a writer once filed under boudoir literature wrote it, and that it won the very first China Times Million Dollar Novel Prize, said a great deal about how far the field had travelled."
+        },
+        {
+          "type": "p",
+          "text": "The second was Qiu Miaojin's Notes of a Crocodile. It is narrated by a student called Lazi (拉子) at National Taiwan University in the late 1980s, who falls painfully in love with another young woman and cannot accept herself. Between the chapters runs a comic fable about a crocodile who has to wear a human suit to pass in society, watched by journalists and television presenters who are obsessed with finding out what crocodiles are. Readers understood the crocodile at once as a lesbian hiding inside a straight world."
+        },
+        {
+          "type": "p",
+          "text": "The book won a China Times recommendation award and became a cult classic. In 1995 Qiu took her own life in Paris at the age of 26, and Last Words from Montmartre, written in letters to a former lover, appeared the following year. Her work was translated into English by Bonnie Huie and Ari Larissa Heinrich, and is now read and taught far beyond Taiwan."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What was happening elsewhere at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Taiwan's women writers were part of a wider moment in which women's fiction around the world became angrier, more experimental and more widely read."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mainland China. After the Cultural Revolution, Zhang Jie's 1979 story 愛，是不能忘記的 ('Love Must Not Be Forgotten') caused a debate by arguing that a woman should not marry without love. Through the 1980s Wang Anyi (王安憶) wrote frank novellas about desire, and Tie Ning (鐵凝) and later Lin Bai (林白) pushed further into women's bodies and private lives.",
+            "Japan. In 1987 Banana Yoshimoto (吉本ばなな) won the Kaien newcomer prize with Kitchen, published as a book in 1988, a soft, strange story about grief and found family that became a bestseller across Asia, including in Taiwanese translation.",
+            "North America. Margaret Atwood published The Handmaid's Tale in 1985, a novel about a state that controls women's bodies. Toni Morrison published Beloved in 1987, about a formerly enslaved woman who kills her daughter rather than let her be taken back into slavery, and won the Pulitzer Prize for it in 1988. Like The Butcher's Wife, Beloved builds its story around an act of violence by a woman and asks what made it happen.",
+            "Britain. Angela Carter's The Bloody Chamber (1979) rewrote fairy tales such as Bluebeard from the woman's side, and Jeanette Winterson's Oranges Are Not the Only Fruit (1985) told a lesbian coming-of-age story, nine years before Notes of a Crocodile."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "What makes Taiwan's case distinctive is the speed of the change and its tie to politics. In roughly fifteen years the island went from martial law to open elections, and its women writers went from being praised for lyrical love stories to writing about marital rape, political scandal and AIDS. The same years produced Taiwan New Cinema, and the two worlds were closely connected: Chu T'ien-wen wrote for Hou Hsiao-hsien, Liao Hui-ying co-wrote Ah Fei, and many of these novels reached most of their audience as films."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Afterwards",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the 1990s and 2000s the writers of this generation turned increasingly to history and national identity. Shih Shu-ching wrote a Hong Kong trilogy about a Cantonese prostitute and her descendants under British rule, and then a Taiwan trilogy beginning with 行過洛津, set in old Lukang; she received Taiwan's National Award for Arts in 2008. Li Ang wrote 自傳の小說 about the communist revolutionary Hsieh Hsueh-hung (謝雪紅) and later turned to food, travel and folk religion. Chu T'ien-wen received the Newman Prize for Chinese Literature in 2015."
+        },
+        {
+          "type": "p",
+          "text": "Qiu Miaojin's words outlived her. The slang terms in Notes of a Crocodile entered everyday language: 拉子 became a common self-description for lesbians in Taiwan, and the related word 拉拉 spread to Hong Kong and mainland China. Taiwan's tongzhi literature (同志文學) of the 1990s, by writers such as Chi Ta-wei (紀大偉) and Hung Ling (洪凌), built on her and on Chu T'ien-wen."
+        },
+        {
+          "type": "p",
+          "text": "The label boudoir literature has faded. Literary historians now usually describe this period as the rise of Taiwanese women's literature (女性文學), and The Butcher's Wife is taught as a classic of feminist fiction in Chinese. For anyone thinking about women's organisations in Taiwan today, these books are a useful record of what ordinary women's lives looked like before the laws on domestic violence, sexual assault and gender equality were written."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Critics once filed these writers under 'boudoir literature', a label that made their work sound small and private. Yet the private subjects they wrote about, such as marriage, violence at home, money and desire, turned out to be political issues that later shaped Taiwan's laws. Do labels like 'women's fiction' or 'chick lit' still shrink serious work today? Which recent book or film would you defend against a label like that, and what would you say?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "殺夫 (小說) (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%AE%BA%E5%A4%AB_(%E5%B0%8F%E8%AA%AA)",
+      "note": "The novella's background, the 1945 Shanghai case behind it, its prize and publication."
+    },
+    {
+      "title": "李昂 (作家) (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%98%82_(%E4%BD%9C%E5%AE%B6)",
+      "note": "Li Ang's life, the phases of her writing and how critics have judged her."
+    },
+    {
+      "title": "醬園弄殺夫案 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%86%AC%E5%9C%92%E5%BC%84%E6%AE%BA%E5%A4%AB%E6%A1%88",
+      "note": "The real 1945 Shanghai murder case that inspired The Butcher's Wife."
+    },
+    {
+      "title": "廖輝英 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BB%96%E8%BC%9D%E8%8B%B1",
+      "note": "Liao Hui-ying's novels, prizes and film adaptations."
+    },
+    {
+      "title": "袁瓊瓊 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E8%A2%81%E7%93%8A%E7%93%8A",
+      "note": "A year-by-year record of Yuan Chiung-chiung's writing and prizes."
+    },
+    {
+      "title": "Notes of a Desolate Man (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Notes_of_a_Desolate_Man",
+      "note": "Chu T'ien-wen's 1994 novel, its characters and its prize."
+    },
+    {
+      "title": "Qiu Miaojin (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Qiu_Miaojin",
+      "note": "Qiu's life, her two novels and her influence on lesbian writing in Chinese."
+    },
+    {
+      "title": "鱷魚手記 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%B1%B7%E9%AD%9A%E6%89%8B%E8%A8%98",
+      "note": "Notes of a Crocodile and the slang it gave Taiwan."
+    },
+    {
+      "title": "三三集刊 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B8%89%E9%9B%86%E5%88%8A",
+      "note": "The Chu sisters' literary circle and the influence of Eileen Chang and Hu Lancheng."
+    },
+    {
+      "title": "時報文學獎 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%99%82%E5%A0%B1%E6%96%87%E5%AD%B8%E7%8D%8E",
+      "note": "How the China Times prize worked and who won it."
+    }
+  ],
+  "listen": [],
+  "watch": [
+    {
+      "title": "醬園弄殺夫案, adaptations section (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%86%AC%E5%9C%92%E5%BC%84%E6%AE%BA%E5%A4%AB%E6%A1%88",
+      "note": "Tseng Chuang-hsiang's film of the novella, starring 夏文汐; the case article lists it with later adaptations."
+    }
+  ],
+  "fun_fact": {
+    "title": "A crocodile gave Chinese a word for lesbian",
+    "text": "Before Notes of a Crocodile, the usual word was the clinical-sounding 女同性戀者. Qiu Miaojin's narrator is called Lazi (拉子), and after the novel became a cult book in 1994, lesbians in Taiwan began calling themselves 拉子, and even 鱷魚. The shortened form 拉拉 then spread to Hong Kong and mainland China, where it is now the everyday word. A nickname in a student novel became the self-chosen name of a community across the Chinese-speaking world."
+  },
+  "glossary": [
+    {
+      "term": "boudoir literature",
+      "aliases": [
+        "閨秀文學"
+      ],
+      "explain": "閨秀文學, a loose label used by critics and journalists in late-1970s and 1980s Taiwan for prize-winning fiction by young women, suggesting genteel, lyrical writing about love and family. It was often meant dismissively."
+    },
+    {
+      "term": "Li Ang",
+      "aliases": [
+        "李昂"
+      ],
+      "explain": "Pen name of Shih Shu-tuan (施淑端, born 1952 in Lukang), Taiwanese novelist best known for The Butcher's Wife (1983) and The Lost Garden."
+    },
+    {
+      "term": "The Butcher's Wife",
+      "aliases": [
+        "殺夫",
+        "婦人殺夫"
+      ],
+      "explain": "殺夫 (1983), Li Ang's novella about an orphan married to a violent pig butcher whom she finally kills. It won the United Daily News novella first prize. English translation by Howard Goldblatt and Ellen Yeung."
+    },
+    {
+      "term": "The Lost Garden",
+      "aliases": [
+        "迷園"
+      ],
+      "explain": "迷園, Li Ang's novel of the early 1990s about a Lukang family garden, a woman's love affair and Taiwanese identity."
+    },
+    {
+      "term": "Shih Shu-ching",
+      "aliases": [
+        "施叔青"
+      ],
+      "explain": "施叔青 (born 1945 in Lukang), Taiwanese novelist, Li Ang's elder sister, co-founder of the Pioneer Press, author of the Hong Kong and Taiwan trilogies."
+    },
+    {
+      "term": "Lukang",
+      "aliases": [
+        "鹿港"
+      ],
+      "explain": "鹿港, an old port town in Changhua County, home of the Shih sisters and model for the fictional town of Lucheng."
+    },
+    {
+      "term": "Lucheng",
+      "aliases": [
+        "鹿城"
+      ],
+      "explain": "鹿城, the fictional town in The Butcher's Wife, modelled on Lukang."
+    },
+    {
+      "term": "Lin Shi",
+      "aliases": [
+        "林市"
+      ],
+      "explain": "林市, the orphan heroine of The Butcher's Wife."
+    },
+    {
+      "term": "Chen Jiangshui",
+      "aliases": [
+        "陳江水"
+      ],
+      "explain": "陳江水, the pig butcher who marries and abuses Lin Shi in The Butcher's Wife."
+    },
+    {
+      "term": "Auntie Ah Wang",
+      "aliases": [
+        "阿罔官"
+      ],
+      "explain": "阿罔官, the gossiping widow neighbour in The Butcher's Wife who polices the other women."
+    },
+    {
+      "term": "詹周氏",
+      "aliases": [
+        "醬園弄殺夫案"
+      ],
+      "explain": "Zhan Zhou Shi, a Shanghai woman who killed her abusive husband in March 1945; her case, known as the 醬園弄 case, inspired The Butcher's Wife. Her death sentence was later reduced to fifteen years in prison."
+    },
+    {
+      "term": "Liao Hui-ying",
+      "aliases": [
+        "廖輝英"
+      ],
+      "explain": "廖輝英 (born 1948 in Fengyuan), Taiwanese novelist and former copywriter, author of 油麻菜籽 and 不歸路."
+    },
+    {
+      "term": "油麻菜籽",
+      "aliases": [
+        "Rapeseed"
+      ],
+      "explain": "'Rapeseed' (1982), Liao Hui-ying's story of a daughter's upbringing, named after the saying that a girl's fate is like a scattered rapeseed. Fifth China Times Literary Award first prize; filmed as Ah Fei (1984)."
+    },
+    {
+      "term": "不歸路",
+      "aliases": [],
+      "explain": "Liao Hui-ying's 1983 novella about a young woman who becomes a married man's long-term mistress; filmed in 1984."
+    },
+    {
+      "term": "Yuan Chiung-chiung",
+      "aliases": [
+        "袁瓊瓊"
+      ],
+      "explain": "袁瓊瓊 (born 1950 in Hsinchu), Taiwanese fiction writer, poet (as 朱陵) and television writer."
+    },
+    {
+      "term": "A Sky of One's Own",
+      "aliases": [
+        "自己的天空"
+      ],
+      "explain": "自己的天空 (1980), Yuan Chiung-chiung's prize-winning story about a deserted wife who builds an independent life."
+    },
+    {
+      "term": "Hsiao Li-hung",
+      "aliases": [
+        "蕭麗紅"
+      ],
+      "explain": "蕭麗紅 (born 1950 in Chiayi County), novelist of lyrical, classical family sagas such as 桂花巷 and 千江有水千江月."
+    },
+    {
+      "term": "千江有水千江月",
+      "aliases": [],
+      "explain": "Hsiao Li-hung's 1980 novel of small-town southern Taiwan, which won a United Daily News novel prize."
+    },
+    {
+      "term": "桂花巷",
+      "aliases": [],
+      "explain": "'Osmanthus Alley', Hsiao Li-hung's novel about a woman's life in an old Taiwanese family, later filmed."
+    },
+    {
+      "term": "Su Wei-chen",
+      "aliases": [
+        "蘇偉貞"
+      ],
+      "explain": "蘇偉貞 (born 1954 in Tainan), novelist from a military dependants' village, author of 陪他一段, 紅顏已老 and 沉默之島."
+    },
+    {
+      "term": "陪他一段",
+      "aliases": [],
+      "explain": "'Stay With Him for a While' (1979), Su Wei-chen's breakthrough story about a woman's total devotion to a love affair."
+    },
+    {
+      "term": "紅顏已老",
+      "aliases": [],
+      "explain": "A novel by Su Wei-chen about love and aging, cited by David Der-wei Wang as showing Eileen Chang's influence."
+    },
+    {
+      "term": "沉默之島",
+      "aliases": [],
+      "explain": "'Island of Silence' (1994), Su Wei-chen's novel that won a jury award at the first China Times Million Dollar Novel Prize."
+    },
+    {
+      "term": "Chu T'ien-wen",
+      "aliases": [
+        "朱天文"
+      ],
+      "explain": "朱天文 (born 1956), Taiwanese novelist and screenwriter for most of Hou Hsiao-hsien's films; author of Notes of a Desolate Man; 2015 Newman Prize winner."
+    },
+    {
+      "term": "Chu T'ien-hsin",
+      "aliases": [
+        "朱天心"
+      ],
+      "explain": "朱天心 (born 1958), Taiwanese novelist, author of 擊壤歌, 想我眷村的兄弟們 and The Old Capital."
+    },
+    {
+      "term": "擊壤歌",
+      "aliases": [],
+      "explain": "Chu T'ien-hsin's 1977 prose memoir of her years at Taipei First Girls' High School, a bestseller among young readers."
+    },
+    {
+      "term": "想我眷村的兄弟們",
+      "aliases": [],
+      "explain": "'Remembering My Brothers in the Military Village', Chu T'ien-hsin's fiction about the military dependants' villages and the identity of mainlander families."
+    },
+    {
+      "term": "The Old Capital",
+      "aliases": [
+        "古都"
+      ],
+      "explain": "古都, Chu T'ien-hsin's novel of memory and place in Taipei and Kyoto, translated by Howard Goldblatt."
+    },
+    {
+      "term": "Chu Hsi-ning",
+      "aliases": [
+        "朱西甯"
+      ],
+      "explain": "朱西甯, novelist and army officer, father of Chu T'ien-wen and Chu T'ien-hsin."
+    },
+    {
+      "term": "Liu Mu-sha",
+      "aliases": [
+        "劉慕沙"
+      ],
+      "explain": "劉慕沙, translator from Japanese and mother of the Chu sisters."
+    },
+    {
+      "term": "The Threes",
+      "aliases": [
+        "三三集刊"
+      ],
+      "explain": "三三集刊 (1977–1981), the literary journal of the Chu sisters and friends, influenced by Eileen Chang and Hu Lancheng."
+    },
+    {
+      "term": "Hu Lancheng",
+      "aliases": [
+        "胡蘭成"
+      ],
+      "explain": "胡蘭成, writer and former official of the Japanese-backed Wang Jingwei government, Eileen Chang's former husband, who tutored the Chu sisters in the 1970s."
+    },
+    {
+      "term": "Eileen Chang",
+      "aliases": [
+        "張愛玲"
+      ],
+      "explain": "張愛玲 (1920–1995), Shanghai-born writer of ironic stories about women, love and money, whose style shaped generations of Taiwanese writers."
+    },
+    {
+      "term": "Notes of a Desolate Man",
+      "aliases": [
+        "荒人手記"
+      ],
+      "explain": "荒人手記 (1994), Chu T'ien-wen's novel narrated by a gay man mourning a friend who died of AIDS; winner of the first China Times Million Dollar Novel Prize."
+    },
+    {
+      "term": "Xiao Shao",
+      "aliases": [
+        "小韶"
+      ],
+      "explain": "小韶, the gay narrator of Notes of a Desolate Man."
+    },
+    {
+      "term": "Ah Yao",
+      "aliases": [
+        "阿堯"
+      ],
+      "explain": "阿堯, the narrator's childhood friend in Notes of a Desolate Man, who dies of AIDS in Japan."
+    },
+    {
+      "term": "Qiu Miaojin",
+      "aliases": [
+        "邱妙津"
+      ],
+      "explain": "邱妙津 (1969–1995), Taiwanese novelist from Changhua, author of Notes of a Crocodile and Last Words from Montmartre."
+    },
+    {
+      "term": "Notes of a Crocodile",
+      "aliases": [
+        "鱷魚手記"
+      ],
+      "explain": "鱷魚手記 (1994), Qiu Miaojin's lesbian campus novel, translated into English by Bonnie Huie."
+    },
+    {
+      "term": "Last Words from Montmartre",
+      "aliases": [
+        "蒙馬特遺書"
+      ],
+      "explain": "蒙馬特遺書 (1996), Qiu Miaojin's posthumous novel in letters, translated into English by Ari Larissa Heinrich."
+    },
+    {
+      "term": "Lazi",
+      "aliases": [
+        "拉子"
+      ],
+      "explain": "拉子, the narrator's nickname in Notes of a Crocodile, which became a Taiwanese self-description for lesbians."
+    },
+    {
+      "term": "拉拉",
+      "aliases": [],
+      "explain": "A shortened form of 拉子 that became the common word for lesbian in Hong Kong and mainland China."
+    },
+    {
+      "term": "Ping Lu",
+      "aliases": [
+        "平路"
+      ],
+      "explain": "平路 (born 1953 in Kaohsiung), Taiwanese novelist and critic who writes about history, power and gender."
+    },
+    {
+      "term": "Annette Lu",
+      "aliases": [
+        "呂秀蓮"
+      ],
+      "explain": "呂秀蓮, founder of Taiwan's 1970s new feminism movement, later Vice President."
+    },
+    {
+      "term": "new feminism",
+      "aliases": [
+        "新女性主義"
+      ],
+      "explain": "新女性主義, Annette Lu's 1970s programme for women's equality in Taiwan, which stressed being a person first and a woman second."
+    },
+    {
+      "term": "Pioneer Press",
+      "aliases": [
+        "拓荒者出版社"
+      ],
+      "explain": "拓荒者出版社 (1976–1977), a feminist publishing house run entirely by women, closed after harassment by the security services."
+    },
+    {
+      "term": "Yang Mei-hui",
+      "aliases": [
+        "楊美惠"
+      ],
+      "explain": "楊美惠, writer named by Li Ang, with Annette Lu, as a source of her early feminist ideas."
+    },
+    {
+      "term": "United Daily News",
+      "aliases": [
+        "聯合報"
+      ],
+      "explain": "聯合報, one of Taiwan's two dominant newspapers, whose fiction prize began in 1976."
+    },
+    {
+      "term": "China Times",
+      "aliases": [
+        "中國時報"
+      ],
+      "explain": "中國時報, Taiwan's other dominant newspaper; its literary supplement 人間 launched the China Times Literary Award in 1978."
+    },
+    {
+      "term": "China Times Million Dollar Novel Prize",
+      "aliases": [
+        "時報百萬小說獎"
+      ],
+      "explain": "時報百萬小說獎, a large novel prize first awarded in 1994, to Chu T'ien-wen."
+    },
+    {
+      "term": "高信疆",
+      "aliases": [],
+      "explain": "Editor of the China Times literary supplement who founded its literary award and promoted reportage literature."
+    },
+    {
+      "term": "reportage literature",
+      "aliases": [
+        "報導文學"
+      ],
+      "explain": "報導文學, non-fiction writing about real social conditions, promoted as a genre by Taiwan's newspaper supplements in the 1970s."
+    },
+    {
+      "term": "Linking Publishing",
+      "aliases": [
+        "聯經"
+      ],
+      "explain": "聯經出版, the publishing arm of the United Daily News group, which published The Butcher's Wife."
+    },
+    {
+      "term": "Modern Literature",
+      "aliases": [
+        "現代文學"
+      ],
+      "explain": "現代文學, the modernist journal founded in 1960 by Pai Hsien-yung and fellow students at National Taiwan University."
+    },
+    {
+      "term": "Pai Hsien-yung",
+      "aliases": [
+        "白先勇"
+      ],
+      "explain": "白先勇 (born 1937), Taiwanese modernist writer, author of Taipei People and Crystal Boys."
+    },
+    {
+      "term": "文學季刊",
+      "aliases": [],
+      "explain": "The literary quarterly founded in 1966 by Chen Ying-chen, Huang Chun-ming, Shih Shu-ching and others."
+    },
+    {
+      "term": "Chiung Yao",
+      "aliases": [
+        "瓊瑤"
+      ],
+      "explain": "瓊瑤 (1938–2024), the best-selling Taiwanese romance novelist whose books became many films and TV series."
+    },
+    {
+      "term": "martial law",
+      "aliases": [],
+      "explain": "The emergency rule in force in Taiwan from 1949 to 15 July 1987, which restricted speech, assembly and publishing."
+    },
+    {
+      "term": "Kaohsiung Incident",
+      "aliases": [],
+      "explain": "The December 1979 pro-democracy demonstration in Kaohsiung and the arrests that followed, including Annette Lu."
+    },
+    {
+      "term": "military dependants' village",
+      "aliases": [
+        "眷村"
+      ],
+      "explain": "眷村, housing compounds built for soldiers who came from mainland China with the Kuomintang and their families."
+    },
+    {
+      "term": "Howard Goldblatt",
+      "aliases": [],
+      "explain": "American translator of modern Chinese fiction, including The Butcher's Wife (with Ellen Yeung) and Notes of a Desolate Man."
+    },
+    {
+      "term": "Bonnie Huie",
+      "aliases": [],
+      "explain": "Translator of Notes of a Crocodile into English."
+    },
+    {
+      "term": "Ari Larissa Heinrich",
+      "aliases": [],
+      "explain": "Scholar and translator of Last Words from Montmartre into English."
+    },
+    {
+      "term": "Hélène Cixous",
+      "aliases": [],
+      "explain": "French feminist writer and philosopher who taught at the University of Paris VIII."
+    },
+    {
+      "term": "David Der-wei Wang",
+      "aliases": [
+        "王德威"
+      ],
+      "explain": "王德威, literary historian of modern Chinese fiction."
+    },
+    {
+      "term": "Tseng Chuang-hsiang",
+      "aliases": [
+        "曾壯祥"
+      ],
+      "explain": "曾壯祥, Taiwan New Cinema director who filmed The Woman of Wrath (殺夫, 1984)."
+    },
+    {
+      "term": "The Woman of Wrath",
+      "aliases": [],
+      "explain": "The 1984 film of The Butcher's Wife, directed by Tseng Chuang-hsiang."
+    },
+    {
+      "term": "Wan Jen",
+      "aliases": [
+        "萬仁"
+      ],
+      "explain": "萬仁, Taiwan New Cinema director of Ah Fei (油麻菜籽, 1984)."
+    },
+    {
+      "term": "Ah Fei",
+      "aliases": [],
+      "explain": "The 1984 film of 油麻菜籽, directed by Wan Jen and co-written by Hou Hsiao-hsien and Liao Hui-ying."
+    },
+    {
+      "term": "Hou Hsiao-hsien",
+      "aliases": [
+        "侯孝賢"
+      ],
+      "explain": "侯孝賢, Taiwan New Cinema director, longtime collaborator of Chu T'ien-wen."
+    },
+    {
+      "term": "A City of Sadness",
+      "aliases": [
+        "悲情城市"
+      ],
+      "explain": "悲情城市 (1989), Hou Hsiao-hsien's film about the February 28 incident, written with Chu T'ien-wen."
+    },
+    {
+      "term": "Domestic Violence Prevention Act",
+      "aliases": [],
+      "explain": "家庭暴力防治法, Taiwan's 1998 law on domestic violence, passed after years of campaigning by women's groups."
+    },
+    {
+      "term": "Zhang Jie",
+      "aliases": [
+        "張潔"
+      ],
+      "explain": "張潔 (1937–2022), mainland Chinese writer of 'Love Must Not Be Forgotten' (1979)."
+    },
+    {
+      "term": "Love Must Not Be Forgotten",
+      "aliases": [
+        "愛，是不能忘記的"
+      ],
+      "explain": "愛，是不能忘記的, Zhang Jie's 1979 story arguing that marriage without love is wrong."
+    },
+    {
+      "term": "Wang Anyi",
+      "aliases": [
+        "王安憶"
+      ],
+      "explain": "王安憶, Shanghai novelist known for frank 1980s novellas about desire."
+    },
+    {
+      "term": "Tie Ning",
+      "aliases": [
+        "鐵凝"
+      ],
+      "explain": "鐵凝, mainland Chinese novelist, later chair of the Chinese Writers Association."
+    },
+    {
+      "term": "Lin Bai",
+      "aliases": [
+        "林白"
+      ],
+      "explain": "林白, mainland Chinese novelist of 1990s 'private writing' about women's lives."
+    },
+    {
+      "term": "Banana Yoshimoto",
+      "aliases": [
+        "吉本ばなな"
+      ],
+      "explain": "吉本ばなな, Japanese novelist whose Kitchen became a bestseller across Asia."
+    },
+    {
+      "term": "Kitchen",
+      "aliases": [],
+      "explain": "Banana Yoshimoto's novella about grief and found family, Kaien newcomer prize 1987, book 1988."
+    },
+    {
+      "term": "Margaret Atwood",
+      "aliases": [],
+      "explain": "Canadian novelist, author of The Handmaid's Tale (1985)."
+    },
+    {
+      "term": "The Handmaid's Tale",
+      "aliases": [],
+      "explain": "Margaret Atwood's 1985 novel about a theocracy that controls women's reproduction."
+    },
+    {
+      "term": "Toni Morrison",
+      "aliases": [],
+      "explain": "American novelist, author of Beloved and Nobel laureate in 1993."
+    },
+    {
+      "term": "Beloved",
+      "aliases": [],
+      "explain": "Toni Morrison's 1987 novel about a formerly enslaved mother; Pulitzer Prize 1988."
+    },
+    {
+      "term": "Angela Carter",
+      "aliases": [],
+      "explain": "British writer whose The Bloody Chamber (1979) retold fairy tales from women's viewpoints."
+    },
+    {
+      "term": "The Bloody Chamber",
+      "aliases": [],
+      "explain": "Angela Carter's 1979 collection of rewritten fairy tales."
+    },
+    {
+      "term": "Jeanette Winterson",
+      "aliases": [],
+      "explain": "British novelist, author of Oranges Are Not the Only Fruit (1985)."
+    },
+    {
+      "term": "Oranges Are Not the Only Fruit",
+      "aliases": [],
+      "explain": "Jeanette Winterson's 1985 novel about a lesbian girl raised in an evangelical family."
+    },
+    {
+      "term": "Virginia Woolf",
+      "aliases": [],
+      "explain": "English modernist writer whose essay A Room of One's Own (1929) argued that a woman needs money and a room of her own to write."
+    },
+    {
+      "term": "tongzhi literature",
+      "aliases": [
+        "同志文學"
+      ],
+      "explain": "同志文學, Taiwanese gay and lesbian literature, which flourished from the 1990s."
+    },
+    {
+      "term": "Chi Ta-wei",
+      "aliases": [
+        "紀大偉"
+      ],
+      "explain": "紀大偉, Taiwanese writer and scholar of queer literature."
+    },
+    {
+      "term": "Hung Ling",
+      "aliases": [
+        "洪凌"
+      ],
+      "explain": "洪凌, Taiwanese writer of queer science fiction and fantasy."
+    },
+    {
+      "term": "Hsieh Hsueh-hung",
+      "aliases": [
+        "謝雪紅"
+      ],
+      "explain": "謝雪紅, Taiwanese communist revolutionary of the Japanese era, subject of Li Ang's 自傳の小說."
+    },
+    {
+      "term": "Newman Prize for Chinese Literature",
+      "aliases": [],
+      "explain": "A literary prize awarded by the University of Oklahoma; Chu T'ien-wen won it in 2015."
+    }
+  ]
+}
