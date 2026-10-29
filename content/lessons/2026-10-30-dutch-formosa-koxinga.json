@@ -1,0 +1,807 @@
+{
+  "slug": "dutch-formosa-koxinga",
+  "date": "2026-10-30",
+  "subject": "history",
+  "related": [
+    "an-lushan-rebellion",
+    "taiping-rebellion",
+    "meiji-restoration",
+    "xinhai-revolution",
+    "war-of-resistance"
+  ],
+  "title": "Dutch Formosa and Koxinga (1624–1683)",
+  "dek": "In 1624 the Dutch East India Company built a fort on a sandbar off what is now Anping in Tainan and started governing part of an island that no Chinese state had ever ruled. Thirty-eight years later a Ming loyalist general born in Japan, Zheng Chenggong, better known as Koxinga, starved that fort into surrender and turned southwestern Taiwan into the base of his own family's kingdom. Twenty-one years after that, the Qing dynasty took the island. In six decades Taiwan went from a place mostly outside any state to a corner of a global trading empire, then a Ming loyalist kingdom, then a Qing prefecture, and most of the arguments about who Taiwan belongs to still lead back to this period.",
+  "era": "1624–1683 (context: c. 1600–1720)",
+  "reading_minutes": 22,
+  "honesty": "Most of the detailed record for the Dutch years comes from the Dutch East India Company's own archives, especially the daily journals kept at Fort Zeelandia, so we see the colony mainly through the eyes of its rulers. Indigenous Formosans left almost no written record of their own from this period, apart from the later Sinckan contracts. Frederick Coyett's account of the siege was written partly to defend himself after the Company blamed him for the loss, so his version of events, including the story of a German defector, should be read with care. Sources give different day-by-day dates for the 1661 campaign, partly because Chinese records use the lunar calendar and partly because of copying errors, so this lesson gives months rather than exact days where sources disagree. Casualty figures for the 1652 uprising are estimates. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1604",
+      "label": "First Dutch visit to Penghu",
+      "detail": "A Dutch East India Company fleet under Wybrand van Warwijk stops in the Penghu (Pescadores) islands and tries, without success, to open trade with Ming China."
+    },
+    {
+      "year": "1622–1624",
+      "label": "Dutch fort on Penghu, then war",
+      "detail": "The Dutch build a fort at Makung on Penghu using forced Chinese labour. A Ming army besieges them, and in 1624 they agree to leave Penghu and move to Taiwan, which the Ming did not claim."
+    },
+    {
+      "year": "1624",
+      "label": "Fort Zeelandia begun",
+      "detail": "The Company starts building Fort Zeelandia on the Tayouan sandbar, today's Anping in Tainan. It takes about ten years to finish."
+    },
+    {
+      "year": "1626",
+      "label": "Spain in the north",
+      "detail": "Spanish forces from Manila build a fort at Keelung, and later one at Tamsui, to protect their trade with China and Japan."
+    },
+    {
+      "year": "1627",
+      "label": "First Protestant minister",
+      "detail": "Georgius Candidius arrives and begins missionary work among the Siraya people of Sinckan (today's Xinshi in Tainan)."
+    },
+    {
+      "year": "1628",
+      "label": "The Nuyts affair",
+      "detail": "The Japanese merchant Hamada Yahei takes Governor Pieter Nuyts hostage in a trade dispute, and Japan suspends Dutch trade for several years."
+    },
+    {
+      "year": "1633",
+      "label": "Battle of Liaoluo Bay",
+      "detail": "Zheng Zhilong's fleet defeats a Dutch fleet off Kinmen. Afterwards the Dutch accept that they must trade with China through Zheng's network."
+    },
+    {
+      "year": "1636",
+      "label": "Lamey Island and the school at Sinckan",
+      "detail": "Dutch forces kill or deport almost the whole population of Lamey Island (Xiaoliuqiu). In the same year a school opens at Sinckan that teaches in the Siraya language written in Latin letters."
+    },
+    {
+      "year": "1642",
+      "label": "Spain expelled",
+      "detail": "The Dutch take the Spanish fort at Keelung, ending the Spanish colony in the north."
+    },
+    {
+      "year": "1644",
+      "label": "Beijing falls",
+      "detail": "Rebels take Beijing, the last Ming emperor dies, and the Manchu Qing dynasty moves in. Ming princes set up rival courts in the south."
+    },
+    {
+      "year": "1652",
+      "label": "Guo Huaiyi uprising",
+      "detail": "Chinese farmers angry at the head tax and official extortion rise against the Dutch and are crushed by Dutch soldiers and indigenous allies. Around 4,000 Chinese are killed."
+    },
+    {
+      "year": "1659",
+      "label": "Koxinga fails at Nanjing",
+      "detail": "Zheng Chenggong's great river campaign against the Qing collapses outside Nanjing, and he begins looking for a new base."
+    },
+    {
+      "year": "1661",
+      "label": "Invasion of Taiwan",
+      "detail": "Koxinga sails from Kinmen with hundreds of ships and about 25,000 soldiers and sailors, takes Fort Provintia and besieges Fort Zeelandia."
+    },
+    {
+      "year": "1662",
+      "label": "The Dutch surrender",
+      "detail": "Governor Frederick Coyett signs the surrender on 1 February, and the Company leaves Taiwan. Koxinga dies that June, aged 37."
+    },
+    {
+      "year": "1664",
+      "label": "Tungning",
+      "detail": "Koxinga's son Zheng Jing renames the realm Tungning (東寧) and pulls his last forces off the mainland."
+    },
+    {
+      "year": "1674–1680",
+      "label": "Zheng Jing joins the Three Feudatories",
+      "detail": "Zheng Jing takes his forces back to Fujian during the Revolt of the Three Feudatories, but is driven out again."
+    },
+    {
+      "year": "1683",
+      "label": "Battle of Penghu",
+      "detail": "The Qing admiral Shi Lang defeats the Zheng fleet at Penghu. Zheng Keshuang, Koxinga's teenage grandson, surrenders."
+    },
+    {
+      "year": "1684",
+      "label": "Taiwan Prefecture",
+      "detail": "After a debate at court about abandoning the island, the Kangxi Emperor makes Taiwan a prefecture of Fujian province."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "An island on the edge of three worlds",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "At the start of the seventeenth century, Taiwan was not part of any state. Its people were Austronesian-speaking indigenous communities, among them the Siraya on the southwestern plains, the Basay in the north and many others in the mountains and along the coasts. They lived in villages that governed themselves, farmed millet and rice, and hunted the huge herds of sika deer that grazed the western plains. Chinese fishermen and traders from Fujian came every season, especially to the waters around Penghu and the southwestern coast, and Japanese and Chinese pirates and smugglers used the island's harbours. But the Ming dynasty treated Taiwan as lying outside its borders. Penghu, much closer to the mainland, was the edge of what the Ming bothered to defend."
+        },
+        {
+          "type": "p",
+          "text": "What changed was trade. China produced the silk and porcelain that the rest of the world wanted, Japan and Spanish America produced the silver that China wanted in return, and the Ming government restricted who could trade and where. The Portuguese had Macau from the 1550s, and the Spanish had Manila from 1571, where Chinese junks brought goods to exchange for Mexican silver. The Dutch arrived later, as part of their long war for independence from Spain. Their Dutch East India Company, the VOC, founded in 1602, was a private company with the power to make treaties, build forts and wage war in Asia. It wanted a share of the China trade and wanted to damage the Spanish and Portuguese while getting it."
+        },
+        {
+          "type": "p",
+          "text": "The Company's first attempts went badly. It failed to take Macau in 1622, then built a fort on Penghu with forced Chinese labour, and was besieged there by a Ming army. In 1624 the Ming offered a deal: leave Penghu, which the Ming considered its own, and go to Taiwan, which it did not. The Dutch accepted. That small decision, made by Ming officials who regarded the island as worthless, is how Taiwan entered written history as a colony."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "Why this period matters",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Historians often describe Dutch Formosa as a co-colony. The Dutch ruled, taxed and fought, but the people who actually farmed the land, grew the sugar and rice, and bought the hunting licences were mostly Chinese migrants from Fujian whom the Company encouraged to come. The historian Tonio Andrade, whose book How Taiwan Became Chinese is the standard English account, argues that Chinese settlement of Taiwan on a large scale began under Dutch rule and because of it, not in spite of it."
+        },
+        {
+          "type": "p",
+          "text": "The period also gave Taiwan its first written versions of several later arguments:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Who counts as Taiwan's ruler: a trading company, a Ming loyalist kingdom or a Chinese dynasty. Each of the three governed the island in turn within sixty years.",
+            "Who the island's first people are. The Dutch records are the earliest detailed descriptions of indigenous villages, and the Siraya written language they helped create survived for a century and a half after they left.",
+            "What Koxinga means. He is honoured in the People's Republic of China as a patriot who drove out Western colonisers, in Taiwan as a founder of Han Chinese society on the island, and in Japan as a hero born in Hirado to a Japanese mother.",
+            "How a state decides an island is worth keeping. The Ming gave it away in 1624, and the Qing nearly abandoned it in 1683."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "Merchants, missionaries, rebels and a loyalist prince",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Zheng Zhilong (鄭芝龍)",
+              "dates": "1604–1661",
+              "text": "A Fujian merchant and pirate who worked with the Dutch in Taiwan in the early 1620s, then accepted a Ming naval command in 1628 and came to dominate trade in the Taiwan Strait. He defeated the Dutch fleet at Liaoluo Bay in 1633. In 1646 he went over to the Qing, who later held him in Beijing and executed him in 1661, the year his son invaded Taiwan."
+            },
+            {
+              "name": "Zheng Chenggong / Koxinga (鄭成功)",
+              "dates": "1624–1662",
+              "text": "Born in Hirado, Japan, to Zheng Zhilong and a Japanese mother, raised there until about the age of seven, then educated in Fujian and at the Imperial Academy in Nanjing. The Longwu Emperor of the Southern Ming gave him the imperial surname, which is the source of the title Guoxingye, \"lord of the imperial surname,\" that Europeans heard as Koxinga. He refused to follow his father to the Qing, fought them along the coast for fifteen years, conquered Dutch Taiwan in 1661–1662 and died a few months later."
+            },
+            {
+              "name": "Frederick Coyett",
+              "dates": "c. 1615–1687",
+              "text": "A Swedish-born VOC official and the last Dutch governor of Formosa. He warned Batavia that Koxinga would attack and was ignored, held Fort Zeelandia for about nine months, and after the surrender was put on trial and exiled to the Banda Islands. His account of the loss, 't Verwaerloosde Formosa (Neglected Formosa), was published in 1675."
+            },
+            {
+              "name": "Pieter Nuyts",
+              "dates": "1598–1655",
+              "text": "Dutch governor of Formosa in the late 1620s, whose arrogant handling of Japanese traders led Hamada Yahei to take him hostage in 1628. The Company later handed him over to Japan to restore trade."
+            },
+            {
+              "name": "Hamada Yahei (浜田弥兵衛)",
+              "dates": "active 1620s",
+              "text": "A Japanese ship captain from Nagasaki who objected to Dutch taxes on Japanese trade at Tayouan and seized Governor Nuyts in 1628."
+            },
+            {
+              "name": "Georgius Candidius",
+              "dates": "1597–1647",
+              "text": "The first Dutch Reformed minister in Taiwan, who arrived in 1627 and lived among the Siraya of Sinckan. His description of Siraya society is one of the most important early sources on indigenous Taiwan."
+            },
+            {
+              "name": "Robertus Junius",
+              "dates": "1606–1655",
+              "text": "A missionary who expanded schools and baptisms among the Siraya in the 1630s and 1640s. His reports describe dozens of pupils learning to read and write their own language in Latin letters."
+            },
+            {
+              "name": "Guo Huaiyi (郭懷一)",
+              "dates": "1603–1652",
+              "text": "A sugarcane farmer and village leader from Quanzhou who led the 1652 uprising of Chinese settlers against Dutch taxes and was killed in its defeat."
+            },
+            {
+              "name": "Antonius Hambroek",
+              "dates": "1607–1661",
+              "text": "A Dutch missionary captured by Koxinga's army in 1661 and sent to Fort Zeelandia to demand its surrender. According to Dutch accounts he advised the garrison not to surrender, went back to Koxinga's camp anyway, and was executed."
+            },
+            {
+              "name": "He Bin (何斌)",
+              "dates": "active 1650s",
+              "text": "A Chinese interpreter and merchant who worked for the VOC, fled to Koxinga in 1659 and gave him information and a map of the Dutch defences."
+            },
+            {
+              "name": "Zheng Jing (鄭經)",
+              "dates": "1642–1681",
+              "text": "Koxinga's eldest son and successor, who ruled the kingdom from 1662 to 1681, renamed it Tungning, and invaded Fujian again during the Revolt of the Three Feudatories."
+            },
+            {
+              "name": "Chen Yonghua (陳永華)",
+              "dates": "1634–1680",
+              "text": "Zheng Jing's chief minister, who organised land settlement and government in Tungning and is credited with founding the Confucian temple in today's Tainan and a system of schools and examinations."
+            },
+            {
+              "name": "Shi Lang (施琅)",
+              "dates": "1621–1696",
+              "text": "A former Zheng naval commander who defected to the Qing after Koxinga executed his father and brother in 1651. He led the fleet that won the Battle of Penghu in 1683 and persuaded the Kangxi Emperor to keep Taiwan."
+            },
+            {
+              "name": "Zheng Keshuang (鄭克塽)",
+              "dates": "1670–1707",
+              "text": "Koxinga's grandson, placed on the throne as a boy in 1681 after a palace coup. He surrendered to the Qing in 1683 and lived out his life in Beijing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "In depth",
+      "title": "From a sandbar trading post to a Qing prefecture",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fort Zeelandia stood on Tayouan, a long sandbar separated from the main island by a shallow lagoon. Across the lagoon the Company later built Fort Provintia, at what is now the site of Chihkan Tower in Tainan, and a Chinese town grew up around the warehouses. The colony's first business was transit trade: Chinese silk bought from Fujian merchants was shipped on to Japan for silver. Its second business was the island itself. The Dutch sold licences to Chinese hunters and exported enormous numbers of deerskins to Japan, where they were used for armour and leather goods. They also encouraged Chinese farmers to settle the plains and grow rice and sugar, and taxed them heavily, above all through a head tax on every Chinese adult, which indigenous people did not pay."
+        },
+        {
+          "type": "p",
+          "text": "Dutch power over indigenous Taiwan came mostly through violence and then through alliances. In the 1630s the Company and its Siraya allies attacked villages that resisted, including Mattau and Baccluan. In 1635 they defeated the powerful village of Mattau, and in 1636 a punitive campaign on Lamey Island (today's Xiaoliuqiu), in revenge for the killing of shipwrecked Dutch sailors years before, killed or removed nearly its entire population. After that, villages across the southwest submitted. From the 1640s the Company held annual assemblies, called landdagen, at which village elders received staffs of office and swore loyalty. Missionaries worked alongside the soldiers, opening schools, translating parts of the Bible into Siraya and baptising thousands. In the north, the Spanish held Keelung and Tamsui from 1626, but Manila lost interest, and in 1642 the Dutch took the last Spanish fort."
+        },
+        {
+          "type": "p",
+          "text": "The colony depended on the Zheng family. Zheng Zhilong had worked as an interpreter for the Dutch in the early 1620s, then built a fleet and in 1628 accepted a Ming commission to suppress the pirates he had once led. When the Dutch governor Hans Putmans tried to force open the China trade by attacking Zheng's fleet in 1633, Zheng beat him at Liaoluo Bay off Kinmen. From then on, Chinese goods reached Tayouan largely on Zheng terms. When the Ming collapsed in 1644 and Zheng Zhilong surrendered to the Qing in 1646, his son Zheng Chenggong took over much of the family's ships and trading network and turned it into the most important Ming loyalist force on the coast."
+        },
+        {
+          "type": "p",
+          "text": "Inside the colony, tension grew among the Chinese settlers. Deer were overhunted, prices fell, and the head tax and the extortion of low-ranking Dutch soldiers became hard to bear. In September 1652 Guo Huaiyi led thousands of farmers armed mostly with bamboo spears against the Dutch. The uprising lasted about five days. Dutch musketeers and indigenous warriors, who had their own grievances against Chinese settlers, killed around 4,000 Chinese, perhaps a tenth of the Chinese population of the colony. The Company rebuilt Fort Provintia in brick but did little about the causes."
+        },
+        {
+          "type": "p",
+          "text": "Koxinga's war against the Qing reached its height in 1659, when he sailed up the Yangzi with a huge fleet and besieged Nanjing. A Qing counterattack routed his army, and he retreated to Xiamen and Kinmen. He needed a safer base and a source of food. The interpreter He Bin, who had fled from Tayouan, told him that Taiwan was fertile and its defences weak. In the spring of 1661 Koxinga sailed from Kinmen with hundreds of junks and about 25,000 men, stopped at Penghu, and at the end of April entered the Tayouan lagoon through the Lu'ermen channel, which the Dutch had thought too shallow for large ships. A Dutch field force that marched out to meet his troops was destroyed, and the governor of Fort Provintia surrendered within days."
+        },
+        {
+          "type": "p",
+          "text": "Fort Zeelandia was another matter. It was a modern European bastion fort, designed so that defenders could fire along every wall, and an early assault failed with heavy losses. Koxinga settled down to starve it out, and he distributed land to his soldiers to grow food. A relief fleet from Batavia arrived in the summer, but an attack in September went badly, and the Dutch lost ships and men. In the winter, morale inside the fort collapsed. According to Coyett and a Swiss soldier who served there, a German sergeant named Hans Jurgen Radis deserted and told Koxinga to attack a small redoubt on the hill overlooking the fort. Chinese records do not mention him. Whatever the reason, Koxinga's gunners took the redoubt in January 1662, and from there they could fire into the fort itself. Coyett negotiated a surrender that let the survivors leave with their personal belongings, and it was signed on 1 February 1662. Koxinga renamed the fort Anping, after his family's home town in Fujian, and called the island Dongdu, the Eastern Capital. He died that June, aged 37, while planning to attack Spanish Manila in revenge for the killing of Chinese there."
+        },
+        {
+          "type": "p",
+          "text": "His son Zheng Jing kept the state going for another two decades. He renamed it Tungning in 1664, a sign that he meant to stay rather than wait for a Ming restoration. With Chen Yonghua as chief minister, the Zheng government settled soldiers on farmland, built the Confucian temple in Tainan, and ran a trading network that reached Japan, the Philippines and Southeast Asia and even dealt with the English East India Company. The Qing answered with a brutal policy of coastal evacuation, forcing people in Fujian and Guangdong to move inland so that they could not supply the Zheng fleet. In 1674 Zheng Jing joined the Revolt of the Three Feudatories and briefly held parts of Fujian again, but he was pushed back to Taiwan by 1680 and died in 1681. A court faction then killed his chosen heir and put his young son Zheng Keshuang on the throne."
+        },
+        {
+          "type": "p",
+          "text": "Shi Lang, the former Zheng officer, had spent years urging the Qing to invade. In July 1683 his fleet defeated the Zheng navy under Liu Guoxuan at Penghu, and Zheng Keshuang surrendered without a fight on Taiwan itself. Many officials at the Qing court then argued that the island was a remote nest of pirates and should be abandoned once its Chinese population had been brought back to the mainland. Shi Lang argued in a famous memorial that giving up Taiwan would leave it to the Dutch or to new pirates and would endanger the whole southeastern coast. The Kangxi Emperor agreed, and in 1684 Taiwan became a prefecture of Fujian province, the beginning of two centuries of Qing rule."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "The Siraya contracts that outlived the Dutch",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "When Georgius Candidius arrived in Sinckan in 1627, the Siraya had no written language. The missionaries who followed him wrote Siraya down in Latin letters so that they could teach prayers and parts of the Bible, and from 1636 they ran a school in the village. In 1643 Robertus Junius reported eighty pupils at Sinckan, some of whom could already write well."
+        },
+        {
+          "type": "p",
+          "text": "The Dutch left Taiwan in 1662, but the writing stayed. For the next century and a half, Siraya, Taivoan and Makatao villagers used the script to write land leases, mortgages and sale contracts with Chinese settlers, sometimes with a Chinese translation alongside. Chinese settlers called them \"barbarian contracts\" (番仔契), and scholars today call them the Sinckan Manuscripts (新港文書). About 140 survive. The latest known one dates from 1813, more than 150 years after the last Dutch minister left."
+        },
+        {
+          "type": "p",
+          "text": "The contracts are a small, concrete record of what the larger story did to indigenous people. Many of them deal with land passing from indigenous villages to Chinese settlers, a process that began under the Dutch, sped up under the Zheng and continued under the Qing. In recent decades they have also become part of the Siraya revival in Tainan, where people descended from those villages have worked to relearn the language and to win official recognition as an indigenous people."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "The world in the age of the trading companies",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Taiwan's story in these decades was part of a much wider contest over trade, religion and dynasties."
+        },
+        {
+          "type": "list",
+          "items": [
+            "China: the Ming dynasty collapsed in 1644, and the Manchu Qing spent nearly forty years conquering the south. The fall of the Zheng in 1683 marked the end of organised Ming loyalist resistance, two years after the Qing crushed the Three Feudatories.",
+            "Japan: the Tokugawa shogunate restricted foreign contact in the 1630s, expelled the Portuguese in 1639, and in 1641 confined the Dutch to the small artificial island of Dejima in Nagasaki. Japan's demand for Chinese silk and deerskins was one of the main reasons the Dutch wanted Taiwan.",
+            "The Philippines: Spanish Manila depended on Chinese traders and craftsmen, known as Sangleys, but distrusted them. Spanish forces killed thousands of Chinese residents in 1603 and again in 1639, and fear of a third massacre was in the air when Koxinga threatened Manila in 1662.",
+            "Southeast Asia: the Dutch ran their Asian empire from Batavia (now Jakarta) on Java, which they had taken in 1619, and they took Malacca from the Portuguese in 1641, the year before they took Keelung from Spain.",
+            "Europe: the Dutch Republic was fighting for independence from Spain until the Peace of Münster in 1648, which is why Spanish and Dutch forts faced each other in northern and southern Taiwan. England was torn apart by civil war in the 1640s.",
+            "The Atlantic: the Dutch also lost a colony to a rival at almost the same moment. The Dutch West India Company surrendered New Amsterdam to the English in 1664, two years after Fort Zeelandia fell, and it became New York."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Seen next to these events, Dutch Formosa looks less like a strange episode and more like a typical seventeenth-century outpost, a fortified trading post that grew into a territorial colony. What makes it unusual is how it ended. Very few European colonies in Asia in that century were conquered outright by an Asian army, and Koxinga's victory is one of the clearest cases."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Three rulers and three memories",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Under the Qing, Chinese migration across the strait continued, despite official limits, and by the nineteenth century Han Chinese settlers far outnumbered the indigenous peoples of the western plains. Many plains indigenous groups, including the Siraya, were gradually absorbed into Chinese society and lost their languages. Fort Zeelandia was taken apart over time for its bricks, and what survives in Anping today is mostly a later rebuilding on its foundations, though part of the original outer wall still stands."
+        },
+        {
+          "type": "p",
+          "text": "Koxinga's reputation has been reshaped by every government that has ruled Taiwan. The Qing, who had fought him, eventually honoured him as a model of loyalty, and in 1875 the Qing official Shen Baozhen had an official shrine built for him in Tainan. The Japanese colonial government, which ruled Taiwan from 1895, turned the shrine into a Shinto shrine and stressed his Japanese mother. The Republic of China after 1945 presented him as a symbol of retaking the mainland from Taiwan, a parallel that Chiang Kai-shek's government found useful. The People's Republic celebrates him as a national hero who drove out Western colonisers and \"recovered\" Taiwan. Recent historians, and many people in Taiwan, pay more attention to what all of these versions leave out: the indigenous peoples who lived through Dutch, Zheng and Qing rule, and who were in most cases on the losing side of each change."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "Whose history is this?",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "The same sixty years can be told as the story of a European colony, a Chinese patriot's victory, the founding of Han Chinese Taiwan, or the loss of indigenous land and languages. Each version is built on real evidence. If you were writing the plaque at Anping Old Fort today, which of these stories would you put first, and what would you be leaving out?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Fort Zeelandia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Taiwan)",
+      "note": "The fort's construction, later history and what survives in Anping today."
+    },
+    {
+      "title": "Dutch Formosa (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Formosa",
+      "note": "Overview of the colony from 1624 to 1662."
+    },
+    {
+      "title": "Siege of Fort Zeelandia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia",
+      "note": "The 1661–1662 campaign, including indigenous involvement and the debate about the defector."
+    },
+    {
+      "title": "Koxinga (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Koxinga",
+      "note": "His life, his wars with the Qing and his later reputation."
+    },
+    {
+      "title": "Kingdom of Tungning (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tungning",
+      "note": "The Zheng state from 1662 to 1683."
+    },
+    {
+      "title": "Guo Huaiyi rebellion (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Guo_Huaiyi_rebellion",
+      "note": "The 1652 uprising of Chinese settlers."
+    },
+    {
+      "title": "Sinkang Manuscripts (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sinkang_Manuscripts",
+      "note": "The Siraya contracts written in Latin script."
+    },
+    {
+      "title": "Spanish Formosa (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Formosa",
+      "note": "The Spanish colony in the north, 1626–1642."
+    },
+    {
+      "title": "Battle of Penghu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Penghu",
+      "note": "Shi Lang's victory and the end of the Zheng state."
+    },
+    {
+      "title": "The Battles of Coxinga (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Battles_of_Coxinga",
+      "note": "Chikamatsu's 1715 puppet play about Koxinga."
+    }
+  ],
+  "listen": [],
+  "watch": [],
+  "fun_fact": {
+    "title": "Koxinga was a smash hit in Osaka",
+    "text": "In 1715, more than fifty years after his death, Koxinga became the hero of The Battles of Coxinga (國性爺合戰), a puppet play by Chikamatsu Monzaemon, Japan's most famous playwright. It opened in Osaka in November 1715 and ran for seventeen months, far longer than the few weeks or months most plays lasted, and it became Chikamatsu's most popular work. In Tokugawa Japan, which had closed itself off from most of the world, audiences loved the exotic Chinese setting and the half-Japanese hero."
+  },
+  "glossary": [
+    {
+      "term": "Dutch Formosa",
+      "aliases": [
+        "Dutch Taiwan"
+      ],
+      "explain": "The part of southwestern (and from 1642 northern) Taiwan governed by the Dutch East India Company from 1624 to 1662."
+    },
+    {
+      "term": "Formosa",
+      "aliases": [],
+      "explain": "The European name for Taiwan, from the Portuguese for \"beautiful.\""
+    },
+    {
+      "term": "Dutch East India Company",
+      "aliases": [
+        "VOC",
+        "the Company"
+      ],
+      "explain": "Vereenigde Oostindische Compagnie, founded in 1602: a Dutch chartered company with the right to trade, build forts and make war in Asia."
+    },
+    {
+      "term": "Fort Zeelandia",
+      "aliases": [
+        "Anping Old Fort",
+        "安平古堡",
+        "熱蘭遮城"
+      ],
+      "explain": "The Dutch fortress on the Tayouan sandbar, built from 1624 to 1634, now Anping Old Fort in Tainan."
+    },
+    {
+      "term": "Tayouan",
+      "aliases": [
+        "Tayoan"
+      ],
+      "explain": "The sandbar off Tainan where the Dutch built Fort Zeelandia; the name is one source of the name Taiwan."
+    },
+    {
+      "term": "Fort Provintia",
+      "aliases": [
+        "Chihkan Tower",
+        "赤崁樓"
+      ],
+      "explain": "The smaller Dutch fort and administrative centre across the lagoon from Zeelandia, on the site of today's Chihkan Tower in Tainan."
+    },
+    {
+      "term": "Penghu",
+      "aliases": [
+        "Pescadores"
+      ],
+      "explain": "The island group in the Taiwan Strait between Taiwan and Fujian."
+    },
+    {
+      "term": "Siraya",
+      "aliases": [
+        "Sinckan"
+      ],
+      "explain": "An indigenous people of the southwestern plains around Tainan, the first to deal closely with the Dutch."
+    },
+    {
+      "term": "Sinckan Manuscripts",
+      "aliases": [
+        "Sinkang Manuscripts",
+        "新港文書",
+        "barbarian contracts",
+        "番仔契"
+      ],
+      "explain": "About 140 surviving contracts written by indigenous villagers in Latin script, dating from the late 1600s to 1813."
+    },
+    {
+      "term": "landdag",
+      "aliases": [
+        "landdagen"
+      ],
+      "explain": "The annual assemblies at which village elders swore loyalty to the Dutch Company and received staffs of office."
+    },
+    {
+      "term": "head tax",
+      "aliases": [],
+      "explain": "A tax charged per person; in Dutch Formosa it applied to Chinese residents but not to indigenous people."
+    },
+    {
+      "term": "Spanish Formosa",
+      "aliases": [],
+      "explain": "The Spanish colony at Keelung and Tamsui in northern Taiwan, 1626–1642."
+    },
+    {
+      "term": "Lamey Island",
+      "aliases": [
+        "Xiaoliuqiu",
+        "小琉球"
+      ],
+      "explain": "A small island off southwestern Taiwan whose population was killed or deported by Dutch forces in 1636."
+    },
+    {
+      "term": "Mattau",
+      "aliases": [],
+      "explain": "A powerful Siraya-area village that resisted the Dutch and was defeated in 1635."
+    },
+    {
+      "term": "Nuyts affair",
+      "aliases": [
+        "Hamada Yahei incident"
+      ],
+      "explain": "The 1628 hostage-taking of Governor Pieter Nuyts by Japanese traders, which interrupted Dutch–Japanese trade."
+    },
+    {
+      "term": "Battle of Liaoluo Bay",
+      "aliases": [
+        "料羅灣海戰"
+      ],
+      "explain": "The 1633 naval battle off Kinmen in which Zheng Zhilong defeated the Dutch."
+    },
+    {
+      "term": "Guo Huaiyi uprising",
+      "aliases": [
+        "Guo Huaiyi rebellion",
+        "郭懷一事件"
+      ],
+      "explain": "The 1652 revolt of Chinese settlers against Dutch rule, crushed within days."
+    },
+    {
+      "term": "Siege of Fort Zeelandia",
+      "aliases": [],
+      "explain": "Koxinga's 1661–1662 siege that ended Dutch rule in Taiwan."
+    },
+    {
+      "term": "Lu'ermen",
+      "aliases": [
+        "鹿耳門"
+      ],
+      "explain": "The shallow channel into the Tayouan lagoon that Koxinga's fleet used in 1661."
+    },
+    {
+      "term": "Kingdom of Tungning",
+      "aliases": [
+        "Tungning",
+        "東寧",
+        "Zheng state",
+        "Dongdu",
+        "東都"
+      ],
+      "explain": "The Zheng family's state in southwestern Taiwan and Penghu, 1662–1683."
+    },
+    {
+      "term": "Southern Ming",
+      "aliases": [],
+      "explain": "The Ming princes and courts that continued to resist the Qing in southern China after 1644."
+    },
+    {
+      "term": "Ming dynasty",
+      "aliases": [
+        "Ming"
+      ],
+      "explain": "The Chinese dynasty that ruled from 1368 to 1644."
+    },
+    {
+      "term": "Qing dynasty",
+      "aliases": [
+        "Qing",
+        "Manchu Qing"
+      ],
+      "explain": "The Manchu-led dynasty that ruled China from 1644 to 1912 and Taiwan from 1683 to 1895."
+    },
+    {
+      "term": "Longwu Emperor",
+      "aliases": [],
+      "explain": "A Southern Ming emperor (reigned 1645–1646) at Fuzhou, who gave Zheng Chenggong the imperial surname."
+    },
+    {
+      "term": "Koxinga",
+      "aliases": [
+        "Zheng Chenggong",
+        "鄭成功",
+        "Guoxingye",
+        "國姓爺",
+        "Coxinga"
+      ],
+      "explain": "1624–1662. Ming loyalist commander who conquered Dutch Taiwan."
+    },
+    {
+      "term": "Zheng Zhilong",
+      "aliases": [
+        "鄭芝龍"
+      ],
+      "explain": "1604–1661. Merchant, pirate and Ming admiral, Koxinga's father."
+    },
+    {
+      "term": "Frederick Coyett",
+      "aliases": [
+        "Coyett",
+        "Coyet"
+      ],
+      "explain": "c. 1615–1687. The last Dutch governor of Formosa."
+    },
+    {
+      "term": "Neglected Formosa",
+      "aliases": [
+        "'t Verwaerloosde Formosa"
+      ],
+      "explain": "Coyett's 1675 account of the fall of the colony, written partly in his own defence."
+    },
+    {
+      "term": "Pieter Nuyts",
+      "aliases": [
+        "Nuyts"
+      ],
+      "explain": "1598–1655. Dutch governor taken hostage by Japanese traders in 1628."
+    },
+    {
+      "term": "Hamada Yahei",
+      "aliases": [
+        "浜田弥兵衛"
+      ],
+      "explain": "A Nagasaki ship captain who seized Governor Nuyts in 1628."
+    },
+    {
+      "term": "Hans Putmans",
+      "aliases": [
+        "Putmans"
+      ],
+      "explain": "Dutch governor of Formosa who lost the Battle of Liaoluo Bay in 1633."
+    },
+    {
+      "term": "Georgius Candidius",
+      "aliases": [
+        "Candidius"
+      ],
+      "explain": "1597–1647. The first Dutch missionary in Taiwan."
+    },
+    {
+      "term": "Robertus Junius",
+      "aliases": [
+        "Junius"
+      ],
+      "explain": "1606–1655. Missionary who built schools among the Siraya."
+    },
+    {
+      "term": "Guo Huaiyi",
+      "aliases": [
+        "郭懷一"
+      ],
+      "explain": "1603–1652. Leader of the 1652 Chinese settlers' uprising."
+    },
+    {
+      "term": "Antonius Hambroek",
+      "aliases": [
+        "Hambroek"
+      ],
+      "explain": "1607–1661. Dutch missionary executed by Koxinga's forces."
+    },
+    {
+      "term": "He Bin",
+      "aliases": [
+        "何斌"
+      ],
+      "explain": "VOC interpreter who defected to Koxinga in 1659."
+    },
+    {
+      "term": "Hans Jurgen Radis",
+      "aliases": [
+        "Radis"
+      ],
+      "explain": "A German sergeant who, according to Dutch-side accounts, defected and advised Koxinga in January 1662."
+    },
+    {
+      "term": "Zheng Jing",
+      "aliases": [
+        "鄭經"
+      ],
+      "explain": "1642–1681. Koxinga's son and ruler of Tungning."
+    },
+    {
+      "term": "Chen Yonghua",
+      "aliases": [
+        "陳永華"
+      ],
+      "explain": "1634–1680. Chief minister of Tungning."
+    },
+    {
+      "term": "Zheng Keshuang",
+      "aliases": [
+        "鄭克塽"
+      ],
+      "explain": "1670–1707. The last Zheng ruler, who surrendered in 1683."
+    },
+    {
+      "term": "Shi Lang",
+      "aliases": [
+        "施琅"
+      ],
+      "explain": "1621–1696. Qing admiral who conquered Taiwan in 1683."
+    },
+    {
+      "term": "Liu Guoxuan",
+      "aliases": [
+        "劉國軒"
+      ],
+      "explain": "The Zheng admiral defeated at Penghu in 1683."
+    },
+    {
+      "term": "Kangxi Emperor",
+      "aliases": [
+        "Kangxi"
+      ],
+      "explain": "Qing emperor from 1661 to 1722, who decided to keep Taiwan."
+    },
+    {
+      "term": "Battle of Penghu",
+      "aliases": [
+        "澎湖海戰"
+      ],
+      "explain": "The 1683 naval battle that ended the Zheng state."
+    },
+    {
+      "term": "Revolt of the Three Feudatories",
+      "aliases": [
+        "Three Feudatories"
+      ],
+      "explain": "The 1673–1681 rebellion of three southern Chinese princes against the Qing."
+    },
+    {
+      "term": "coastal evacuation",
+      "aliases": [
+        "Great Clearance",
+        "遷界令"
+      ],
+      "explain": "The Qing policy from 1661 of forcing coastal populations inland to cut off the Zheng fleet."
+    },
+    {
+      "term": "Taiwan Prefecture",
+      "aliases": [],
+      "explain": "The Qing administrative unit created in 1684, under Fujian province."
+    },
+    {
+      "term": "Sangley",
+      "aliases": [
+        "Sangleys"
+      ],
+      "explain": "The Spanish name for Chinese residents of the Philippines."
+    },
+    {
+      "term": "Dejima",
+      "aliases": [],
+      "explain": "The artificial island in Nagasaki to which the Dutch were confined from 1641."
+    },
+    {
+      "term": "Batavia",
+      "aliases": [],
+      "explain": "The VOC's Asian headquarters on Java, today's Jakarta."
+    },
+    {
+      "term": "Peace of Münster",
+      "aliases": [],
+      "explain": "The 1648 treaty in which Spain recognised Dutch independence."
+    },
+    {
+      "term": "New Amsterdam",
+      "aliases": [],
+      "explain": "The Dutch colony on Manhattan, surrendered to England in 1664 and renamed New York."
+    },
+    {
+      "term": "co-colonization",
+      "aliases": [
+        "co-colony"
+      ],
+      "explain": "Tonio Andrade's term for the way Dutch rule in Taiwan depended on Chinese settlers to farm and trade."
+    },
+    {
+      "term": "Tonio Andrade",
+      "aliases": [
+        "Andrade"
+      ],
+      "explain": "Historian at Emory University, author of How Taiwan Became Chinese and Lost Colony."
+    },
+    {
+      "term": "How Taiwan Became Chinese",
+      "aliases": [],
+      "explain": "Tonio Andrade's 2008 history of seventeenth-century Taiwan."
+    },
+    {
+      "term": "Shen Baozhen",
+      "aliases": [
+        "沈葆楨"
+      ],
+      "explain": "Qing official who in 1875 had an official shrine to Koxinga built in Tainan."
+    },
+    {
+      "term": "Chikamatsu Monzaemon",
+      "aliases": [
+        "Chikamatsu"
+      ],
+      "explain": "1653–1725. Japanese playwright for puppet and kabuki theatre."
+    },
+    {
+      "term": "The Battles of Coxinga",
+      "aliases": [
+        "國性爺合戰",
+        "Kokusenya Kassen"
+      ],
+      "explain": "Chikamatsu's 1715 puppet play about Koxinga."
+    }
+  ]
+}
