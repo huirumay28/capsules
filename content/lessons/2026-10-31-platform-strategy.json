@@ -1,0 +1,660 @@
+{
+  "slug": "platform-strategy",
+  "date": "2026-10-31",
+  "subject": "business",
+  "related": [
+    "five-forces",
+    "seven-powers",
+    "first-mover-advantage",
+    "disruptive-innovation"
+  ],
+  "title": "Platform strategy: how two-sided markets are won and lost",
+  "dek": "Some businesses do not make a product and sell it down a line. They connect two groups of people who need each other, such as card holders and shops, or app developers and phone owners. In 2003 the economists Jean-Charles Rochet and Jean Tirole gave these 'two-sided markets' a theory. In 2006 Tom Eisenmann, Geoffrey Parker and Marshall Van Alstyne turned it into strategy advice in Harvard Business Review, and in 2016 Parker, Van Alstyne and Sangeet Paul Choudary argued that platforms had changed the rules Michael Porter wrote. In 2019 Feng Zhu and Marco Iansiti explained why some platforms stay profitable while others bleed cash. This lesson explains the framework first, then follows the companies that used it well and badly.",
+  "era": "2003 economic theory, 2006 and 2016 strategy articles, and a 2019 test of which platforms last",
+  "reading_minutes": 17,
+  "honesty": "The subsidy side and money side, the cross-side and same-side network effects, the pricing rules, the Adobe Reader, video game, Macintosh SDK, FreePC, Covisint, Autobytel, Visa and American Express, DVD, Betamax, Google and Overture, and RealNetworks versus Microsoft examples, and the 42% versus 19% media player figures all come from Eisenmann, Parker and Van Alstyne's October 2006 Harvard Business Review article 'Strategies for Two-Sided Markets'. The mobile phone profit figures, the App Store figures, the pipeline-to-platform shifts, the Chatroulette, Myspace, Facebook, LinkedIn and Angry Birds examples and the new metrics come from Van Alstyne, Parker and Choudary's April 2016 HBR article. The Didi, Meituan, Uber, Airbnb, Homejoy, Thumbtack, Taobao and EachNet, ZBJ, Groupon and Alibaba bridging examples come from Zhu and Iansiti's January–February 2019 HBR article. The Diners Club figures and the doubts about its origin story come from the Wikipedia article on Diners Club International. The closing question connecting the framework to a resale shop is our own framing. The lesson contains no images.",
+  "timeline": [
+    {
+      "year": "1950",
+      "label": "Diners Club starts with 27 restaurants",
+      "detail": "Frank McNamara and Ralph Schneider found Diners Club in New York. It begins with 27 participating restaurants and about 200 cardholders, charges restaurants 7% and cardholders $5 a year, and reaches 20,000 members by the end of the year."
+    },
+    {
+      "year": "1975–1988",
+      "label": "Betamax loses the format war",
+      "detail": "Sony fights alone for its Betamax videocassette standard against VHS. Eisenmann, Parker and Van Alstyne later use it as the example of a company that chose to fight for a platform it could not win."
+    },
+    {
+      "year": "1995",
+      "label": "The industry shares the DVD format",
+      "detail": "Instead of repeating the VHS–Betamax war, electronics makers and studios jointly create the DVD format, a shared platform."
+    },
+    {
+      "year": "2003",
+      "label": "Rochet and Tirole name two-sided markets",
+      "detail": "Jean-Charles Rochet and Jean Tirole publish 'Platform Competition in Two-Sided Markets' in the Journal of the European Economic Association. Taobao launches in China the same year, when eBay's EachNet holds more than 85% of the consumer-to-consumer market."
+    },
+    {
+      "year": "2006",
+      "label": "Strategies for Two-Sided Markets",
+      "detail": "Eisenmann, Parker and Van Alstyne publish their HBR article on pricing, winner-take-all battles and envelopment. At the end of the same year, eBay shuts its Chinese site."
+    },
+    {
+      "year": "2007–2008",
+      "label": "The iPhone and the App Store",
+      "detail": "Apple launches the iPhone in 2007, when five handset makers hold 90% of global industry profits, and opens the App Store to outside developers in 2008."
+    },
+    {
+      "year": "2014",
+      "label": "A Nobel Prize for Tirole",
+      "detail": "Jean Tirole receives the Nobel Memorial Prize in Economic Sciences for his analysis of market power and regulation, a body of work that includes his research on platforms."
+    },
+    {
+      "year": "2015",
+      "label": "92% of the profits",
+      "detail": "According to Van Alstyne, Parker and Choudary, the iPhone alone generates 92% of global mobile phone profits, and all but one of the former incumbents make no profit. The App Store has 1.4 million apps by January."
+    },
+    {
+      "year": "2016",
+      "label": "Pipelines, Platforms, and the New Rules of Strategy",
+      "detail": "Van Alstyne, Parker and Choudary argue in HBR that when a platform enters a pipeline firm's market, the platform almost always wins."
+    },
+    {
+      "year": "2019",
+      "label": "Why Some Platforms Thrive and Others Don't",
+      "detail": "Feng Zhu and Marco Iansiti explain, through Didi, Uber, Airbnb and Alibaba, that the shape of a network matters more than its size."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "The value chain and the problem it could not explain",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "For most of the twentieth century, strategy thinking assumed that a company sits in the middle of a line. Suppliers sell it raw materials on one side, it turns them into something more valuable, and it sells the result to customers on the other side. Costs are on the left and revenue is on the right. Michael Porter's five forces, covered in an earlier lesson, describe the pressures on a company in that position: rivals, new entrants, substitutes, powerful suppliers and powerful buyers."
+        },
+        {
+          "type": "p",
+          "text": "Some businesses never fitted this picture well. A newspaper sells copies to readers, but it also sells space to advertisers, and the advertisers pay mainly because the readers are there. A shopping mall rents space to shops because shoppers come, and shoppers come because there are shops. A credit card is useless to a shopper if no restaurant accepts it, and useless to a restaurant if no diner carries it. In each case the company is not at the middle of a line. It stands between two groups of customers who need each other, and it can collect money from either group, or both."
+        },
+        {
+          "type": "p",
+          "text": "The credit card shows the difficulty clearly. When Frank McNamara and Ralph Schneider started Diners Club in New York in 1950, they had to persuade restaurants and diners at the same time. They began with 27 restaurants and about 200 cardholders, mostly friends and acquaintances. They charged restaurants 7% of each bill and charged cardholders $5 a year. By the end of 1950 the club had 20,000 members, and by the end of 1951 it had 42,000. The founders had solved what later writers call the chicken-and-egg problem: neither side wants to join until the other side is already there."
+        },
+        {
+          "type": "p",
+          "text": "Economists had studied network effects, the idea that a product becomes more valuable as more people use it, since at least the telephone. What they lacked was a theory for businesses with two distinct sides that pay different prices. In 2003 the French economists Jean-Charles Rochet and Jean Tirole published 'Platform Competition in Two-Sided Markets', which showed mathematically that a platform's choice of how to split its prices between the two sides matters as much as the total price. In 2014 Tirole received the Nobel Memorial Prize in Economic Sciences for his work on market power and regulation, which includes this research."
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "kicker": "The framework",
+      "title": "Subsidy side, money side and the two kinds of network effect",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In October 2006, Tom Eisenmann of Harvard Business School, Geoffrey Parker of Tulane University and Marshall Van Alstyne of Boston University published 'Strategies for Two-Sided Markets' in Harvard Business Review. They called the business that connects the two groups a platform. A platform provides the infrastructure and the rules for transactions between the groups. In a traditional value chain, they wrote, cost is to the left of the company and revenue to the right. In a two-sided network, cost and revenue are on both sides."
+        },
+        {
+          "type": "p",
+          "text": "They began with two kinds of network effect, which can each be positive or negative:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "A cross-side network effect is when more users on one side make the platform more valuable to the other side. More players make a game console more attractive to game developers, and more games make it more attractive to players. Cross-side effects are usually positive, but they can be negative, for example when television viewers prefer fewer advertisers.",
+            "A same-side network effect is when more users on one side change the platform's value for users on that same side. It is positive when Xbox owners like having friends on the same console to play with. It is often negative among sellers, who would prefer fewer direct rivals."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Because of these effects, a successful platform enjoys increasing returns to scale. In most businesses, growth eventually gets harder because the remaining customers are less interested. On a platform, a bigger network is worth more to each user, so users will pay more to join it and margins can improve as the user base grows."
+        },
+        {
+          "type": "p",
+          "text": "The central decision, the authors argued, is pricing. A platform usually has a subsidy side, a group of users it charges less than it would if that group were a separate market, and a money side, a group that pays more because it values reaching the subsidy side. The question is which side to subsidise and for how long. They gave several rules:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Subsidise the more price-sensitive side, and charge the side whose demand grows most strongly when the other side grows. Adobe gives away Adobe Reader, which by 2006 had about 500 million users, and charges the writers who create PDF files, because writers value that huge audience. If Adobe charged readers instead, the reader base would shrink and the network would collapse.",
+            "Subsidise the side that is most sensitive to quality, and charge the side that must supply quality. Game consoles have historically been priced at or below cost, while game developers pay royalties of as much as 20% of a game's retail price. The royalty acts like a tax that keeps weak games from being made at all.",
+            "Make sure you can capture the cross-side effect. Netscape gave away its browser to individuals, hoping to sell web servers to companies. But website owners could reach Netscape's users with any rival's server, so the giveaway did not pay.",
+            "Watch the cost of each free user. Giving away software costs almost nothing per user. Giving away hardware does not. FreePC gave consumers free computers and internet access in 1999 in exchange for watching ads that could not be hidden, found that few advertisers wanted such cost-conscious viewers, and abandoned the offer after losing $80 million.",
+            "Sometimes keep users out. Many auto parts makers refused to join Covisint, a business-to-business exchange set up by carmakers, because they feared it would push their prices down. Covisint stalled. Autobytel, by contrast, sent each car buyer's enquiry to only one dealer per territory, which made dealers willing to pay, and it survived the dot-com crash.",
+            "Win marquee users. A few high-profile participants, such as anchor stores in a mall, can attract the other side. Visa built years of advertising around places that did not take American Express."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The authors also described what happens when pricing is done with the logic of an ordinary product. Apple charged outside developers $10,000 for the kits needed to write Macintosh software, while Microsoft gave its Windows development kits away. By the time of Microsoft's antitrust trial, they noted, Windows had six times as many applications as the Mac, and that variety made Windows more attractive to consumers despite its weaknesses."
+        }
+      ]
+    },
+    {
+      "id": "winner",
+      "kicker": "The framework, continued",
+      "title": "Fight or share, and the danger of envelopment",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The second challenge in the 2006 article is the winner-take-all battle. Because networks reward size, some markets end up served by a single platform. The authors said this is likely when three conditions hold:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Multi-homing costs are high for at least one side. Multi-homing means using more than one platform at once. Most people use only one PC operating system because running several is expensive.",
+            "Network effects are positive and strong, at least for the side that finds multi-homing costly.",
+            "Neither side has a strong need for special features. Where some users have unusual needs, a smaller platform can survive in a niche. American Express had issued only about 5% as many cards as Visa but earned high margins because its cards had no preset spending limit, which business travellers valued."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "When a market will probably have one platform, a company must make what the authors called a bet-the-company decision: fight for control, or share the platform with rivals. Sony fought for Betamax and lost. The DVD industry met all three conditions, and in 1995 the major players chose to pool their technology into one shared format, which avoided a second format war and let the whole market grow faster, because customers did not have to fear being stranded with the losing machine."
+        },
+        {
+          "type": "p",
+          "text": "To win a fight, the authors said, a company needs cost or differentiation advantages, existing relationships with likely users, a reputation that makes people expect it to win, and deep pockets. They added that moving first helps but is not always decisive. Google arrived years after the first search engines, avoided their cluttered portals, and copied and then improved Overture's paid-listing model."
+        },
+        {
+          "type": "p",
+          "text": "The third challenge is envelopment. A platform that has beaten its direct rivals can still be swallowed by a company from a neighbouring market that bundles the same function with other things. RealNetworks gave its streaming media player away and sold server software to content companies, and it dominated the early market. Microsoft then bundled streaming at no extra cost into its NT Server operating system, which content companies needed anyway. Because Microsoft's servers worked only with its own player, viewers followed the content. By 2003, 42% of North American internet users named Windows Media Player as their main media player, compared with 19% for Real."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "kicker": "The 2016 update",
+      "title": "Pipelines, platforms and the new rules",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ten years later, Van Alstyne, Parker and the platform adviser Sangeet Paul Choudary wrote 'Pipelines, Platforms, and the New Rules of Strategy' for the April 2016 issue of HBR. They opened with mobile phones. In 2007, Nokia, Samsung, Motorola, Sony Ericsson and LG together controlled 90% of the industry's global profits. They had strong brands, large research budgets and huge scale. Apple had less than 4% of the desktop operating system market and no phone business at all. By 2015 the iPhone alone generated 92% of global profits, and all but one of the former leaders made no profit."
+        },
+        {
+          "type": "p",
+          "text": "Their explanation was that Apple had built a platform, not just a phone. The handset business is a pipeline, a linear value chain. The App Store, which connects outside developers with iPhone owners, turns it into a platform. By January 2015 the store offered 1.4 million apps and had paid developers $25 billion in total. Google's Android did the same thing in a more open way. The authors stated their main claim plainly: when a platform enters a pipeline firm's market, the platform almost always wins."
+        },
+        {
+          "type": "p",
+          "text": "They described three shifts that a company must make when it adds a platform:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "From controlling resources to orchestrating them. The hardest asset to copy is no longer a mine or a patent but the community of users and what they bring, such as rooms, cars, ideas or information.",
+            "From internal optimisation to external interaction. The platform creates value by helping outsiders deal with each other, so managing the rules of that ecosystem becomes a core skill.",
+            "From customer value to ecosystem value. A pipeline tries to maximise the lifetime value of each customer. A platform tries to maximise the value of the whole network, which sometimes means subsidising one group to attract another."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "They also explained why this changes Porter's five forces. In a supply-side economy, scale lowers cost, which lowers price, which raises volume. In a demand-side economy, scale raises the value of each interaction, because a bigger network gives better matches and richer data. Suppliers and customers, which the five forces treat as threats, can add value to a platform. But participants can also turn against it. Zynga built games on Facebook and then tried to move players to its own platform, and Amazon and Samsung tried to build their own versions of Android."
+        },
+        {
+          "type": "p",
+          "text": "On growth, the authors advised starting with one valuable interaction and expanding later. Facebook began by connecting Harvard students to each other before opening to all college students and then everyone. LinkedIn began as professional networking and later added recruiting and publishing. On openness, they warned that a platform without rules collects noise. Chatroulette, which paired strangers for video chats with no access rules, grew very fast and then lost users quickly when misbehaviour drove ordinary users away. Apple's App Store and Google Play filter out low-quality apps, and Airbnb and Uber rate and insure hosts and drivers."
+        },
+        {
+          "type": "p",
+          "text": "Finally, they proposed new numbers to watch: interaction failure (a Lyft user seeing 'no cars available'), engagement (Facebook's ratio of daily to monthly users), match quality (how well Google's results answer searches) and negative network effects such as congestion. They used Rupert Murdoch's purchase of Myspace as a warning. They argued that he ran it from the top down like a newspaper, focused on controlling internal operations rather than on serving the community, and the community drifted away."
+        }
+      ]
+    },
+    {
+      "id": "cases",
+      "kicker": "Why some last",
+      "title": "Zhu and Iansiti on Didi, Uber, Airbnb and Alibaba",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 2019 it was clear that being a large platform was not enough. In 'Why Some Platforms Thrive and Others Don't' (HBR, January–February 2019), Feng Zhu and Marco Iansiti of Harvard Business School started with Didi. In 2016 Didi had become the world's largest ride-hailing company, with 25 million trips a day in China, after merging with Kuaidi in 2015 and pushing Uber out of China. Then, in early 2018, the food delivery giant Meituan launched ride-hailing in Shanghai, charged drivers nothing for three months and then took 8% of their revenue, compared with Didi's 20%. Drivers and riders moved, and Didi responded by entering food delivery. The result was a costly price war."
+        },
+        {
+          "type": "p",
+          "text": "Zhu and Iansiti argued that five properties of a network decide whether a platform can hold its position:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Network effects. They must be strong. Game consoles, the authors noted, have weaker network effects than people assume, because players need a few right games rather than the largest number.",
+            "Clustering. Uber's network is made of local clusters. A rider in Boston cares about drivers in Boston, not San Francisco, so a rival can win one city at a time. Airbnb's travellers care about hosts in the cities they plan to visit, so its network is closer to one global cluster, and a challenger would need to start worldwide.",
+            "Disintermediation. Once a platform has introduced two people, they may deal directly. Homejoy, a house-cleaning platform, shut down in 2015 partly because satisfied customers had no reason to book the same cleaner through it again. Airbnb withholds hosts' exact addresses and phone numbers until payment is made. Thumbtack charges service providers for leads before any job is agreed.",
+            "Multi-homing. Many drivers and riders use both Uber and Lyft, so neither can easily raise prices. Console makers reduce multi-homing with exclusive games and paid subscriptions, and Amazon reduces it with Prime.",
+            "Bridging. A platform can connect several networks so that each supports the others. Alibaba linked its payment service Alipay with its Taobao and Tmall marketplaces, then used transaction data to build credit ratings and offer loans through Ant Financial."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The Taobao story shows several of these ideas at once. When Taobao launched in 2003, eBay's Chinese site EachNet had more than 85% of the consumer-to-consumer market. Taobao charged no listing or transaction fees and offered a chat tool, Wangwang, so buyers could question and bargain with sellers directly. EachNet charged sellers fees and, worried about disintermediation, did not let buyers and sellers talk until a sale was confirmed. Taobao took the lead quickly, and at the end of 2006 eBay closed its Chinese site. Taobao made its money instead from advertising and from selling storefront software to merchants. In the authors' terms, it chose the right subsidy side and captured value from a related service rather than from each transaction."
+        },
+        {
+          "type": "p",
+          "text": "A second Chinese case makes the same point. The outsourcing marketplace ZBJ, which began in 2006 by charging a 20% commission, estimated it could lose as much as 90% of its business to disintermediation. In 2014 it noticed that many new business owners came for logo design and next needed trademark registration, so it began offering that service. Zhu and Iansiti reported that ZBJ became China's largest provider of trademark registration, earning more than $70 million a year from it, while it cut its transaction fees."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "What managers took from the debate",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The three articles together changed how executives describe their businesses. Almost every large consumer company now asks whether it can add a platform to its pipeline, and the 2016 article named Walmart, Nike, John Deere and GE as pipeline firms trying to do so. The vocabulary of subsidy side, money side, multi-homing and envelopment became standard in business schools."
+        },
+        {
+          "type": "p",
+          "text": "The arguments also carry warnings. The 2006 authors cautioned that racing to get big fast can be a mistake when a business needs skilled staff to grow or when investors may stop funding it. Zhu and Iansiti concluded that Uber and Didi faced local clusters, widespread multi-homing and limited bridging opportunities, and that network properties were beating platform scale. The lesson for a manager is to look at who sits on each side, which side should pay, how easily users can leave or use a rival at the same time, and whether the network is local or global, before assuming that size will protect them."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Jean-Charles Rochet",
+              "text": "French economist who, with Jean Tirole, wrote 'Platform Competition in Two-Sided Markets' (2003)."
+            },
+            {
+              "name": "Jean Tirole",
+              "text": "French economist at the Toulouse School of Economics, co-author of the 2003 two-sided markets paper and winner of the 2014 Nobel Memorial Prize in Economic Sciences."
+            },
+            {
+              "name": "Tom Eisenmann",
+              "text": "Harvard Business School professor and lead author of 'Strategies for Two-Sided Markets' (2006)."
+            },
+            {
+              "name": "Geoffrey Parker",
+              "text": "Management scientist, then at Tulane and later Dartmouth, co-author of the 2006 and 2016 HBR articles and the book Platform Revolution."
+            },
+            {
+              "name": "Marshall Van Alstyne",
+              "text": "Boston University professor, co-author of the 2006 and 2016 HBR articles and Platform Revolution."
+            },
+            {
+              "name": "Sangeet Paul Choudary",
+              "text": "Platform strategy adviser, co-author of the 2016 HBR article and Platform Revolution."
+            },
+            {
+              "name": "Feng Zhu",
+              "text": "Harvard Business School professor who studies platforms, co-author of 'Why Some Platforms Thrive and Others Don't' (2019)."
+            },
+            {
+              "name": "Marco Iansiti",
+              "text": "Harvard Business School professor, co-author of the 2019 article."
+            },
+            {
+              "name": "Frank McNamara",
+              "text": "Co-founder of Diners Club in 1950, the first independent payment card company."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "Which side should pay?",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Think about a resale marketplace such as Carousell, or the resale platform cool dairy may become later. Who are the two sides, and which one is more price-sensitive? Using Eisenmann, Parker and Van Alstyne's rules, decide which side should be the subsidy side and which the money side. Then use Zhu and Iansiti's five properties: is the network local or global, how easily could buyers and sellers deal directly after their first sale, and how many of them already list or shop on other apps at the same time?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Thomas Eisenmann, Geoffrey Parker and Marshall W. Van Alstyne, 'Strategies for Two-Sided Markets' (Harvard Business Review, October 2006)",
+      "url": "https://hbr.org/2006/10/strategies-for-two-sided-markets",
+      "note": "The subsidy side and money side, the pricing rules, winner-take-all battles and envelopment."
+    },
+    {
+      "title": "Marshall W. Van Alstyne, Geoffrey G. Parker and Sangeet Paul Choudary, 'Pipelines, Platforms, and the New Rules of Strategy' (Harvard Business Review, April 2016)",
+      "url": "https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy",
+      "note": "The iPhone profit figures, the three shifts and the new platform metrics."
+    },
+    {
+      "title": "Feng Zhu and Marco Iansiti, 'Why Some Platforms Thrive and Others Don't' (Harvard Business Review, January–February 2019)",
+      "url": "https://hbr.org/2019/01/why-some-platforms-thrive-and-others-dont",
+      "note": "Didi, Uber, Airbnb, Taobao and the five network properties."
+    },
+    {
+      "title": "Jean Tirole, Nobel Prize facts (NobelPrize.org, 2014)",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2014/tirole/facts/",
+      "note": "The official page for Tirole's 2014 prize."
+    },
+    {
+      "title": "Two-sided market (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Two-sided_market",
+      "note": "An overview of the economics, with references to Rochet and Tirole."
+    },
+    {
+      "title": "Diners Club International (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Diners_Club_International",
+      "note": "The 1950 launch figures and the disputed 'First Supper' story."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "fun_fact": {
+    "title": "The famous forgotten wallet may never have been forgotten",
+    "text": "Diners Club's official history says the idea came in 1949, when Frank McNamara found he had left his wallet in another suit while dining with clients at Majors Cabin Grill in New York, and it calls his return visit in February 1950, paid with a cardboard card, 'The First Supper'. But the company's first press agent, Matty Simmons, later said the wallet episode never happened and that the story was invented. Simmons went on to become the publisher of National Lampoon."
+  },
+  "glossary": [
+    {
+      "term": "Platform",
+      "aliases": [
+        "platforms",
+        "platform business",
+        "platform businesses"
+      ],
+      "explain": "A business that provides the infrastructure and rules for two or more groups of users to deal with each other."
+    },
+    {
+      "term": "Two-sided market",
+      "aliases": [
+        "two-sided markets",
+        "two-sided network",
+        "two-sided networks"
+      ],
+      "explain": "A market in which a platform serves two distinct groups, each of which values access to the other."
+    },
+    {
+      "term": "Network effect",
+      "aliases": [
+        "network effects"
+      ],
+      "explain": "When a product or platform becomes more or less valuable as more people use it."
+    },
+    {
+      "term": "Cross-side network effect",
+      "aliases": [
+        "cross-side network effects",
+        "cross-side effect",
+        "cross-side effects"
+      ],
+      "explain": "When more users on one side change the platform's value for users on the other side."
+    },
+    {
+      "term": "Same-side network effect",
+      "aliases": [
+        "same-side network effects",
+        "same-side effect",
+        "same-side effects"
+      ],
+      "explain": "When more users on one side change the platform's value for users on that same side."
+    },
+    {
+      "term": "Subsidy side",
+      "aliases": [],
+      "explain": "The group of users a platform charges less than it otherwise would, because their numbers attract the other side."
+    },
+    {
+      "term": "Money side",
+      "aliases": [],
+      "explain": "The group of users who pay more because they value reaching the subsidy side."
+    },
+    {
+      "term": "Multi-homing",
+      "aliases": [
+        "multi-home",
+        "multihoming"
+      ],
+      "explain": "Using more than one competing platform at the same time, such as driving for both Uber and Lyft."
+    },
+    {
+      "term": "Envelopment",
+      "aliases": [
+        "enveloped"
+      ],
+      "explain": "When a platform from a neighbouring market takes over another platform's users by bundling its function with other products."
+    },
+    {
+      "term": "Disintermediation",
+      "aliases": [],
+      "explain": "When users who met through a platform start dealing directly and cut the platform out."
+    },
+    {
+      "term": "Clustering",
+      "aliases": [
+        "local clusters"
+      ],
+      "explain": "How far a network splits into separate groups, such as one city's riders and drivers, which rivals can attack one at a time."
+    },
+    {
+      "term": "Network bridging",
+      "aliases": [
+        "bridging"
+      ],
+      "explain": "Connecting several networks owned by one company so that each strengthens the others."
+    },
+    {
+      "term": "Pipeline",
+      "aliases": [
+        "pipelines",
+        "pipeline firm",
+        "pipeline firms"
+      ],
+      "explain": "A traditional business that creates value through a linear chain of activities it controls, from inputs to finished product."
+    },
+    {
+      "term": "Value chain",
+      "aliases": [],
+      "explain": "The sequence of activities a company performs to turn inputs into a product worth more than they cost."
+    },
+    {
+      "term": "Winner-take-all",
+      "aliases": [],
+      "explain": "A market in which network effects push nearly all users onto a single platform."
+    },
+    {
+      "term": "Chicken-and-egg problem",
+      "aliases": [],
+      "explain": "The difficulty of starting a platform when neither side wants to join until the other is already there."
+    },
+    {
+      "term": "Marquee users",
+      "aliases": [
+        "marquee user"
+      ],
+      "explain": "High-profile participants, such as anchor stores, whose presence attracts the other side of a platform."
+    },
+    {
+      "term": "Increasing returns to scale",
+      "aliases": [],
+      "explain": "When growing bigger makes a business more valuable or profitable per user, rather than less."
+    },
+    {
+      "term": "Five forces",
+      "aliases": [
+        "five forces model"
+      ],
+      "explain": "Michael Porter's framework of rivalry, new entrants, substitutes, supplier power and buyer power."
+    },
+    {
+      "term": "Jean-Charles Rochet",
+      "aliases": [
+        "Rochet"
+      ],
+      "explain": "French economist, co-author of the 2003 paper that formalised two-sided markets."
+    },
+    {
+      "term": "Jean Tirole",
+      "aliases": [
+        "Tirole"
+      ],
+      "explain": "French economist, co-author of the 2003 paper and 2014 Nobel laureate in economics."
+    },
+    {
+      "term": "Tom Eisenmann",
+      "aliases": [
+        "Eisenmann"
+      ],
+      "explain": "Harvard Business School professor, lead author of 'Strategies for Two-Sided Markets'."
+    },
+    {
+      "term": "Geoffrey Parker",
+      "aliases": [
+        "Parker"
+      ],
+      "explain": "Co-author of the 2006 and 2016 HBR platform articles."
+    },
+    {
+      "term": "Marshall Van Alstyne",
+      "aliases": [
+        "Van Alstyne"
+      ],
+      "explain": "Boston University professor, co-author of the 2006 and 2016 HBR platform articles."
+    },
+    {
+      "term": "Sangeet Paul Choudary",
+      "aliases": [
+        "Choudary"
+      ],
+      "explain": "Platform strategy adviser, co-author of the 2016 HBR article."
+    },
+    {
+      "term": "Feng Zhu",
+      "aliases": [
+        "Zhu"
+      ],
+      "explain": "Harvard Business School professor, co-author of the 2019 article on why platforms thrive."
+    },
+    {
+      "term": "Marco Iansiti",
+      "aliases": [
+        "Iansiti"
+      ],
+      "explain": "Harvard Business School professor, co-author of the 2019 article."
+    },
+    {
+      "term": "Michael Porter",
+      "aliases": [
+        "Porter",
+        "Porter's"
+      ],
+      "explain": "Harvard strategy scholar who created the five forces framework."
+    },
+    {
+      "term": "Frank McNamara",
+      "aliases": [
+        "McNamara"
+      ],
+      "explain": "Co-founder of Diners Club in 1950."
+    },
+    {
+      "term": "Ralph Schneider",
+      "aliases": [
+        "Schneider"
+      ],
+      "explain": "Lawyer and co-founder of Diners Club in 1950."
+    },
+    {
+      "term": "Matty Simmons",
+      "aliases": [
+        "Simmons"
+      ],
+      "explain": "Diners Club's first press agent, later publisher of National Lampoon."
+    },
+    {
+      "term": "Rupert Murdoch",
+      "aliases": [
+        "Murdoch"
+      ],
+      "explain": "Media owner whose company bought Myspace, used in the 2016 article as a warning."
+    },
+    {
+      "term": "Diners Club",
+      "aliases": [],
+      "explain": "The first independent payment card company, founded in New York in 1950."
+    },
+    {
+      "term": "Platform Competition in Two-Sided Markets",
+      "aliases": [],
+      "explain": "Rochet and Tirole's 2003 paper in the Journal of the European Economic Association."
+    },
+    {
+      "term": "Strategies for Two-Sided Markets",
+      "aliases": [],
+      "explain": "Eisenmann, Parker and Van Alstyne's October 2006 HBR article."
+    },
+    {
+      "term": "Pipelines, Platforms, and the New Rules of Strategy",
+      "aliases": [],
+      "explain": "Van Alstyne, Parker and Choudary's April 2016 HBR article."
+    },
+    {
+      "term": "Why Some Platforms Thrive and Others Don't",
+      "aliases": [],
+      "explain": "Zhu and Iansiti's January–February 2019 HBR article."
+    },
+    {
+      "term": "Platform Revolution",
+      "aliases": [],
+      "explain": "The 2016 book by Parker, Van Alstyne and Choudary."
+    },
+    {
+      "term": "Adobe Reader",
+      "aliases": [],
+      "explain": "Adobe's free PDF viewer, the classic example of a subsidy side."
+    },
+    {
+      "term": "App Store",
+      "aliases": [],
+      "explain": "Apple's marketplace connecting outside app developers with iPhone owners, opened in 2008."
+    },
+    {
+      "term": "Betamax",
+      "aliases": [],
+      "explain": "Sony's videocassette format, which lost the format war to VHS."
+    },
+    {
+      "term": "Taobao",
+      "aliases": [],
+      "explain": "Alibaba's consumer marketplace, launched in 2003, which beat eBay's EachNet in China."
+    },
+    {
+      "term": "EachNet",
+      "aliases": [],
+      "explain": "eBay's Chinese marketplace, closed at the end of 2006."
+    },
+    {
+      "term": "Didi",
+      "aliases": [],
+      "explain": "China's largest ride-hailing company, used by Zhu and Iansiti as an example of scale that did not bring safety."
+    },
+    {
+      "term": "Homejoy",
+      "aliases": [],
+      "explain": "A house-cleaning platform that shut down in 2015, partly because of disintermediation."
+    },
+    {
+      "term": "Chatroulette",
+      "aliases": [],
+      "explain": "A random video chat site that grew fast and then lost users when misbehaviour went unchecked."
+    },
+    {
+      "term": "RealNetworks",
+      "aliases": [],
+      "explain": "Pioneer of streaming media software, enveloped by Microsoft's bundled Windows Media tools."
+    },
+    {
+      "term": "Covisint",
+      "aliases": [],
+      "explain": "A business-to-business exchange set up by carmakers that stalled when parts suppliers stayed away."
+    },
+    {
+      "term": "FreePC",
+      "aliases": [],
+      "explain": "A 1999 venture that gave away computers in exchange for watching ads and lost $80 million."
+    },
+    {
+      "term": "ZBJ",
+      "aliases": [],
+      "explain": "A Chinese outsourcing marketplace that fought disintermediation by adding trademark registration services."
+    }
+  ]
+}
