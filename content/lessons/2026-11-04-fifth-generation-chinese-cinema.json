@@ -1,0 +1,793 @@
+{
+  "slug": "fifth-generation-chinese-cinema",
+  "date": "2026-11-04",
+  "subject": "film",
+  "related": [
+    "taiwan-new-cinema",
+    "hong-kong-new-wave",
+    "cultural-revolution",
+    "czechoslovak-new-wave",
+    "italian-neorealism",
+    "soviet-montage",
+    "japanese-golden-age",
+    "cinema-novo",
+    "french-new-wave",
+    "feminist-film-theory",
+    "taiwan-womens-fiction"
+  ],
+  "title": "China's Fifth Generation filmmakers, 1982 to 1994",
+  "dek": "In 1978, two years after the Cultural Revolution ended, the Beijing Film Academy took in its first new students in more than a decade. The class that graduated in 1982, including Chen Kaige, Zhang Yimou and Tian Zhuangzhuang, went on to make films that looked and sounded like nothing China had produced before: few words, huge landscapes, stories told through colour and composition. Within ten years their work had won the top prizes at Berlin, Venice and Cannes, and some of it had also been banned at home. This lesson covers who they were, what they made, why the world paid attention, and how their story connects to Taiwan New Cinema across the strait.",
+  "era": "c. 1982 to 1994, with roots in the Cultural Revolution and the reopening of 1978",
+  "reading_minutes": 18,
+  "honesty": "This lesson keeps to facts documented in the English Wikipedia articles on the films, directors and the cinema of China. Festival prizes and ban details were checked against those articles. Where a detail could not be checked, it was left out. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1966",
+      "label": "Cultural Revolution begins",
+      "detail": "Film schools and most film production stop. The Beijing Film Academy closes to new students, and many future directors are sent to the countryside or the army."
+    },
+    {
+      "year": "1978",
+      "label": "The Academy reopens",
+      "detail": "The Beijing Film Academy admits a new class. It includes Chen Kaige, Tian Zhuangzhuang, Li Shaohong, Peng Xiaolian and, after an appeal, Zhang Yimou, who was over the age limit."
+    },
+    {
+      "year": "1980",
+      "label": "Scar dramas",
+      "detail": "Older directors such as Xie Jin make films about suffering during the Cultural Revolution, including Legend of Tianyun Mountain."
+    },
+    {
+      "year": "1982",
+      "label": "Graduation",
+      "detail": "The class of 1982 graduates. Chen Kaige and Zhang Yimou are assigned to the small Guangxi Film Studio in the south."
+    },
+    {
+      "year": "1983",
+      "label": "One and Eight",
+      "detail": "Zhang Junzhao directs a war film about eight prisoners and a wrongly accused officer, photographed by Zhang Yimou. It is often called the first Fifth Generation film."
+    },
+    {
+      "year": "1984",
+      "label": "Yellow Earth",
+      "detail": "Chen Kaige's first feature, shot by Zhang Yimou, tells its story mostly through images of the Shaanxi plateau and becomes the movement's landmark."
+    },
+    {
+      "year": "1985",
+      "label": "Other voices",
+      "detail": "Hu Mei makes Army Nurse, Huang Jianxin makes The Black Cannon Incident, and Tian Zhuangzhuang makes On the Hunting Ground in Inner Mongolia."
+    },
+    {
+      "year": "1986",
+      "label": "The Horse Thief",
+      "detail": "Tian Zhuangzhuang's almost wordless film about a Tibetan horse thief is admired abroad but does poorly at the Chinese box office."
+    },
+    {
+      "year": "1987",
+      "label": "Old Well",
+      "detail": "Wu Tianming of the Xi'an Film Studio directs Old Well, with Zhang Yimou as the lead actor. Zhang wins Best Actor at the Tokyo International Film Festival."
+    },
+    {
+      "year": "1988",
+      "label": "Red Sorghum wins Berlin",
+      "detail": "Zhang Yimou's first film as director, starring Gong Li, wins the Golden Bear at the Berlin International Film Festival."
+    },
+    {
+      "year": "1989",
+      "label": "Tiananmen",
+      "detail": "The crackdown on the Tiananmen Square protests in June tightens censorship. In September, Hou Hsiao-hsien's A City of Sadness wins the Golden Lion in Venice."
+    },
+    {
+      "year": "1990",
+      "label": "Ju Dou",
+      "detail": "Zhang Yimou's film becomes the first Chinese film nominated for the Academy Award for Best Foreign Language Film. It is banned at home until 1992."
+    },
+    {
+      "year": "1991",
+      "label": "Raise the Red Lantern",
+      "detail": "Zhang's film, with Hou Hsiao-hsien as an executive producer, wins the Silver Lion at Venice and is nominated for an Academy Award."
+    },
+    {
+      "year": "1992",
+      "label": "The Story of Qiu Ju",
+      "detail": "Zhang's film about a peasant woman seeking justice wins the Golden Lion at Venice."
+    },
+    {
+      "year": "1993",
+      "label": "Farewell My Concubine and The Blue Kite",
+      "detail": "Chen Kaige shares the Palme d'Or at Cannes, the first for a Chinese-language film. Tian Zhuangzhuang's The Blue Kite is banned and he is barred from filmmaking."
+    },
+    {
+      "year": "1994",
+      "label": "To Live",
+      "detail": "Zhang Yimou's film wins the Grand Prix at Cannes and Best Actor for Ge You, but is denied a theatrical release in mainland China."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Yellow Earth — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yellow_Earth",
+      "note": "Chen Kaige's 1984 debut, the film that started the movement's reputation."
+    },
+    {
+      "title": "Red Sorghum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_Sorghum_(film)",
+      "note": "Zhang Yimou's 1988 debut as director and Gong Li's first film."
+    },
+    {
+      "title": "Raise the Red Lantern — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Raise_the_Red_Lantern",
+      "note": "Zhang's 1991 film about a fourth wife in a closed household, shot in the Qiao Family Compound in Shanxi."
+    },
+    {
+      "title": "Farewell My Concubine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)",
+      "note": "Chen Kaige's 1993 epic about two Peking opera actors across fifty years of Chinese history."
+    },
+    {
+      "title": "The Blue Kite — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Blue_Kite",
+      "note": "Tian Zhuangzhuang's 1993 film about a Beijing family through the political campaigns of the 1950s and 1960s."
+    },
+    {
+      "title": "To Live — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/To_Live_(1994_film)",
+      "note": "Zhang's 1994 film from Yu Hua's novel, following one family from the 1940s to the 1970s."
+    }
+  ],
+  "read": [
+    {
+      "title": "Wikipedia — Cinema of China",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_China",
+      "note": "The whole history, including the numbered generations of directors and the Sixth Generation that followed."
+    },
+    {
+      "title": "Wikipedia — Zhang Yimou",
+      "url": "https://en.wikipedia.org/wiki/Zhang_Yimou",
+      "note": "His early life, his admission to the Film Academy and his long career."
+    },
+    {
+      "title": "Wikipedia — Chen Kaige",
+      "url": "https://en.wikipedia.org/wiki/Chen_Kaige",
+      "note": "From sent-down youth to the first Chinese director to win the Palme d'Or."
+    },
+    {
+      "title": "Wikipedia — Tian Zhuangzhuang",
+      "url": "https://en.wikipedia.org/wiki/Tian_Zhuangzhuang",
+      "note": "The most uncompromising of the group, and the one who paid for it with a ban."
+    },
+    {
+      "title": "Wikipedia — Beijing Film Academy",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Film_Academy",
+      "note": "The school where the generation trained."
+    },
+    {
+      "title": "Wikipedia — Roots-seeking movement",
+      "url": "https://en.wikipedia.org/wiki/Roots-seeking_movement",
+      "note": "The literary movement of the mid-1980s that fed many of these films."
+    }
+  ],
+  "fun_fact": {
+    "title": "The cinematographer who sold his blood",
+    "text": "Before he became China's most famous director, Zhang Yimou spent seven years working at a cotton textile mill in Xianyang, in Shaanxi. He took up still photography there and, according to his biography, sold his own blood to buy his first camera. When the Beijing Film Academy reopened in 1978 he was 28, well over the cinematography department's age limit of 22, and he did not have the required academic qualifications. He appealed, was admitted, and graduated with the class of 1982. He was then a cinematographer, not a director: his first fame came from shooting One and Eight and Yellow Earth, and his first major prize came as an actor, for Old Well at the Tokyo International Film Festival in 1987. Only in 1988 did his own first film, Red Sorghum, win in Berlin."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before 1982: numbered generations and a lost decade",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chinese critics like to divide the country's directors into numbered generations. The first generation made silent films in Shanghai in the 1910s and 1920s. The second generation made the great Shanghai films of the 1930s and 1940s, such as Street Angels (1937) and Fei Mu's Spring in a Small Town (1948). The third generation worked after 1949 under the new People's Republic, when filmmakers were sent to Moscow to study Soviet socialist realism and the Beijing Film Academy was founded, in 1950. The fourth generation trained in the early 1960s, just before everything stopped."
+        },
+        {
+          "type": "p",
+          "text": "Everything stopped in 1966. During the Cultural Revolution almost all film production was halted except for a small number of approved model works, and the Film Academy took no new students. The young people who would later become the Fifth Generation spent those years as sent-down youth in villages, as soldiers or as factory workers. Chen Kaige was sent to a farm in Xishuangbanna in the far south-west and then joined the army. Zhang Yimou worked in a textile mill. Their own families were often targets: Peng Xiaolian's father had been condemned in the 1950s as part of the Hu Feng counterrevolutionary clique and spent years in prison and labour camps."
+        },
+        {
+          "type": "p",
+          "text": "When the Cultural Revolution ended in 1976, older directors began to make what were called scar dramas, films about suffering in the years just past, such as Xie Jin's Legend of Tianyun Mountain (1980). These films were emotional and conventional in style. The generation that came next would take a very different route."
+        }
+      ]
+    },
+    {
+      "id": "class-of-1982",
+      "kicker": "The spark",
+      "title": "The class of 1982",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1978 the Beijing Film Academy reopened. The class admitted that year included Chen Kaige, Tian Zhuangzhuang, Li Shaohong, Peng Xiaolian, Zhang Junzhao and, in the cinematography department, Zhang Yimou. Their classmates later remembered watching hundreds of films during their four years of study, from Hollywood films of the 1930s to Italian Neorealism and the French New Wave, at a time when ordinary Chinese audiences could see very little foreign cinema."
+        },
+        {
+          "type": "p",
+          "text": "When they graduated in 1982, the state assigned them jobs. The big studios in Beijing and Shanghai did not give beginners much chance to direct, so the first breakthroughs came from small regional studios. Chen Kaige and Zhang Yimou were sent to the Guangxi Film Studio in the south, which was willing to let a young crew make a film. Later, the Xi'an Film Studio under its head Wu Tianming, a fourth generation director, became the most important supporter of young directors, and helped produce Red Sorghum."
+        },
+        {
+          "type": "p",
+          "text": "The name Fifth Generation was given by critics. It was never a manifesto or an organised group. What the films shared was a background, a set of influences and a rejection of the style of the films they had grown up with."
+        }
+      ]
+    },
+    {
+      "id": "style",
+      "kicker": "The idea",
+      "title": "What made the films different",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chinese films after 1949 had been built around dialogue and a clear political message: good characters and bad characters, and a happy ending in which the Party solved problems. The Fifth Generation broke with that in several ways."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Images instead of words. The critic Richard James Havis wrote that Yellow Earth was the first Chinese film since 1949 to tell its story through images rather than dialogue. Long, still shots of the land, the sky and faces carry the meaning.",
+            "Rural China and the distant past. Rather than the present-day city, most early films are set in villages, deserts, Tibet or Inner Mongolia, often in the 1920s to 1940s. Many draw on the roots-seeking writers of the 1980s, such as Mo Yan, who looked for the deep culture of the countryside.",
+            "Ambiguity about politics. Yellow Earth shows a soldier of the Communist Eighth Route Army who collects folk songs but cannot save the village girl who trusts him. Critics noted that the film was unsure whether the Party could really help the peasants, which was very different from earlier propaganda films.",
+            "Colour as storytelling. Especially in Zhang Yimou's films, red and other strong colours carry emotion: the red sorghum fields, the dyed cloth in Ju Dou, the red lanterns of the Chen household.",
+            "Women at the centre. Many of the best-known films are about a woman trapped by family, marriage or custom, often played by Gong Li."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Because these films looked so new, they attracted controversy at home, and many audiences found them slow. The Horse Thief, for example, was well received by Western arthouse audiences but did poorly at the Chinese box office."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "The directors and their films",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chen Kaige, the son of a film director, made Yellow Earth (1984), then The Big Parade (1986) about soldiers training for a parade, and King of the Children (1987), about a young teacher sent to a poor mountain school during the Cultural Revolution, which competed at Cannes. His greatest success was Farewell My Concubine (1993)."
+        },
+        {
+          "type": "p",
+          "text": "Zhang Yimou shot One and Eight and Yellow Earth before he directed. From Red Sorghum (1988) onward he made a run of films with the actress Gong Li: Ju Dou (1990), Raise the Red Lantern (1991), The Story of Qiu Ju (1992) and To Live (1994). Ju Dou, set in a dye house, was shot in the vivid Technicolor process long after it had been abandoned in the United States."
+        },
+        {
+          "type": "p",
+          "text": "Tian Zhuangzhuang, a childhood friend of Chen Kaige, made On the Hunting Ground (1985) in Inner Mongolia and The Horse Thief (1986) in Tibet, films with little dialogue about peoples most Chinese viewers knew nothing about. His The Blue Kite (1993) tells the story of a Beijing family through the Anti-Rightist Movement and the Cultural Revolution. It was banned, and Tian was barred from filmmaking; the ban lasted officially until 1996."
+        },
+        {
+          "type": "p",
+          "text": "The generation also included women directors. Hu Mei's Army Nurse (1985) follows a young woman whose personal life is sacrificed to her duties in the army. Li Shaohong, who is often called China's leading woman director, made Bloody Morning (1990), which won the Golden Montgolfiere at the Three Continents Festival in Nantes in 1992. Peng Xiaolian later made a series of films about Shanghai. Huang Jianxin, a graduate of another school who is often grouped with the Fifth Generation, made The Black Cannon Incident (1985), a dark satire of bureaucracy in which an engineer is suspected of spying because of a telegram about a lost chess piece."
+        }
+      ]
+    },
+    {
+      "id": "yellow-earth",
+      "kicker": "Deep dive",
+      "title": "Yellow Earth: a song that does not save anyone",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Yellow Earth was made in 1984 by the Guangxi Film Studio with a young crew: Chen Kaige directed and Zhang Yimou photographed it. It is set in 1939 on the loess plateau of northern Shaanxi, near the Yellow River. A soldier from the Eighth Route Army, Gu Qing, comes to a poor village to collect folk songs, which the Communists plan to rewrite with revolutionary words. He stays with a widowed farmer, his silent young son and his teenage daughter, Cuiqiao, who has been promised in an arranged marriage."
+        },
+        {
+          "type": "p",
+          "text": "Gu Qing tells Cuiqiao that in the Communist areas women can choose whom they marry. She asks him to take her with him. He says he must follow the rules and will return for her. He does not come back in time. After the wedding Cuiqiao tries to cross the Yellow River at night, singing, and her song stops in the middle of the river. When Gu Qing finally returns, the villagers are praying for rain."
+        },
+        {
+          "type": "p",
+          "text": "The film is famous for how it looks. Zhang Yimou often filled most of the frame with earth and placed people at the very top or bottom, so that the land seems to press down on them. There is little dialogue, and much of the story is carried by folk songs. In 2005 the Hong Kong Film Awards placed Yellow Earth fourth on a list of the 100 best Chinese-language films."
+        },
+        {
+          "type": "p",
+          "text": "For audiences in 1984, the shock was its message as much as its style. A Party soldier is kind but useless, the peasants' own customs are what destroy the girl, and the film does not say that the revolution will fix this. That doubt, told through pictures instead of speeches, became the mark of the whole generation."
+        }
+      ]
+    },
+    {
+      "id": "world-stage",
+      "kicker": "The breakthrough",
+      "title": "From Berlin to Cannes, and trouble at home",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Red Sorghum, based on the first two parts of Mo Yan's novel, made Zhang Yimou and Gong Li internationally known when it won the Golden Bear in Berlin in 1988. Over the next six years Chinese films won the 1992 Golden Lion in Venice for The Story of Qiu Ju, the 1993 Palme d'Or for Farewell My Concubine, which it shared with Jane Campion's The Piano, and the 1994 Cannes Grand Prix for To Live, along with three Academy Award nominations."
+        },
+        {
+          "type": "p",
+          "text": "Foreign money and foreign festivals mattered because the domestic situation had become harder. After the crackdown on the Tiananmen Square protests in June 1989, censorship tightened, and several films that won abroad were banned or cut at home. Ju Dou was banned until July 1992. Farewell My Concubine, a co-production between mainland China and Hong Kong, premiered in Hong Kong on 1 January 1993; when it was shown in China, officials objected to its portrayal of homosexuality, a suicide and the 1960s turmoil, and it was re-released in September 1993 with 14 minutes removed. To Live was denied a theatrical release, though it was still shown in some cinemas."
+        },
+        {
+          "type": "p",
+          "text": "Critics, inside and outside China, argued about this success. Some said that films about foot massages, concubines and dyed cloth showed the West an exotic, backward China that foreign festival audiences wanted to see, and that the directors were making films for juries abroad. Others answered that the films used the past to criticise the present, in a way that would have been impossible in a story set in 1990."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Taiwan and Hong Kong at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Fifth Generation was one of three new waves in Chinese-language cinema in the 1980s. In Taiwan, Taiwan New Cinema began with the anthology In Our Time (1982), and directors such as Hou Hsiao-hsien and Edward Yang made quiet, realistic films about growing up and about Taiwan's own history. In Hong Kong, the New Wave of Ann Hui and Tsui Hark began a few years earlier, around 1979. The three movements came out of very different political worlds, but they appeared at the same festivals and were often discussed together."
+        },
+        {
+          "type": "p",
+          "text": "The links were direct. In 1989, Hou Hsiao-hsien's A City of Sadness, about the 228 Incident, won the Golden Lion in Venice, three years before Zhang Yimou won the same prize. Hou also served as an executive producer of Zhang's Raise the Red Lantern (1991), which was made as a co-production with outside money. Farewell My Concubine starred the Hong Kong actor Leslie Cheung. In the early 1990s, the money of Taiwan and Hong Kong and the talent of the mainland often met in one film."
+        },
+        {
+          "type": "p",
+          "text": "If you compare Yellow Earth with Hou's films, both are slow and patient, both trust the audience to read images, and both look back at the past. The difference is what they look at. Hou looks at everyday family life in recent Taiwan, while the Fifth Generation looked at rural China as a place of myth, custom and political doubt."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Legacy: blockbusters and the Sixth Generation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "After 1989 a younger group of directors, later called the Sixth Generation, began to make films outside the state studio system. They shot quickly and cheaply, often on 16 mm film or digital video, with non-professional actors, and they filmed the present-day city rather than the rural past. Early examples include Zhang Yuan's Mama (1990) and Beijing Bastards (1993) and, later, Jia Zhangke's Xiao Wu (1997)."
+        },
+        {
+          "type": "p",
+          "text": "The Fifth Generation directors themselves went in different directions. Zhang Yimou made smaller realist films such as Not One Less (1999), then turned to large commercial martial arts films beginning with Hero (2002), which marked the Chinese film industry's move to big productions, and he directed the opening ceremony of the 2008 Beijing Olympics. Chen Kaige also moved to big-budget films. Tian Zhuangzhuang returned to directing after his ban and also worked as a producer for younger filmmakers. Mo Yan, whose novel became Red Sorghum, won the Nobel Prize in Literature in 2012."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Many Fifth Generation films won prizes abroad by showing China's past as harsh and exotic, and critics asked whether they were made for foreign eyes. Think about how Taiwan appears in films or stories made for audiences overseas. Is there a difference between showing a society's hard history honestly and packaging it for outsiders? How would you tell which one a film is doing?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Fifth Generation",
+      "aliases": [
+        "Fifth Generation directors",
+        "Fifth Generation filmmakers"
+      ],
+      "explain": "The group of Chinese directors, mostly from the Beijing Film Academy class of 1982, who changed Chinese cinema in the 1980s and early 1990s."
+    },
+    {
+      "term": "Sixth Generation",
+      "aliases": [],
+      "explain": "Chinese directors who emerged after 1989 and made low-budget, often underground films about the present-day city."
+    },
+    {
+      "term": "fourth generation",
+      "aliases": [
+        "Fourth Generation"
+      ],
+      "explain": "Chinese directors who trained in the early 1960s and began their careers late because of the Cultural Revolution, such as Wu Tianming and Xie Fei."
+    },
+    {
+      "term": "Beijing Film Academy",
+      "aliases": [
+        "Film Academy"
+      ],
+      "explain": "China's main film school, founded in 1950, closed to new students during the Cultural Revolution and reopened in 1978."
+    },
+    {
+      "term": "class of 1982",
+      "aliases": [],
+      "explain": "The students admitted to the Beijing Film Academy in 1978 who graduated in 1982 and formed the core of the Fifth Generation."
+    },
+    {
+      "term": "Cultural Revolution",
+      "aliases": [],
+      "explain": "Mao Zedong's political campaign from 1966 to 1976, which shut down schools and most film production and sent millions of young people to the countryside."
+    },
+    {
+      "term": "sent-down youth",
+      "aliases": [],
+      "explain": "Urban young people sent to live and work in villages and farms during the Cultural Revolution."
+    },
+    {
+      "term": "Anti-Rightist Movement",
+      "aliases": [],
+      "explain": "A 1957 to 1959 campaign that punished intellectuals who had criticised the Communist Party."
+    },
+    {
+      "term": "scar dramas",
+      "aliases": [
+        "scar drama"
+      ],
+      "explain": "Films of the late 1970s and early 1980s about suffering during the Cultural Revolution, mostly made by older directors."
+    },
+    {
+      "term": "roots-seeking",
+      "aliases": [
+        "roots-seeking writers",
+        "roots-seeking movement"
+      ],
+      "explain": "A Chinese literary movement of the mid-1980s that looked to rural life and older traditions for the deep roots of Chinese culture."
+    },
+    {
+      "term": "socialist realism",
+      "aliases": [
+        "Soviet socialist realism"
+      ],
+      "explain": "The official Soviet style of art, which showed life in an idealised way to serve the Communist cause."
+    },
+    {
+      "term": "Guangxi Film Studio",
+      "aliases": [],
+      "explain": "A small state studio in southern China that let the young Fifth Generation crew make One and Eight and Yellow Earth."
+    },
+    {
+      "term": "Xi'an Film Studio",
+      "aliases": [],
+      "explain": "A state studio in Shaanxi that, under Wu Tianming in the 1980s, supported young directors and co-produced Red Sorghum."
+    },
+    {
+      "term": "Eighth Route Army",
+      "aliases": [],
+      "explain": "A Communist army in northern China during the war against Japan."
+    },
+    {
+      "term": "loess plateau",
+      "aliases": [],
+      "explain": "The high plateau of fine yellow soil in northern China around the Yellow River, where Yellow Earth is set."
+    },
+    {
+      "term": "Tiananmen Square protests",
+      "aliases": [
+        "Tiananmen"
+      ],
+      "explain": "Mass protests in Beijing in spring 1989, ended by a military crackdown on 4 June, after which censorship tightened."
+    },
+    {
+      "term": "Chen Kaige",
+      "aliases": [],
+      "explain": "Fifth Generation director of Yellow Earth and Farewell My Concubine, the first Chinese director to win the Palme d'Or."
+    },
+    {
+      "term": "Zhang Yimou",
+      "aliases": [],
+      "explain": "Cinematographer turned director of Red Sorghum, Raise the Red Lantern and To Live, later a maker of large commercial films."
+    },
+    {
+      "term": "Tian Zhuangzhuang",
+      "aliases": [],
+      "explain": "Fifth Generation director of The Horse Thief and The Blue Kite, banned from filmmaking after The Blue Kite."
+    },
+    {
+      "term": "Zhang Junzhao",
+      "aliases": [],
+      "explain": "Fifth Generation director of One and Eight (1983)."
+    },
+    {
+      "term": "Li Shaohong",
+      "aliases": [],
+      "explain": "Fifth Generation director often called China's leading woman director, known for Bloody Morning."
+    },
+    {
+      "term": "Peng Xiaolian",
+      "aliases": [],
+      "explain": "Fifth Generation director and writer (1953 to 2019), known for her films about Shanghai."
+    },
+    {
+      "term": "Hu Mei",
+      "aliases": [],
+      "explain": "Fifth Generation woman director of Army Nurse (1985)."
+    },
+    {
+      "term": "Huang Jianxin",
+      "aliases": [],
+      "explain": "Director of The Black Cannon Incident, often grouped with the Fifth Generation."
+    },
+    {
+      "term": "Wu Tianming",
+      "aliases": [],
+      "explain": "Fourth generation director and head of the Xi'an Film Studio who supported young filmmakers; director of Old Well."
+    },
+    {
+      "term": "Xie Jin",
+      "aliases": [],
+      "explain": "Third generation director of popular melodramas, including the scar drama Legend of Tianyun Mountain."
+    },
+    {
+      "term": "Fei Mu",
+      "aliases": [],
+      "explain": "Second generation director of Spring in a Small Town (1948)."
+    },
+    {
+      "term": "Gong Li",
+      "aliases": [],
+      "explain": "Actress who rose to fame in Zhang Yimou's films from Red Sorghum onward."
+    },
+    {
+      "term": "Leslie Cheung",
+      "aliases": [],
+      "explain": "Hong Kong singer and actor who starred in Farewell My Concubine."
+    },
+    {
+      "term": "Ge You",
+      "aliases": [],
+      "explain": "Actor who won Best Actor at Cannes in 1994 for To Live."
+    },
+    {
+      "term": "Mo Yan",
+      "aliases": [],
+      "explain": "Chinese novelist whose Red Sorghum was filmed by Zhang Yimou; Nobel Prize in Literature 2012."
+    },
+    {
+      "term": "Su Tong",
+      "aliases": [],
+      "explain": "Novelist whose novella Wives and Concubines became Raise the Red Lantern."
+    },
+    {
+      "term": "Yu Hua",
+      "aliases": [],
+      "explain": "Novelist whose book To Live was filmed by Zhang Yimou."
+    },
+    {
+      "term": "Richard James Havis",
+      "aliases": [],
+      "explain": "Writer on Chinese cinema who described Yellow Earth as telling its story through images rather than dialogue."
+    },
+    {
+      "term": "Hou Hsiao-hsien",
+      "aliases": [],
+      "explain": "Taiwan New Cinema director of A City of Sadness and an executive producer of Raise the Red Lantern."
+    },
+    {
+      "term": "Edward Yang",
+      "aliases": [],
+      "explain": "Taiwan New Cinema director of films about modern Taipei."
+    },
+    {
+      "term": "Ann Hui",
+      "aliases": [],
+      "explain": "Hong Kong New Wave director."
+    },
+    {
+      "term": "Tsui Hark",
+      "aliases": [],
+      "explain": "Hong Kong New Wave director and producer."
+    },
+    {
+      "term": "Jane Campion",
+      "aliases": [],
+      "explain": "New Zealand director of The Piano, which shared the 1993 Palme d'Or with Farewell My Concubine."
+    },
+    {
+      "term": "Zhang Yuan",
+      "aliases": [],
+      "explain": "Sixth Generation director of Mama and Beijing Bastards."
+    },
+    {
+      "term": "Jia Zhangke",
+      "aliases": [],
+      "explain": "Sixth Generation director of Xiao Wu and later films about China's changing small towns."
+    },
+    {
+      "term": "One and Eight",
+      "aliases": [],
+      "explain": "Zhang Junzhao's 1983 war film, shot by Zhang Yimou, often called the first Fifth Generation film."
+    },
+    {
+      "term": "Yellow Earth",
+      "aliases": [],
+      "explain": "Chen Kaige's 1984 film about a soldier collecting folk songs and a village girl facing an arranged marriage."
+    },
+    {
+      "term": "The Big Parade",
+      "aliases": [],
+      "explain": "Chen Kaige's 1986 film about soldiers training for a parade."
+    },
+    {
+      "term": "King of the Children",
+      "aliases": [],
+      "explain": "Chen Kaige's 1987 film about a teacher at a mountain school during the Cultural Revolution."
+    },
+    {
+      "term": "Farewell My Concubine",
+      "aliases": [],
+      "explain": "Chen Kaige's 1993 film about two Peking opera actors, joint winner of the Palme d'Or."
+    },
+    {
+      "term": "Red Sorghum",
+      "aliases": [],
+      "explain": "Zhang Yimou's 1988 debut as director, from Mo Yan's novel, winner of the Golden Bear."
+    },
+    {
+      "term": "Ju Dou",
+      "aliases": [],
+      "explain": "Zhang Yimou's 1990 film set in a dye house, the first Chinese film nominated for the foreign-language Oscar."
+    },
+    {
+      "term": "Raise the Red Lantern",
+      "aliases": [],
+      "explain": "Zhang Yimou's 1991 film about a young woman who becomes a rich man's fourth wife."
+    },
+    {
+      "term": "The Story of Qiu Ju",
+      "aliases": [],
+      "explain": "Zhang Yimou's 1992 film about a peasant woman seeking justice, winner of the Golden Lion."
+    },
+    {
+      "term": "To Live",
+      "aliases": [],
+      "explain": "Zhang Yimou's 1994 film following one family through decades of political upheaval."
+    },
+    {
+      "term": "Not One Less",
+      "aliases": [],
+      "explain": "Zhang Yimou's 1999 realist film about a young substitute teacher in a village school."
+    },
+    {
+      "term": "Hero",
+      "aliases": [],
+      "explain": "Zhang Yimou's 2002 martial arts epic, which began China's era of big commercial productions."
+    },
+    {
+      "term": "On the Hunting Ground",
+      "aliases": [],
+      "explain": "Tian Zhuangzhuang's 1985 film set among herders in Inner Mongolia."
+    },
+    {
+      "term": "The Horse Thief",
+      "aliases": [],
+      "explain": "Tian Zhuangzhuang's 1986 film about a Tibetan horse thief, with very little dialogue."
+    },
+    {
+      "term": "The Blue Kite",
+      "aliases": [],
+      "explain": "Tian Zhuangzhuang's 1993 film about a Beijing family in the 1950s and 1960s, banned in China."
+    },
+    {
+      "term": "Old Well",
+      "aliases": [],
+      "explain": "Wu Tianming's 1987 film about a village searching for water, with Zhang Yimou in the lead role."
+    },
+    {
+      "term": "Army Nurse",
+      "aliases": [],
+      "explain": "Hu Mei's 1985 film about a young army nurse who gives up her personal life for duty."
+    },
+    {
+      "term": "Bloody Morning",
+      "aliases": [],
+      "explain": "Li Shaohong's 1990 film, winner of the Golden Montgolfiere at Nantes in 1992."
+    },
+    {
+      "term": "The Black Cannon Incident",
+      "aliases": [],
+      "explain": "Huang Jianxin's 1985 satire about an engineer suspected of spying over a lost chess piece."
+    },
+    {
+      "term": "Legend of Tianyun Mountain",
+      "aliases": [],
+      "explain": "Xie Jin's 1980 scar drama."
+    },
+    {
+      "term": "Spring in a Small Town",
+      "aliases": [],
+      "explain": "Fei Mu's 1948 film, one of the most admired Chinese films before 1949."
+    },
+    {
+      "term": "Street Angels",
+      "aliases": [],
+      "explain": "A 1937 Shanghai film, starring Zhou Xuan, from the second generation era."
+    },
+    {
+      "term": "In Our Time",
+      "aliases": [],
+      "explain": "The 1982 Taiwan anthology film that began Taiwan New Cinema."
+    },
+    {
+      "term": "A City of Sadness",
+      "aliases": [],
+      "explain": "Hou Hsiao-hsien's 1989 film about the 228 Incident, winner of the Golden Lion."
+    },
+    {
+      "term": "The Piano",
+      "aliases": [],
+      "explain": "Jane Campion's 1993 film, which shared the Palme d'Or with Farewell My Concubine."
+    },
+    {
+      "term": "Mama",
+      "aliases": [],
+      "explain": "Zhang Yuan's 1990 film, an early Sixth Generation work."
+    },
+    {
+      "term": "Beijing Bastards",
+      "aliases": [],
+      "explain": "Zhang Yuan's 1993 film about young people and rock music in Beijing."
+    },
+    {
+      "term": "Xiao Wu",
+      "aliases": [],
+      "explain": "Jia Zhangke's 1997 debut about a small-town pickpocket."
+    },
+    {
+      "term": "Wives and Concubines",
+      "aliases": [],
+      "explain": "Su Tong's 1990 novella, the source of Raise the Red Lantern."
+    },
+    {
+      "term": "Golden Bear",
+      "aliases": [],
+      "explain": "The top prize of the Berlin International Film Festival."
+    },
+    {
+      "term": "Golden Lion",
+      "aliases": [],
+      "explain": "The top prize of the Venice Film Festival."
+    },
+    {
+      "term": "Silver Lion",
+      "aliases": [],
+      "explain": "A major prize at the Venice Film Festival, usually for direction."
+    },
+    {
+      "term": "Palme d'Or",
+      "aliases": [],
+      "explain": "The top prize of the Cannes Film Festival."
+    },
+    {
+      "term": "Grand Prix",
+      "aliases": [
+        "Cannes Grand Prix"
+      ],
+      "explain": "The second-highest prize at Cannes."
+    },
+    {
+      "term": "Golden Montgolfiere",
+      "aliases": [],
+      "explain": "The top prize of the Three Continents Festival in Nantes, France."
+    },
+    {
+      "term": "Technicolor",
+      "aliases": [],
+      "explain": "A colour film process known for very saturated colours, used by Zhang Yimou for Ju Dou."
+    },
+    {
+      "term": "Peking opera",
+      "aliases": [],
+      "explain": "China's best-known traditional theatre form, combining singing, acting and acrobatics."
+    },
+    {
+      "term": "co-production",
+      "aliases": [],
+      "explain": "A film financed and made by companies from more than one country or territory."
+    },
+    {
+      "term": "Taiwan New Cinema",
+      "aliases": [],
+      "explain": "Taiwan's film movement of the 1980s, led by Hou Hsiao-hsien and Edward Yang."
+    },
+    {
+      "term": "Hong Kong New Wave",
+      "aliases": [],
+      "explain": "Hong Kong's film movement from about 1979, led by directors such as Ann Hui and Tsui Hark."
+    },
+    {
+      "term": "228 Incident",
+      "aliases": [],
+      "explain": "The 1947 uprising in Taiwan and its violent suppression by the Nationalist government."
+    },
+    {
+      "term": "Italian Neorealism",
+      "aliases": [],
+      "explain": "The post-war Italian film movement of real locations and ordinary people."
+    },
+    {
+      "term": "French New Wave",
+      "aliases": [],
+      "explain": "The French film movement of the late 1950s and 1960s."
+    },
+    {
+      "term": "Hu Feng",
+      "aliases": [],
+      "explain": "A Chinese literary critic purged in 1955; many people linked to him, including Peng Xiaolian's father, were punished."
+    }
+  ]
+}
