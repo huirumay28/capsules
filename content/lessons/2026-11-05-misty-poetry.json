@@ -1,0 +1,962 @@
+{
+  "slug": "misty-poetry",
+  "date": "2026-11-05",
+  "subject": "literature",
+  "related": [
+    "fifth-generation-chinese-cinema",
+    "cultural-revolution",
+    "high-modernism",
+    "french-symbolism",
+    "negritude",
+    "taiwan-nativist-literature",
+    "taiwan-womens-fiction",
+    "existentialism",
+    "beat-generation",
+    "may-fourth"
+  ],
+  "title": "Misty Poetry (朦胧诗), c. 1978–1989: from Today magazine to exile",
+  "dek": "After the Cultural Revolution, a generation of Chinese poets who had written in secret began publishing poems that older critics called 'misty' or 'obscure'. Their unofficial magazine Today (今天) was handed out at Democracy Wall in Beijing. This lesson explains who they were, what 'misty' meant, how the state first allowed and then attacked them, and how their story connects to Fifth Generation cinema and to underground writing elsewhere.",
+  "era": "c. 1978–1989, with roots in underground writing during the Cultural Revolution and an afterlife in exile after 1989",
+  "reading_minutes": 18,
+  "thumb": null,
+  "hero": null,
+  "honesty": "This lesson keeps to facts documented in the English Wikipedia articles on the Misty Poets, Jintian (Today), Bei Dao, Gu Cheng, Shu Ting and Yang Lian, plus cross-checks against published literary histories cited there. Poem titles and publication years follow those articles. Where secondary sources disagree on small details (for example exact issue counts or the precise wording of critical attacks), the lesson uses the most commonly repeated, sourced version and leaves out unsupported colour. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1966–1976",
+      "label": "Cultural Revolution",
+      "detail": "Schools close, many teenagers become Red Guards and are later sent to the countryside. Official poetry is expected to serve politics. An underground of handwritten and typed poems still circulates among friends."
+    },
+    {
+      "year": "1976",
+      "label": "Tiananmen Incident",
+      "detail": "Public mourning for Zhou Enlai in April turns into protests that are suppressed. Bei Dao takes part and drafts what becomes his poem The Answer (回答)."
+    },
+    {
+      "year": "1978",
+      "label": "Today begins",
+      "detail": "Bei Dao and Mang Ke found the unofficial journal Jintian (今天, Today) in Beijing. The first issue appears in December and is posted and handed out around Democracy Wall."
+    },
+    {
+      "year": "1979",
+      "label": "The Answer in Poetry Monthly",
+      "detail": "Bei Dao's The Answer appears in the official journal Poetry (诗刊). The refrain 'I don't believe' becomes a catchphrase among young readers. Today also hosts poetry readings and shows by the unofficial Stars painters."
+    },
+    {
+      "year": "1980",
+      "label": "Today banned",
+      "detail": "After nine issues and four books, authorities shut Today down. The label 'misty' or 'obscure' poetry (朦胧诗) sticks from critical debates that year."
+    },
+    {
+      "year": "1981–1983",
+      "label": "Official prizes and attacks",
+      "detail": "Shu Ting wins national poetry awards. In late 1983 the Anti-Spiritual Pollution Campaign targets humanist and modernist writing; Yang Lian's poem Norlang (诺日朗) is attacked and Bei Dao's work is briefly banned."
+    },
+    {
+      "year": "1985–1988",
+      "label": "Wider recognition",
+      "detail": "English translations appear. Bei Dao teaches abroad. Younger poets begin to revolt against Misty style and start more experimental 'post-Misty' scenes, especially in Sichuan."
+    },
+    {
+      "year": "1989",
+      "label": "Tiananmen and exile",
+      "detail": "Protesters quote Bei Dao on banners. After the June crackdown he and several other Misty poets are barred from returning or leave. Today is revived abroad in 1990 from Stockholm."
+    },
+    {
+      "year": "1993",
+      "label": "Gu Cheng's death",
+      "detail": "In New Zealand, Gu Cheng kills his wife Xie Ye and then himself. The case dominates Chinese media coverage of the exiled poets for years."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "read": [
+    {
+      "title": "Wikipedia — Misty Poets",
+      "url": "https://en.wikipedia.org/wiki/Misty_Poets",
+      "note": "Overview of the group, the name, and the main poets."
+    },
+    {
+      "title": "Wikipedia — Jintian (Today)",
+      "url": "https://en.wikipedia.org/wiki/Jintian_(journal)",
+      "note": "The unofficial 1978–1980 journal and its later revival in exile."
+    },
+    {
+      "title": "Wikipedia — Bei Dao",
+      "url": "https://en.wikipedia.org/wiki/Bei_Dao",
+      "note": "Zhao Zhenkai's life, The Answer, exile, and later years in Hong Kong."
+    },
+    {
+      "title": "Wikipedia — Gu Cheng",
+      "url": "https://en.wikipedia.org/wiki/Gu_Cheng",
+      "note": "The poet of A Generation, and the New Zealand tragedy of 1993."
+    },
+    {
+      "title": "Wikipedia — Shu Ting",
+      "url": "https://en.wikipedia.org/wiki/Shu_Ting",
+      "note": "The best-known woman Misty poet and her official prizes."
+    },
+    {
+      "title": "Wikipedia — Yang Lian",
+      "url": "https://en.wikipedia.org/wiki/Yang_Lian_(poet)",
+      "note": "Norlang and the 1983 campaign against 'spiritual pollution'."
+    },
+    {
+      "title": "Wikipedia — Democracy Wall",
+      "url": "https://en.wikipedia.org/wiki/Democracy_Wall",
+      "note": "The Beijing wall where unofficial journals were posted in 1978–1979."
+    },
+    {
+      "title": "Wikipedia — Anti-Spiritual Pollution Campaign",
+      "url": "https://en.wikipedia.org/wiki/Anti-Spiritual_Pollution_Campaign",
+      "note": "The short late-1983 crackdown that hit modernist literature and Misty poetry."
+    },
+    {
+      "title": "Academy of American Poets — Bei Dao",
+      "url": "https://poets.org/poet/bei-dao",
+      "note": "A short English introduction and sample poems."
+    },
+    {
+      "title": "Wikipedia — Roots-seeking movement",
+      "url": "https://en.wikipedia.org/wiki/Roots-seeking_movement",
+      "note": "The mid-1980s prose movement that fed Fifth Generation films and overlapped with Misty concerns."
+    }
+  ],
+  "fun_fact": {
+    "title": "The insult that became the brand",
+    "text": "The poets did not name themselves Misty. In 1980, at poetry meetings and in the press, older critics attacked the new writing as 朦胧 — hazy, obscure, hard to understand — and the insult stuck as the public label. Gu Cheng later flipped the charge: he said the new poetry began in objective realism and moved toward a subjective realism, from passive reaction to active creation. The English phrases 'Misty Poets' and 'Obscure Poetry' are both translations of that same critical word."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A decade when poetry was supposed to serve the Party",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "To see why Misty Poetry felt new, you have to see what official Chinese poetry looked like under Mao. At the Yan'an Forum on Literature and Art in 1942, Mao Zedong had said that literature and art should educate the masses and serve revolutionary politics. After 1949 that line became policy. Poems were expected to be clear, uplifting and useful. One often-quoted example of the style runs: the moon follows the earth, the earth follows the sun, oil follows our steps, and we shall always follow the Communist Party. There was little room for private doubt, private love, or private metaphor."
+        },
+        {
+          "type": "p",
+          "text": "Then came the Cultural Revolution (1966–1976). Schools closed. Teenagers joined Red Guard factions, denounced teachers, and later many were sent 'up to the mountains and down to the countryside'. Publishing literature outside official channels was dangerous. Even so, handwritten and typed poems moved among friends. Guo Lusheng, also known as Shi Zhi (食指), was writing searching, personal poems by the late 1960s and became an early model for younger writers. Bei Dao, still a teenager, spent time as a Red Guard, then years as a construction worker outside Beijing. Gu Cheng's family was sent to rural Shandong to raise pigs; he later said he learned poetry from nature there. Shu Ting was moved to the countryside after her father was accused of political error, then worked in a cement factory, a textile mill and a lightbulb factory in Fujian."
+        },
+        {
+          "type": "p",
+          "text": "By the mid-1970s many of these young people were disillusioned. Mao died in 1976. The Gang of Four was arrested. The rules that had bound culture began to loosen, though they did not disappear. That opening is the door Misty Poetry walked through."
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "The spark",
+      "title": "Today magazine at Democracy Wall",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In December 1978 Bei Dao and Mang Ke launched an unofficial literary journal called Jintian (今天), Today. It was the first non-official literary magazine in the People's Republic since the 1950s. Issues were mimeographed, posted as broadsheets, and handed out around Beijing's Democracy Wall, the stretch of wall where people were then sticking up big-character posters about politics and reform. Today ran for nine issues until it was banned in 1980. It also published four books and held two poetry readings (8 April and 21 October 1979) and two exhibitions of the Stars (星星), the first major unofficial painters' group."
+        },
+        {
+          "type": "p",
+          "text": "The first issue carried Bei Dao's poem The Answer (回答). Its refrain — 'I don't believe' (我不相信) — spread quickly among young readers. In March 1979 the poem also appeared in the official journal Poetry (诗刊), which gave it a much larger audience. The poem's stance was not a party programme. It was a refusal: a speaker who would not accept the old slogans at face value. That tone, more than any single political demand, is what people remember."
+        },
+        {
+          "type": "p",
+          "text": "Today printed work by Bei Dao, Mang Ke, Duo Duo, Shu Ting, Yang Lian, Jiang He, Gu Cheng and others. Critics later bundled many of them under the name Misty Poets (朦胧诗人). They were never a formal school with a manifesto. They were a network that shared a magazine, a distrust of official language, and a taste for personal images that older readers found hard to decode."
+        }
+      ]
+    },
+    {
+      "id": "style",
+      "kicker": "The idea",
+      "title": "What 'misty' actually meant",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The word 朦胧 means hazy, dim, hard to see clearly. In 1980, at a national poetry conference in Nanning and in the literary press, older poets and critics used it as a complaint. The new poems used private symbols, skipped clear grammar, and did not end with an obvious moral. To readers trained on socialist-realist verse, that looked wilfully obscure. The label stuck — first as an attack, then as a brand."
+        },
+        {
+          "type": "p",
+          "text": "What the poets were doing was not mysticism for its own sake. After years of public language that claimed to explain everything, they wrote poems that left space for the individual mind. Images of night, walls, islands, oaks, ships and eyes replaced slogans. Meaning often arrived through juxtaposition rather than argument. Gu Cheng put it this way: the new poetry began with objective realism but veered toward subjective realism; it moved from passive reaction to active creation."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Personal pronouns and private feeling, after a decade when the collective 'we' had dominated official verse.",
+            "Compressed, sometimes puzzling images instead of plain description and political punchlines.",
+            "Skepticism toward official truth — Bei Dao's 'I don't believe' is the clearest example.",
+            "A link back to world modernism (symbolism, surrealism, high modernism) that Mao-era policy had cut off."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "The field",
+      "title": "Bei Dao, Shu Ting, Gu Cheng, Mang Ke, Yang Lian",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bei Dao (北岛), born Zhao Zhenkai in Beijing in 1949, is the best-known figure abroad. Mang Ke chose the pen name for him — 'Northern Island' — because he came from the north and liked solitude. After Today was banned he worked as a journalist, translated foreign poets, and saw his work move in and out of official favour. During the Anti-Spiritual Pollution Campaign of 1983–84 his poetry was briefly banned in China. By 1989 he was abroad; after the Tiananmen crackdown he was barred from returning, lived as a stateless exile for years, taught in Europe and the United States, and later settled in Hong Kong. His poem Declaration (宣告) was quoted by student leaders in 1989."
+        },
+        {
+          "type": "p",
+          "text": "Shu Ting (舒婷), born Gong Peiyu in Fujian in 1952, became the leading woman poet of the group. She published in Today, then won National Outstanding Poetry Awards in 1981 and 1983 and was invited into the Chinese Writers' Association — the only Misty poet to receive that level of official support early on. Her poems, including To the Oak (致橡树), spoke in a direct, personal voice about dignity in love and work. Even she was heavily criticised during the 1983 campaign."
+        },
+        {
+          "type": "p",
+          "text": "Gu Cheng (顾城), born in Beijing in 1956, was the son of the army poet Gu Gong. His two-line poem A Generation (一代人) — 'The darkest night gave me dark-colored eyes / Yet with them I'm seeking light' — became one of the most quoted Chinese poems of the era. He left China in 1987, settled on Waiheke Island in New Zealand with his wife Xie Ye, and taught Chinese at the University of Auckland. In October 1993 he attacked Xie Ye with an axe and then hanged himself. The case was covered intensively in the Chinese press and still shadows how many readers meet his work."
+        },
+        {
+          "type": "p",
+          "text": "Mang Ke (芒克) co-founded Today and kept writing spare, lyrical poems. Yang Lian (杨炼), born in 1955, wrote longer, myth-heavy sequences; his poem Norlang (诺日朗 / Nuorilang), named after a waterfall in Tibet and published in Shanghai Literature in 1983, was a main target of the Anti-Spiritual Pollution attacks. Duo Duo, Jiang He and others filled out the circle. After 1989 several of them lived in exile; Today was restarted overseas in 1990 with Bei Dao as editor."
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "Deep dive",
+      "title": "The Answer: a poem that became a password",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Answer is short enough to copy by hand and sharp enough to remember. It opens with a speaker facing a world of judgement — 'baseness is the password of the base, honour is the epitaph of the honourable' in one common English rendering — and then turns to a list of refusals: I don't believe the sky is blue; I don't believe the echo of thunder; I don't believe that dreams don't tell the truth; I don't believe that death brings no recompense. The poem ends not with a party line but with a claim that the future will choose."
+        },
+        {
+          "type": "p",
+          "text": "Why did it matter so much? Because it put disbelief in print after a decade when public speech had demanded belief. It did not name Mao or the Cultural Revolution. It did not need to. Readers who had lived through struggle sessions and countryside exile heard themselves in the refusals. When the poem moved from the mimeographed pages of Today into Poetry Monthly, that private feeling entered an official channel — briefly. Ten years later, during the 1989 protests, lines from Bei Dao were painted on banners again. The poem had become a password across two different openings in Chinese public life."
+        },
+        {
+          "type": "p",
+          "text": "Bei Dao has often said he does not want to be read only as a political poet. The politics is real, but so is the craft: broken grammar, stacked images, a voice that refuses to explain itself completely. That combination is what made older critics call the work misty, and what made younger readers keep copying it."
+        }
+      ]
+    },
+    {
+      "id": "campaign",
+      "kicker": "The crack",
+      "title": "Praise, prizes, then 'spiritual pollution'",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Deng Xiaoping's early reform years did not mean permanent free speech. Culture moved in pulses of opening and closing. Today was banned in 1980, but individual Misty poems still appeared in official journals. Shu Ting won national awards. Translators began publishing the poets in English — Renditions in Hong Kong printed Bei Dao in 1983; anthologies followed."
+        },
+        {
+          "type": "p",
+          "text": "In late 1983 the Party launched the Anti-Spiritual Pollution Campaign. It was aimed at 'bourgeois' ideas said to be seeping in with economic reform: humanism, alienation, modernist form. Misty poetry was an easy target because it was already famous and already disputed. Yang Lian's Norlang was condemned; friends warned him and he avoided arrest. Bei Dao's work was kept out of print for a stretch. The campaign itself was short — it faded by early 1984 — but it showed the poets how quickly the window could shut."
+        },
+        {
+          "type": "p",
+          "text": "After that, Misty Poetry was both established and contested. By the mid-1980s a younger 'third generation' of poets, especially in Sichuan, began rejecting Misty lyricism as too soft or too mythic. Scar literature and roots-seeking fiction were telling related stories in prose. Fifth Generation filmmakers — yesterday's Capsules lesson — were turning some of the same post-Cultural Revolution energy into images. Poetry was no longer the only place the thaw was happening."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What else was happening in poetry at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Misty Poetry was a Chinese answer to a Chinese silence, but it was not alone in the world. In the Soviet Union and Eastern Europe, samizdat poets and banned writers had long circulated typed manuscripts outside state presses — a cousin to Today's mimeograph culture, though the political systems differed. In the United States the last waves of Beat and confessional energy had already passed; Language poetry and other experimental scenes were arguing about whether the lyric 'I' could still be trusted. High modernism's difficulty, which Misty critics attacked as foreign pollution, was old news in Europe."
+        },
+        {
+          "type": "p",
+          "text": "Closer to home, Taiwan in the late 1970s and 1980s was fighting its own literature wars. Nativist writers argued for local speech and local reality against mainland-centred modernism — a different quarrel from Beijing's, but another place where the question 'whose language counts?' was urgent. Across the Pacific, Chinese-language poets in Hong Kong and in diaspora communities read the Misty poems as they appeared in translation and in traveller's copies."
+        },
+        {
+          "type": "p",
+          "text": "The Misty poets also left a mark outside literature. China's first generation of rock musicians, especially Cui Jian, drew on their tone and imagery. Uyghur poets in the 1980s developed a 'gungga' (hazy) manner partly under Misty influence, including freer verse forms. The local quarrel about obscurity became, for a while, an international style signal: Chinese poetry that sounded modern to foreign ears."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Exile, revival, and the argument that never quite ended",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "June 1989 changed the map. Bei Dao, already abroad, was banned from China. Gu Cheng, Yang Lian, Duo Duo and others lived outside the country for years. In 1990 Bei Dao and fellow exiles revived Today from Stockholm as a journal for Chinese writing abroad; it later moved online. Some poets eventually returned for visits or posts — Bei Dao has taught in Hong Kong and has been allowed brief mainland trips — but the easy link between underground magazine and Democracy Wall street corner was gone."
+        },
+        {
+          "type": "p",
+          "text": "Inside China the label Misty became textbook history. New poets defined themselves against it. Critics still argue whether the poems were mainly political documents or mainly aesthetic experiments. Bei Dao keeps insisting on the second, while knowing the first is why many readers found him. Gu Cheng's murder-suicide in 1993 made the group's private costs public in the worst way. Shu Ting remained a respected official literary figure. The poems themselves — The Answer, A Generation, To the Oak — are still taught, quoted and argued over."
+        },
+        {
+          "type": "p",
+          "text": "If you read Fifth Generation Chinese cinema beside Misty Poetry, you see the same generation twice: people formed by the Cultural Revolution, released into the late-1970s thaw, celebrated abroad, and punished when politics hardened again. One medium used landscape and colour. The other used compressed lines you could copy into a notebook. Both asked whether Chinese art after Mao had to speak clearly for the state, or could speak obliquely for the self."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "When a critic calls a poem 'obscure', who is being asked to change — the poet, or the reader's idea of what poetry is for? Misty Poetry got its name from people who wanted clearer public speech. Its readers kept it because the unclear parts felt truer than the slogans. Where do you still see that fight — in art, in journalism, or in the way institutions ask people to explain themselves?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Misty Poets",
+      "aliases": [
+        "Misty Poet",
+        "朦胧诗人",
+        "朦胧诗",
+        "Misty Poetry",
+        "Obscure Poetry",
+        "menglong",
+        "朦胧"
+      ],
+      "explain": "Chinese poets of the late 1970s and 1980s whose personal, image-heavy free verse was attacked as 'misty' or 'obscure'. Associated with the unofficial journal Today."
+    },
+    {
+      "term": "Today",
+      "aliases": [
+        "Jintian",
+        "今天",
+        "Jīntiān"
+      ],
+      "explain": "Unofficial Beijing literary journal founded in 1978 by Bei Dao and Mang Ke. Ran nine issues until banned in 1980; revived abroad in 1990."
+    },
+    {
+      "term": "Bei Dao",
+      "aliases": [
+        "北岛",
+        "Zhao Zhenkai",
+        "赵振开",
+        "趙振開"
+      ],
+      "explain": "Pen name of Zhao Zhenkai (b. 1949), co-founder of Today and the best-known Misty poet abroad. Wrote The Answer; lived in exile after 1989; later based in Hong Kong."
+    },
+    {
+      "term": "Mang Ke",
+      "aliases": [
+        "芒克"
+      ],
+      "explain": "Poet who co-founded Today with Bei Dao and chose Bei Dao's pen name. One of the core Misty circle."
+    },
+    {
+      "term": "Gu Cheng",
+      "aliases": [
+        "顾城",
+        "顧城"
+      ],
+      "explain": "Misty poet (1956–1993), author of the two-line poem A Generation. Died by suicide in New Zealand after killing his wife Xie Ye."
+    },
+    {
+      "term": "Shu Ting",
+      "aliases": [
+        "舒婷",
+        "Gong Peiyu",
+        "龚佩瑜",
+        "龔佩瑜"
+      ],
+      "explain": "Leading woman Misty poet (b. 1952). Published in Today, won national poetry awards in 1981 and 1983, and joined the Chinese Writers' Association."
+    },
+    {
+      "term": "Yang Lian",
+      "aliases": [
+        "杨炼",
+        "楊煉"
+      ],
+      "explain": "Misty poet (b. 1955) known for long, mythic sequences. His poem Norlang was attacked in the 1983 Anti-Spiritual Pollution Campaign."
+    },
+    {
+      "term": "Duo Duo",
+      "aliases": [
+        "多多"
+      ],
+      "explain": "Misty poet published in Today; later lived in exile after 1989."
+    },
+    {
+      "term": "Jiang He",
+      "aliases": [
+        "江河"
+      ],
+      "explain": "Misty poet published by Today; one of the four book authors in the magazine's short run."
+    },
+    {
+      "term": "Shi Zhi",
+      "aliases": [
+        "食指",
+        "Guo Lusheng",
+        "郭路生"
+      ],
+      "explain": "Poet of the sent-down generation whose late-1960s personal poems inspired several later Misty writers."
+    },
+    {
+      "term": "The Answer",
+      "aliases": [
+        "回答",
+        "Huida",
+        "I don't believe",
+        "我不相信"
+      ],
+      "explain": "Bei Dao's famous poem, drafted after the 1976 Tiananmen Incident and published in Today and then Poetry Monthly in 1979. Its refrain 'I don't believe' became a catchphrase."
+    },
+    {
+      "term": "A Generation",
+      "aliases": [
+        "一代人"
+      ],
+      "explain": "Gu Cheng's two-line poem about dark eyes seeking light; one of the most quoted Chinese poems of the period."
+    },
+    {
+      "term": "To the Oak",
+      "aliases": [
+        "致橡树",
+        "To Oak Tree"
+      ],
+      "explain": "Well-known Shu Ting poem about equal dignity in love, often taught as an example of her direct style."
+    },
+    {
+      "term": "Declaration",
+      "aliases": [
+        "宣告"
+      ],
+      "explain": "Bei Dao poem whose lines about not kneeling before executioners were quoted during the 1989 protests."
+    },
+    {
+      "term": "Norlang",
+      "aliases": [
+        "诺日朗",
+        "Nuorilang",
+        "Nuorilang"
+      ],
+      "explain": "Yang Lian poem sequence named after a Tibetan waterfall; published in Shanghai Literature in 1983 and attacked in the Anti-Spiritual Pollution Campaign."
+    },
+    {
+      "term": "Democracy Wall",
+      "aliases": [
+        "西单民主墙"
+      ],
+      "explain": "Wall in Beijing where, in 1978–1979, people posted political posters and where Today was distributed."
+    },
+    {
+      "term": "Cultural Revolution",
+      "aliases": [
+        "文化大革命",
+        "Wenhua Dageming"
+      ],
+      "explain": "Political campaign in China from 1966 to 1976 that shut schools, sent youth to the countryside, and tightly controlled art."
+    },
+    {
+      "term": "Yan'an Forum",
+      "aliases": [
+        "延安文艺座谈会",
+        "Yan'an Forum on Literature and Art"
+      ],
+      "explain": "1942 talks by Mao Zedong arguing that literature and art must serve revolutionary politics; the basis for later official cultural policy."
+    },
+    {
+      "term": "sent-down youth",
+      "aliases": [
+        "上山下乡",
+        "Up to the mountains and down to the countryside"
+      ],
+      "explain": "Campaign that sent urban teenagers to rural labour during the Cultural Revolution. Many Misty poets lived this experience."
+    },
+    {
+      "term": "Red Guards",
+      "aliases": [
+        "红卫兵"
+      ],
+      "explain": "Radical student groups in the early Cultural Revolution. Bei Dao briefly took part before becoming disillusioned."
+    },
+    {
+      "term": "Gang of Four",
+      "aliases": [
+        "四人帮"
+      ],
+      "explain": "Political faction around Jiang Qing, arrested in 1976; their fall helped end the Cultural Revolution."
+    },
+    {
+      "term": "1976 Tiananmen Incident",
+      "aliases": [
+        "四五天安门事件",
+        "April Fifth"
+      ],
+      "explain": "April 1976 protests in Tiananmen Square during mourning for Zhou Enlai; suppressed by the authorities. Bei Dao took part."
+    },
+    {
+      "term": "Anti-Spiritual Pollution Campaign",
+      "aliases": [
+        "清除精神污染",
+        "spiritual pollution"
+      ],
+      "explain": "Short late-1983 Party campaign against 'bourgeois' ideas in culture, including modernist and Misty writing."
+    },
+    {
+      "term": "Chinese Writers' Association",
+      "aliases": [
+        "中国作家协会"
+      ],
+      "explain": "Official state writers' body. Shu Ting was asked to join; most Misty poets stayed more marginal."
+    },
+    {
+      "term": "Poetry Monthly",
+      "aliases": [
+        "诗刊",
+        "Poetry",
+        "Shi Kan"
+      ],
+      "explain": "Major official poetry journal in Beijing. Publishing The Answer there in 1979 gave Bei Dao a mass audience."
+    },
+    {
+      "term": "Shanghai Literature",
+      "aliases": [
+        "上海文学"
+      ],
+      "explain": "Official literary journal that published Yang Lian's Norlang in 1983."
+    },
+    {
+      "term": "Stars",
+      "aliases": [
+        "星星画会",
+        "Stars Art Group"
+      ],
+      "explain": "Unofficial painters' group whose early exhibitions were hosted alongside Today events in 1979."
+    },
+    {
+      "term": "Scar literature",
+      "aliases": [
+        "伤痕文学"
+      ],
+      "explain": "Late-1970s Chinese fiction about suffering in the Cultural Revolution. A prose counterpart to the early Misty moment."
+    },
+    {
+      "term": "roots-seeking",
+      "aliases": [
+        "寻根文学",
+        "Roots-seeking movement",
+        "root-seeking"
+      ],
+      "explain": "Mid-1980s literary movement that looked for deep local culture; fed many Fifth Generation film scripts."
+    },
+    {
+      "term": "Fifth Generation",
+      "aliases": [
+        "第五代",
+        "Fifth Generation Chinese cinema"
+      ],
+      "explain": "Chinese film directors who graduated from the Beijing Film Academy around 1982, including Chen Kaige and Zhang Yimou. Same thaw generation as the Misty poets."
+    },
+    {
+      "term": "post-Misty",
+      "aliases": [
+        "第三代",
+        "third generation poets"
+      ],
+      "explain": "Younger Chinese poets of the mid-to-late 1980s who rebelled against Misty lyric style and pushed more experimental writing."
+    },
+    {
+      "term": "Cui Jian",
+      "aliases": [
+        "崔健"
+      ],
+      "explain": "Pioneer of Chinese rock music; his lyrics were influenced by Misty Poetry's tone."
+    },
+    {
+      "term": "Xie Ye",
+      "aliases": [
+        "谢烨"
+      ],
+      "explain": "Writer and wife of Gu Cheng; killed by him in New Zealand in October 1993."
+    },
+    {
+      "term": "Waiheke Island",
+      "aliases": [
+        "怀赫科岛"
+      ],
+      "explain": "Island near Auckland, New Zealand, where Gu Cheng and Xie Ye settled in 1987."
+    },
+    {
+      "term": "Renditions",
+      "aliases": [
+        "译丛"
+      ],
+      "explain": "Hong Kong translation journal that published Bei Dao and other Misty poets in English in the early 1980s."
+    },
+    {
+      "term": "samizdat",
+      "aliases": [
+        "samizdat"
+      ],
+      "explain": "Soviet-bloc practice of circulating banned writing in typed carbon copies. A rough parallel to China's unofficial journals."
+    },
+    {
+      "term": "mimeograph",
+      "aliases": [
+        "油印"
+      ],
+      "explain": "Stencil printing method used for unofficial magazines like Today before desktop publishing."
+    },
+    {
+      "term": "pen name",
+      "aliases": [
+        "笔名"
+      ],
+      "explain": "Literary pseudonym. Bei Dao ('Northern Island') was chosen by Mang Ke for Zhao Zhenkai."
+    },
+    {
+      "term": "free verse",
+      "aliases": [
+        "自由诗"
+      ],
+      "explain": "Poetry without fixed rhyme or metre. Misty poets wrote mainly in free verse rather than classical forms."
+    },
+    {
+      "term": "socialist realism",
+      "aliases": [
+        "社会主义现实主义"
+      ],
+      "explain": "Official art doctrine requiring clear, optimistic works that support socialist politics. Misty Poetry broke with it."
+    },
+    {
+      "term": "modernism",
+      "aliases": [
+        "现代主义"
+      ],
+      "explain": "Broad name for early-to-mid twentieth-century experimental art. Chinese critics often accused Misty poets of importing Western modernist obscurity."
+    },
+    {
+      "term": "symbolism",
+      "aliases": [
+        "象征主义"
+      ],
+      "explain": "Nineteenth-century poetic mode using private symbols; one of the foreign lineages readers heard in Misty imagery."
+    },
+    {
+      "term": "humanism",
+      "aliases": [
+        "人道主义"
+      ],
+      "explain": "Emphasis on individual human dignity. Attacked as 'spiritual pollution' in 1983 when it appeared in literature."
+    },
+    {
+      "term": "alienation",
+      "aliases": [
+        "异化"
+      ],
+      "explain": "Sense of estrangement from society or work; another target of the 1983 campaign when used in literary debate."
+    },
+    {
+      "term": "exile",
+      "aliases": [
+        "流亡"
+      ],
+      "explain": "Forced or chosen life outside one's country. After 1989 several Misty poets lived in exile for years."
+    },
+    {
+      "term": "stateless",
+      "aliases": [
+        "无国籍"
+      ],
+      "explain": "Without citizenship. Bei Dao was effectively stateless for years after 1989 before becoming a US citizen in 2009."
+    },
+    {
+      "term": "Tiananmen Square protests of 1989",
+      "aliases": [
+        "六四",
+        "1989 protests",
+        "Tiananmen"
+      ],
+      "explain": "Student-led protests in Beijing ended by military force on 4 June 1989. Misty poems were quoted by protesters; several poets were exiled afterward."
+    },
+    {
+      "term": "Deng Xiaoping",
+      "aliases": [
+        "邓小平"
+      ],
+      "explain": "Chinese leader after Mao who opened economic reform while keeping political control; the thaw and the crackdowns of the Misty years happened under him."
+    },
+    {
+      "term": "Zhou Enlai",
+      "aliases": [
+        "周恩来"
+      ],
+      "explain": "Chinese premier whose death in January 1976 prompted the mourning that became the 1976 Tiananmen Incident."
+    },
+    {
+      "term": "Mao Zedong",
+      "aliases": [
+        "毛泽东",
+        "Mao"
+      ],
+      "explain": "Leader of the People's Republic until 1976; his cultural policies shaped the poetry Misty writers rejected."
+    },
+    {
+      "term": "nativist literature",
+      "aliases": [
+        "乡土文学",
+        "Taiwan nativist"
+      ],
+      "explain": "Taiwanese literary movement of the 1960s–70s arguing for local reality and speech; a different 'whose language?' fight happening across the strait."
+    },
+    {
+      "term": "gungga",
+      "aliases": [
+        "朦胧诗维吾尔",
+        "hazy Uyghur poetry"
+      ],
+      "explain": "1980s Uyghur poetic tendency influenced by Misty Poetry, including freer verse; Ahmatjan Osman is often named with it."
+    },
+    {
+      "term": "High Modernism",
+      "aliases": [
+        "high modernism"
+      ],
+      "explain": "Early twentieth-century difficult literature (Joyce, Eliot, Woolf and others). Capsules lesson: high-modernism. Misty critics heard a related difficulty in the new Chinese poems."
+    },
+    {
+      "term": "French Symbolism",
+      "aliases": [
+        "symbolist"
+      ],
+      "explain": "French poetic movement of the late nineteenth century. Capsules lesson: french-symbolism. One of the European backgrounds for 'obscure' imagery."
+    },
+    {
+      "term": "Négritude",
+      "aliases": [
+        "Negritude"
+      ],
+      "explain": "Black francophone literary movement. Capsules lesson: negritude. Another case of writers reclaiming language after an imposed official culture."
+    },
+    {
+      "term": "Cultural Revolution lesson",
+      "aliases": [
+        "cultural-revolution"
+      ],
+      "explain": "Capsules history lesson on the Cultural Revolution, the decade that formed the Misty generation."
+    },
+    {
+      "term": "May Fourth",
+      "aliases": [
+        "五四",
+        "may-fourth"
+      ],
+      "explain": "1919 Chinese cultural and political movement that earlier remade vernacular literature. Capsules lesson: may-fourth."
+    },
+    {
+      "term": "Waves",
+      "aliases": [
+        "波动"
+      ],
+      "explain": "Bei Dao novella drafted in the mid-1970s and later published; written partly in secret during the Cultural Revolution."
+    },
+    {
+      "term": "City Gate, Open Up",
+      "aliases": [
+        "城门开"
+      ],
+      "explain": "Bei Dao's memoir of his Beijing youth, published in Chinese in 2010 and in English in 2017."
+    },
+    {
+      "term": "Shuangwei Chuan",
+      "aliases": [
+        "双桅船",
+        "Twin-Masted Ship"
+      ],
+      "explain": "Shu Ting's first poetry collection, 1982."
+    },
+    {
+      "term": "The Poet",
+      "aliases": [
+        "顾城别恋"
+      ],
+      "explain": "1998 film dramatising Gu Cheng's life and the killing of Xie Ye."
+    },
+    {
+      "term": "International Poetry Nights in Hong Kong",
+      "aliases": [
+        "香港国际诗歌之夜"
+      ],
+      "explain": "Poetry festival Bei Dao helped launch in Hong Kong in 2009."
+    },
+    {
+      "term": "Chinese University of Hong Kong",
+      "aliases": [
+        "香港中文大学",
+        "CUHK"
+      ],
+      "explain": "University where Bei Dao joined the faculty in 2007."
+    },
+    {
+      "term": "University of Auckland",
+      "aliases": [],
+      "explain": "New Zealand university where Gu Cheng taught Chinese while living on Waiheke Island."
+    },
+    {
+      "term": "PEN International",
+      "aliases": [
+        "国际笔会"
+      ],
+      "explain": "Writers' organisation; Bei Dao's appearance at a 1989 meeting prompted the official Chinese delegation to walk out."
+    },
+    {
+      "term": "Wei Jingsheng",
+      "aliases": [
+        "魏京生"
+      ],
+      "explain": "Democracy activist whose release Bei Dao and others petitioned for in early 1989."
+    },
+    {
+      "term": "Chai Ling",
+      "aliases": [
+        "柴玲"
+      ],
+      "explain": "1989 student leader who quoted Bei Dao's Declaration after leaving China."
+    },
+    {
+      "term": "Bonnie S. McDougall",
+      "aliases": [
+        "McDougall"
+      ],
+      "explain": "Scholar and translator who wrote major English criticism and translations of Bei Dao."
+    },
+    {
+      "term": "Ahmatjan Osman",
+      "aliases": [],
+      "explain": "Uyghur poet associated with the 1980s gungga (hazy) tendency influenced by Misty Poetry."
+    },
+    {
+      "term": "objective realism",
+      "aliases": [],
+      "explain": "Gu Cheng's phrase for starting from the outer world before turning inward in Misty technique."
+    },
+    {
+      "term": "subjective realism",
+      "aliases": [],
+      "explain": "Gu Cheng's phrase for Misty poetry's turn toward inner perception and active creation."
+    },
+    {
+      "term": "big-character posters",
+      "aliases": [
+        "大字报"
+      ],
+      "explain": "Large handwritten political posters; Democracy Wall was covered with them in 1978–1979."
+    },
+    {
+      "term": "book number",
+      "aliases": [
+        "书号"
+      ],
+      "explain": "Official publishing permit number required for legal books and magazines in China; Today had none."
+    },
+    {
+      "term": "unofficial journal",
+      "aliases": [
+        "民刊",
+        "non-official journal"
+      ],
+      "explain": "Magazine published without a state permit. Today was the first major literary one in the PRC since the 1950s."
+    },
+    {
+      "term": "Poetry conference in Nanning",
+      "aliases": [
+        "Nanning",
+        "南宁诗会"
+      ],
+      "explain": "7–22 April 1980 national poetry meeting (南宁诗会 / 全国当代诗歌讨论会) where much of the debate about Misty Poetry was hostile."
+    },
+    {
+      "term": "Sichuan avant-garde",
+      "aliases": [
+        "四川先锋",
+        "Second World of Poetry"
+      ],
+      "explain": "1980s experimental poetry scene in Sichuan that defined itself partly against Misty lyricism."
+    },
+    {
+      "term": "Mo Yan",
+      "aliases": [
+        "莫言"
+      ],
+      "explain": "Novelist linked to roots-seeking fiction; his work was adapted by Fifth Generation directors such as Zhang Yimou."
+    },
+    {
+      "term": "Chen Kaige",
+      "aliases": [
+        "陈凯歌"
+      ],
+      "explain": "Fifth Generation director of Yellow Earth and Farewell My Concubine; same thaw generation as the Misty poets."
+    },
+    {
+      "term": "Zhang Yimou",
+      "aliases": [
+        "张艺谋"
+      ],
+      "explain": "Fifth Generation director and cinematographer; Capsules lesson fifth-generation-chinese-cinema."
+    },
+    {
+      "term": "Yellow Earth",
+      "aliases": [
+        "黄土地"
+      ],
+      "explain": "1984 Chen Kaige film that announced Fifth Generation style abroad."
+    },
+    {
+      "term": "Paul Celan",
+      "aliases": [
+        "Celan"
+      ],
+      "explain": "German-language poet Bei Dao has named as an important influence."
+    },
+    {
+      "term": "Federico García Lorca",
+      "aliases": [
+        "Lorca",
+        "García Lorca"
+      ],
+      "explain": "Spanish poet Bei Dao has cited among his foreign influences."
+    },
+    {
+      "term": "Osip Mandelstam",
+      "aliases": [
+        "Mandelstam"
+      ],
+      "explain": "Russian poet Bei Dao has named as an influence; himself a writer persecuted by a state."
+    },
+    {
+      "term": "Allen Ginsberg",
+      "aliases": [
+        "Ginsberg"
+      ],
+      "explain": "Beat poet who befriended Bei Dao in exile; Capsules lesson beat-generation covers Ginsberg's world."
+    },
+    {
+      "term": "Jonathan Spence",
+      "aliases": [
+        "Spence"
+      ],
+      "explain": "Historian who praised Bei Dao's The August Sleepwalker and Waves in the New York Times Book Review in 1990."
+    },
+    {
+      "term": "The August Sleepwalker",
+      "aliases": [
+        "八月的梦游者"
+      ],
+      "explain": "English collection of Bei Dao's poems (1988/1990) that helped make his name in the West."
+    },
+    {
+      "term": "Golden Wreath",
+      "aliases": [
+        "金冠奖",
+        "Struga"
+      ],
+      "explain": "Major poetry honour Bei Dao received from the Struga Poetry Evenings in 2015."
+    },
+    {
+      "term": "Guggenheim Fellowship",
+      "aliases": [
+        "Guggenheim"
+      ],
+      "explain": "US arts fellowship Bei Dao received in 1998."
+    }
+  ]
+}
