@@ -13,7 +13,7 @@
   "dek": "On 27 February 1947, Monopoly Bureau agents confiscated cigarettes from a Taipei street vendor named Lin Jiang-mai and struck her with a gun barrel. When bystanders protested, agent Fu Xue-tong shot into the crowd and killed Chen Wen-hsi. The next day, protesters marched to the Chief Executive's Office and were met with machine-gun fire. Within days the unrest spread island-wide. Chief Executive Chen Yi stalled while requesting troops from Nanjing. On 8 March 1947, the 21st Division landed at Keelung and began a crackdown and 'clearing the countryside' that killed thousands, including intellectuals like Lin Mosei, Wang Tien-teng, Tang Te-chang and the painter Chen Cheng-po. The 1992 Executive Yuan report estimated roughly 18,000 to 28,000 deaths. Taiwan then entered nearly four decades of martial law and White Terror. It was not until the 1987 Justice and Peace movement, Lee Teng-hui's 1995 apology, and the establishment of memorials and a Transitional Justice Commission in 2018 that the island began to face this wound openly.",
   "era": "1945–1947 and aftermath to present (context: 1895–2026)",
   "reading_minutes": 26,
-  "honesty": "Death-toll estimates remain contested. The most commonly cited figure, 18,000–28,000, comes from a 1992 Executive Yuan research report that used demographic excess-death models; scholars have questioned whether all those excess deaths were caused by the incident or by other factors such as disease and migration. Contemporary observers gave much lower counts, and by 2018 only about 2,300 compensation claims had been approved, though many families were too frightened to come forward. This lesson uses the Executive Yuan estimate as an order of magnitude and clearly labels it as an estimate. Chronologies differ slightly between sources; dates given here follow the consensus in English and Chinese scholarship. Personal stories of victims are better documented in urban areas than in the countryside. The role of women, especially the families of victims who spent decades collecting testimonies, is increasingly recognized but was long overlooked. There are no images today rather than risk pictures that do not match their captions.",
+  "honesty": "Death-toll estimates remain contested. The most commonly cited figure, 18,000–28,000, comes from a demographic appendix in a 1992 Executive Yuan task force report that used excess-death models; scholars have questioned whether all those excess deaths were caused by the incident or by other factors such as disease and migration. About 2,300 compensation claims were approved out of roughly 2,900 applications, though many families were too frightened to come forward. This lesson uses the Executive Yuan estimate as an order of magnitude and clearly labels it as an estimate. Chronologies differ slightly between sources; dates given here follow the consensus in English and Chinese scholarship. Personal stories of victims are better documented in urban areas than in the countryside. The role of women, especially the families of victims who spent decades collecting testimonies, is increasingly recognized but was long overlooked. There are no images today rather than risk pictures that do not match their captions.",
   "timeline": [
     {
       "year": "1895–1945",
@@ -48,7 +48,7 @@
     {
       "year": "8 Mar 1947",
       "label": "Troops land at Keelung",
-      "detail": "The 21st Division, sent by Chiang Kai-shek, lands at Keelung. Chen Yi declares the Settlement Committees illegal. The crackdown begins."
+      "detail": "The 21st Division, sent by Chiang Kai-shek, lands at Keelung. The crackdown begins."
     },
     {
       "year": "Mar–May 1947",
@@ -88,7 +88,7 @@
     {
       "year": "7 Apr 1995",
       "label": "228 Memorial Act",
-      "detail": "The February 28 Incident Disposition and Compensation Act takes effect, establishing a compensation process and designating 28 February as Peace Memorial Day."
+      "detail": "The February 28 Incident Disposition and Compensation Act is promulgated, establishing a compensation process and designating 28 February as Peace Memorial Day. It took effect on 9 April 1995."
     },
     {
       "year": "1996",
@@ -155,7 +155,7 @@
         },
         {
           "type": "p",
-          "text": "Historians today also emphasize the incident's gendered dimension. Most of the visible victims were men, but women carried much of the burden afterward. Widows like Ruan Mei-shu, whose father Ruan Chao-jih was taken and never returned, spent decades searching for answers, collecting testimonies and preserving documents. Lin Jiang-mai herself, the cigarette vendor whose beating sparked the incident, was a woman trying to support her family. The 228 Incident shaped not only Taiwan's political identity but also its understanding of state violence, family trauma and the long work of remembering."
+          "text": "Historians today also emphasize the incident's gendered dimension. Most of the visible victims were men, but women carried much of the burden afterward. Daughters and widows such as Ruan Mei-shu, whose father Ruan Chao-jih was taken and never returned, spent decades searching for answers, collecting testimonies and preserving documents. Lin Jiang-mai herself, the cigarette vendor whose beating sparked the incident, was a woman trying to support her family. The 228 Incident shaped not only Taiwan's political identity but also its understanding of state violence, family trauma and the long work of remembering."
         }
       ]
     },
@@ -180,7 +180,7 @@
             {
               "name": "Chen Yi (陳儀)",
               "dates": "1883–1950",
-              "text": "Chief Executive of Taiwan from August 1945 to April 1947. His administration was marked by corruption, monopolies and exclusion of Taiwanese from government. He stalled negotiations with the Settlement Committees while secretly requesting troops from Nanjing. He was dismissed after the incident, appointed governor of Zhejiang, then arrested for trying to defect to the Communists and executed in June 1950 in Taipei."
+              "text": "Chief Executive of Taiwan from August 1945 to April 1947. His administration was marked by corruption, monopolies and exclusion of Taiwanese from government. He stalled negotiations with the Settlement Committees while secretly requesting troops from Nanjing. He was dismissed after the incident, appointed governor of Zhejiang, then arrested for trying to defect to the Communists and executed on 18 June 1950 in Xindian."
             },
             {
               "name": "Lin Mosei (林茂生)",
@@ -200,7 +200,7 @@
             {
               "name": "Chen Cheng-po (陳澄波)",
               "dates": "1895–1947",
-              "text": "A painter from Chiayi, the first Taiwanese artist to have a work accepted at the Imperial Art Exhibition in Tokyo (1926). He was a city councilor and joined a delegation that went to negotiate with troops at Chiayi's Shuishang Airport. He was detained, held for two weeks, and executed without trial in front of Chiayi Railway Station on 25 March 1947. His body was left in the street for three days before his family could collect it."
+              "text": "A painter from Chiayi, the first Taiwanese artist to have a work accepted at the Imperial Art Exhibition in Tokyo (1926). He was a city councilor and joined a delegation that went to negotiate with troops at Chiayi's Shuishang Airport. He was detained, held for two weeks, and executed without trial in front of Chiayi Railway Station on 25 March 1947. His body was reportedly left in the street for three days before his family could collect it."
             },
             {
               "name": "Ruan Chao-jih (阮朝日)",
@@ -210,7 +210,7 @@
             {
               "name": "Ruan Mei-shu (阮美姝)",
               "dates": "1928–2016",
-              "text": "Daughter of Ruan Chao-jih. She witnessed her father's arrest and spent her life documenting the 228 Incident and the White Terror. She interviewed hundreds of families, collected archives and in 1992 published two books: Forty-Five Years of Solitary Anguish and Voices from the Dark Corners. In 2002 she established the Ruan Chao-jih 228 Memorial Museum in Pingtung."
+              "text": "Daughter of Ruan Chao-jih. She witnessed her father's arrest and spent her life documenting the 228 Incident and the White Terror. She interviewed hundreds of families, collected archives and published Forty-Five Years of Solitary Anguish (1994) and Voices from the Dark Corners (1996). In 2003 she established the Ruan Chao-jih 228 Memorial Museum in Pingtung, which has since closed."
             },
             {
               "name": "Lee Teng-hui (李登輝)",
@@ -251,15 +251,15 @@
         },
         {
           "type": "p",
-          "text": "The next morning, 28 February, thousands of people gathered. Some marched to the Monopoly Bureau's Taipei office and burned its inventory. Others went to the Chief Executive's Office to demand punishment of the agents. Around noon, protesters tried to enter the Executive Office compound. Guards on the roof opened fire with machine guns. Several protesters were killed. By the afternoon, anger had spread across the city. Martial law was declared in Taipei. The U.S. Consulate reported that mobs attacked mainlanders in the streets, and that by evening about 10 to 15 people, both Taiwanese and mainlanders, were dead."
+          "text": "The next morning, 28 February, thousands of people gathered. Some marched to the Monopoly Bureau's Taipei office and burned its inventory. Others went to the Chief Executive's Office to demand punishment of the agents. Around noon, protesters tried to enter the Executive Office compound. Guards on the roof opened fire with machine guns. Several protesters were killed. By the afternoon, anger had spread across the city. Martial law was declared in Taipei."
         },
         {
           "type": "p",
-          "text": "Over the next few days, the unrest spread to every major city and town in Taiwan. In Kaohsiung, Tainan, Taichung and Chiayi, crowds seized government buildings, police stations and radio stations. Some armed themselves with weapons taken from armories or police posts. There were pitched battles. In Chiayi, armed civilians besieged Nationalist troops at Shuishang Airport and cut off their water and electricity. Many mainlanders were beaten or killed. American observers reported that Taiwanese were unarmed except for clubs and fists, and that they targeted people from the mainland indiscriminately."
+          "text": "Over the next few days, the unrest spread to every major city and town in Taiwan. In Kaohsiung, Tainan, Taichung and Chiayi, crowds seized government buildings, police stations and radio stations. Some armed themselves with weapons taken from armories or police posts. There were pitched battles. In Chiayi, armed civilians besieged Nationalist troops at Shuishang Airport and cut off their water and electricity. Many mainlanders were beaten or killed."
         },
         {
           "type": "p",
-          "text": "At the same time, local elites tried to channel the unrest into negotiation. On 2 March, a 228 Incident Settlement Committee was formed in Taipei, bringing together Provincial Assembly members, business leaders, students and others. Chen Yi agreed in a radio broadcast to release detained protesters, compensate victims and consider reforms. Similar committees formed across the island. For a few days, there was hope. The committee held public meetings and drafted demands. On 7 March it presented Chen Yi with 32 articles calling for provincial autonomy, elected local officials, freedom of speech and assembly, and the abolition of the Garrison Command. The next day, the committee added ten more demands, making 42 in total."
+          "text": "At the same time, local elites tried to channel the unrest into negotiation. On 2 March, a 228 Incident Settlement Committee was formed in Taipei, bringing together Provincial Assembly members, business leaders, students and others. Chen Yi agreed in a radio broadcast to release detained protesters, compensate victims and consider reforms. Similar committees formed across the island. For a few days, there was hope. The committee held public meetings and drafted demands. During the 7 March session, it presented 32 articles calling for provincial autonomy, elected local officials, freedom of speech and assembly, and the abolition of the Garrison Command. During that session, about ten further demands were reportedly added by infiltrators, bringing the list to 42. Chen Yi rejected the demands that afternoon; Wang Tien-teng read them on the radio at 6 PM."
         },
         {
           "type": "p",
@@ -275,7 +275,7 @@
         },
         {
           "type": "p",
-          "text": "How many died? No one knows for certain. At the time, the government gave no overall figure. In a 5 March press conference in Nanjing, the Nationalist information ministry said that by 3 March about 100 Taiwanese and 400 mainlanders had been killed or wounded. American diplomat George Kerr later estimated 10,000 deaths in his 1965 book Formosa Betrayed. In 1992, a government research commission led by demographer Chen Kuan-cheng published a report that compared total deaths in Taiwan in 1947 and 1948 and attributed the excess male deaths in 1947 to the 228 Incident. The report's estimate was roughly 18,000 to 28,000 deaths. That figure is still contested. Some scholars say it is too high and that much of the excess mortality in 1947 was due to disease, not violence. By 2018, only about 2,300 families had applied for compensation, though many victims' descendants did not know what had happened or were still too afraid to come forward."
+          "text": "How many died? No one knows for certain. At the time, the government gave no overall figure. In 1992, a report by an Executive Yuan task force, whose demographic appendix by Chen Kuan-cheng compared total deaths in Taiwan in 1947 and 1948 and attributed the excess male deaths in 1947 to the 228 Incident, estimated roughly 18,000 to 28,000 deaths. That figure is still contested. Some scholars say it is too high and that much of the excess mortality in 1947 was due to disease, not violence. By 2018, about 2,300 compensation claims had been approved out of roughly 2,900 applications, though many victims' descendants did not know what had happened or were still too afraid to come forward."
         },
         {
           "type": "p",
@@ -290,7 +290,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Ruan Mei-shu was nineteen years old and newly married when her father disappeared. Ruan Chao-jih had been general manager of the Taiwan Shin Sheng Daily News, a government-run newspaper that covered the transition from Japanese to Nationalist rule. He had written about corruption and the hardships ordinary Taiwanese faced, but he had also tried to be fair to the new government. When the 228 Incident broke out, he was at home, sick with asthma."
+          "text": "Ruan Mei-shu was nineteen years old and newly married when her father disappeared. Ruan Chao-jih had been general manager of the Taiwan Shin Sheng Daily News, a government-run newspaper that covered the transition from Japanese to Nationalist rule. When the 228 Incident broke out, he was at home, sick with asthma."
         },
         {
           "type": "p",
@@ -298,15 +298,15 @@
         },
         {
           "type": "p",
-          "text": "Ruan Mei-shu and her mother searched everywhere. They asked friends, went to police stations and military offices, and pleaded with anyone who might have information. No agency would admit to holding him. They even wrote to Chen Yi. He replied that Ruan Chao-jih was an important figure and that if the government knew where he was, it would send troops to rescue him. The answer was a lie. Forty-four years later, in 1991, Ruan Mei-shu finally found her father's arrest file. It said: 'Chief conspirator in a plot to rebel during the 228 Incident, using the newspaper for subversive activities, and using the newspaper to sow discord between soldiers and civilians.'"
+          "text": "Ruan Mei-shu and her mother searched everywhere. They asked friends, went to police stations and military offices, and pleaded with anyone who might have information. No agency would admit to holding him. They even wrote to Chen Yi. He replied that Ruan Chao-jih was an important figure and that if the government knew where he was, it would send troops to rescue him. The answer was a lie. In 1960, Ruan Mei-shu learned from Ong Iok-tek's book The Bitter History of Taiwan that her father had been executed for rebellion."
         },
         {
           "type": "p",
-          "text": "Ruan Mei-shu's life became a search for the truth. After her mother died in 1984, she felt free to speak. She began interviewing other victims' families. She recorded their testimonies on video. She collected documents, photographs and newspaper clippings. In 1992 she published two books: Forty-Five Years of Solitary Anguish, about her father and her own life, and Voices from the Dark Corners, interviews with more than twenty families. She also discovered that more than 400 media workers had been arrested, killed or disappeared during the 228 Incident and the White Terror."
+          "text": "Ruan Mei-shu's life became a search for the truth. She began interviewing other victims' families and recorded their testimonies on video. She collected documents, photographs and newspaper clippings. In 1990, she put her collection on public display. In 1994 she published Forty-Five Years of Solitary Anguish, about her father and her own life, and in 1996 Voices from the Dark Corners, interviews with victims' families."
         },
         {
           "type": "p",
-          "text": "In 2002, at her family's ancestral hall in Pingtung, she opened the Ruan Chao-jih 228 Memorial Museum, where she displayed the materials she had collected. She wanted people to know the truth, she said, and to understand that Taiwan's history was not China's history. Ruan Mei-shu died in 2016, at the age of 88. The museum has since closed, but the materials she collected are now held at the Taiwan Theological College and Seminary and other institutions. Her life's work ensured that the testimonies of the victims and their families would not be lost."
+          "text": "On 23 March 2003, at her family's ancestral hall in Pingtung, she opened the Ruan Chao-jih 228 Memorial Museum, where she displayed the materials she had collected. The museum closed on 30 June 2006, and its holdings were later split among Taiwan Theological College, Aletheia University Madou campus and other institutions. Ruan Mei-shu died in 2016, at the age of 88. Her life's work ensured that the testimonies of the victims and their families would not be lost."
         }
       ]
     },
@@ -347,27 +347,27 @@
         },
         {
           "type": "p",
-          "text": "The 228 Incident itself became a forbidden subject. Between 1948 and 1984, major newspapers mentioned it only four times. In schools, it was not taught. In families, even mentioning it could bring suspicion. Parents told their children not to ask. Victims' families lived with the knowledge that their fathers, brothers or sons had been killed, but they could not speak of it openly or demand justice. The silence was enforced not only by law but by fear. Everyone knew what had happened to those who challenged the government."
+          "text": "The 228 Incident itself became a forbidden subject. In schools, it was not taught. In families, even mentioning it could bring suspicion. Parents told their children not to ask. Victims' families lived with the knowledge that their fathers, brothers or sons had been killed, but they could not speak of it openly or demand justice. The silence was enforced not only by law but by fear. Everyone knew what had happened to those who challenged the government."
         },
         {
           "type": "p",
-          "text": "Chen Yi did not escape punishment, but not for his role in the 228 Incident. He was dismissed as Chief Executive in April 1947 and appointed governor of Zhejiang Province in 1948. In January 1949, as the Nationalist government was collapsing on the mainland, he wrote letters to other Nationalist commanders proposing to negotiate a 'regional peace' with the Communists. The letters were intercepted and shown to Chiang Kai-shek. Chen Yi was arrested, brought to Taiwan, tried for treason, and executed by firing squad on 18 June 1950 in Xindian. He remains the highest-ranking Nationalist officer ever executed by the KMT. His execution was for trying to defect, not for the deaths in 1947, and the victims' families got no apology."
+          "text": "Chen Yi did not escape punishment, but not for his role in the 228 Incident. He was dismissed as Chief Executive in April 1947 and appointed governor of Zhejiang Province in 1948. In January 1949, as the Nationalist government was collapsing on the mainland, he wrote letters to other Nationalist commanders proposing to negotiate a 'regional peace' with the Communists. The letters were intercepted and shown to Chiang Kai-shek. Chen Yi was arrested, brought to Taiwan, tried for treason, and executed by firing squad on 18 June 1950 in Xindian (then Taipei County, now Xindian District, New Taipei). His execution was for trying to defect, not for the deaths in 1947, and the victims' families got no apology."
         },
         {
           "type": "p",
-          "text": "It was not until the 1980s, as Taiwan began its slow transition to democracy, that the silence started to break. In 1986, the Taiwan Association for Human Rights held a roundtable on the 228 Incident. The following year, in the fortieth anniversary year, three men—Cheng Nan-jung, a magazine publisher; Chen Yung-hsing, a psychiatrist; and Li Sheng-hsiung, a lawyer—founded the 228 Peace Day Promotion Society. On 15 February 1987, they organized the first public march for the victims in Tainan, starting at the site where Tang Te-chang had been executed. It was a small march, only about thirty people, but it was the first time anyone had openly commemorated the incident in Taiwan since 1947."
+          "text": "It was not until the 1980s, as Taiwan began its slow transition to democracy, that the silence started to break. In 1986, the Taiwan Association for Human Rights held a roundtable on the 228 Incident. The following year, in the fortieth anniversary year, three men—Cheng Nan-jung, a magazine publisher; Chen Yung-hsing, a psychiatrist; and Li Sheng-hsiung, a lawyer—founded the 228 Peace Day Promotion Society. On 15 February 1987, they organized the first public march for the victims in Tainan, starting at the site where Tang Te-chang had been executed. It was the first time anyone had openly commemorated the incident in Taiwan since 1947."
         },
         {
           "type": "p",
-          "text": "Over the following weeks, the society held twenty-one public events across Taiwan: lectures, prayer services and marches. They demanded that the government disclose the truth, apologize, compensate victims, designate 28 February as Peace Memorial Day, and build a memorial. The demands were radical for a country still under martial law, and the marches were met with police and sometimes violence. But they succeeded in breaking the taboo. Newspapers began covering the story. Families of victims began to come forward. In 1988, the government released the original 1947 investigative report. In 1991, the Executive Yuan set up a research task force."
+          "text": "Over the following weeks, the society held public events across Taiwan: lectures, prayer services and marches. They demanded that the government disclose the truth, apologize, compensate victims, designate 28 February as Peace Memorial Day, and build a memorial. The demands were radical for a country still under martial law, and the marches were met with police and sometimes violence. But they succeeded in breaking the taboo. Newspapers began covering the story. Families of victims began to come forward. In 1991, the Executive Yuan set up a research task force."
         },
         {
           "type": "p",
-          "text": "The breakthrough came on 28 February 1995. At the unveiling of the 228 Memorial Monument in Taipei's New Park, President Lee Teng-hui, Taiwan's first native-born president, publicly apologized. 'Today,' he said, 'the family of the victims will listen with their own ears as I, as a public servant of the country, accept the responsibilities of the government's past mistakes and offer my deepest apologies.' It was the first official apology. On 7 April 1995, the February 28 Incident Disposition and Compensation Act took effect. It established a compensation process, designated 28 February as Peace Memorial Day, and set up the Memorial Foundation of 228 to investigate the incident and support victims' families."
+          "text": "The breakthrough came on 28 February 1995. At the unveiling of the 228 Memorial Monument in Taipei's New Park, President Lee Teng-hui, Taiwan's first native-born president, publicly apologized. It was the first official apology. The February 28 Incident Disposition and Compensation Act was promulgated on 7 April 1995 and took effect on 9 April 1995. It established a compensation process, designated 28 February as Peace Memorial Day, and set up the Memorial Foundation of 228 to investigate the incident and support victims' families."
         },
         {
           "type": "p",
-          "text": "In 1996, New Park was renamed 228 Peace Memorial Park. In 1997, the former radio station building inside the park opened as the Taipei 228 Memorial Museum, and 28 February became a national holiday. Other memorials followed across Taiwan: in Chiayi, Kaohsiung, Tainan and elsewhere. In 2018, the Transitional Justice Commission was established to investigate authoritarian-era crimes, exonerate victims and preserve archives. By then, more than 2,300 families had received compensation, though the true number of victims will never be known."
+          "text": "In 1996, New Park was renamed 228 Peace Memorial Park. In 1997, the former radio station building inside the park opened as the Taipei 228 Memorial Museum, and 28 February became a national holiday. Other memorials followed across Taiwan: in Chiayi, Kaohsiung, Tainan and elsewhere. In 2018, the Transitional Justice Commission was established to investigate authoritarian-era crimes, exonerate victims and preserve archives. By then, about 2,300 compensation claims had been approved out of roughly 2,900 applications, though the true number of victims will never be known."
         },
         {
           "type": "p",
@@ -428,7 +428,7 @@
   "watch": [],
   "fun_fact": {
     "title": "A City of Sadness broke the silence",
-    "text": "When Hou Hsiao-hsien's film A City of Sadness premiered at the Venice Film Festival in September 1989 and won the Golden Lion, it was the first major film to depict the 228 Incident. Martial law had ended in Taiwan only two years earlier, in July 1987, and the incident was still a deeply sensitive subject. Hou did not announce the film's theme in advance. Taiwanese audiences flocked to see it when it opened in October 1989, both because it was a prize-winning film and because it was the first time they could see the forbidden history on screen. The film's success helped legitimize public discussion of the 228 Incident and paved the way for the redress movement of the 1990s."
+    "text": "When Hou Hsiao-hsien's film A City of Sadness premiered at the Venice Film Festival in September 1989 and won the Golden Lion, it was the first major film to depict the 228 Incident. Martial law had ended in Taiwan only two years earlier, in July 1987, and the incident was still a deeply sensitive subject. Taiwanese audiences flocked to see it when it opened in October 1989, both because it was a prize-winning film and because it was the first time they could see the forbidden history on screen. The film's success helped legitimize public discussion of the 228 Incident and paved the way for the redress movement of the 1990s."
   },
   "glossary": [
     {
@@ -611,7 +611,7 @@
       "aliases": [
         "228 Memorial Act"
       ],
-      "explain": "Took effect on 7 April 1995; established compensation process and designated 28 February as Peace Memorial Day."
+      "explain": "Promulgated on 7 April 1995 and took effect on 9 April 1995; established compensation process and designated 28 February as Peace Memorial Day."
     },
     {
       "term": "228 Peace Memorial Park",
