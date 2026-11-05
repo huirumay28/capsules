@@ -1,0 +1,734 @@
+{
+  "slug": "228-incident",
+  "date": "2026-11-06",
+  "subject": "history",
+  "related": [
+    "dutch-formosa-koxinga",
+    "war-of-resistance",
+    "cultural-revolution",
+    "taiwan-new-cinema",
+    "taiwan-nativist-literature"
+  ],
+  "title": "The 228 Incident (二二八事件), Taiwan 1945–1947, and its aftermath into the White Terror and redress",
+  "dek": "On 27 February 1947, Monopoly Bureau agents confiscated cigarettes from a Taipei street vendor named Lin Jiang-mai and struck her with a gun barrel. When bystanders protested, agent Fu Xue-tong shot into the crowd and killed Chen Wen-hsi. The next day, protesters marched to the Chief Executive's Office and were met with machine-gun fire. Within days the unrest spread island-wide. Chief Executive Chen Yi stalled while requesting troops from Nanjing. On 8 March 1947, the 21st Division landed at Keelung and began a crackdown and 'clearing the countryside' that killed thousands, including intellectuals like Lin Mosei, Wang Tien-teng, Tang Te-chang and the painter Chen Cheng-po. The 1992 Executive Yuan report estimated roughly 18,000 to 28,000 deaths. Taiwan then entered nearly four decades of martial law and White Terror. It was not until the 1987 Justice and Peace movement, Lee Teng-hui's 1995 apology, and the establishment of memorials and a Transitional Justice Commission in 2018 that the island began to face this wound openly.",
+  "era": "1945–1947 and aftermath to present (context: 1895–2026)",
+  "reading_minutes": 26,
+  "honesty": "Death-toll estimates remain contested. The most commonly cited figure, 18,000–28,000, comes from a demographic appendix in a 1992 Executive Yuan task force report that used excess-death models; scholars have questioned whether all those excess deaths were caused by the incident or by other factors such as disease and migration. About 2,300 compensation claims were approved out of roughly 2,900 applications, though many families were too frightened to come forward. This lesson uses the Executive Yuan estimate as an order of magnitude and clearly labels it as an estimate. Chronologies differ slightly between sources; dates given here follow the consensus in English and Chinese scholarship. Personal stories of victims are better documented in urban areas than in the countryside. The role of women, especially the families of victims who spent decades collecting testimonies, is increasingly recognized but was long overlooked. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1895–1945",
+      "label": "Japanese colonial rule",
+      "detail": "Taiwan is ceded to Japan after the First Sino-Japanese War and ruled as a colony for fifty years."
+    },
+    {
+      "year": "25 Oct 1945",
+      "label": "Retrocession Day",
+      "detail": "In Taipei Zhongshan Hall, Chen Yi accepts the Japanese surrender on behalf of the Republic of China. Taiwan returns to Chinese rule after fifty years."
+    },
+    {
+      "year": "1945–1947",
+      "label": "Chen Yi's administration",
+      "detail": "Chen Yi is appointed Chief Executive. His government extends monopolies, excludes Taiwanese from senior posts, and corruption spreads. Inflation and rice shortages worsen. Taiwanese complain of being treated as second-class citizens."
+    },
+    {
+      "year": "27 Feb 1947",
+      "label": "Tianma Tea House incident",
+      "detail": "At about 7:30 PM, Monopoly Bureau agents confiscate cigarette vendor Lin Jiang-mai's goods and strike her head with a gun barrel. Agent Fu Xue-tong fires into the pursuing crowd, killing bystander Chen Wen-hsi."
+    },
+    {
+      "year": "28 Feb 1947",
+      "label": "Protests and shooting",
+      "detail": "Crowds march to the Monopoly Bureau, then to the Executive Office. Guards open fire with machine guns, killing protesters. The violence spreads across Taipei and then island-wide. Martial law is declared."
+    },
+    {
+      "year": "1–7 Mar 1947",
+      "label": "Settlement Committees formed",
+      "detail": "Local elites and citizens form 228 Incident Settlement Committees across Taiwan. They negotiate with Chen Yi and on 7 March present demands including provincial autonomy, elected officials and an end to military rule. Chen Yi stalls."
+    },
+    {
+      "year": "8 Mar 1947",
+      "label": "Troops land at Keelung",
+      "detail": "The 21st Division, sent by Chiang Kai-shek, lands at Keelung. The crackdown begins."
+    },
+    {
+      "year": "Mar–May 1947",
+      "label": "Crackdown and 'clearing the countryside'",
+      "detail": "Troops carry out arrests, executions and 'pacification' across Taiwan. Intellectuals, civic leaders and suspected participants are killed or disappear. Named victims include Lin Mosei, Wang Tien-teng, Tang Te-chang and Chen Cheng-po."
+    },
+    {
+      "year": "19 May 1949",
+      "label": "Martial law imposed",
+      "detail": "Taiwan is placed under martial law, which lasts until 15 July 1987. The White Terror begins."
+    },
+    {
+      "year": "18 Jun 1950",
+      "label": "Chen Yi executed",
+      "detail": "Chen Yi is executed by the Nationalist government for attempting to defect to the Communists while serving as Zhejiang governor, not for his role in the 228 Incident."
+    },
+    {
+      "year": "15 Jul 1987",
+      "label": "Martial law lifted",
+      "detail": "After 38 years, martial law ends in Taiwan. Public discussion of the 228 Incident becomes possible."
+    },
+    {
+      "year": "1987–1989",
+      "label": "228 Justice and Peace movement",
+      "detail": "Cheng Nan-jung, Chen Yung-hsing and Li Sheng-hsiung co-found the 228 Peace Day Promotion Society in February 1987 and organize island-wide commemorations, lectures and marches demanding truth, apology and redress."
+    },
+    {
+      "year": "Feb 1992",
+      "label": "Executive Yuan report published",
+      "detail": "The government releases a research report estimating 18,000–28,000 deaths. The report becomes the official reference despite ongoing debate over its methodology."
+    },
+    {
+      "year": "28 Feb 1995",
+      "label": "Lee Teng-hui's apology",
+      "detail": "President Lee Teng-hui publicly apologizes as head of state at the unveiling of the 228 Memorial Monument in Taipei's New Park. It is the first official apology."
+    },
+    {
+      "year": "7 Apr 1995",
+      "label": "228 Memorial Act",
+      "detail": "The February 28 Incident Disposition and Compensation Act is promulgated, establishing a compensation process and designating 28 February as Peace Memorial Day. It took effect on 9 April 1995."
+    },
+    {
+      "year": "1996",
+      "label": "228 Peace Memorial Park",
+      "detail": "Taipei New Park is renamed 228 Peace Memorial Park."
+    },
+    {
+      "year": "1997",
+      "label": "Peace Memorial Day holiday",
+      "detail": "February 28 becomes a national holiday. The Taipei 228 Memorial Museum opens in the former radio station building inside the park."
+    },
+    {
+      "year": "31 May 2018",
+      "label": "Transitional Justice Commission",
+      "detail": "The Transitional Justice Commission is formally established to investigate authoritarian-era injustices, exonerate victims and preserve archives."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "From Japanese rule to Nationalist takeover: a colony changes hands",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Taiwan had been a Japanese colony since 1895. By 1945, two generations of Taiwanese had grown up under Japanese rule. Many spoke Japanese better than any Chinese language. Schools taught the imperial curriculum. During the Pacific War, young Taiwanese men were conscripted into Japanese forces or sent to work in Southeast Asia. When Japan surrendered on 15 August 1945, the island's fate was decided in distant capitals: the Cairo Declaration of 1943 had promised that Taiwan would be returned to the Republic of China."
+        },
+        {
+          "type": "p",
+          "text": "On 25 October 1945, in Taipei Zhongshan Hall, General Chen Yi accepted the Japanese surrender on behalf of Generalissimo Chiang Kai-shek and the Allied Powers. The day is still known as Retrocession Day. Many Taiwanese lined the streets to welcome what they called the 'motherland.' Some had never lived under Chinese rule but had been taught to regard China as their ancestral home. Others, especially the educated elite, hoped that retrocession would mean an end to colonial discrimination and a chance to participate in governing their own island."
+        },
+        {
+          "type": "p",
+          "text": "Those hopes faded within months. Chen Yi was named Chief Executive of the Taiwan Provincial Administrative Executive Office, a structure that concentrated power in his hands. The Nationalist officials and soldiers who arrived from the mainland were often unprepared for Taiwan's relatively developed economy and infrastructure. Taiwanese who had expected to be treated as equals in a Chinese Republic found themselves excluded from senior posts and treated as suspect because they had lived under Japanese rule. Chen Yi's government extended the Japanese-era monopoly system to new sectors and used it to enrich Nationalist officials and mainlander entrepreneurs. The Monopoly Bureau controlled tobacco, alcohol, camphor, matches and other goods, and its agents had the power to confiscate contraband and arrest violators."
+        },
+        {
+          "type": "p",
+          "text": "Meanwhile, inflation soared. Taiwan's economy had been integrated into Japan's wartime system; retrocession cut those links abruptly, and the Nationalist government was more interested in extracting resources to fund the civil war on the mainland than in managing the island's recovery. Rice, which had been plentiful under Japanese rule, became scarce as the government requisitioned it for shipment to the mainland. Unemployment rose. Official corruption was open and pervasive. The language barrier made things worse: most Taiwanese spoke Hokkien (also called Taiwanese), Hakka or indigenous languages, while Nationalist officials spoke Mandarin and often looked down on those who did not. In schools and government offices, Japanese was replaced by Mandarin, but few Taiwanese had been taught it. Civil-service exams were conducted in Mandarin and Classical Chinese, which excluded most Taiwanese from government jobs."
+        },
+        {
+          "type": "p",
+          "text": "By early 1947, resentment was widespread. Taiwanese used the term 'dogs go, pigs come' (狗去豬來) to describe the transition: the Japanese, they said, had been vicious like dogs, but the Nationalists were greedy like pigs. In the countryside, rice riots broke out. In the cities, workers and students organized protests. Newspapers criticized the government's monopolies and corruption. The Monopoly Bureau was especially hated. Its agents, many of them poorly paid and corrupt themselves, enforced rules that ordinary people saw as arbitrary and extractive. That tension, built over seventeen months, finally exploded on the evening of 27 February 1947."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "Why the 228 Incident shaped Taiwanese identity",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The 228 Incident is often called the defining trauma of modern Taiwan. It shaped politics, memory and identity in ways that are still visible today. Understanding why requires looking at what it destroyed, what it silenced and what it left behind."
+        },
+        {
+          "type": "list",
+          "items": [
+            "It decapitated a generation of Taiwanese elites. Lawyers, doctors, teachers, journalists, local officials and civic leaders were arrested and killed in the crackdown. Many had been educated in Japan and saw themselves as bridges between Taiwan's past and its Chinese future. Their disappearance left a gap in civil society that the Nationalist government filled with mainlander appointees and a climate of fear.",
+            "It created the 本省人 (běnshěngrén, 'people of this province') and 外省人 (wàishěngrén, 'people of outside provinces') divide. Before 1947, tensions between Taiwanese and mainlanders were about culture, language and economic competition. After 1947, they were also about violence and victimhood. For decades, Taiwanese families carried the memory of fathers, sons and brothers killed or disappeared. The Nationalist government, dominated by mainlanders who had fled the Communist victory in 1949, treated any discussion of the incident as sedition.",
+            "It inaugurated the White Terror. Martial law, imposed island-wide in May 1949, lasted until 1987. During those 38 years, tens of thousands of people were imprisoned, executed or disappeared for real or imagined opposition to the Kuomintang. The 228 Incident was the precedent: anyone who spoke of it, commemorated it or questioned the official silence could be accused of fomenting unrest or aiding the Communists.",
+            "It made Taiwan's relationship with 'China' a question of survival, not just identity. Many Taiwanese had welcomed retrocession in 1945 because they believed in a shared Chinese culture. The 228 Incident and the decades of repression that followed taught a different lesson: that a government from China could be as oppressive as a colonial power from Japan, and that Taiwan's autonomy was a matter of life and death.",
+            "It forced the question: whose history is this? For more than forty years, the Nationalist government controlled the narrative. Official accounts blamed Communist agitators and Taiwanese 'hoodlums.' Victims' families were too frightened to speak. When martial law ended in 1987, the fight to recover the truth became part of Taiwan's democratization. The 228 Justice and Peace movement, the 1992 government report, Lee Teng-hui's 1995 apology and the establishment of memorials and museums were all steps in a long process of turning private grief into public memory."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Historians today also emphasize the incident's gendered dimension. Most of the visible victims were men, but women carried much of the burden afterward. Daughters and widows such as Ruan Mei-shu, whose father Ruan Chao-jih was taken and never returned, spent decades searching for answers, collecting testimonies and preserving documents. Lin Jiang-mai herself, the cigarette vendor whose beating sparked the incident, was a woman trying to support her family. The 228 Incident shaped not only Taiwan's political identity but also its understanding of state violence, family trauma and the long work of remembering."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "Victims, perpetrators and those who sought redress",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Lin Jiang-mai (林江邁)",
+              "dates": "active 1947",
+              "text": "A cigarette vendor and widow, about 40 years old, whose beating by Monopoly Bureau agents on the evening of 27 February 1947 triggered the 228 Incident. She was struck on the head with a gun barrel and left bleeding in the street. She survived, but bystander Chen Wen-hsi was shot and killed when agent Fu Xue-tong fired into the crowd."
+            },
+            {
+              "name": "Chen Wen-hsi (陳文溪)",
+              "dates": "died 28 Feb 1947",
+              "text": "A civilian bystander shot by Monopoly Bureau agent Fu Xue-tong on the evening of 27 February 1947. He died the next day in hospital. His death turned a local incident into the spark for island-wide unrest."
+            },
+            {
+              "name": "Chen Yi (陳儀)",
+              "dates": "1883–1950",
+              "text": "Chief Executive of Taiwan from August 1945 to April 1947. His administration was marked by corruption, monopolies and exclusion of Taiwanese from government. He stalled negotiations with the Settlement Committees while secretly requesting troops from Nanjing. He was dismissed after the incident, appointed governor of Zhejiang, then arrested for trying to defect to the Communists and executed on 18 June 1950 in Xindian."
+            },
+            {
+              "name": "Lin Mosei (林茂生)",
+              "dates": "1887–1947",
+              "text": "Dean of the College of Arts at National Taiwan University and the first Taiwanese to earn a doctorate from an American university (Columbia, 1929). On 11 March 1947, men claiming to be from the university came to his house and took him away. He was never seen again. He is memorialized as one of the intellectuals killed in the crackdown."
+            },
+            {
+              "name": "Wang Tien-teng (王添灯)",
+              "dates": "1901–1947",
+              "text": "A Provincial Assemblyman, publisher of the People's Herald and head of the Settlement Committee's propaganda group. He presented the committee's demands on radio and was arrested on 11 March 1947. Accounts say he was doused with gasoline and burned to death. His body was reportedly dumped in the Tamsui River."
+            },
+            {
+              "name": "Tang Te-chang (湯德章)",
+              "dates": "1907–1947",
+              "text": "A Tainan lawyer of mixed Japanese and Taiwanese parentage. He helped organize the Tainan Settlement Committee and convinced many to lay down their arms. Before his arrest on 11 March, he burned the list of participants to protect them. He was tortured, paraded through Tainan and executed in front of the former Taishō Park (now Tang Te-chang Memorial Park) on 13 March 1947."
+            },
+            {
+              "name": "Chen Cheng-po (陳澄波)",
+              "dates": "1895–1947",
+              "text": "A painter from Chiayi, the first Taiwanese artist to have a work accepted at the Imperial Art Exhibition in Tokyo (1926). He was a city councilor and joined a delegation that went to negotiate with troops at Chiayi's Shuishang Airport. He was detained, held for two weeks, and executed without trial in front of Chiayi Railway Station on 25 March 1947. His body was reportedly left in the street for three days before his family could collect it."
+            },
+            {
+              "name": "Ruan Chao-jih (阮朝日)",
+              "dates": "1900–1947",
+              "text": "General manager of the Taiwan Shin Sheng Daily News. He was arrested at home on 12 March 1947 by men in civilian clothes. He was accused of 'conspiring to rebel' and using the newspaper for subversion. His daughter, Ruan Mei-shu, spent more than forty years searching for the truth and collecting testimonies from other victims' families."
+            },
+            {
+              "name": "Ruan Mei-shu (阮美姝)",
+              "dates": "1928–2016",
+              "text": "Daughter of Ruan Chao-jih. She witnessed her father's arrest and spent her life documenting the 228 Incident and the White Terror. She interviewed hundreds of families, collected archives and published Forty-Five Years of Solitary Anguish (1994) and Voices from the Dark Corners (1996). In 2003 she established the Ruan Chao-jih 228 Memorial Museum in Pingtung, which has since closed."
+            },
+            {
+              "name": "Lee Teng-hui (李登輝)",
+              "dates": "1923–2020",
+              "text": "Taiwan's first native-born president (1988–2000) and the first to be popularly elected. He publicly apologized for the 228 Incident on 28 February 1995, the first head of state to do so. His administration established the 228 Memorial Monument, passed the compensation act and began the process of official redress."
+            },
+            {
+              "name": "Cheng Nan-jung (鄭南榕)",
+              "dates": "1947–1989",
+              "text": "Publisher of Freedom Era Weekly and a founder of the 228 Peace Day Promotion Society in February 1987. He organized the first public commemorations of the 228 Incident after martial law and pushed for freedom of speech and Taiwanese independence. In 1989, facing arrest for publishing an independence manifesto, he self-immolated in his magazine office."
+            },
+            {
+              "name": "Chen Yung-hsing (陳永興)",
+              "dates": "born 1950",
+              "text": "A psychiatrist and human rights activist. He served as president of the 228 Peace Day Promotion Society in 1987 and led the campaign to break the taboo around the incident. He later became president of the Taiwan Association for Human Rights."
+            },
+            {
+              "name": "Li Sheng-hsiung (李勝雄)",
+              "dates": "born 1940",
+              "text": "A lawyer and vice president of the 228 Peace Day Promotion Society in 1987. He worked on legal redress for victims and later served as president of the Taiwan Association for Human Rights."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "In depth",
+      "title": "From a cigarette vendor's beating to island-wide crackdown",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The evening of 27 February 1947 was cold and damp. At around 7:30 PM, six Monopoly Bureau agents and four police officers, acting on a tip about contraband tobacco, arrived at the area near the Tianma Tea House on Yanping North Road in Taipei's Dadaocheng district. Most of the vendors had already fled, but they found Lin Jiang-mai, a widow in her early forties, selling loose cigarettes. The agents confiscated her cigarettes and her money. She begged them to return her goods. She had children to feed, she said. The agents refused. When she tried to grab back her money, one of them, Ye De-gen, struck her on the head with his gun barrel. She collapsed, bleeding."
+        },
+        {
+          "type": "p",
+          "text": "A crowd gathered. People shouted at the agents. The agents tried to leave, but the crowd followed. One agent, Fu Xue-tong, panicked and fired his pistol. The bullet struck Chen Wen-hsi, a man who had been watching from the second-floor window of his home. Chen died the next day in hospital. The crowd, now enraged, overturned and burned the agents' truck. The agents fled to a police station and then to the garrison headquarters. By late evening, crowds were beating drums and gongs through the streets, telling everyone what had happened."
+        },
+        {
+          "type": "p",
+          "text": "The next morning, 28 February, thousands of people gathered. Some marched to the Monopoly Bureau's Taipei office and burned its inventory. Others went to the Chief Executive's Office to demand punishment of the agents. Around noon, protesters tried to enter the Executive Office compound. Guards on the roof opened fire with machine guns. Several protesters were killed. By the afternoon, anger had spread across the city. Martial law was declared in Taipei."
+        },
+        {
+          "type": "p",
+          "text": "Over the next few days, the unrest spread to every major city and town in Taiwan. In Kaohsiung, Tainan, Taichung and Chiayi, crowds seized government buildings, police stations and radio stations. Some armed themselves with weapons taken from armories or police posts. There were pitched battles. In Chiayi, armed civilians besieged Nationalist troops at Shuishang Airport and cut off their water and electricity. Many mainlanders were beaten or killed."
+        },
+        {
+          "type": "p",
+          "text": "At the same time, local elites tried to channel the unrest into negotiation. On 2 March, a 228 Incident Settlement Committee was formed in Taipei, bringing together Provincial Assembly members, business leaders, students and others. Chen Yi agreed in a radio broadcast to release detained protesters, compensate victims and consider reforms. Similar committees formed across the island. For a few days, there was hope. The committee held public meetings and drafted demands. During the 7 March session, it presented 32 articles calling for provincial autonomy, elected local officials, freedom of speech and assembly, and the abolition of the Garrison Command. During that session, about ten further demands were reportedly added by infiltrators, bringing the list to 42. Chen Yi rejected the demands that afternoon; Wang Tien-teng read them on the radio at 6 PM."
+        },
+        {
+          "type": "p",
+          "text": "Chen Yi was stalling. He had already cabled Generalissimo Chiang Kai-shek on 2 March, reporting that Communist agents had instigated an uprising and requesting troops. Chiang approved. On the evening of 8 March, about 2,000 soldiers of the 21st Division landed at Keelung. On 10 March, Chiang told a memorial service in Nanjing that the Settlement Committee's demands were unconstitutional and that Communists were behind the trouble. That same day, Chen Yi declared the committee illegal and martial law was reimposed. The crackdown began."
+        },
+        {
+          "type": "p",
+          "text": "Troops fanned out across Taiwan. The campaign was called 'clearing the countryside' (清鄉). In Taipei, Kaohsiung, Tainan, Taichung and Chiayi, soldiers arrested civic leaders, intellectuals, journalists and anyone suspected of involvement in the committees or the protests. Many were taken from their homes at night by men in civilian clothes who claimed to be from the police or the military. Most never returned. Their families were too frightened to report the disappearances or to search openly. The arrests continued into May."
+        },
+        {
+          "type": "p",
+          "text": "Some victims are known by name because they were prominent. On 11 March, Lin Mosei, the dean of arts at National Taiwan University, was taken from his house in his pajamas and never seen again. That same day, Wang Tien-teng, who had read the committee's demands on the radio, was arrested; accounts say he was burned alive. In Tainan, Tang Te-chang, a lawyer who had helped mediate between residents and troops, was arrested, tortured and executed in public on 13 March at the site that is now Tang Te-chang Memorial Park. In Chiayi, the painter Chen Cheng-po and three other city councilors were executed in front of the railway station on 25 March after they had gone to the airport under a flag of truce to negotiate with the troops."
+        },
+        {
+          "type": "p",
+          "text": "How many died? No one knows for certain. At the time, the government gave no overall figure. In 1992, a report by an Executive Yuan task force, whose demographic appendix by Chen Kuan-cheng compared total deaths in Taiwan in 1947 and 1948 and attributed the excess male deaths in 1947 to the 228 Incident, estimated roughly 18,000 to 28,000 deaths. That figure is still contested. Some scholars say it is too high and that much of the excess mortality in 1947 was due to disease, not violence. By 2018, about 2,300 compensation claims had been approved out of roughly 2,900 applications, though many victims' descendants did not know what had happened or were still too afraid to come forward."
+        },
+        {
+          "type": "p",
+          "text": "What is not contested is that the violence destroyed Taiwan's emerging civil society. The intellectuals, lawyers, doctors, journalists and local officials who had tried to negotiate with Chen Yi were killed, imprisoned or driven into silence. The Nationalist government filled the gap with mainlander appointees and a security apparatus that made dissent nearly impossible. On 19 May 1949, martial law was formally imposed on all of Taiwan. It would last 38 years."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "Ruan Mei-shu and forty-five years of searching",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ruan Mei-shu was nineteen years old and newly married when her father disappeared. Ruan Chao-jih had been general manager of the Taiwan Shin Sheng Daily News, a government-run newspaper that covered the transition from Japanese to Nationalist rule. When the 228 Incident broke out, he was at home, sick with asthma."
+        },
+        {
+          "type": "p",
+          "text": "On 12 March 1947, Ruan Mei-shu and her husband came to visit her parents. It was noon. Her mother had just stepped out to buy food. Five men in civilian clothes rang the doorbell. They said they needed to speak to Ruan Chao-jih about newspaper business. When Ruan Mei-shu brought her father out, still in his pajamas, the men said he had to come with them immediately. There was no time even to change clothes. Her father put on a coat and left. Her ten-year-old sister cried. 'Don't cry,' he told her. 'I'll be back soon.' Those were his last words to the family."
+        },
+        {
+          "type": "p",
+          "text": "Ruan Mei-shu and her mother searched everywhere. They asked friends, went to police stations and military offices, and pleaded with anyone who might have information. No agency would admit to holding him. They even wrote to Chen Yi. He replied that Ruan Chao-jih was an important figure and that if the government knew where he was, it would send troops to rescue him. The answer was a lie. In 1960, Ruan Mei-shu learned from Ong Iok-tek's book The Bitter History of Taiwan that her father had been executed for rebellion."
+        },
+        {
+          "type": "p",
+          "text": "Ruan Mei-shu's life became a search for the truth. She began interviewing other victims' families and recorded their testimonies on video. She collected documents, photographs and newspaper clippings. In 1990, she put her collection on public display. In 1994 she published Forty-Five Years of Solitary Anguish, about her father and her own life, and in 1996 Voices from the Dark Corners, interviews with victims' families."
+        },
+        {
+          "type": "p",
+          "text": "On 23 March 2003, at her family's ancestral hall in Pingtung, she opened the Ruan Chao-jih 228 Memorial Museum, where she displayed the materials she had collected. The museum closed on 30 June 2006, and its holdings were later split among Taiwan Theological College, Aletheia University Madou campus and other institutions. Ruan Mei-shu died in 2016, at the age of 88. Her life's work ensured that the testimonies of the victims and their families would not be lost."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "1946–1948: upheaval across Asia and the world",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The 228 Incident took place during a period of violent transition across much of Asia and beyond. The end of World War II and the collapse of colonial empires created a vacuum that new governments, liberation movements and rival ideologies rushed to fill. Taiwan's tragedy was part of a larger pattern."
+        },
+        {
+          "type": "list",
+          "items": [
+            "China: The Chinese Civil War, suspended during the war against Japan, resumed in 1946. By early 1947, the Nationalist government was already losing ground to the Communists. Inflation was out of control, and corruption was widespread. The request for troops that Chen Yi sent to Chiang Kai-shek pulled resources away from the civil war at a time when the Nationalists could ill afford it.",
+            "Korea: In 1945, Korea was divided along the 38th parallel, with Soviet forces in the north and American forces in the south. By 1947, the peninsula was moving toward two separate states. On Jeju Island, tensions between leftists and the U.S.-backed south Korean authorities led to the Jeju 4.3 Uprising in April 1948, a rebellion and crackdown that killed tens of thousands. Like the 228 Incident, it was suppressed as a Communist plot and remained a taboo for decades.",
+            "India and Pakistan: On 15 August 1947, British India was partitioned into India and Pakistan. The partition triggered mass migrations and communal violence in which hundreds of thousands, possibly more than a million, people were killed. The violence was rooted in religious divisions, but like the 228 Incident, it was also about who would control the new state and who would be included or excluded.",
+            "Indonesia: The Dutch tried to reassert control over the Dutch East Indies after Japan's surrender. Indonesian nationalists declared independence in 1945, and a war followed. The Dutch launched two 'police actions' in 1947 and 1948 before finally recognizing Indonesian independence in 1949. Tens of thousands died in the fighting.",
+            "Vietnam: In 1946, the First Indochina War began between French colonial forces and the Viet Minh independence movement. The war lasted until 1954 and killed hundreds of thousands. Like Taiwan, Vietnam was caught between a departing colonial power and rival claimants to rule.",
+            "Greece: From 1946 to 1949, Greece was torn apart by a civil war between the government, backed by Britain and the United States, and Communist-led forces. The war killed tens of thousands and displaced hundreds of thousands more. It was one of the first Cold War proxy conflicts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "What these events had in common was a collision between local populations with their own hopes for the future and outside forces—whether colonial powers trying to return, new governments imposing their rule, or Cold War patrons backing their clients—that were willing to use violence to impose order. In Taiwan, the Nationalist government treated the island as a base to be exploited and a population to be controlled. The 228 Incident was the result, and the White Terror that followed was the method by which the government ensured there would be no second uprising."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Martial law, silence, and the long road to remembering",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "After the crackdown ended in May 1947, Taiwan fell silent. On 19 May 1949, martial law was formally imposed. It would last until 15 July 1987, making it one of the longest periods of martial law in modern history. Under martial law, the government banned opposition parties, censored the press, and gave military courts the power to try civilians. Tens of thousands of people were arrested during the White Terror for real or imagined opposition to the Kuomintang. Many were accused of being Communists or Communist sympathizers. Some were tortured. Some were executed. Some spent decades in prison on remote islands like Green Island."
+        },
+        {
+          "type": "p",
+          "text": "The 228 Incident itself became a forbidden subject. In schools, it was not taught. In families, even mentioning it could bring suspicion. Parents told their children not to ask. Victims' families lived with the knowledge that their fathers, brothers or sons had been killed, but they could not speak of it openly or demand justice. The silence was enforced not only by law but by fear. Everyone knew what had happened to those who challenged the government."
+        },
+        {
+          "type": "p",
+          "text": "Chen Yi did not escape punishment, but not for his role in the 228 Incident. He was dismissed as Chief Executive in April 1947 and appointed governor of Zhejiang Province in 1948. In January 1949, as the Nationalist government was collapsing on the mainland, he wrote letters to other Nationalist commanders proposing to negotiate a 'regional peace' with the Communists. The letters were intercepted and shown to Chiang Kai-shek. Chen Yi was arrested, brought to Taiwan, tried for treason, and executed by firing squad on 18 June 1950 in Xindian (then Taipei County, now Xindian District, New Taipei). His execution was for trying to defect, not for the deaths in 1947, and the victims' families got no apology."
+        },
+        {
+          "type": "p",
+          "text": "It was not until the 1980s, as Taiwan began its slow transition to democracy, that the silence started to break. In 1986, the Taiwan Association for Human Rights held a roundtable on the 228 Incident. The following year, in the fortieth anniversary year, three men—Cheng Nan-jung, a magazine publisher; Chen Yung-hsing, a psychiatrist; and Li Sheng-hsiung, a lawyer—founded the 228 Peace Day Promotion Society. On 15 February 1987, they organized the first public march for the victims in Tainan, starting at the site where Tang Te-chang had been executed. It was the first time anyone had openly commemorated the incident in Taiwan since 1947."
+        },
+        {
+          "type": "p",
+          "text": "Over the following weeks, the society held public events across Taiwan: lectures, prayer services and marches. They demanded that the government disclose the truth, apologize, compensate victims, designate 28 February as Peace Memorial Day, and build a memorial. The demands were radical for a country still under martial law, and the marches were met with police and sometimes violence. But they succeeded in breaking the taboo. Newspapers began covering the story. Families of victims began to come forward. In 1991, the Executive Yuan set up a research task force."
+        },
+        {
+          "type": "p",
+          "text": "The breakthrough came on 28 February 1995. At the unveiling of the 228 Memorial Monument in Taipei's New Park, President Lee Teng-hui, Taiwan's first native-born president, publicly apologized. It was the first official apology. The February 28 Incident Disposition and Compensation Act was promulgated on 7 April 1995 and took effect on 9 April 1995. It established a compensation process, designated 28 February as Peace Memorial Day, and set up the Memorial Foundation of 228 to investigate the incident and support victims' families."
+        },
+        {
+          "type": "p",
+          "text": "In 1996, New Park was renamed 228 Peace Memorial Park. In 1997, the former radio station building inside the park opened as the Taipei 228 Memorial Museum, and 28 February became a national holiday. Other memorials followed across Taiwan: in Chiayi, Kaohsiung, Tainan and elsewhere. In 2018, the Transitional Justice Commission was established to investigate authoritarian-era crimes, exonerate victims and preserve archives. By then, about 2,300 compensation claims had been approved out of roughly 2,900 applications, though the true number of victims will never be known."
+        },
+        {
+          "type": "p",
+          "text": "The 228 Incident remains contested. For some, it is the origin story of Taiwanese identity, the moment when Taiwanese learned that they could not trust a government from China. For others, it is a tragedy that should be remembered but not politicized. The Kuomintang, which ruled Taiwan until 2000 and again from 2008 to 2016, has apologized repeatedly but remains sensitive to the charge that it committed a massacre. The Chinese Communist Party, which was not involved in 1947, now describes the incident as 'a just action by Taiwan compatriots against autocratic rule' and accuses Taiwan's pro-independence politicians of distorting it. In Taiwan itself, the 228 Incident is taught in schools, commemorated every year, and studied by historians. It is no longer a forbidden subject. But the wound it left, and the silence that followed, are still part of what it means to be Taiwanese."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "How do you remember a massacre when the state that committed it still governs you?",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "For more than forty years, the Kuomintang government forbade public discussion of the 228 Incident, even as the same party continued to rule Taiwan. When martial law ended and democratization began, victims and their families faced a choice: demand full accountability, including criminal prosecution of those responsible, or accept apologies, compensation and memorialization in exchange for not pressing charges. Taiwan chose the second path. President Lee Teng-hui apologized, but no one was prosecuted. The Transitional Justice Commission exonerated victims and declassified archives, but it did not name perpetrators in a way that would lead to trials. Was this compromise necessary for Taiwan's peaceful transition to democracy, or did it leave the work of justice unfinished? And if a society cannot or will not prosecute the authors of its own trauma, what does it mean to say it has faced the past?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "February 28 Incident (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/February_28_incident",
+      "note": "Comprehensive overview with timeline, background, casualties debate and aftermath through redress."
+    },
+    {
+      "title": "The February 28 Incident (1947) (Chronicles of Modern China)",
+      "url": "https://www.cmcarchive.org/events/february-28-incident-1947",
+      "note": "Narrative summary with key milestones, gallery of period photographs and comparison of official narratives."
+    },
+    {
+      "title": "Memorial Foundation of 228",
+      "url": "https://www.228.org.tw/",
+      "note": "Official foundation website with archives, victim profiles, compensation information and museum details."
+    },
+    {
+      "title": "A City of Sadness (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/A_City_of_Sadness",
+      "note": "Hou Hsiao-hsien's 1989 film, the first to depict the 228 Incident in Taiwanese cinema; won the Golden Lion at Venice."
+    },
+    {
+      "title": "White Terror (Taiwan) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/White_Terror_(Taiwan)",
+      "note": "The decades of martial law and political repression that followed the 228 Incident, 1949–1987."
+    },
+    {
+      "title": "Chen Yi (Kuomintang) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Chen_Yi_(Kuomintang)",
+      "note": "Biography of the Chief Executive during the incident; his later execution for attempting to defect."
+    },
+    {
+      "title": "Transitional Justice Commission (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Transitional_Justice_Commission",
+      "note": "The 2018–2022 commission tasked with investigating authoritarian-era injustices and exonerating victims."
+    }
+  ],
+  "listen": [],
+  "watch": [],
+  "fun_fact": {
+    "title": "A City of Sadness broke the silence",
+    "text": "When Hou Hsiao-hsien's film A City of Sadness premiered at the Venice Film Festival in September 1989 and won the Golden Lion, it was the first major film to depict the 228 Incident. Martial law had ended in Taiwan only two years earlier, in July 1987, and the incident was still a deeply sensitive subject. Taiwanese audiences flocked to see it when it opened in October 1989, both because it was a prize-winning film and because it was the first time they could see the forbidden history on screen. The film's success helped legitimize public discussion of the 228 Incident and paved the way for the redress movement of the 1990s."
+  },
+  "glossary": [
+    {
+      "term": "228 Incident",
+      "aliases": [
+        "February 28 Incident",
+        "二二八事件",
+        "2.28 Incident"
+      ],
+      "explain": "The February 1947 uprising and subsequent crackdown in Taiwan, which killed an estimated 18,000 to 28,000 people."
+    },
+    {
+      "term": "Retrocession",
+      "aliases": [
+        "Retrocession Day"
+      ],
+      "explain": "25 October 1945, when Taiwan was returned to the Republic of China after fifty years of Japanese rule."
+    },
+    {
+      "term": "Chen Yi",
+      "aliases": [
+        "陳儀"
+      ],
+      "explain": "1883–1950. Chief Executive of Taiwan from August 1945 to April 1947; responsible for the response to the 228 Incident."
+    },
+    {
+      "term": "Monopoly Bureau",
+      "aliases": [
+        "Taiwan Monopoly Bureau"
+      ],
+      "explain": "The government agency that controlled the sale of tobacco, alcohol and other goods; its agents' beating of Lin Jiang-mai triggered the 228 Incident."
+    },
+    {
+      "term": "Lin Jiang-mai",
+      "aliases": [
+        "林江邁"
+      ],
+      "explain": "The cigarette vendor whose beating by Monopoly Bureau agents on 27 February 1947 sparked the 228 Incident."
+    },
+    {
+      "term": "Chen Wen-hsi",
+      "aliases": [
+        "陳文溪"
+      ],
+      "explain": "The bystander shot and killed by Monopoly Bureau agent Fu Xue-tong on 27 February 1947."
+    },
+    {
+      "term": "Tianma Tea House",
+      "aliases": [
+        "天馬茶房"
+      ],
+      "explain": "A Taipei tea house near where the 27 February 1947 incident occurred; the site is now marked by a memorial."
+    },
+    {
+      "term": "228 Incident Settlement Committee",
+      "aliases": [
+        "處理委員會"
+      ],
+      "explain": "The citizens' committees formed across Taiwan in March 1947 to negotiate with the government; declared illegal on 10 March."
+    },
+    {
+      "term": "21st Division",
+      "aliases": [
+        "Reorganised 21st Division"
+      ],
+      "explain": "The Nationalist army unit sent from the mainland that landed at Keelung on 8 March 1947 to suppress the uprising."
+    },
+    {
+      "term": "clearing the countryside",
+      "aliases": [
+        "清鄉"
+      ],
+      "explain": "The crackdown and 'pacification' campaign carried out by Nationalist troops from March to May 1947."
+    },
+    {
+      "term": "Lin Mosei",
+      "aliases": [
+        "林茂生"
+      ],
+      "explain": "1887–1947. Dean of arts at National Taiwan University; disappeared on 11 March 1947."
+    },
+    {
+      "term": "Wang Tien-teng",
+      "aliases": [
+        "王添灯"
+      ],
+      "explain": "1901–1947. Provincial Assemblyman and Settlement Committee leader; arrested and reportedly burned to death."
+    },
+    {
+      "term": "Tang Te-chang",
+      "aliases": [
+        "湯德章"
+      ],
+      "explain": "1907–1947. Tainan lawyer executed publicly on 13 March 1947; Tang Te-chang Memorial Park in Tainan is named for him."
+    },
+    {
+      "term": "Chen Cheng-po",
+      "aliases": [
+        "陳澄波"
+      ],
+      "explain": "1895–1947. Painter and Chiayi city councilor; executed without trial on 25 March 1947 at Chiayi Railway Station."
+    },
+    {
+      "term": "Ruan Chao-jih",
+      "aliases": [
+        "阮朝日"
+      ],
+      "explain": "1900–1947. General manager of the Taiwan Shin Sheng Daily News; arrested on 12 March 1947 and never seen again."
+    },
+    {
+      "term": "Ruan Mei-shu",
+      "aliases": [
+        "阮美姝"
+      ],
+      "explain": "1928–2016. Daughter of Ruan Chao-jih; spent her life documenting the 228 Incident and collecting testimonies from victims' families."
+    },
+    {
+      "term": "White Terror",
+      "aliases": [
+        "白色恐怖"
+      ],
+      "explain": "The period of political repression in Taiwan under martial law, 1949–1987, during which tens of thousands were imprisoned or executed."
+    },
+    {
+      "term": "martial law",
+      "aliases": [],
+      "explain": "Imposed in Taiwan on 19 May 1949 and lifted on 15 July 1987; one of the longest periods of martial law in modern history."
+    },
+    {
+      "term": "228 Peace Day Promotion Society",
+      "aliases": [
+        "二二八和平日促進會",
+        "228 Justice and Peace movement"
+      ],
+      "explain": "Founded in February 1987 by Cheng Nan-jung, Chen Yung-hsing and Li Sheng-hsiung to break the taboo around the 228 Incident."
+    },
+    {
+      "term": "Cheng Nan-jung",
+      "aliases": [
+        "鄭南榕",
+        "Nylon Cheng"
+      ],
+      "explain": "1947–1989. Publisher and democracy activist; co-founded the 228 Peace Day Promotion Society and self-immolated in 1989."
+    },
+    {
+      "term": "Chen Yung-hsing",
+      "aliases": [
+        "陳永興"
+      ],
+      "explain": "Born 1950. Psychiatrist and human rights activist; president of the 228 Peace Day Promotion Society in 1987."
+    },
+    {
+      "term": "Li Sheng-hsiung",
+      "aliases": [
+        "李勝雄"
+      ],
+      "explain": "Born 1940. Lawyer and human rights activist; vice president of the 228 Peace Day Promotion Society in 1987."
+    },
+    {
+      "term": "Lee Teng-hui",
+      "aliases": [
+        "李登輝"
+      ],
+      "explain": "1923–2020. Taiwan's first native-born president; publicly apologized for the 228 Incident on 28 February 1995."
+    },
+    {
+      "term": "Executive Yuan report",
+      "aliases": [
+        "1992 report"
+      ],
+      "explain": "The February 1992 government research report that estimated 18,000–28,000 deaths during the 228 Incident."
+    },
+    {
+      "term": "228 Memorial Monument",
+      "aliases": [],
+      "explain": "Monument unveiled in Taipei's New Park (now 228 Peace Memorial Park) on 28 February 1995, where Lee Teng-hui apologized."
+    },
+    {
+      "term": "February 28 Incident Disposition and Compensation Act",
+      "aliases": [
+        "228 Memorial Act"
+      ],
+      "explain": "Promulgated on 7 April 1995 and took effect on 9 April 1995; established compensation process and designated 28 February as Peace Memorial Day."
+    },
+    {
+      "term": "228 Peace Memorial Park",
+      "aliases": [
+        "二二八和平紀念公園"
+      ],
+      "explain": "Taipei park renamed in 1996; houses the Taipei 228 Memorial Museum, opened in 1997."
+    },
+    {
+      "term": "Peace Memorial Day",
+      "aliases": [
+        "228 Peace Memorial Day"
+      ],
+      "explain": "28 February; designated a national holiday in Taiwan from 1997."
+    },
+    {
+      "term": "Memorial Foundation of 228",
+      "aliases": [
+        "二二八事件紀念基金會"
+      ],
+      "explain": "Established in 1995 to compensate victims, investigate the incident and preserve its memory."
+    },
+    {
+      "term": "Transitional Justice Commission",
+      "aliases": [
+        "促進轉型正義委員會"
+      ],
+      "explain": "Established 31 May 2018 to investigate authoritarian-era injustices, exonerate victims and preserve archives; operated until 2022."
+    },
+    {
+      "term": "A City of Sadness",
+      "aliases": [
+        "悲情城市"
+      ],
+      "explain": "Hou Hsiao-hsien's 1989 film about a Taiwanese family during the 228 Incident; won the Golden Lion at Venice."
+    },
+    {
+      "term": "Hou Hsiao-hsien",
+      "aliases": [
+        "侯孝賢"
+      ],
+      "explain": "Born 1947. Taiwan New Cinema director; A City of Sadness was the first film to openly depict the 228 Incident."
+    },
+    {
+      "term": "本省人",
+      "aliases": [
+        "běnshěngrén",
+        "people of this province",
+        "native Taiwanese"
+      ],
+      "explain": "Taiwanese whose families had lived in Taiwan before 1945, as opposed to 外省人 (mainlanders)."
+    },
+    {
+      "term": "外省人",
+      "aliases": [
+        "wàishěngrén",
+        "people of outside provinces",
+        "mainlanders"
+      ],
+      "explain": "People who came to Taiwan from mainland China in the 1940s with the Nationalist government."
+    },
+    {
+      "term": "Chiang Kai-shek",
+      "aliases": [
+        "蔣介石"
+      ],
+      "explain": "Leader of the Republic of China; ordered troops sent to Taiwan in March 1947 and ruled Taiwan from 1949 until his death in 1975."
+    },
+    {
+      "term": "Kuomintang",
+      "aliases": [
+        "KMT",
+        "Nationalist Party",
+        "Chinese Nationalist Party"
+      ],
+      "explain": "The party that ruled Taiwan under martial law from 1949 to 1987 and intermittently in democratic elections since."
+    },
+    {
+      "term": "Taiwan Provincial Administrative Executive Office",
+      "aliases": [
+        "長官公署"
+      ],
+      "explain": "The administrative structure set up after Retrocession, headed by Chen Yi; replaced by the Taiwan Provincial Government in 1947."
+    },
+    {
+      "term": "dogs go, pigs come",
+      "aliases": [
+        "狗去豬來"
+      ],
+      "explain": "A Taiwanese saying from 1945–1947 comparing the Japanese (vicious like dogs) to the Nationalists (greedy like pigs)."
+    },
+    {
+      "term": "George Kerr",
+      "aliases": [],
+      "explain": "U.S. diplomat in Taiwan during the 228 Incident; his 1965 book Formosa Betrayed was the first major English-language account."
+    },
+    {
+      "term": "Formosa Betrayed",
+      "aliases": [],
+      "explain": "George Kerr's 1965 book on the 228 Incident, which brought the event to international attention."
+    },
+    {
+      "term": "Taiwan New Cinema",
+      "aliases": [],
+      "explain": "A 1980s film movement that depicted Taiwanese history and identity; Hou Hsiao-hsien's A City of Sadness is a key work."
+    },
+    {
+      "term": "Jeju 4.3 Uprising",
+      "aliases": [
+        "Jeju Uprising"
+      ],
+      "explain": "April 1948 rebellion and crackdown in South Korea that killed tens of thousands; like the 228 Incident, suppressed as a Communist plot and long taboo."
+    },
+    {
+      "term": "Partition of India",
+      "aliases": [],
+      "explain": "15 August 1947 division of British India into India and Pakistan, accompanied by mass violence."
+    }
+  ]
+}
