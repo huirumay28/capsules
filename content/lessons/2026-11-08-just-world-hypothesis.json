@@ -107,7 +107,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "The classic demonstration was published in 1966 by Melvin Lerner and Carolyn H. Simmons in the Journal of Personality and Social Psychology, under the title \"Observer's reaction to the 'innocent victim': Compassion or rejection?\" Seventy-two female undergraduates took part after three others were excluded because they guessed the real purpose. The study was run at the University of Kentucky."
+          "text": "The classic demonstration was published in 1966 by Melvin Lerner and Carolyn H. Simmons in the Journal of Personality and Social Psychology, under the title \"Observer's reaction to the 'innocent victim': Compassion or rejection?\" Seventy-two female undergraduates took part after three others were excluded because they had learned in advance of the true nature of the experiment. The study was run at the University of Kentucky."
         },
         {
           "type": "p",
@@ -115,7 +115,7 @@
         },
         {
           "type": "p",
-          "text": "At first the observers were upset. Then the design varied what they believed would happen next. In some conditions they expected to watch her suffer again and could do nothing about it. In a reward condition they could vote to move her into a positive-reinforcement session where she would earn money, and they were told their vote had succeeded before they rated her. In a related reward-decision condition they voted but were not told the outcome before rating her. In a martyr condition, the victim appeared to agree, reluctantly, to keep suffering so that the observers could fulfil a course requirement by watching her."
+          "text": "At first the observers were upset. Then the design varied what they believed would happen next. In some conditions they expected to watch her suffer again and could do nothing about it. In a reward condition they could vote to move her into a positive-reinforcement session where she would earn money, and they were told their vote had succeeded before they rated her. In a related reward-decision condition they voted but were not told the outcome before rating her. In a martyr condition, before the initial observation, the victim appeared to agree reluctantly to undergo the shocks so that the observers could fulfil a course requirement by watching her."
         },
         {
           "type": "p",
@@ -234,7 +234,7 @@
   ],
   "fun_fact": {
     "title": "The martyr got the worst ratings",
-    "text": "In the condition that should have looked most noble, the apparent victim reluctantly agreed to keep taking shocks so the observers could earn course credit by watching her. Lerner predicted that a willing martyr would threaten the belief in a just world even more than an ordinary innocent victim, because a good person suffering for others is especially hard to square with fairness. The data agreed: the martyr condition produced the lowest attractiveness ratings of all. People did not admire her sacrifice. They liked her less."
+    "text": "In the condition that should have looked most noble, the apparent victim reluctantly agreed beforehand to undergo electric shocks so the observers could earn course credit by watching her. Lerner predicted that a willing martyr would threaten the belief in a just world even more than an ordinary innocent victim, because a good person suffering for others is especially hard to square with fairness. The data agreed: the martyr condition produced the lowest attractiveness ratings of all. People did not admire her sacrifice. They liked her less."
   },
   "read": [
     {
@@ -319,7 +319,7 @@
         "Martyr condition",
         "martyr"
       ],
-      "explain": "The 1966 condition in which the victim seemed to agree to keep suffering so observers could meet a course requirement; it produced the strongest rejection."
+      "explain": "The 1966 condition in which the victim agreed beforehand to undergo shocks so observers could meet a course requirement; it produced the strongest rejection."
     },
     {
       "term": "reward condition",

@@ -409,7 +409,7 @@ def lesson_link_pairs(current: dict, all_lessons: list[dict], prefix: str) -> li
     for other in all_lessons:
         if other["slug"] == current["slug"]:
             continue
-        href = f"{prefix}../{esc(other['slug'])}/"
+        href = f"../{esc(other['slug'])}/"
         pairs.append((other["title"], href))
         pairs.append((other["slug"], href))
         short = other["title"].split(":")[0].strip()
@@ -561,7 +561,7 @@ def render_related(current: dict, all_lessons: list[dict], prefix: str) -> str:
         for L in items:
             sub = SUBJECT_BY_ID[L["subject"]]["label"]
             out.append(
-                f'<li><a href="{prefix}../{esc(L["slug"])}/">{esc(L["title"])}</a>'
+                f'<li><a href="../{esc(L["slug"])}/">{esc(L["title"])}</a>'
                 f'<span class="note">{esc(sub)} · {esc(L.get("era", ""))}</span></li>'
             )
         return "".join(out)
