@@ -17,9 +17,9 @@
   "honesty": "This lesson keeps to dates, names and events documented in the Chinese Wikipedia articles 校園民歌, 李雙澤, 楊弦, 金韻獎, 新格唱片, 美麗島 (歌曲), 胡德夫 and 龍的傳人, and the English Wikipedia articles on Lo Ta-yu, Hou Dejian, Chyi Yu, Descendants of the Dragon, Tomorrow Will Be Better, Teresa Teng, Xinyao, Nothing to My Name and Víctor Jara. Where those sources disagree, for example on whether Li Shuang-tze actually threw his Coke bottle, the lesson says so. The analysis sections are my own summary, not claims from a single source.",
   "timeline": [
     {
-      "year": "1964",
-      "label": "Folk-song collecting begins",
-      "detail": "Composers Hsu Tsang-houei and Shih Wei-liang start a field project recording traditional Han and Indigenous songs across Taiwan, eventually collecting close to three thousand Indigenous songs and discovering the folk singer Chen Da."
+      "year": "Mid-1960s",
+      "label": "Folk-song collecting movement",
+      "detail": "Composers Hsu Tsang-houei and Shih Wei-liang lead a field project recording traditional Han and Indigenous songs across Taiwan from 1965 to 1967, eventually collecting about 1,700 to 2,000 songs and discovering the folk singer Chen Da."
     },
     {
       "year": "1971",
@@ -74,7 +74,7 @@
     {
       "year": "1985",
       "label": "Tomorrow Will Be Better",
-      "detail": "Lo Ta-yu's charity single 明天會更好 is recorded by more than 60 singers from Taiwan, Hong Kong, Singapore and Malaysia, and released on 25 October."
+      "detail": "Lo Ta-yu's charity single 明天會更好, modelled on Band Aid and We Are the World, is recorded by more than 60 singers from Taiwan, Hong Kong, Singapore and Malaysia, and released on 25 October with proceeds donated to Taiwan's Consumers' Foundation."
     }
   ],
   "read": [
@@ -147,7 +147,7 @@
         },
         {
           "type": "p",
-          "text": "Two quieter traditions were already feeding the movement that followed. In 1964 the composers Hsu Tsang-houei and Shih Wei-liang began a folk-song collecting project, travelling around Taiwan to record traditional Han and Indigenous music. They gathered close to three thousand Indigenous songs and found singers such as Chen Da, an elderly Hengchun folk singer who accompanied himself on the moon lute. At the same time, student clubs and the China Youth Corps summer camps spread simple singalong songs, some adapted from Indigenous melodies and given Mandarin words, through pocket songbooks."
+          "text": "Two quieter traditions were already feeding the movement that followed. In the mid-1960s the composers Hsu Tsang-houei and Shih Wei-liang led a folk-song collecting project, travelling around Taiwan from 1965 to 1967 to record traditional Han and Indigenous music. They gathered about 1,700 to 2,000 songs and found singers such as Chen Da, an elderly Hengchun folk singer who accompanied himself on the moon lute. At the same time, student clubs and the China Youth Corps summer camps spread simple singalong songs, some adapted from Indigenous melodies and given Mandarin words, through pocket songbooks."
         },
         {
           "type": "p",
@@ -216,7 +216,7 @@
         },
         {
           "type": "p",
-          "text": "The best-known song of the commercial years is 橄欖樹 (The Olive Tree), released by Chyi Yu in 1979. Li Tai-hsiang wrote the music to a text by the travel writer Sanmao, which began as a poem about a small donkey she met on a plain in Spain. The translator dropped the donkey, thinking Taiwanese listeners would not connect with it, and the song became a lasting anthem of wandering and longing."
+          "text": "The best-known song of the commercial years is 橄欖樹 (The Olive Tree), released by Chyi Yu in 1979. Li Tai-hsiang wrote the music to a text by the travel writer Sanmao, which began as a poem about a small donkey she met on a plain in Spain. Yang Tsu-chun translated it into Chinese, and Li Tai-hsiang, with Sanmao's agreement, changed the image from the donkey to an olive tree, and the song became a lasting anthem of wandering and longing."
         }
       ]
     },
@@ -262,7 +262,7 @@
         },
         {
           "type": "p",
-          "text": "In 1985 Lo wrote 明天會更好 (Tomorrow Will Be Better), modelled on Band Aid and We Are the World and recorded by more than 60 singers from Taiwan, Hong Kong, Singapore and Malaysia. It was released on 25 October 1985 to raise money for World Vision's famine relief in Ethiopia. Lo's first lyrics were so critical of society that singers walked out, and under martial law he was persuaded to let other songwriters rewrite them. He moved to New York and then to Hong Kong in 1986, citing political pressure on his work."
+          "text": "In 1985 Lo wrote 明天會更好 (Tomorrow Will Be Better), modelled on Band Aid and We Are the World, which had raised money for Ethiopian famine relief. More than 60 singers from Taiwan, Hong Kong, Singapore and Malaysia recorded it, and it was released on 25 October 1985 with proceeds donated to Taiwan's Consumers' Foundation (消基會). Lo's first lyrics were so critical of society that singers walked out, and under martial law he was persuaded to let other songwriters rewrite them. He moved to New York and then to Hong Kong in 1986, citing political pressure on his work."
         }
       ]
     },
@@ -519,14 +519,14 @@
       "aliases": [
         "許常惠"
       ],
-      "explain": "Composer and musicologist who co-led the 1964 folk song collecting project and in 1978 defined what a true folk song is."
+      "explain": "Composer and musicologist who co-led the mid-1960s folk song collecting project (1965–1967) and in 1978 defined what a true folk song is."
     },
     {
       "term": "Shih Wei-liang",
       "aliases": [
         "史惟亮"
       ],
-      "explain": "Composer who co-led the 1964 folk song collecting project with Hsu Tsang-houei."
+      "explain": "Composer who co-led the mid-1960s folk song collecting project (1965–1967) with Hsu Tsang-houei."
     },
     {
       "term": "Chen Da",
@@ -644,7 +644,7 @@
       "aliases": [
         "The Olive Tree"
       ],
-      "explain": "1979 Chyi Yu song with music by Li Tai-hsiang and words based on a text by Sanmao."
+      "explain": "1979 Chyi Yu song with music by Li Tai-hsiang and words based on a text by Sanmao; Li changed Sanmao's donkey image to an olive tree."
     },
     {
       "term": "Li Tai-hsiang",
@@ -658,7 +658,7 @@
       "aliases": [
         "三毛"
       ],
-      "explain": "Taiwanese travel writer whose text about a donkey in Spain became the lyrics of The Olive Tree."
+      "explain": "Taiwanese travel writer whose text about a donkey in Spain was translated by Yang Tsu-chun and adapted by Li Tai-hsiang into The Olive Tree."
     },
     {
       "term": "Hsi Mu-jen",
@@ -770,7 +770,7 @@
       "aliases": [
         "Tomorrow Will Be Better"
       ],
-      "explain": "Lo Ta-yu's 1985 charity single sung by more than 60 artists for World Vision's Ethiopian famine relief."
+      "explain": "Lo Ta-yu's 1985 charity single sung by more than 60 artists, modelled on Band Aid and We Are the World, with proceeds donated to Taiwan's Consumers' Foundation."
     },
     {
       "term": "Rock Records",
