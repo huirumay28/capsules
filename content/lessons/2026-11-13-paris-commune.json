@@ -1,0 +1,876 @@
+{
+  "slug": "paris-commune",
+  "date": "2026-11-13",
+  "subject": "history",
+  "related": [
+    "haitian-revolution",
+    "algerian-war",
+    "meiji-restoration",
+    "first-wave",
+    "taiping-rebellion"
+  ],
+  "title": "The Paris Commune (1871): seventy-two days of a workers' city, and the Bloody Week that ended it",
+  "dek": "In the spring of 1871, after France had lost a war to Prussia and Paris had survived a four-month siege, the working-class districts of the capital refused to hand over their cannons and took control of the city. For seventy-two days, from 18 March to 28 May, an elected Commune governed Paris, passed laws on rent, church and labour, and let women organise on a scale France had not seen before. It ended in the Semaine sanglante, the Bloody Week, when the national army retook the city street by street and killed thousands of Parisians. This lesson explains how a lost war turned into a civil war, what the Commune actually did, who its people were, and why socialists, anarchists, feminists and conservatives all spent the next century arguing over what it meant.",
+  "era": "1870–1871 (context: 1848–1914)",
+  "reading_minutes": 24,
+  "honesty": "The death toll of the Bloody Week is genuinely contested. Older accounts, including those written by Communard survivors, give figures of 17,000 to 30,000 or more. The British historian Robert Tombs, working from burial and cemetery records, has argued for a much lower range of roughly 6,000 to 7,500. This lesson gives both and does not pick one. Many famous stories about the Commune, especially the image of women 'pétroleuses' burning the city with petrol, were produced by hostile newspapers after the fact and are treated here as propaganda rather than fact. Exact counts of decrees, members and deportees vary between sources, so the lesson rounds them.",
+  "timeline": [
+    {
+      "year": "1853–1870",
+      "label": "Haussmann rebuilds Paris",
+      "detail": "Under Napoleon III, Baron Haussmann cuts wide boulevards through old Paris. Rents rise in the centre and many workers move to the eastern and northern districts such as Belleville and Montmartre."
+    },
+    {
+      "year": "19 Jul 1870",
+      "label": "France declares war on Prussia",
+      "detail": "The Franco-Prussian War begins. Prussia leads a coalition of German states with a better-organised army."
+    },
+    {
+      "year": "2 Sep 1870",
+      "label": "Defeat at Sedan",
+      "detail": "Napoleon III surrenders with his army at Sedan and is taken prisoner."
+    },
+    {
+      "year": "4 Sep 1870",
+      "label": "Third Republic proclaimed",
+      "detail": "Crowds in Paris proclaim a republic at the Hôtel de Ville. A Government of National Defence takes over."
+    },
+    {
+      "year": "19 Sep 1870",
+      "label": "Siege of Paris begins",
+      "detail": "German armies encircle the capital. Parisians eat horses, dogs, cats, rats and eventually animals from the zoo."
+    },
+    {
+      "year": "18 Jan 1871",
+      "label": "German Empire proclaimed at Versailles",
+      "detail": "Wilhelm I is proclaimed German Emperor in the Hall of Mirrors at Versailles, a deliberate humiliation for France."
+    },
+    {
+      "year": "28 Jan 1871",
+      "label": "Armistice",
+      "detail": "The French government signs an armistice. Paris has held out for about four months."
+    },
+    {
+      "year": "8 Feb 1871",
+      "label": "National Assembly elected",
+      "detail": "A largely monarchist and rural assembly is elected. Adolphe Thiers becomes head of the executive. Paris votes heavily republican."
+    },
+    {
+      "year": "1 Mar 1871",
+      "label": "German troops parade in Paris",
+      "detail": "A short German victory march through western Paris deepens the city's sense of betrayal."
+    },
+    {
+      "year": "18 Mar 1871",
+      "label": "The cannons of Montmartre",
+      "detail": "Thiers sends troops to seize National Guard cannons. Crowds stop them, soldiers refuse to fire, and two generals are killed. Thiers withdraws the government and army to Versailles."
+    },
+    {
+      "year": "26–28 Mar 1871",
+      "label": "The Commune is elected and proclaimed",
+      "detail": "Parisians elect a municipal council, which is proclaimed the Commune of Paris at the Hôtel de Ville on 28 March."
+    },
+    {
+      "year": "2 Apr 1871",
+      "label": "Fighting begins",
+      "detail": "Versailles troops attack Communard positions west of Paris. The same day, the Commune decrees the separation of church and state."
+    },
+    {
+      "year": "11 Apr 1871",
+      "label": "Union des femmes founded",
+      "detail": "Élisabeth Dmitrieff and Nathalie Lemel help found the Union of Women for the Defence of Paris and Care of the Wounded."
+    },
+    {
+      "year": "16 May 1871",
+      "label": "Vendôme Column pulled down",
+      "detail": "The Commune topples the Napoleonic column in the Place Vendôme as a symbol of militarism."
+    },
+    {
+      "year": "21–28 May 1871",
+      "label": "The Bloody Week",
+      "detail": "Versailles troops enter Paris through an undefended gate and retake the city district by district, with mass summary executions. The Tuileries Palace and the Hôtel de Ville burn."
+    },
+    {
+      "year": "28 May 1871",
+      "label": "The last fighting",
+      "detail": "The last Communards fall in Belleville. Fighters captured in Père Lachaise cemetery are shot against what becomes known as the Mur des Fédérés."
+    },
+    {
+      "year": "1871–1880",
+      "label": "Trials and deportation",
+      "detail": "Tens of thousands are arrested. Thousands are sentenced to deportation to New Caledonia in the Pacific, including Louise Michel."
+    },
+    {
+      "year": "11 Jul 1880",
+      "label": "General amnesty",
+      "detail": "After a partial amnesty in 1879, a full amnesty lets surviving Communards return to France."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "An empire collapses and a besieged city radicalises",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "To understand the Commune you have to start with Paris under the Second Empire. Napoleon III, nephew of the first Napoleon, ruled France from 1852 to 1870. His prefect of the Seine, Baron Georges-Eugène Haussmann, rebuilt the capital with long straight boulevards, parks, sewers and uniform stone apartment blocks. The new Paris was beautiful and modern, but it also pushed many working people out of the old centre. Artisans, labourers and their families moved to the eastern and northern edges of the city, to neighbourhoods such as Belleville, Ménilmontant and Montmartre. Paris became more sharply divided by class, with the wealthy west and the working-class east."
+        },
+        {
+          "type": "p",
+          "text": "Paris also had a long memory of revolution. The city had risen in 1789, in 1830 and again in 1848. In June 1848 the government had crushed a workers' uprising with heavy loss of life. Many of the older radicals of 1871 had lived through those events, and many of the younger ones had grown up on their stories. Republican, socialist and anarchist ideas circulated in clubs, newspapers and workers' associations, including the French sections of the International Workingmen's Association, often called the First International, founded in London in 1864."
+        },
+        {
+          "type": "p",
+          "text": "In July 1870 Napoleon III's government declared war on Prussia, which was leading the German states toward unification under Otto von Bismarck. The war went badly almost at once. On 2 September 1870 the emperor surrendered with an entire army at Sedan. Two days later crowds in Paris proclaimed a republic, and a Government of National Defence took power. It chose to keep fighting. By 19 September German armies had surrounded Paris."
+        },
+        {
+          "type": "p",
+          "text": "The siege lasted about four months and changed the city. Most able-bodied men joined the National Guard, a citizen militia that was paid a small daily wage of one and a half francs, which for many unemployed workers was their only income. The guard elected its own officers and kept its own artillery, much of it paid for by public subscription. Food ran short. Parisians ate horses, then cats, dogs and rats, and at the end of December 1870 even the two elephants of the Jardin d'Acclimatation, Castor and Pollux, were killed and sold as meat. German guns shelled the city in January 1871. Many Parisians came to believe that the government cared more about ending the war than defending the capital."
+        },
+        {
+          "type": "p",
+          "text": "On 28 January 1871 the government signed an armistice. Elections on 8 February produced a National Assembly dominated by monarchists and conservative rural deputies, who wanted peace. Paris itself had voted mostly for republicans and radicals. The Assembly chose Adolphe Thiers, a veteran politician of the July Monarchy, as head of the executive. In quick succession it agreed preliminary peace terms that gave Alsace and much of Lorraine to Germany, let German troops make a victory march through Paris on 1 March, ended the wartime suspension of rent and debt payments, cut back the National Guard's pay, and decided to sit at Versailles rather than in Paris. To many Parisians each of these steps looked like an insult, and together they looked like a plan to disarm and punish the capital."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "kicker": "The idea",
+      "title": "What a 'commune' meant in 1871",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In French, a commune is simply the basic unit of local government, the equivalent of a municipality. But in 1871 the word carried more weight. It recalled the revolutionary Paris Commune of 1792 to 1794, which had pushed the French Revolution to the left. It also stood for a political idea: that power should rest with self-governing local communities, federated together, rather than with a centralised state run from above."
+        },
+        {
+          "type": "p",
+          "text": "The people who supported the Commune did not share one programme. Historians usually describe several overlapping groups:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Jacobins, who looked back to the radical republic of 1793 and wanted a strong revolutionary government to defend the city. They pushed for a Committee of Public Safety, which the Commune created on 1 May 1871 after a bitter internal vote.",
+            "Blanquists, followers of the veteran conspirator Auguste Blanqui, who believed a disciplined revolutionary minority should seize power. Blanqui himself was arrested by the government just before the uprising and spent the whole Commune in prison.",
+            "Proudhonists and members of the International, influenced by the ideas of Pierre-Joseph Proudhon, who favoured workers' associations, cooperatives and decentralisation. They tended to oppose dictatorship and formed the 'minority' in the Commune's later debates.",
+            "Republicans and patriots of many kinds, who were not socialists at all but who were furious at the peace terms and feared that the monarchist Assembly would abolish the republic."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "This mixture matters for how the Commune is remembered. Karl Marx described it as the first government of the working class. Anarchists such as Peter Kropotkin praised it as a model of free federation without a central state. Republicans remembered it as a defence of the republic against monarchists. Conservatives saw it as anarchy, crime and arson. All of these readings take some part of the Commune and treat it as the whole."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "Communards, their enemies, and those who wrote it down",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Louise Michel",
+              "dates": "1830–1905",
+              "text": "A schoolteacher from Montmartre who became the most famous woman of the Commune. She was among the crowd that stopped the army on 18 March, served as an ambulance worker and fought with the National Guard. At her trial she refused to defend herself and demanded to share the fate of her comrades. She was deported to New Caledonia, where she taught Kanak people and sympathised with their 1878 revolt. After the amnesty she returned to France and spent the rest of her life as an anarchist speaker."
+            },
+            {
+              "name": "Adolphe Thiers",
+              "dates": "1797–1877",
+              "text": "A historian and veteran politician who led the government at Versailles. He chose to withdraw from Paris rather than fight inside it, then rebuilt an army and retook the city. He became the first president of the Third Republic in August 1871 and was credited by conservatives with saving the republic from revolution."
+            },
+            {
+              "name": "Élisabeth Dmitrieff",
+              "dates": "1850–c. 1918",
+              "text": "A young Russian socialist and member of the International who had met Marx in London. In Paris she co-founded the Union des femmes and drew up plans for women's producer cooperatives. She escaped after the Bloody Week and returned to Russia, where she later followed her husband into Siberian exile; the date of her death is not known for certain."
+            },
+            {
+              "name": "Nathalie Lemel",
+              "dates": "1827–1921",
+              "text": "A bookbinder from Brittany and a trade unionist who had helped run a cooperative restaurant called La Marmite before the war. She co-founded the Union des femmes, fought on the barricades and was deported to New Caledonia with Louise Michel."
+            },
+            {
+              "name": "André Léo",
+              "dates": "1824–1900",
+              "text": "The pen name of the novelist and journalist Léodile Champseix, which she formed from the names of her two sons. She argued in the Commune's press that the revolution would fail if it did not take women seriously as citizens and fighters."
+            },
+            {
+              "name": "Leó Frankel",
+              "dates": "1844–1896",
+              "text": "A Hungarian-born jeweller and member of the International who led the Commune's Commission of Labour and Exchange. His commission supported the ban on night work in bakeries and the plan to turn abandoned workshops into workers' cooperatives. His election showed that the Commune treated foreign workers as citizens."
+            },
+            {
+              "name": "Jarosław Dąbrowski",
+              "dates": "1836–1871",
+              "text": "A Polish officer and exile from the failed 1863 uprising against Russia who became one of the Commune's main military commanders. He was mortally wounded on the barricades in Montmartre on 23 May 1871."
+            },
+            {
+              "name": "Gustave Courbet",
+              "dates": "1819–1877",
+              "text": "The leading realist painter of his generation, who was elected to the Commune and chaired a federation of artists. He had earlier proposed taking down the Vendôme Column. After the Commune he was imprisoned and later ordered to pay for the column's reconstruction. He fled to Switzerland, where he died in exile."
+            },
+            {
+              "name": "Charles Delescluze",
+              "dates": "1809–1871",
+              "text": "An old republican journalist who had been jailed and deported under Napoleon III. As the Commune's last delegate for war, he walked out onto a barricade at the Château-d'Eau on 25 May 1871, unarmed, and was shot dead."
+            },
+            {
+              "name": "Georges Darboy",
+              "dates": "1813–1871",
+              "text": "The Archbishop of Paris, taken hostage by the Commune. The Commune offered to exchange him for Blanqui, but Thiers refused. Darboy was shot with other hostages at La Roquette prison on 24 May 1871, during the Bloody Week."
+            },
+            {
+              "name": "Patrice de MacMahon",
+              "dates": "1808–1893",
+              "text": "The marshal who commanded the Versailles army that retook Paris. He later became president of the republic from 1873 to 1879."
+            },
+            {
+              "name": "Jules Vallès",
+              "dates": "1832–1885",
+              "text": "A journalist whose newspaper Le Cri du peuple was one of the Commune's most popular papers. He escaped to London and later wrote an autobiographical trilogy whose last volume, L'Insurgé, describes the Commune."
+            },
+            {
+              "name": "Prosper-Olivier Lissagaray",
+              "dates": "1838–1901",
+              "text": "A journalist who fought in the Bloody Week and later wrote a passionate History of the Commune of 1871, published in 1876. Eleanor Marx translated it into English in 1886. It remains one of the most read accounts by a participant."
+            },
+            {
+              "name": "Eugène Pottier",
+              "dates": "1816–1887",
+              "text": "A textile designer and poet elected to the Commune. In June 1871, while in hiding after the Bloody Week, he wrote the words of 'L'Internationale'. Pierre De Geyter set it to music in 1888, and it became the anthem of the international socialist movement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deep-dive",
+      "kicker": "In depth",
+      "title": "From the cannons of Montmartre to the Bloody Week",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The immediate cause of the uprising was a quarrel over artillery. During the siege the National Guard had moved several hundred cannons to the working-class heights of Montmartre and Belleville so that they would not fall into German hands. Thiers wanted them back, because an armed city that distrusted his government was a threat to it. Before dawn on 18 March 1871 he sent regular troops to take the guns from Montmartre."
+        },
+        {
+          "type": "p",
+          "text": "The operation was badly planned. The soldiers secured the cannons but had not brought enough horses to drag them away. As the morning went on, crowds gathered around them, many of them women from the neighbourhood, along with National Guards. People talked to the soldiers, offered them food and drink, and asked them not to fire on fellow Parisians. When General Claude Lecomte ordered his men to shoot into the crowd, they refused, and many of them joined the people. Lecomte was taken prisoner. Later that afternoon he and Clément Thomas, a former National Guard commander hated for his role in crushing the June 1848 rising, were shot by an angry crowd in a garden on the rue des Rosiers. The Commune did not exist yet, but these killings were held against it for decades."
+        },
+        {
+          "type": "p",
+          "text": "Thiers's response shaped everything that followed. Instead of fighting for the city, he ordered the government, the regular army and the administration to leave Paris for Versailles. The Central Committee of the National Guard, which had been formed in the weeks before, found itself in control of the Hôtel de Ville almost by default. It organised municipal elections for 26 March. About ninety members were elected, though a number of moderates soon resigned, and on 28 March the new council was proclaimed the Commune of Paris before a huge crowd."
+        },
+        {
+          "type": "p",
+          "text": "The Commune lasted only seventy-two days and spent much of that time at war, so its laws are better read as a list of intentions than as a working system. Still, the list is revealing. On 30 March it abolished conscription and the standing army in favour of the National Guard and cancelled rents owed for the months of the siege. On 2 April it separated church and state and ended public payments to religious bodies, more than thirty years before the French Republic did the same in 1905. It capped the salaries of its own officials at 6,000 francs a year, roughly a skilled worker's wage, so that no one would get rich from public office. It ordered that workshops abandoned by their owners should be surveyed so they could be run by workers' cooperatives. It banned night work in bakeries, a long-standing demand of bakers' journeymen. It allowed people to recover tools and household goods pawned for small sums. Several districts began to set up free, secular schools, including schools for girls."
+        },
+        {
+          "type": "p",
+          "text": "Women were central to the Commune in ways that frightened its enemies. On 11 April Élisabeth Dmitrieff, Nathalie Lemel and others founded the Union des femmes pour la défense de Paris et les soins aux blessés, which organised women by district, ran ambulance and canteen work, and planned cooperative workshops for women's labour, especially sewing for the National Guard. Women ran clubs, wrote for newspapers, worked as nurses and cantinières, and some fought on the barricades. At the same time, the Commune never gave women the vote, and many male Communards held conventional views about women's place. Women such as André Léo pushed hard against this from within."
+        },
+        {
+          "type": "p",
+          "text": "The Commune's most famous symbolic act came on 16 May, when it pulled down the Vendôme Column, a monument to Napoleon I's victories cast partly from captured cannon. A crowd watched as the column crashed onto a bed of straw and dung prepared to receive it. For supporters it was a blow against militarism and empire. For opponents it was vandalism and proof that the Communards hated France itself."
+        },
+        {
+          "type": "p",
+          "text": "Meanwhile the Versailles government rebuilt its army. Bismarck helped by releasing French prisoners of war. Fighting began on 2 April west of the city, and through April and May the Versailles forces shelled the western suburbs and slowly took the forts around Paris. The Commune's military leadership changed repeatedly and argued constantly. Its political leaders were split between a 'majority' that wanted a Committee of Public Safety with emergency powers and a 'minority' that saw this as a betrayal of the Commune's democratic principles."
+        },
+        {
+          "type": "p",
+          "text": "On Sunday 21 May, Versailles troops entered Paris through the Porte de Saint-Cloud, which had been left almost unguarded. What followed is called the Semaine sanglante, the Bloody Week. The Commune did not fight as a single army. Each neighbourhood built barricades and defended its own streets, which made the defence brave but disorganised. The Versailles army advanced from west to east. Its soldiers shot many prisoners on the spot, and military courts set up in places such as the Parc Monceau, the Luxembourg Gardens and the École Militaire condemned people after a few minutes' hearing. Being found with powder-blackened hands, or wearing a part of a National Guard uniform, could be enough."
+        },
+        {
+          "type": "p",
+          "text": "Fires broke out across the city. Communards set fire to the Tuileries Palace, the Hôtel de Ville and other public buildings, partly as a defensive tactic and partly as a deliberate act of destruction. Shelling started other fires. The hostile press quickly invented the figure of the pétroleuse, a working-class woman who supposedly roamed the streets throwing petrol into cellars. Historians have found little evidence that such women existed in any number, but the image justified the shooting of many women. The Commune also killed hostages. On 24 May Archbishop Darboy and five others were shot at La Roquette prison, and on 26 May a crowd in the rue Haxo killed dozens of hostages, including priests and gendarmes."
+        },
+        {
+          "type": "p",
+          "text": "The last resistance came in Belleville on 28 May. The day before, soldiers had fought their way into the Père Lachaise cemetery, where Communards had made a stand among the tombs. The captured fighters were shot against the cemetery's eastern wall. That wall, now called the Mur des Fédérés, the Wall of the Federals, has been a site of left-wing commemoration ever since."
+        },
+        {
+          "type": "p",
+          "text": "The number of dead remains disputed. The Versailles army lost under a thousand men. Communard deaths were far higher, with estimates ranging from about 6,000 to more than 20,000. More than 40,000 people were arrested. Military courts continued to try them for years. Several thousand were deported to New Caledonia, a French colony in the South Pacific, and others fled to London, Brussels, Geneva and elsewhere. A partial amnesty came in 1879 and a full one in July 1880."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "Louise Michel at her trial and in New Caledonia",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Louise Michel was born in 1830 in Haute-Marne, in eastern France, the daughter of a servant. She trained as a teacher and moved to Paris in the 1850s, where she taught in Montmartre and became involved in republican and feminist circles. During the siege she was active in women's vigilance committees in Montmartre."
+        },
+        {
+          "type": "p",
+          "text": "On the morning of 18 March 1871 she was among those who rushed up the hill when word spread that soldiers were taking the cannons. During the Commune she worked as an ambulance nurse and also took up a rifle with the National Guard, fighting at Issy, Clamart and Montmartre. During the Bloody Week she fought on the barricades. She is often said to have given herself up to the authorities after they arrested her mother as a way of forcing her out of hiding."
+        },
+        {
+          "type": "p",
+          "text": "At her court martial in December 1871 she did not ask for mercy. According to the published accounts of the trial, she told the judges that she belonged entirely to the social revolution and that, since every heart that beat for liberty seemed to have the right only to a little lead, she claimed her share. She said that if they let her live she would never stop crying for vengeance. The court sentenced her to deportation to a fortified enclosure."
+        },
+        {
+          "type": "p",
+          "text": "In 1873 she was shipped to New Caledonia, a journey of several months. There she met Kabyle deportees from Algeria, who had been sent to the same colony after the great 1871 revolt against French rule. Unlike many of her fellow deportees, she took an interest in the Kanak, the island's Indigenous people, learned about their stories and language, and taught some of them. When the Kanak rose against the colonial authorities in 1878, she sympathised with them, while many Communards sided with the French settlers."
+        },
+        {
+          "type": "p",
+          "text": "She returned to France after the amnesty of 1880 and was greeted by large crowds. She spent the next twenty-five years as an anarchist speaker in France and Britain, was jailed again several times, and died in Marseille in January 1905 while on a speaking tour. Her funeral in Paris drew a huge crowd. Today schools, streets and metro stations in France carry her name, which says a great deal about how the memory of the Commune shifted from crime to heritage."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "1870–1871 around the world: new states, old empires",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Commune happened at a turning point for the whole world. The same few years saw new nation-states formed in Europe, a revolution from above in Japan, and colonial violence in Africa and Asia."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Germany: The German Empire was proclaimed at Versailles on 18 January 1871, with Wilhelm I as emperor and Bismarck as chancellor. The war that destroyed the Second Empire created a united Germany, and the loss of Alsace-Lorraine poisoned Franco-German relations until 1918.",
+            "Italy: When French troops left Rome in 1870 to fight Prussia, the Italian army entered the city on 20 September 1870. Rome became the capital of a united Italy in 1871, ending the Pope's temporal rule.",
+            "Algeria: In March 1871, as the Commune was beginning, the Kabyle leader Mohammed el-Mokrani launched a major revolt against French rule in Algeria. It was crushed, land was confiscated, and some rebels were deported to New Caledonia, where they met the Communards. The connection between metropolitan revolt and colonial revolt returns in the lesson on the Algerian War.",
+            "Japan: In August 1871 the new Meiji government abolished the old feudal domains and replaced them with prefectures, a centralising revolution from above. In December 1871 the Iwakura Mission left for the United States and Europe to study Western states, and its members later passed through a France still recovering from the Commune.",
+            "China and Taiwan: In June 1870 the Tianjin Massacre, in which a crowd killed French nuns, priests and the French consul, nearly led to war with France just as France's own war began. In late 1871 dozens of shipwrecked Ryukyuan sailors were killed in southern Taiwan, an episode Japan later used to justify its 1874 expedition to Taiwan.",
+            "Britain and the United States: Britain passed its 1870 Education Act, laying the foundations of mass schooling, and London became the main refuge for Communard exiles. The United States was in the middle of Reconstruction after the Civil War, and American newspapers followed the Commune closely, often comparing it to their own fears about labour unrest."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Comparing these events shows two very different paths to the modern state. In Germany, Italy and Japan, elites built strong centralised nations from above. In Paris, working people tried briefly to build a decentralised republic from below, and were defeated by a central state that then became the stable Third Republic."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Memory, myth and monuments",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The defeat of the Commune had deep effects on French politics. The Third Republic that Thiers led survived and became, after a decade of monarchist pressure, a firmly republican regime. But the organised workers' movement in France was crippled for years. Its leaders were dead, imprisoned, deported or in exile, and the International was banned in France in 1872. When French socialism revived in the 1880s, the Commune became its founding legend, and every year on the anniversary of the Bloody Week people marched to the Mur des Fédérés."
+        },
+        {
+          "type": "p",
+          "text": "Karl Marx wrote The Civil War in France as an address for the General Council of the International, published in London in June 1871, only days after the Bloody Week. He presented the Commune as a working-class government that had shown how to replace the old state machine. In 1891 Friedrich Engels went further and called the Commune an example of the 'dictatorship of the proletariat'. Lenin studied the Commune closely and drew the lesson that a revolution must be ruthless and centralised to survive. The Bolsheviks treated it as an ancestor of 1917, and later Communist states, including China during the Cultural Revolution, cited it in their own propaganda. Anarchists drew the opposite lesson, arguing that the Commune showed the value of free federation and the danger of any central power."
+        },
+        {
+          "type": "p",
+          "text": "Conservatives built their own memorial. In 1873 the National Assembly declared the construction of a basilica on the hill of Montmartre to be of public utility. The Sacré-Cœur, built on the same hill where the uprising had begun, was presented by its backers as an act of national penance for France's sins, and for many on the left it has always stood as a monument to the victory over the Commune. It was finished in 1914 and consecrated in 1919."
+        },
+        {
+          "type": "p",
+          "text": "Art and literature kept returning to the Commune. Victor Hugo, who had opposed the uprising but also condemned the repression, wrote poems about the 'terrible year' and campaigned for amnesty. Arthur Rimbaud, still a teenager, wrote poems inspired by it. Émile Zola set the last part of his novel La Débâcle in the burning city. Photographers recorded barricades, ruins and the fallen Vendôme Column, and the government later circulated staged and composite photographs to show Communard 'crimes', an early example of photographic propaganda."
+        },
+        {
+          "type": "p",
+          "text": "Feminist historians in the twentieth century recovered the women of the Commune from the myth of the pétroleuse, showing how women organised work, care and political debate, and how both their comrades and their enemies limited what they could do. That history connects the Commune to the longer story of women's political action told in the first-wave feminism lesson."
+        },
+        {
+          "type": "p",
+          "text": "In 2016 the French National Assembly passed a resolution to rehabilitate the victims of the repression of the Commune. In 2021, the 150th anniversary, Paris held a large programme of commemorations, and arguments broke out again over whether the Commune should be honoured as a democratic experiment or remembered mainly for its violence. That argument has never really ended, which is perhaps the best sign of how much the seventy-two days still matter."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "Was the Commune a revolution, a civil war, or a city defending itself?",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Supporters have described the Commune as the first workers' government, anarchists as a free federation, republicans as a defence of the republic, and opponents as a criminal insurrection. Many of the people who actually fought were simply Parisians who felt betrayed by a government that had lost a war and seemed to despise their city. Which of these descriptions do you find most convincing, and what would you need to know about an ordinary Communard, such as a laundress in Belleville or a bookbinder in the Latin Quarter, to decide?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Paris Commune (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Paris_Commune",
+      "note": "A thorough overview of causes, decrees, factions, the Bloody Week and the historiography of the death toll."
+    },
+    {
+      "title": "Semaine sanglante (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Semaine_sanglante",
+      "note": "A day-by-day account of the Bloody Week, including the debate over casualty figures."
+    },
+    {
+      "title": "Louise Michel (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Louise_Michel",
+      "note": "Her life from Montmartre schoolteacher to deportee and anarchist speaker."
+    },
+    {
+      "title": "Karl Marx, The Civil War in France (1871), Marxists Internet Archive",
+      "url": "https://www.marxists.org/archive/marx/works/1871/civil-war-france/",
+      "note": "Marx's address to the International, written as the Commune fell. Read it as an argument, not a neutral history."
+    },
+    {
+      "title": "Prosper-Olivier Lissagaray, History of the Paris Commune of 1871, Marxists Internet Archive",
+      "url": "https://www.marxists.org/history/france/archive/lissagaray/",
+      "note": "The classic participant's account, in Eleanor Marx's 1886 translation."
+    },
+    {
+      "title": "Union des femmes pour la défense de Paris et les soins aux blessés (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Women%27s_Union_for_the_Defense_of_Paris_and_Care_of_the_Wounded",
+      "note": "How women organised during the Commune."
+    },
+    {
+      "title": "Sacré-Cœur, Paris (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris",
+      "note": "The basilica built on Montmartre after the Commune and its contested meaning."
+    }
+  ],
+  "listen": [],
+  "watch": [],
+  "fun_fact": {
+    "title": "A love song that became a Commune anthem",
+    "text": "'Le Temps des cerises', the cherry-time song still sung in France today, was written by Jean-Baptiste Clément in the late 1860s as an ordinary love song, before the Commune. Clément later fought in the Bloody Week, and in 1882 he dedicated the song to a young nurse named Louise whom he had met at a barricade on the rue de la Fontaine-au-Roi on its final day. Because of that dedication, a sweet song about cherries and lost love became forever linked with the Commune's defeat, and it is often sung at commemorations at the Mur des Fédérés."
+  },
+  "glossary": [
+    {
+      "term": "Paris Commune",
+      "aliases": [
+        "Commune of Paris",
+        "the Commune"
+      ],
+      "explain": "The revolutionary municipal government that ruled Paris from 18 March to 28 May 1871."
+    },
+    {
+      "term": "Communard",
+      "aliases": [
+        "Communards",
+        "fédérés"
+      ],
+      "explain": "A supporter or fighter of the Paris Commune. Fighters were also called fédérés, members of the federated National Guard."
+    },
+    {
+      "term": "Semaine sanglante",
+      "aliases": [
+        "Bloody Week"
+      ],
+      "explain": "The week of 21 to 28 May 1871 when the Versailles army retook Paris and killed thousands of Communards."
+    },
+    {
+      "term": "Franco-Prussian War",
+      "aliases": [],
+      "explain": "The 1870–1871 war between France and Prussia-led German states, which ended the Second Empire and led to German unification."
+    },
+    {
+      "term": "Siege of Paris",
+      "aliases": [],
+      "explain": "The German encirclement of Paris from September 1870 to the armistice of January 1871."
+    },
+    {
+      "term": "Second Empire",
+      "aliases": [],
+      "explain": "The regime of Napoleon III in France from 1852 to 1870."
+    },
+    {
+      "term": "Third Republic",
+      "aliases": [],
+      "explain": "The French republic proclaimed on 4 September 1870, which lasted until 1940."
+    },
+    {
+      "term": "Napoleon III",
+      "aliases": [],
+      "explain": "Emperor of the French from 1852 to 1870, captured at Sedan."
+    },
+    {
+      "term": "Battle of Sedan",
+      "aliases": [
+        "Sedan"
+      ],
+      "explain": "The French defeat of 1–2 September 1870 in which Napoleon III surrendered."
+    },
+    {
+      "term": "Georges-Eugène Haussmann",
+      "aliases": [
+        "Haussmann"
+      ],
+      "explain": "Prefect of the Seine who rebuilt Paris with wide boulevards under Napoleon III."
+    },
+    {
+      "term": "National Guard",
+      "aliases": [],
+      "explain": "The Parisian citizen militia that elected its officers, held its own cannons and formed the Commune's armed force."
+    },
+    {
+      "term": "Central Committee of the National Guard",
+      "aliases": [
+        "Central Committee"
+      ],
+      "explain": "The body elected by National Guard battalions that took control of Paris on 18 March 1871 and organised the Commune elections."
+    },
+    {
+      "term": "Hôtel de Ville",
+      "aliases": [],
+      "explain": "Paris city hall, where the Commune was proclaimed and which burned during the Bloody Week."
+    },
+    {
+      "term": "Versailles",
+      "aliases": [
+        "Versaillais"
+      ],
+      "explain": "The royal town outside Paris where the National Assembly and Thiers's government sat; its troops were called Versaillais."
+    },
+    {
+      "term": "National Assembly",
+      "aliases": [],
+      "explain": "The French parliament elected in February 1871, dominated by monarchists and conservatives."
+    },
+    {
+      "term": "Adolphe Thiers",
+      "aliases": [
+        "Thiers"
+      ],
+      "explain": "Head of the French government who crushed the Commune and became first president of the Third Republic."
+    },
+    {
+      "term": "Patrice de MacMahon",
+      "aliases": [
+        "MacMahon"
+      ],
+      "explain": "Marshal who commanded the Versailles army in 1871 and later became president."
+    },
+    {
+      "term": "Otto von Bismarck",
+      "aliases": [
+        "Bismarck"
+      ],
+      "explain": "Prussian minister-president and first German chancellor, architect of German unification."
+    },
+    {
+      "term": "German Empire",
+      "aliases": [],
+      "explain": "The unified German state proclaimed at Versailles on 18 January 1871."
+    },
+    {
+      "term": "Treaty of Frankfurt",
+      "aliases": [],
+      "explain": "The May 1871 peace treaty in which France ceded Alsace and much of Lorraine to Germany and agreed to pay a large indemnity."
+    },
+    {
+      "term": "Alsace-Lorraine",
+      "aliases": [
+        "Alsace",
+        "Lorraine"
+      ],
+      "explain": "The French territory annexed by Germany in 1871 and returned to France after 1918."
+    },
+    {
+      "term": "Montmartre",
+      "aliases": [],
+      "explain": "The hill in northern Paris where the uprising began on 18 March 1871."
+    },
+    {
+      "term": "Belleville",
+      "aliases": [],
+      "explain": "A working-class district of eastern Paris and the last stronghold of the Commune."
+    },
+    {
+      "term": "Claude Lecomte",
+      "aliases": [
+        "Lecomte"
+      ],
+      "explain": "The general who ordered troops to fire on the Montmartre crowd and was killed on 18 March 1871."
+    },
+    {
+      "term": "Clément Thomas",
+      "aliases": [],
+      "explain": "Former National Guard commander killed with Lecomte on 18 March 1871."
+    },
+    {
+      "term": "Louise Michel",
+      "aliases": [],
+      "explain": "Montmartre schoolteacher, Communard fighter, deportee to New Caledonia and later anarchist speaker."
+    },
+    {
+      "term": "Élisabeth Dmitrieff",
+      "aliases": [
+        "Dmitrieff"
+      ],
+      "explain": "Russian socialist who co-founded the Union des femmes during the Commune."
+    },
+    {
+      "term": "Nathalie Lemel",
+      "aliases": [
+        "Lemel"
+      ],
+      "explain": "Breton bookbinder and trade unionist who co-founded the Union des femmes."
+    },
+    {
+      "term": "André Léo",
+      "aliases": [],
+      "explain": "Pen name of the novelist Léodile Champseix, a feminist voice in the Commune's press."
+    },
+    {
+      "term": "Union des femmes",
+      "aliases": [
+        "Union des femmes pour la défense de Paris et les soins aux blessés",
+        "Women's Union"
+      ],
+      "explain": "The women's organisation founded on 11 April 1871 to organise defence, nursing and women's cooperative work."
+    },
+    {
+      "term": "Pétroleuse",
+      "aliases": [
+        "pétroleuses"
+      ],
+      "explain": "The hostile press's myth of Communard women setting Paris on fire with petrol."
+    },
+    {
+      "term": "Leó Frankel",
+      "aliases": [
+        "Frankel"
+      ],
+      "explain": "Hungarian-born worker who led the Commune's Commission of Labour and Exchange."
+    },
+    {
+      "term": "Jarosław Dąbrowski",
+      "aliases": [
+        "Dąbrowski",
+        "Dombrowski"
+      ],
+      "explain": "Polish exile and Commune military commander, killed in May 1871."
+    },
+    {
+      "term": "Gustave Courbet",
+      "aliases": [
+        "Courbet"
+      ],
+      "explain": "Realist painter, Commune member, blamed for the fall of the Vendôme Column."
+    },
+    {
+      "term": "Vendôme Column",
+      "aliases": [],
+      "explain": "The Napoleonic victory column pulled down by the Commune on 16 May 1871 and later rebuilt."
+    },
+    {
+      "term": "Charles Delescluze",
+      "aliases": [
+        "Delescluze"
+      ],
+      "explain": "Veteran republican and the Commune's last delegate for war, killed on a barricade on 25 May 1871."
+    },
+    {
+      "term": "Auguste Blanqui",
+      "aliases": [
+        "Blanqui",
+        "Blanquists"
+      ],
+      "explain": "Veteran revolutionary conspirator whose followers formed a key Commune faction; he was imprisoned throughout the Commune."
+    },
+    {
+      "term": "Pierre-Joseph Proudhon",
+      "aliases": [
+        "Proudhon",
+        "Proudhonists"
+      ],
+      "explain": "French thinker who favoured mutualism, cooperatives and federalism; his followers formed part of the Commune's minority."
+    },
+    {
+      "term": "Jacobins",
+      "aliases": [],
+      "explain": "Radicals who looked back to the revolutionary government of 1793 and favoured strong central revolutionary power."
+    },
+    {
+      "term": "Committee of Public Safety",
+      "aliases": [],
+      "explain": "An emergency executive created by the Commune on 1 May 1871, named after the body of the 1793–94 Terror."
+    },
+    {
+      "term": "First International",
+      "aliases": [
+        "International Workingmen's Association",
+        "the International"
+      ],
+      "explain": "The international federation of workers' organisations founded in London in 1864."
+    },
+    {
+      "term": "Georges Darboy",
+      "aliases": [
+        "Darboy"
+      ],
+      "explain": "Archbishop of Paris, taken hostage and shot by Communards on 24 May 1871."
+    },
+    {
+      "term": "Mur des Fédérés",
+      "aliases": [
+        "Wall of the Federals"
+      ],
+      "explain": "The wall in Père Lachaise cemetery where captured Communards were shot on 28 May 1871, now a place of commemoration."
+    },
+    {
+      "term": "Père Lachaise",
+      "aliases": [],
+      "explain": "The large cemetery in eastern Paris where some of the last fighting took place."
+    },
+    {
+      "term": "Tuileries Palace",
+      "aliases": [
+        "Tuileries"
+      ],
+      "explain": "The royal and imperial palace in central Paris burned during the Bloody Week and later demolished."
+    },
+    {
+      "term": "New Caledonia",
+      "aliases": [],
+      "explain": "A French Pacific colony to which thousands of Communards were deported."
+    },
+    {
+      "term": "Kanak",
+      "aliases": [],
+      "explain": "The Indigenous people of New Caledonia, who revolted against French colonial rule in 1878."
+    },
+    {
+      "term": "Mokrani Revolt",
+      "aliases": [
+        "Mohammed el-Mokrani",
+        "Kabyle revolt"
+      ],
+      "explain": "The major 1871 uprising against French rule in Algeria, led by Mohammed el-Mokrani."
+    },
+    {
+      "term": "Amnesty of 1880",
+      "aliases": [],
+      "explain": "The general amnesty of July 1880 that allowed surviving Communards to return to France."
+    },
+    {
+      "term": "Karl Marx",
+      "aliases": [
+        "Marx"
+      ],
+      "explain": "German philosopher and economist who wrote The Civil War in France about the Commune."
+    },
+    {
+      "term": "The Civil War in France",
+      "aliases": [],
+      "explain": "Marx's 1871 address to the International interpreting the Commune as a workers' government."
+    },
+    {
+      "term": "Friedrich Engels",
+      "aliases": [
+        "Engels"
+      ],
+      "explain": "Marx's collaborator, who in 1891 called the Commune the dictatorship of the proletariat."
+    },
+    {
+      "term": "Dictatorship of the proletariat",
+      "aliases": [],
+      "explain": "In Marxist theory, the rule of the working class during the transition to socialism, a term Engels applied to the Commune."
+    },
+    {
+      "term": "Peter Kropotkin",
+      "aliases": [
+        "Kropotkin"
+      ],
+      "explain": "Russian anarchist who saw the Commune as a model of free federation."
+    },
+    {
+      "term": "Jules Vallès",
+      "aliases": [
+        "Vallès"
+      ],
+      "explain": "Journalist of Le Cri du peuple and author of L'Insurgé."
+    },
+    {
+      "term": "Le Cri du peuple",
+      "aliases": [],
+      "explain": "One of the Commune's most popular newspapers, edited by Jules Vallès."
+    },
+    {
+      "term": "Prosper-Olivier Lissagaray",
+      "aliases": [
+        "Lissagaray"
+      ],
+      "explain": "Communard journalist and author of the classic History of the Commune of 1871."
+    },
+    {
+      "term": "History of the Commune of 1871",
+      "aliases": [],
+      "explain": "Lissagaray's 1876 account, translated into English by Eleanor Marx."
+    },
+    {
+      "term": "Eleanor Marx",
+      "aliases": [],
+      "explain": "Karl Marx's daughter, a socialist activist who translated Lissagaray's history."
+    },
+    {
+      "term": "Eugène Pottier",
+      "aliases": [
+        "Pottier"
+      ],
+      "explain": "Communard poet who wrote the words of L'Internationale in 1871."
+    },
+    {
+      "term": "L'Internationale",
+      "aliases": [
+        "The Internationale"
+      ],
+      "explain": "The socialist anthem written by Pottier in 1871 and set to music by Pierre De Geyter in 1888."
+    },
+    {
+      "term": "Jean-Baptiste Clément",
+      "aliases": [
+        "Clément"
+      ],
+      "explain": "Songwriter and Communard, author of Le Temps des cerises."
+    },
+    {
+      "term": "Le Temps des cerises",
+      "aliases": [],
+      "explain": "A 1860s love song by Jean-Baptiste Clément that became associated with the Commune."
+    },
+    {
+      "term": "Sacré-Cœur",
+      "aliases": [
+        "Basilica of the Sacred Heart"
+      ],
+      "explain": "The basilica built on Montmartre after 1873 as an act of national penance, seen by many on the left as a monument to the Commune's defeat."
+    },
+    {
+      "term": "Victor Hugo",
+      "aliases": [
+        "Hugo"
+      ],
+      "explain": "French writer who condemned the repression and campaigned for amnesty."
+    },
+    {
+      "term": "Arthur Rimbaud",
+      "aliases": [
+        "Rimbaud"
+      ],
+      "explain": "Teenage poet whose early poems responded to the Commune."
+    },
+    {
+      "term": "Émile Zola",
+      "aliases": [
+        "Zola"
+      ],
+      "explain": "Novelist whose La Débâcle depicts the war of 1870 and the burning of Paris."
+    },
+    {
+      "term": "La Débâcle",
+      "aliases": [],
+      "explain": "Zola's 1892 novel about the Franco-Prussian War and the Commune."
+    },
+    {
+      "term": "Iwakura Mission",
+      "aliases": [],
+      "explain": "Japanese diplomatic and study mission to the US and Europe that departed in December 1871."
+    },
+    {
+      "term": "Tianjin Massacre",
+      "aliases": [],
+      "explain": "The June 1870 killing of French missionaries and the French consul in Tianjin."
+    }
+  ]
+}
