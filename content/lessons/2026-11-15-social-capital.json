@@ -1,0 +1,630 @@
+{
+  "slug": "social-capital",
+  "date": "2026-11-15",
+  "subject": "psychology",
+  "related": [
+    "pluralistic-ignorance",
+    "moral-panic",
+    "groupthink",
+    "bystander-genovese",
+    "just-world-hypothesis",
+    "emotional-labor"
+  ],
+  "title": "Social capital: why networks, norms and trust make groups work, from Italian regions to bowling leagues",
+  "dek": "Social capital is the value that sits in relationships rather than in money, machines or individual skills. When people know one another, share norms and trust each other, they can cooperate cheaply, pass information quickly and solve problems that no single person could solve alone. This lesson explains the concept first, then follows the sociologist Robert Putnam's two famous case studies: twenty new regional governments in Italy after 1970, and the decline of American clubs and bowling leagues. It ends with the main criticisms and with what the idea means for Taiwan's community movement and for a charity shop like cool dairy.",
+  "era": "Hanifan 1916; Jacobs 1961; Bourdieu 1983–86; Coleman 1988; Putnam 1993, 1995 and 2000; critiques 1998–2007",
+  "reading_minutes": 18,
+  "honesty": "The bowling figures, the volunteering and fraternal-membership figures and the beer-and-pizza detail are quoted from Putnam's 1995 Journal of Democracy article. The Italian design and measures come from Putnam's 1993 American Prospect essay and Making Democracy Work, as summarised by Frederick Solt's 2004 re-analysis. The rough causal shares (about half generational change, about a quarter television, about a tenth each for time and money pressures and for sprawl) are Putnam's own estimates in Bowling Alone (2000) and are disputed. The Catholic-school dropout rates come from Coleman's 1988 paper. Social capital is a contested concept: different scholars define it differently, and the lesson notes where they disagree.",
+  "timeline": [
+    {
+      "year": "1835–1840",
+      "label": "Tocqueville's Democracy in America",
+      "detail": "Alexis de Tocqueville describes Americans' habit of forming associations for every purpose. Putnam later treats him as the ancestor of the idea."
+    },
+    {
+      "year": "1916",
+      "label": "Hanifan uses the term",
+      "detail": "Lyda Judson Hanifan, a school supervisor in rural West Virginia, uses 'social capital' to describe the goodwill, fellowship and social intercourse that community centres can build."
+    },
+    {
+      "year": "1958",
+      "label": "Amoral familism",
+      "detail": "Edward Banfield's The Moral Basis of a Backward Society describes a southern Italian village where people would not cooperate beyond the family."
+    },
+    {
+      "year": "1961",
+      "label": "Jane Jacobs",
+      "detail": "The Death and Life of Great American Cities uses the term for the networks that make city neighbourhoods safe and self-governing."
+    },
+    {
+      "year": "1970",
+      "label": "Italy creates regional governments",
+      "detail": "Twenty regional governments with almost identical formal structures begin work, which gives Putnam and his colleagues a natural experiment."
+    },
+    {
+      "year": "1973",
+      "label": "The strength of weak ties",
+      "detail": "Mark Granovetter shows that acquaintances, not close friends, often pass on the information that leads to new jobs."
+    },
+    {
+      "year": "1983–1986",
+      "label": "Bourdieu's forms of capital",
+      "detail": "Pierre Bourdieu separates economic, cultural and social capital and treats social capital as a resource that helps privileged groups reproduce their advantage."
+    },
+    {
+      "year": "1988",
+      "label": "Coleman's paper",
+      "detail": "James Coleman publishes 'Social Capital in the Creation of Human Capital' in the American Journal of Sociology."
+    },
+    {
+      "year": "1993",
+      "label": "Making Democracy Work",
+      "detail": "Putnam, with Robert Leonardi and Raffaella Nanetti, argues that civic traditions explain why some Italian regional governments work and others do not."
+    },
+    {
+      "year": "1994",
+      "label": "社區總體營造 in Taiwan",
+      "detail": "On 3 October 1994 the Council for Cultural Affairs, under chair 申學庸, formally presents the Community Empowerment (社區總體營造) policy to the Legislative Yuan."
+    },
+    {
+      "year": "Jan 1995",
+      "label": "'Bowling Alone' article",
+      "detail": "Putnam's essay in the Journal of Democracy reports that league bowling fell 40 percent between 1980 and 1993 while the number of bowlers rose 10 percent."
+    },
+    {
+      "year": "2000",
+      "label": "Bowling Alone, the book",
+      "detail": "Putnam's long empirical study, Bowling Alone: The Collapse and Revival of American Community, is published."
+    },
+    {
+      "year": "2003",
+      "label": "Diminished Democracy",
+      "detail": "Theda Skocpol argues that America moved from member-run federations to professionally managed advocacy groups."
+    },
+    {
+      "year": "2007",
+      "label": "'E Pluribus Unum'",
+      "detail": "Putnam reports that in more ethnically diverse US neighbourhoods, residents of all groups tended in the short run to trust each other less and 'hunker down'."
+    }
+  ],
+  "sections": [
+    {
+      "id": "concept",
+      "kicker": "The concept",
+      "title": "What social capital means",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Economists have long talked about physical capital, such as tools, factories and buildings, and about human capital, which is the knowledge and skill a person carries. Social capital is the third kind. It is the value that exists in the relationships between people: the networks that connect them, the norms of give and take they share, and the trust that lets them rely on each other. Putnam's short definition is that social capital refers to 'features of social organization, such as networks, norms, and trust, that facilitate coordination and cooperation for mutual benefit.'"
+        },
+        {
+          "type": "p",
+          "text": "The word capital is chosen on purpose. Like money in the bank, social capital is built up through investment, in this case time, favours and repeated contact. It can be drawn on later, for example when you need a job lead, a babysitter or a volunteer. It can also run down when it is not maintained. Unlike money, however, it does not belong to one person. A relationship exists between two people, and a norm of trust exists across a whole group, so social capital is partly a private good and partly a public good. Someone who never joins a club can still benefit from living in a street where neighbours watch out for each other."
+        },
+        {
+          "type": "p",
+          "text": "Scholars usually divide social capital into two types. Bonding social capital is found inside tight groups of similar people, such as families, ethnic communities, church congregations or close friends. It provides emotional support and loyalty. Bridging social capital connects people across social divisions, such as a sports club that mixes classes or a volunteer group that brings together different generations. It spreads information and widens a person's world. Putnam used the vivid comparison that bonding capital is good for 'getting by' and bridging capital is good for 'getting ahead'. A third term, linking social capital, is sometimes used for ties between ordinary people and those with formal power, such as officials or donors."
+        },
+        {
+          "type": "p",
+          "text": "A practical way to see the concept is to ask what becomes cheaper when trust is high. Contracts need fewer lawyers, neighbours lend tools instead of buying them, parents share school runs, and a stranger's word is good enough to start a deal. When trust is low, every one of these exchanges needs guarantees, checks or money up front, and many never happen at all."
+        }
+      ]
+    },
+    {
+      "id": "roots",
+      "kicker": "Before Putnam",
+      "title": "Where the idea came from",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The idea is older than the term. In the 1830s the French writer Alexis de Tocqueville travelled through the United States and was struck by how often Americans formed voluntary associations, for religion, temperance, schools, roads and almost everything else. He argued that these associations taught citizens the habits of cooperation that made democracy possible. Later sociologists, from Émile Durkheim to the Chicago school, worried about what happened to people when such ties were broken by industrial cities."
+        },
+        {
+          "type": "p",
+          "text": "The first known use of 'social capital' in roughly the modern sense came in 1916 from Lyda Judson Hanifan, a state supervisor of rural schools in West Virginia. He wrote about community centres in schools and described social capital as the goodwill, fellowship, sympathy and social intercourse among families that make up a social unit. In 1961 the urban writer Jane Jacobs used the term in The Death and Life of Great American Cities for the dense, informal networks of city neighbourhoods, which she saw as an irreplaceable asset that bulldozer-style urban renewal destroyed."
+        },
+        {
+          "type": "p",
+          "text": "Two academic versions then shaped the field. The French sociologist Pierre Bourdieu, writing in the early 1980s, treated social capital as one of three forms of capital alongside economic and cultural capital. For him it was the sum of resources a person could reach through a durable network of relationships, such as old school ties or family connections, and its main effect was to help privileged groups keep their advantages. The American sociologist James Coleman, in a 1988 paper, took a more neutral view. He described social capital as features of social structure that make certain actions possible. His most famous example was the wholesale diamond market in New York, where merchants handed each other bags of stones worth large sums to inspect at home without formal insurance, because the traders were bound by family, community and religious ties and cheating would mean losing everything."
+        },
+        {
+          "type": "p",
+          "text": "Coleman also tested the idea on schooling. Using a large national survey of American high-school students, he found that dropout rates between the sophomore and senior years were 14.4 percent in public schools, 3.4 percent in Catholic schools and 11.9 percent in other private schools. He argued that Catholic schools were surrounded by a community of parents who knew one another through church, which he called intergenerational closure. Those parents could share information and enforce norms together, and that community, rather than the students' own religion, seemed to keep children in school."
+        }
+      ]
+    },
+    {
+      "id": "case-italy",
+      "kicker": "Case study 1",
+      "title": "Twenty Italian regions, 1970 onward",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1970 Italy set up a nationwide system of regional governments. Twenty new institutions were created with almost identical formal powers and structures, but they were planted in very different places, from the industrial north to the agrarian south, from strongly Catholic areas to strongly Communist ones. Robert Putnam, a political scientist at Harvard, and his colleagues Robert Leonardi and Raffaella Nanetti saw this as a natural experiment. Putnam compared it to a botanist sowing genetically identical seeds in different plots of soil and watching how each grows."
+        },
+        {
+          "type": "p",
+          "text": "Over about two decades the team measured how well each regional government performed, using indicators such as the stability of cabinets, the speed of budgets, the number of day-care centres and family clinics created, and how quickly offices answered citizens' requests. Some governments proved inefficient and corrupt, while others created innovative programmes and satisfied their residents. Government structure could not explain the difference, because it was the same everywhere, and Putnam reported that party politics and ideology made little difference either."
+        },
+        {
+          "type": "p",
+          "text": "The best predictor was what Putnam called the civic community. He measured it with four indicators that were closely correlated: newspaper readership, the density of sports and cultural associations such as choral societies and football clubs, turnout in national referendums, and the use of preference votes for individual candidates. Preference voting counted against civic community, because in Italy it was associated with patron-client politics, in which voters trade support for personal favours. Regions such as Emilia-Romagna and Tuscany scored high and had effective governments. Regions such as Calabria and Sicily scored low, and Putnam described them as trapped in mistrust, where public affairs were seen as the business of bosses and politicians rather than citizens."
+        },
+        {
+          "type": "p",
+          "text": "Putnam then made his most controversial claim. He traced the north's civic traditions back to the communal republics of medieval northern and central Italy, where citizens had governed cities together, and the south's weaker traditions to the hierarchical Norman kingdom founded in the twelfth century. Critics replied that this story was too neat. In a 2004 re-analysis of Putnam's own data, the political scientist Frederick Solt found that economic development and the historical distribution of land predicted the kind of participation that made government work better than associational life did. The debate showed a recurring problem with social capital: it is hard to tell whether trust and clubs cause good institutions, or good institutions and prosperity create trust and clubs."
+        }
+      ]
+    },
+    {
+      "id": "case-bowling",
+      "kicker": "Case study 2",
+      "title": "Bowling Alone: America's declining social capital",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In January 1995 Putnam turned the same lens on the United States in an article in the Journal of Democracy called 'Bowling Alone: America's Declining Social Capital'. He gathered evidence that many forms of civic life had peaked in the middle of the twentieth century and then fallen. Regular volunteering, measured by Labor Department surveys, dropped from 24 percent of adults in 1974 to 20 percent in 1989. Volunteers for the Boy Scouts were down 26 percent and for the Red Cross 61 percent since 1970. Membership was down in fraternal groups such as the Lions (12 percent since 1983), the Elks (18 percent since 1979), the Shriners (27 percent since 1979), the Jaycees (44 percent since 1979) and the Masons (39 percent since 1959)."
+        },
+        {
+          "type": "p",
+          "text": "The detail that gave the article its title was what Putnam called his most whimsical piece of evidence. Between 1980 and 1993 the total number of bowlers in America rose by 10 percent, but bowling in organised leagues fell by 40 percent. Nearly 80 million Americans bowled at least once in 1993, so bowling was not a trivial pastime. People were still bowling, but more of them were doing it alone or with family rather than in a weekly league where they would sit with the same neighbours and coworkers and talk about local affairs."
+        },
+        {
+          "type": "p",
+          "text": "Putnam also noticed a counter-argument. Big national organisations such as the Sierra Club, the National Organization for Women and the American Association of Retired Persons had grown quickly. AARP went from 400,000 members in 1960 to 33 million in 1993. But Putnam argued that these were 'tertiary associations': for most members, membership meant writing a cheque and perhaps reading a newsletter. Members did not meet each other, so the groups created political influence without creating the face-to-face ties that make up social capital."
+        },
+        {
+          "type": "p",
+          "text": "The article struck a nerve, and in 2000 Putnam published a long book, Bowling Alone: The Collapse and Revival of American Community, with far more data on voting, church attendance, union membership, dinner parties, card games and trust. He tested many possible causes. By his rough accounting, about half of the decline came from generational change, as the unusually civic generation shaped by the Depression and the Second World War was replaced by less engaged younger cohorts. About a quarter came from television and electronic entertainment, which privatised leisure time. About a tenth came from pressures of time and money, including two-career families, and about a tenth from suburban sprawl and longer commutes. He found that women's entry into paid work was only a small part of the story, and he argued that busy people often cut television, not clubs."
+        },
+        {
+          "type": "p",
+          "text": "Putnam's later work continued the story. In a 2007 paper titled 'E Pluribus Unum' he reported an uncomfortable finding: in more ethnically diverse American neighbourhoods, people tended in the short run to trust their neighbours less, including neighbours of their own group, and to withdraw, which he called hunkering down. He stressed that he expected this to change over time as new shared identities formed. In 2020, with Shaylyn Romney Garrett, he published The Upswing, which placed the decline inside a longer arc from individualism in the Gilded Age to community in the mid-century and back."
+        }
+      ]
+    },
+    {
+      "id": "critiques",
+      "kicker": "Criticism",
+      "title": "The dark side and the measurement problem",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The sociologist Alejandro Portes, in a widely cited 1998 review, warned that social capital is not always good. He listed four negative effects: groups that help their own members can exclude outsiders; strong communities can demand too much from successful members; close groups can restrict individual freedom; and in some poor communities, norms can pull people down by punishing those who try to leave. A mafia family, a gang or a closed old-boys' network has plenty of bonding social capital."
+        },
+        {
+          "type": "p",
+          "text": "Other critics focused on Putnam's American evidence. The political scientist Theda Skocpol, in Diminished Democracy (2003), argued that the change was not mainly about individual habits such as television. Instead, American elites had shifted from large membership federations with local chapters to professionally managed advocacy groups run from Washington offices, which ask members for money rather than participation. Others pointed out that new forms of association, such as self-help groups, sports for children and later online communities, were harder to count than Elks lodges, and that some of the old clubs Putnam mourned had excluded women and Black Americans."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Definition problem: social capital is sometimes defined by its effects, which makes it hard to test, because any group that cooperates well can be said to have it.",
+            "Causation problem: trust may be the result of good government and prosperity rather than their cause, as the Italian debate showed.",
+            "Measurement problem: clubs, survey questions about trust and voting turnout capture different things, and they do not always move together.",
+            "Distribution problem: Bourdieu's version reminds us that networks are unequally distributed and often reproduce class privilege."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Mark Granovetter's 1973 paper 'The Strength of Weak Ties' adds a useful twist. In a study of people who had recently changed jobs in a Boston suburb, he found that useful job information more often came from acquaintances than from close friends, because acquaintances move in different circles and know things your close friends already know. This supports the value of bridging social capital and warns that a community rich in bonding ties can still be poor in new information."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Meanwhile in Taiwan",
+      "title": "From 社區發展 to 社區總體營造",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Taiwan's own story offers an interesting comparison. From the 1960s the government ran a community development programme (社區發展) that was largely top-down: officials drew community boundaries that matched village and borough lines, and funds went into activity centres, nurseries and public works. After the lifting of martial law in 1987, environmental protests and local preservation campaigns showed that residents could organise themselves around shared concerns."
+        },
+        {
+          "type": "p",
+          "text": "On 3 October 1994, 申學庸, chair of the Council for Cultural Affairs (文建會, the predecessor of today's Ministry of Culture), presented a plan to the Legislative Yuan to promote 社區總體營造, usually translated as Community Empowerment or comprehensive community building. The idea, championed by the anthropologist 陳其南, was to use culture, local history and local industries as entry points for residents to take part in public affairs from the bottom up. The approach was later described through five themes: people, culture, land, industry and landscape (人、文、地、產、景). In the 2000s it grew into the cross-ministry 新故鄉社區營造計畫. In effect, the policy was an attempt to build social capital on purpose, during the same years when Putnam was arguing that America's was eroding."
+        },
+        {
+          "type": "p",
+          "text": "Taiwanese commentators also noticed the dark side Portes described. The founder of the 新港文教基金會, often cited as a model of community building, wrote that local development associations and village elections could give factions new chances to divide and fight. This mirrors the international lesson that strong local networks can either bridge differences or harden them, depending on how they are organised."
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "kicker": "Using the idea",
+      "title": "What it means for cool dairy and for choosing partners",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "For a vintage shop that wants to give its proceeds to Taiwan women's organisations, social capital offers two practical questions. The first is about the partner organisations. A group whose members, volunteers and service users actually meet, such as local chapters, support groups or volunteer training, is building social capital, while a group that mainly asks for monthly donations resembles Putnam's 'tertiary associations'. Both can do valuable work, but they create different kinds of community, and their annual reports will show different things: volunteer hours and local branches in one case, fundraising and advocacy campaigns in the other."
+        },
+        {
+          "type": "p",
+          "text": "The second question is about the shop itself. A resale platform is a network of strangers who must trust each other about condition, sizing and payment. Transparent donation reports, real stories about the organisations and occasional face-to-face events, such as swaps or talks, can turn customers into a community with bridging ties across age and background. That trust is an asset in the same sense Coleman meant in the diamond market: it lowers the cost of every exchange."
+        }
+      ]
+    },
+    {
+      "id": "reflect",
+      "kicker": "Think about it",
+      "title": "Questions to take away",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Think of one group you belong to. Is its social capital mostly bonding or mostly bridging? What would it take to add more of the other kind?"
+        },
+        {
+          "type": "question",
+          "text": "Putnam's critics argue that clubs did not simply fade; organisations changed into professionally run advocacy groups. Which of the Taiwan women's organisations you have studied look more like membership communities, and which look more like professional advocacy or service agencies?"
+        },
+        {
+          "type": "question",
+          "text": "If cool dairy wanted to build trust among buyers, sellers and donors, which one concrete practice would add the most social capital: a public donation ledger, a regular in-person event, or a story series about the partner organisations? Why?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Robert Putnam, 'Bowling Alone: America's Declining Social Capital' (Journal of Democracy, 1995)",
+      "url": "https://www.historyofsocialwork.org/1995_Putnam/1995,%20Putnam,%20bowling%20alone.pdf",
+      "note": "The original article with the bowling, volunteering and membership figures."
+    },
+    {
+      "title": "Robert Putnam, 'The Prosperous Community: Social Capital and Public Life' (The American Prospect, 1993)",
+      "url": "https://faculty.washington.edu/matsueda/courses/590/Readings/Putham%201993%20Am%20Prospect.pdf",
+      "note": "Putnam's short summary of the Italian regional-government study."
+    },
+    {
+      "title": "James Coleman, 'Social Capital in the Creation of Human Capital' (American Journal of Sociology, 1988)",
+      "url": "https://www.bebr.ufl.edu/sites/default/files/Coleman%20J.%20%281988%29%20Social%20Capital%20in%20the%20Cration%20of%20Human%20Capital.pdf",
+      "note": "The diamond-merchant example and the Catholic-school dropout comparison."
+    },
+    {
+      "title": "Frederick Solt, 'Civics or Structure? Revisiting the Origins of Democratic Quality in the Italian Regions' (2004)",
+      "url": "https://fsolt.org/papers/solt2004bjps.pdf",
+      "note": "A critical re-analysis of Putnam's Italian data."
+    },
+    {
+      "title": "Wikipedia: Social capital",
+      "url": "https://en.wikipedia.org/wiki/Social_capital",
+      "note": "An overview of definitions, measures and criticisms."
+    },
+    {
+      "title": "維基百科：社區總體營造",
+      "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E5%8D%80%E7%B8%BD%E9%AB%94%E7%87%9F%E9%80%A0",
+      "note": "Background on Taiwan's 1994 community empowerment policy."
+    }
+  ],
+  "fun_fact": {
+    "title": "The money is in the beer and pizza",
+    "text": "Putnam noted that the decline of league bowling worried bowling-alley owners for a very practical reason. According to his 1995 article, people who bowled in leagues consumed three times as much beer and pizza as solo bowlers, and 'the money in bowling is in the beer and pizza, not the balls and shoes.' What Putnam cared about was what happened over that beer and pizza: the conversations, sometimes about local politics, that solo bowlers never had."
+  },
+  "glossary": [
+    {
+      "term": "Social capital",
+      "aliases": [],
+      "explain": "The value in networks, shared norms and trust that make cooperation between people easier."
+    },
+    {
+      "term": "Bonding social capital",
+      "aliases": [
+        "bonding capital",
+        "bonding"
+      ],
+      "explain": "Ties within close, similar groups such as families or congregations; good for support and 'getting by'."
+    },
+    {
+      "term": "Bridging social capital",
+      "aliases": [
+        "bridging capital",
+        "bridging"
+      ],
+      "explain": "Ties that connect people across social divisions; good for information and 'getting ahead'."
+    },
+    {
+      "term": "Linking social capital",
+      "aliases": [
+        "linking"
+      ],
+      "explain": "Ties between ordinary people and those who hold formal power or resources."
+    },
+    {
+      "term": "Human capital",
+      "aliases": [],
+      "explain": "The knowledge and skills a person carries, which raise their productivity."
+    },
+    {
+      "term": "Civic community",
+      "aliases": [],
+      "explain": "Putnam's term for a region with dense associations, issue-based politics, trust and horizontal networks."
+    },
+    {
+      "term": "Intergenerational closure",
+      "aliases": [
+        "closure"
+      ],
+      "explain": "Coleman's term for a community in which parents know the parents of their children's friends."
+    },
+    {
+      "term": "Tertiary associations",
+      "aliases": [
+        "tertiary association"
+      ],
+      "explain": "Putnam's label for mass groups whose members mainly pay dues and do not meet."
+    },
+    {
+      "term": "Amoral familism",
+      "aliases": [],
+      "explain": "Banfield's term for a refusal to cooperate beyond the immediate family."
+    },
+    {
+      "term": "Preference voting",
+      "aliases": [
+        "preference vote",
+        "preference votes"
+      ],
+      "explain": "In Italy, voting for an individual candidate on a party list; Putnam linked it to patron-client politics."
+    },
+    {
+      "term": "Patron-client politics",
+      "aliases": [
+        "clientelism"
+      ],
+      "explain": "Politics in which voters trade support for personal favours from powerful patrons."
+    },
+    {
+      "term": "Hunkering down",
+      "aliases": [
+        "hunker down"
+      ],
+      "explain": "Putnam's phrase for residents withdrawing from neighbours in more diverse areas, in the short run."
+    },
+    {
+      "term": "Weak ties",
+      "aliases": [
+        "The Strength of Weak Ties",
+        "weak tie"
+      ],
+      "explain": "Acquaintance relationships, which Granovetter showed often carry new information such as job leads."
+    },
+    {
+      "term": "社區總體營造",
+      "aliases": [
+        "Community Empowerment",
+        "社造"
+      ],
+      "explain": "Taiwan's community-building policy launched by the Council for Cultural Affairs in 1994."
+    },
+    {
+      "term": "社區發展",
+      "aliases": [
+        "community development"
+      ],
+      "explain": "Taiwan's earlier, largely top-down community development programme from the 1960s."
+    },
+    {
+      "term": "新故鄉社區營造計畫",
+      "aliases": [],
+      "explain": "The 2000s cross-ministry programme that expanded Taiwan's community-building policy."
+    },
+    {
+      "term": "Council for Cultural Affairs",
+      "aliases": [
+        "文建會"
+      ],
+      "explain": "Taiwan's cabinet-level culture agency, later upgraded to the Ministry of Culture."
+    },
+    {
+      "term": "Robert Putnam",
+      "aliases": [
+        "Putnam"
+      ],
+      "explain": "Harvard political scientist, author of Making Democracy Work (1993) and Bowling Alone (2000)."
+    },
+    {
+      "term": "Robert Leonardi",
+      "aliases": [
+        "Leonardi"
+      ],
+      "explain": "Co-author with Putnam of the Italian regional-government study."
+    },
+    {
+      "term": "Raffaella Nanetti",
+      "aliases": [
+        "Nanetti"
+      ],
+      "explain": "Co-author with Putnam of the Italian regional-government study."
+    },
+    {
+      "term": "Making Democracy Work",
+      "aliases": [],
+      "explain": "Putnam's 1993 book on civic traditions and government performance in Italy's regions."
+    },
+    {
+      "term": "Bowling Alone",
+      "aliases": [
+        "Bowling Alone: America's Declining Social Capital"
+      ],
+      "explain": "Putnam's 1995 article and 2000 book on the decline of American civic life."
+    },
+    {
+      "term": "Journal of Democracy",
+      "aliases": [],
+      "explain": "The journal that published Putnam's 'Bowling Alone' article in January 1995."
+    },
+    {
+      "term": "E Pluribus Unum",
+      "aliases": [],
+      "explain": "Putnam's 2007 paper on ethnic diversity and trust in US neighbourhoods."
+    },
+    {
+      "term": "The Upswing",
+      "aliases": [],
+      "explain": "Putnam and Shaylyn Romney Garrett's 2020 book on the long arc of American community."
+    },
+    {
+      "term": "Shaylyn Romney Garrett",
+      "aliases": [],
+      "explain": "Co-author of The Upswing with Putnam."
+    },
+    {
+      "term": "James Coleman",
+      "aliases": [
+        "Coleman"
+      ],
+      "explain": "American sociologist whose 1988 paper made social capital a standard term."
+    },
+    {
+      "term": "Pierre Bourdieu",
+      "aliases": [
+        "Bourdieu"
+      ],
+      "explain": "French sociologist who distinguished economic, cultural and social capital."
+    },
+    {
+      "term": "Cultural capital",
+      "aliases": [],
+      "explain": "Bourdieu's term for knowledge, tastes and credentials that signal and secure social position."
+    },
+    {
+      "term": "Lyda Judson Hanifan",
+      "aliases": [
+        "Hanifan"
+      ],
+      "explain": "West Virginia rural-school supervisor who used 'social capital' in 1916."
+    },
+    {
+      "term": "Jane Jacobs",
+      "aliases": [
+        "Jacobs"
+      ],
+      "explain": "Urban writer who used the term in The Death and Life of Great American Cities (1961)."
+    },
+    {
+      "term": "The Death and Life of Great American Cities",
+      "aliases": [],
+      "explain": "Jane Jacobs's 1961 defence of dense, mixed city neighbourhoods."
+    },
+    {
+      "term": "Alexis de Tocqueville",
+      "aliases": [
+        "Tocqueville"
+      ],
+      "explain": "French writer whose Democracy in America praised Americans' habit of association."
+    },
+    {
+      "term": "Democracy in America",
+      "aliases": [],
+      "explain": "Tocqueville's two-volume study of American society, published 1835 and 1840."
+    },
+    {
+      "term": "Émile Durkheim",
+      "aliases": [
+        "Durkheim"
+      ],
+      "explain": "French founder of sociology who studied social solidarity and its breakdown."
+    },
+    {
+      "term": "Edward Banfield",
+      "aliases": [
+        "Banfield"
+      ],
+      "explain": "American political scientist, author of The Moral Basis of a Backward Society (1958)."
+    },
+    {
+      "term": "The Moral Basis of a Backward Society",
+      "aliases": [],
+      "explain": "Banfield's 1958 study of a southern Italian village."
+    },
+    {
+      "term": "Mark Granovetter",
+      "aliases": [
+        "Granovetter"
+      ],
+      "explain": "Sociologist whose 1973 paper showed the value of weak ties."
+    },
+    {
+      "term": "Alejandro Portes",
+      "aliases": [
+        "Portes"
+      ],
+      "explain": "Sociologist whose 1998 review listed the negative effects of social capital."
+    },
+    {
+      "term": "Theda Skocpol",
+      "aliases": [
+        "Skocpol"
+      ],
+      "explain": "Harvard political scientist, author of Diminished Democracy (2003)."
+    },
+    {
+      "term": "Diminished Democracy",
+      "aliases": [],
+      "explain": "Skocpol's 2003 book on the shift from membership federations to managed advocacy."
+    },
+    {
+      "term": "Frederick Solt",
+      "aliases": [
+        "Solt"
+      ],
+      "explain": "Political scientist who re-analysed Putnam's Italian data in 2004."
+    },
+    {
+      "term": "Emilia-Romagna",
+      "aliases": [],
+      "explain": "Northern Italian region that scored high on Putnam's civic community index."
+    },
+    {
+      "term": "Tuscany",
+      "aliases": [],
+      "explain": "Central Italian region cited by Putnam as a civic community."
+    },
+    {
+      "term": "Calabria",
+      "aliases": [],
+      "explain": "Southern Italian region that scored low on Putnam's civic community index."
+    },
+    {
+      "term": "Sicily",
+      "aliases": [],
+      "explain": "Southern Italian island region cited by Putnam as low in civic community."
+    },
+    {
+      "term": "AARP",
+      "aliases": [
+        "American Association of Retired Persons"
+      ],
+      "explain": "US retirees' organisation that grew from 400,000 members in 1960 to 33 million in 1993."
+    },
+    {
+      "term": "Sierra Club",
+      "aliases": [],
+      "explain": "US environmental organisation cited by Putnam as a growing mass-membership group."
+    },
+    {
+      "term": "National Organization for Women",
+      "aliases": [
+        "NOW"
+      ],
+      "explain": "US feminist organisation cited by Putnam as a growing mass-membership group."
+    },
+    {
+      "term": "申學庸",
+      "aliases": [],
+      "explain": "Chair of the Council for Cultural Affairs who presented the 社區總體營造 policy in October 1994."
+    },
+    {
+      "term": "陳其南",
+      "aliases": [],
+      "explain": "Anthropologist and Council for Cultural Affairs official who championed community empowerment."
+    },
+    {
+      "term": "新港文教基金會",
+      "aliases": [],
+      "explain": "Chiayi community foundation often cited as a model of Taiwan's community building."
+    }
+  ]
+}
