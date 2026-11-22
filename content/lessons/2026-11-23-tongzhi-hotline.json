@@ -1,0 +1,768 @@
+{
+  "slug": "tongzhi-hotline",
+  "date": "2026-11-23",
+  "subject": "feminism",
+  "related": [
+    "womens-rescue-foundation",
+    "awakening-foundation",
+    "modern-womens-foundation",
+    "garden-of-hope"
+  ],
+  "title": "The Taiwan Tongzhi (LGBTQ+) Hotline Association (台灣同志諮詢熱線協會): a phone line that became Taiwan's first registered LGBTQ+ organization",
+  "dek": "In March 1998 a newspaper report about a teenage gay suicide pushed a handful of activists to set up a telephone line where gay, lesbian, bisexual and transgender callers could talk to someone like themselves. The first call came in at seven in the evening on 27 June 1998. Two years later the group registered with the Ministry of the Interior and became the first LGBTQ+ organization in Taiwan with legal status. Today the Hotline answers calls, trains teachers and nurses, supports parents, runs HIV prevention and elder-care work, organizes Asia's first Trans March, and lobbies for laws. This Monday lesson covers its history, its services, how it pays for itself, and whether an LGBTQ+ organization fits cool dairy's plan to give to women's causes.",
+  "era": "1998 to the present: the first call in June 1998, legal registration in June 2000, the Gender Equity Education Act of 2004, the marriage equality fight from 2016 to 2019, and the Trans March since 2019",
+  "reading_minutes": 16,
+  "honesty": "This lesson is text only. The founding story comes from the Hotline's own 'about us' page, the National Museum of Taiwan History's 臺灣女人 site, and a 1998 article by a Hotline volunteer in the National Central University newsletter 性／別教育通訊, which records the 26 June fundraising evening at National Taiwan University and the first call the next evening. Service numbers for 2025 come from the Hotline's English 2025 Annual Report. The budget figures come from the budget table in the Hotline's English 2020 annual report; I could not find a full audited income statement for 2024 or 2025 in the public reports, so the lesson does not give a recent total and says so. The 2018 referendum figures come from Out.com and a 2019 peer-reviewed study published on PubMed Central. Dates of laws and court rulings were checked against news and government sources. Where a source gave an approximate figure, the lesson keeps it approximate.",
+  "timeline": [
+    {
+      "year": "1998",
+      "label": "A suicide report and a phone line",
+      "detail": "After a March 1998 news report about a teenage gay suicide, four groups (the Gay Counselors Association, the Gay Teachers' Alliance, the lesbian group Queer'n Class and members of the LGBT Civil Rights Action Front) set up the Hotline in Gongguan, Taipei. The first call came at 7pm on 27 June 1998."
+    },
+    {
+      "year": "2000",
+      "label": "Legal registration",
+      "detail": "On 9 June 2000 the Hotline registered with the Ministry of the Interior as 社團法人台灣同志諮詢熱線協會, the first national LGBTQ+ organization in Taiwan with legal status, and hired its first staff member."
+    },
+    {
+      "year": "2000",
+      "label": "Yeh Yung-chih dies",
+      "detail": "On 20 April 2000 Yeh Yung-chih (葉永鋕), a fifteen-year-old student at 高樹國中 in Pingtung who was bullied for being feminine, was found dying in a school toilet. His death became the moral centre of the campaign for gender equity education."
+    },
+    {
+      "year": "2003",
+      "label": "Parents and Pride",
+      "detail": "The Hotline formed a family group in April 2003 and published 《親愛的爸媽，我是同志》 in December. On 1 November 2003 it helped hold Taiwan's first Pride march in Taipei, with roughly a thousand marchers."
+    },
+    {
+      "year": "2004",
+      "label": "Gender Equity Education Act",
+      "detail": "The Act, promulgated on 23 June 2004, protected students regardless of sexual orientation and gender characteristics, and let the Hotline bring talks into schools."
+    },
+    {
+      "year": "2006",
+      "label": "Parents found their own group",
+      "detail": "Parents from the Hotline's family group founded 櫃父母同心協會 (Loving Parents of LGBT Taiwan)."
+    },
+    {
+      "year": "2009",
+      "label": "Southern office",
+      "detail": "After a Kaohsiung volunteer group formed in 2008, the Hotline opened a southern office in Kaohsiung in 2009."
+    },
+    {
+      "year": "2015",
+      "label": "ILGA Asia in Taipei",
+      "detail": "In October 2015 the Hotline hosted the ILGA Asia regional conference, the first time Taiwan hosted it."
+    },
+    {
+      "year": "2017",
+      "label": "Interpretation No. 748",
+      "detail": "On 24 May 2017 the Constitutional Court ruled that the Civil Code's restriction of marriage to a man and a woman was unconstitutional. The Hotline, the Awakening Foundation and others had formed the Marriage Equality Coalition."
+    },
+    {
+      "year": "2018",
+      "label": "Referendums",
+      "detail": "On 24 November 2018 voters backed referendums against same-sex marriage in the Civil Code and against LGBTQ+ education in schools. Calls to the Hotline rose about 40 percent afterwards."
+    },
+    {
+      "year": "2019",
+      "label": "Marriage law and Trans March",
+      "detail": "The Act for Implementation of Interpretation No. 748 took effect on 24 May 2019, making Taiwan the first place in Asia with same-sex marriage. The same year the Hotline organized Asia's first Trans March, with close to two thousand people."
+    },
+    {
+      "year": "2025",
+      "label": "The Hotline today",
+      "detail": "Eleven full-time staff in Taipei and nearly a thousand volunteers. The seventh Trans March drew about 3,500 people, and the Taipei fundraising banquet raised NT$5.1 million."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before 1998: a decade of new freedom with nowhere to call",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Martial law ended in Taiwan in July 1987, and the following decade was full of new organizations: women's groups, labour groups, environmental groups and, by the mid-1990s, the first openly gay and lesbian groups. The lesbian group 我們之間 was founded in 1990, university gay and lesbian clubs appeared on campuses in the mid-1990s, and the writer and activist Chi Chia-wei (祁家威) had been petitioning for same-sex marriage alone since 1986. The Monday lessons on the Awakening Foundation and Taiwan's women's movement describe the same period from the feminist side."
+        },
+        {
+          "type": "p",
+          "text": "What did not yet exist was a stable service that an isolated person could reach without coming out to anyone. Ordinary counselling lines such as 張老師 and 生命線 (Lifeline) were the main places Taiwanese people phoned when they were in distress, but the founders felt these services did not really understand gay lives, and some young gay people felt pressured to 'correct' themselves. In 1997 and 1998 the newspapers carried a series of stories about young gay and lesbian people who had killed themselves or were in crisis. A volunteer wrote in 1998 that reading them and remembering their own adolescence was what made the founders act."
+        }
+      ]
+    },
+    {
+      "id": "founding",
+      "kicker": "Founding",
+      "title": "1998 to 2000: four groups, one rented room in Gongguan",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Hotline was set up by four groups working together: the Gay Counselors Association (同志助人者協會, described in the 1998 article as a group of gay professionals in psychology and social work), the Gay Teachers' Alliance (教師同盟), the lesbian gender-and-class group Queer'n Class (which later became the Gender/Sexuality Rights Association Taiwan, 台灣性別人權協會) and members of the LGBT Civil Rights Action Front (同志公民行動陣線). The activist 喀飛 (沈維巖) is named as a founder. They rented an empty room near National Taiwan University in Gongguan and furnished it with donations."
+        },
+        {
+          "type": "p",
+          "text": "On the evening of 26 June 1998 they held a fundraising show in the NTU student activity centre. The next evening, at seven o'clock, the first call came in. At the start the counselling line was open only on Saturday and Sunday evenings from seven to ten, and the first volunteers on the phones were the trained counsellors from the Gay Counselors Association. Within the first month, the volunteer wrote, they believed they had helped save one or two lives, helped several parents understand their children, and even received a supportive call from mainland China."
+        },
+        {
+          "type": "p",
+          "text": "The key idea was peer counselling (同儕輔導): gay, lesbian, bisexual and transgender volunteers, selected and trained, answering calls from people like themselves, so that a caller would not have to 'try their luck' with a counsellor who might not understand. Chinese Wikipedia describes this as a feminist peer-counselling approach, which connects the Hotline to the women's movement's older idea that people who share an experience can help each other without a hierarchy of expert and patient."
+        },
+        {
+          "type": "p",
+          "text": "On 9 June 2000 the Hotline registered with the Ministry of the Interior's Department of Social Affairs as a national association, 社團法人台灣同志諮詢熱線協會, and hired its first paid staff member. It was the first LGBTQ+ organization in Taiwan to gain legal registration. In October 2002 it moved to its current neighbourhood in Guting, Taipei."
+        }
+      ]
+    },
+    {
+      "id": "schools",
+      "kicker": "Schools",
+      "title": "2000 to 2004: Yeh Yung-chih and the Gender Equity Education Act",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On 20 April 2000 Yeh Yung-chih (葉永鋕), a third-year student at 高樹國中 in Pingtung County, was found bleeding in a school toilet and died the next day. He had been teased and harassed for years because he was gentle and 'girlish', and he had been afraid to use the toilet during breaks. His death was not a story about sexual orientation, since no one knew how he would have described himself. It was a story about gender characteristics (性別特質), the way a boy was punished for not acting like a boy."
+        },
+        {
+          "type": "p",
+          "text": "Educators, women's groups and LGBTQ+ groups used the case to argue that schools needed a law. The Gender Equity Education Act (性別平等教育法) was promulgated on 23 June 2004. It was the first Taiwanese law to protect people on the basis of sexual orientation and gender characteristics, and it required schools to teach gender equity. The Hotline took part in the drafting campaign. The law gave it a door into schools: volunteers began to give 'getting to know tongzhi' (認識同志) talks to students and teachers, sharing their own life stories, and the Hotline began to run training camps for teachers."
+        },
+        {
+          "type": "p",
+          "text": "That door has never been fully secure. In 2011 conservative groups campaigned against new teaching materials, and the Hotline and other groups sued one group for spreading false claims about them. In 2018 one of the referendums asked voters to stop LGBTQ+ education in primary and junior high schools, and it passed. Even so, in 2025 the Hotline gave 152 talks to student audiences reaching 9,812 students, and its 2020 and 2025 surveys of LGBTQ+ secondary school students are among the main sources of evidence about how these students are treated."
+        }
+      ]
+    },
+    {
+      "id": "families",
+      "kicker": "Families",
+      "title": "Parents, HIV and older people: widening the circle",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 2003 the Hotline had learned that many calls came from parents who had just learned that a child was gay and had no one to ask. It formed a family group in April 2003 and in December published 《親愛的爸媽，我是同志》 with the publisher 心靈工坊, a book of the stories of seven mothers and one father. Parents who met through the group founded their own organization in 2006, 櫃父母同心協會. Its name is a pun: when a child comes out of the closet (出櫃), the parents go into it (入櫃)."
+        },
+        {
+          "type": "p",
+          "text": "The Hotline began HIV prevention work among gay men in 2002. In 2005 it published 《男同志性愛達人》, a safer-sex handbook modelled on the British group GMFA, and later it handed out small kits with condoms and lubricant. Its approach has always been to talk about sex plainly and with pleasure rather than fear, because shame keeps people from testing. In 2025 it marked twenty years of this work with an exhibition."
+        },
+        {
+          "type": "p",
+          "text": "Later the Hotline added groups for older gay men and lesbians, for transgender people, for lesbians specifically, for people with disabilities, and for people in non-monogamous relationships. The work on older people began with an oral history project with older gay men in northern Taiwan, and today it includes lectures for long-term care workers about how to care for an old person who may never have come out."
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "kicker": "Marriage",
+      "title": "2016 to 2019: marriage equality, a referendum defeat, and a law",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Marriage equality became a mass movement in late 2016. On 16 October 2016 the French-born retired professor Jacques Picoux, who had lived with his Taiwanese partner 曾敬超 for decades and was shut out of decisions during his partner's final illness, died after falling from his apartment. His death moved many people, and that December a very large marriage equality rally filled Ketagalan Boulevard in Taipei. In 2017 the Hotline, the Taiwan LGBT Family Rights Advocacy, the Awakening Foundation, the Taiwan Alliance to Promote Civil Partnership Rights and the streaming platform GagaOOLala formed the Marriage Equality Coalition (婚姻平權大平台)."
+        },
+        {
+          "type": "p",
+          "text": "On 24 May 2017 the Constitutional Court issued Interpretation No. 748, in a case brought by Chi Chia-wei and the Taipei city government, holding that the Civil Code's failure to let two people of the same sex marry violated the constitution, and giving the legislature two years to fix it. Opponents answered with referendums. On 24 November 2018 voters approved proposals to keep marriage in the Civil Code as a union of a man and a woman and to stop LGBTQ+ education in schools, and rejected the proposals put forward by equality campaigners."
+        },
+        {
+          "type": "p",
+          "text": "For a counselling line this was a public health event as well as a political one. Out.com reported that calls to the Hotline rose about 40 percent after the vote, with around four in ten calls about the referendum. A 2019 study that compared an online survey taken twenty-three months before the vote with a second survey taken one week after it found that the share of non-heterosexual respondents with suicidal thoughts rose from 15.4 percent to 24.6 percent, while among heterosexual respondents it did not rise (6.3 percent to 5.2 percent)."
+        },
+        {
+          "type": "p",
+          "text": "The legislature then passed a separate law rather than amending the Civil Code: the Act for Implementation of J.Y. Interpretation No. 748 (司法院釋字第七四八號解釋施行法), passed on 17 May 2019 and in force from 24 May 2019. Taiwan became the first place in Asia where two people of the same sex could marry. The Coalition registered in May 2020 as the Taiwan Equality Campaign (台灣彩虹平權大平台協會), with the Hotline on its board."
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "Today",
+      "title": "What the Hotline does now: the 2025 annual report",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "According to its 2025 annual report, the Taipei headquarters had eleven full-time staff and nearly a thousand volunteers, and a small southern office in Kaohsiung serves southern Taiwan. Almost every service is run by a volunteer group that meets every two weeks, with staff coordinating. Some of the 2025 figures:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Telephone counselling: 708 hours of service, 1,624 calls from 375 people, each call about 32 minutes on average, staffed by 41 volunteers and 15 supervisors five days a week. 63 percent of calls were about seeking support and companionship, 12 percent about relationships and 11 percent about HIV and sexual health. Nearly 80 percent of callers were between 19 and 40.",
+            "Education: 236 talks to 14,994 people, including 152 talks to students, 28 to government agencies and 26 to medical and social service workers.",
+            "Families: support for nearly 350 parents and LGBTQ+ people through parent groups in Taipei and Taichung, a parents' phone line staffed by volunteer parents twice a week, coming-out consultations for 43 people, and a podcast on parents and children.",
+            "HIV and sexual health: a sex education website for gay men with 85,499 visitors and 40 talks. Its anonymous HIV and syphilis testing served 69 people before it was suspended in April 2025 for lack of staff.",
+            "Transgender services: support groups, talks, a podcast, a book of transgender life stories recommended by the Ministry of Culture, and the seventh Taiwan Trans March, with more than 50 organizations and about 3,500 participants.",
+            "Advocacy: lobbying for an anti-discrimination law, editing the LGBTQ+ chapters of the civil society parallel report on the ICCPR and ICESCR, and sitting on the gender equality committees of the Executive Yuan and several city governments."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Two things stand out. First, much of the work is aimed at the people around LGBTQ+ people (parents, teachers, nurses, care workers, civil servants) rather than only at the community itself. Second, the 2025 report is frank that the organization is under pressure. The chairperson, the veterinarian 陳凌, wrote that international funding had been cut sharply and that domestic political conflict had stalled gender policy, and the suspension of the testing service shows what happens when money and staff run short."
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "kicker": "Money",
+      "title": "How the Hotline is funded, and what it publishes",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Hotline is an association (社團法人), not a foundation (財團法人). This matters for anyone reading its accounts. A foundation, like the Garden of Hope or the Women's Rescue Foundation in earlier lessons, is built around an endowment of money and is governed by the Foundations Act (財團法人法), which requires it to publish its financial statements. An association is built around its members, who elect a board, and is governed by Taiwan's law on civic associations. It has no large endowment, so it lives year to year on what it raises. When an association raises money from the public, however, it needs a fundraising permit under the Public Welfare Fund-Raising Act (公益勸募條例), and it must publish the donations it received and how they were used."
+        },
+        {
+          "type": "p",
+          "text": "The Hotline's public reports show where its money comes from, even though they do not give one audited total for recent years:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The annual fundraising banquet in Taipei is its most important single event. It raised NT$5 million in 2024 and NT$5.1 million in 2025. The Kaohsiung banquet raised NT$700,000 in each of those years.",
+            "Monthly and one-off donations from individuals, collected online. The Hotline publishes donor lists (with names partly hidden) each year, and its website shows its Ministry of Health and Welfare fundraising permit number (衛部救字第1151361068號).",
+            "A rainbow debit card with O-Bank (王道銀行), which donates 0.2 percent of card spending to the Hotline.",
+            "Sales from its online shop of rainbow goods.",
+            "Donations from the United States through Give2Asia, and an NGOsource equivalency determination that lets American foundations treat it like a US public charity.",
+            "Grants for specific programmes, including from international funders. The 2025 report says international funding fell sharply that year."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "For scale, the budget table in the Hotline's 2020 annual report planned NT$14,725,851 of spending for the Taipei office and NT$2,677,620 for the southern office, about NT$17.4 million in total. In that table the largest single line was administration and overheads (NT$4,174,137), which in a small organization mostly means staff salaries and rent, followed by HIV services (NT$1,134,524) and service promotion (NT$1,101,144). The telephone line itself was planned at NT$824,844. These are planned figures for 2020, not audited results for a recent year."
+        },
+        {
+          "type": "p",
+          "text": "Compared with the foundations in earlier Monday lessons, the Hotline is mid-sized. The Garden of Hope's yearly budget is many times larger, and the Women's Rescue Foundation spent about NT$33.7 million in 2025, while the Awakening Foundation's 2025 income was about NT$5.75 million. Because so much of its income comes from one evening each year and from many small donors, a gift from cool dairy would be a noticeable share of a programme budget rather than a rounding error. It also means the Hotline depends heavily on community goodwill, which is a strength and a risk."
+        },
+        {
+          "type": "p",
+          "text": "If cool dairy wanted to partner with the Hotline, a sensible first question would be to ask for its most recent audited income and expenditure statement and its fundraising disclosure (勸募活動收支報告), and to ask whether a donation could be restricted to a named programme, such as the parents' line or the transgender support groups."
+        }
+      ]
+    },
+    {
+      "id": "partner",
+      "kicker": "For cool dairy",
+      "title": "Is an LGBTQ+ organization a 'women's organization'?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "cool dairy's plan is to give its proceeds to Taiwan women's organizations. The Hotline is not a women's organization in the narrow sense. Its services are for LGBTQ+ people of every gender and their families, and a large part of its HIV work is with gay men. There are still good reasons to consider it:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Lesbian, bisexual and transgender women are part of its core community. One of its four founding groups, Queer'n Class, was a lesbian group, and its budgets and reports include lesbian services in Taipei and Kaohsiung.",
+            "Mothers are at the heart of its family work: the book that started its parents' programme told the stories of seven mothers and one father.",
+            "The 2019 referendum study found that suicidal thoughts rose among non-heterosexual women, younger people, and gay, lesbian and bisexual respondents.",
+            "Taiwan's feminist and LGBTQ+ movements have worked together for decades. The Awakening Foundation was a founding member of the Marriage Equality Coalition, and the Gender Equity Education Act protects both girls and LGBTQ+ students.",
+            "Its transgender work sits at the centre of a live debate in Taiwan and abroad about how women's spaces and transgender rights fit together. In the 2024 annual report the chairperson warned that anti-transgender arguments were dividing cisgender and transgender women, 'two groups who are both oppressed under patriarchy', and called for 'empathy and conversations' to find common ground."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "There are also reasons for care. If cool dairy tells shoppers their money goes to 'women's organizations', it should explain clearly why an LGBTQ+ group is included, or it should restrict the gift to a programme that clearly serves women, such as lesbian and transgender women's groups or the parents' work. Questions worth asking before choosing:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Can cool dairy fund a named programme, and will the Hotline report back on how that money was spent?",
+            "Does the Hotline's audited income show it is stable, and how much does it depend on government or foreign grants that may disappear?",
+            "Would cool dairy rather fund one large organization or split its giving between a women's foundation and the Hotline?",
+            "How would cool dairy describe the partnership on product tags and the website so shoppers understand it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "kicker": "Elsewhere",
+      "title": "1998 elsewhere: Trevor, Matthew Shepard, and the older London line",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Hotline's founding year was the same year LGBTQ+ youth suicide became a public cause in the United States. The Trevor Project was founded in 1998 by the makers of the Oscar-winning short film Trevor, about a thirteen-year-old gay boy who attempts suicide. When HBO broadcast the film on 11 August 1998, its makers launched the Trevor Lifeline, because they found there was no crisis line for LGBTQ+ young people. Two months later, in October 1998, the murder of the student Matthew Shepard in Wyoming made anti-gay violence national news. Taiwan's activists and American activists were responding to the same problem in the same months without coordinating."
+        },
+        {
+          "type": "p",
+          "text": "Phone lines were an older tool in Britain. London Lesbian and Gay Switchboard (now Switchboard) began in 1974 and was the model for many later lines. In mainland China, homosexuality was removed from the official list of mental disorders only in 2001. Against that background, what was unusual about Taiwan was how quickly a phone line turned into a registered organization with a seat on government committees, and how closely it worked with the women's movement."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Question",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "If cool dairy chose the Hotline as one partner, which single programme would you fund first (the phone line, the parents' groups, the transgender support groups or school education), and how would you explain that choice to a shopper who expected her money to go to a women's organization?"
+        }
+      ]
+    }
+  ],
+  "fun_fact": {
+    "title": "Parents go into the closet",
+    "text": "The parents' group that grew out of the Hotline is called 櫃父母同心協會. 櫃 means closet, and the name explains itself: when a child comes out of the closet (出櫃), the parents go into it (入櫃), because they now have a secret of their own to manage with relatives and neighbours. Among the Hotline's 2025 social events for parents was one that took parents to a gay bar."
+  },
+  "read": [
+    {
+      "title": "本會理念 (About the Hotline)",
+      "url": "https://hotline.org.tw/aboutus",
+      "note": "The Hotline's own account of its founding in 1998, its registration in 2000 and its areas of work."
+    },
+    {
+      "title": "同志，你並不孤單！─同志諮詢熱線（1998－） (臺灣女人)",
+      "url": "https://women.nmth.gov.tw/?p=2104",
+      "note": "A short history from the National Museum of Taiwan History's women's history site, including the parents' group."
+    },
+    {
+      "title": "同志的心情 同志最了解 (性／別教育通訊, 1998)",
+      "url": "https://sex.ncu.edu.tw/publication_cn/1998/education_3/pdf/15.pdf",
+      "note": "A volunteer's account written one month after the first call, with the original phone numbers."
+    },
+    {
+      "title": "Taiwan Tongzhi (LGBTQ+) Hotline Association 2025 Annual Report",
+      "url": "https://hotline.org.tw/sites/hotline.org.tw/files/field_upload/2025%20Hotline%20Annual%20Report.pdf",
+      "note": "The English annual report with all of the 2025 service numbers used in this lesson."
+    },
+    {
+      "title": "2020 Annual Report (English), with budget table",
+      "url": "https://hotline.org.tw/sites/hotline.org.tw/files/field_upload/2020%20annual%20report_EN%20.pdf",
+      "note": "Contains the planned budget for the Taipei and southern offices."
+    },
+    {
+      "title": "歷年工作報告 (All annual reports)",
+      "url": "https://hotline.org.tw/book/106",
+      "note": "Download page for every Chinese and English annual report."
+    },
+    {
+      "title": "20 年來，始終為同志接通的電話 (NPOst, 2020)",
+      "url": "https://npost.tw/archives/58478",
+      "note": "Interview with the Hotline's marketing director about the phone line, the referendum and older LGBTQ+ people."
+    },
+    {
+      "title": "After Marriage Equality Defeat in Taiwan, Support Hotline Sees Spike (Out.com, 2018)",
+      "url": "https://www.out.com/news-opinion/2018/11/28/after-marriage-equality-defeat-taiwan-support-hotline-sees-spike",
+      "note": "Report on the rise in calls after the November 2018 referendums."
+    },
+    {
+      "title": "Effect of Same-Sex Marriage Referendums on the Suicidal Ideation Rate among Nonheterosexual People in Taiwan (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6765861/",
+      "note": "The peer-reviewed study with the before-and-after suicidal ideation figures."
+    },
+    {
+      "title": "臺灣同志諮詢熱線協會 (Chinese Wikipedia)",
+      "url": "https://zh.wikipedia.org/zh-tw/臺灣同志諮詢熱線協會",
+      "note": "Overview of services, the Marriage Equality Coalition and international work."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Taiwan Tongzhi (LGBTQ+) Hotline Association",
+      "aliases": [
+        "台灣同志諮詢熱線協會",
+        "臺灣同志諮詢熱線協會",
+        "同志諮詢熱線",
+        "熱線",
+        "the Hotline",
+        "TTHA",
+        "Hotline"
+      ],
+      "explain": "Taiwanese association founded in 1998 and registered in 2000, the first LGBTQ+ organization in Taiwan with legal status; runs a counselling line, education, family, HIV and transgender services and advocacy."
+    },
+    {
+      "term": "tongzhi",
+      "aliases": [
+        "同志"
+      ],
+      "explain": "Literally 'comrade'; the common Chinese-language word for gay, lesbian and, more broadly, LGBTQ+ people since the 1990s."
+    },
+    {
+      "term": "peer counselling",
+      "aliases": [
+        "同儕輔導",
+        "同儕諮商",
+        "peer support"
+      ],
+      "explain": "Help given by trained volunteers who share the caller's experience, the core method of the Hotline."
+    },
+    {
+      "term": "Gay Counselors Association",
+      "aliases": [
+        "同志助人者協會",
+        "性與性別諮商協會"
+      ],
+      "explain": "Group of gay professionals in counselling and social work, one of the Hotline's four founding groups; it staffed the first shifts."
+    },
+    {
+      "term": "Gay Teachers' Alliance",
+      "aliases": [
+        "教師同盟",
+        "同性戀教師聯盟"
+      ],
+      "explain": "Group of gay and lesbian teachers, one of the Hotline's four founding groups."
+    },
+    {
+      "term": "Queer'n Class",
+      "aliases": [
+        "Queer & Class",
+        "Queer 'n Class"
+      ],
+      "explain": "Lesbian group concerned with gender, sexuality and class, one of the Hotline's founding groups; later the Gender/Sexuality Rights Association Taiwan."
+    },
+    {
+      "term": "Gender/Sexuality Rights Association Taiwan",
+      "aliases": [
+        "台灣性別人權協會",
+        "性別人權協會"
+      ],
+      "explain": "Taiwanese rights group that grew out of Queer'n Class and works on sexuality, sex work and HIV issues."
+    },
+    {
+      "term": "LGBT Civil Rights Action Front",
+      "aliases": [
+        "同志公民行動陣線"
+      ],
+      "explain": "1990s activist group whose members helped found the Hotline."
+    },
+    {
+      "term": "喀飛",
+      "aliases": [
+        "沈維巖",
+        "Kafei"
+      ],
+      "explain": "Taiwanese gay activist and writer named as a founder of the Hotline."
+    },
+    {
+      "term": "Gongguan",
+      "aliases": [
+        "公館"
+      ],
+      "explain": "Neighbourhood beside National Taiwan University in Taipei where the Hotline first rented a room."
+    },
+    {
+      "term": "Guting",
+      "aliases": [
+        "古亭"
+      ],
+      "explain": "Taipei neighbourhood where the Hotline has had its office since 2002."
+    },
+    {
+      "term": "張老師",
+      "aliases": [
+        "Teacher Chang"
+      ],
+      "explain": "Long-running Taiwanese counselling hotline and service."
+    },
+    {
+      "term": "Lifeline Taiwan",
+      "aliases": [
+        "生命線",
+        "Lifeline"
+      ],
+      "explain": "Taiwanese crisis telephone line, part of the international Lifeline movement."
+    },
+    {
+      "term": "association",
+      "aliases": [
+        "社團法人"
+      ],
+      "explain": "Legal form built around members who elect a board; the Hotline is one. Contrast with a foundation."
+    },
+    {
+      "term": "foundation",
+      "aliases": [
+        "財團法人"
+      ],
+      "explain": "Legal form built around an endowment of assets and governed by the Foundations Act."
+    },
+    {
+      "term": "Foundations Act",
+      "aliases": [
+        "財團法人法"
+      ],
+      "explain": "Taiwanese law of 2018 that governs foundations and requires them to disclose financial statements."
+    },
+    {
+      "term": "Public Welfare Fund-Raising Act",
+      "aliases": [
+        "公益勸募條例"
+      ],
+      "explain": "Taiwanese law requiring a permit to raise money from the public and the public disclosure of donations and their use."
+    },
+    {
+      "term": "fundraising permit",
+      "aliases": [
+        "勸募許可",
+        "勸募字號",
+        "衛部救字"
+      ],
+      "explain": "Permit number issued by the Ministry of Health and Welfare under the Public Welfare Fund-Raising Act, shown on the Hotline's website."
+    },
+    {
+      "term": "Yeh Yung-chih",
+      "aliases": [
+        "葉永鋕"
+      ],
+      "explain": "Pingtung junior high student bullied for being feminine who died after being found in a school toilet on 20 April 2000; his case drove the Gender Equity Education Act."
+    },
+    {
+      "term": "gender characteristics",
+      "aliases": [
+        "性別特質"
+      ],
+      "explain": "How masculine or feminine a person seems in manner and appearance; protected under the Gender Equity Education Act."
+    },
+    {
+      "term": "Gender Equity Education Act",
+      "aliases": [
+        "性別平等教育法",
+        "性平法"
+      ],
+      "explain": "Taiwanese law of 23 June 2004 requiring gender equity education and protecting students regardless of sex, gender characteristics and sexual orientation; gender identity was added by a later amendment."
+    },
+    {
+      "term": "認識同志",
+      "aliases": [
+        "getting to know tongzhi"
+      ],
+      "explain": "The Hotline's school talks in which volunteers share their life stories."
+    },
+    {
+      "term": "親愛的爸媽，我是同志",
+      "aliases": [
+        "Dear Mom and Dad, I'm Gay"
+      ],
+      "explain": "2003 book by the Hotline and 心靈工坊 of the stories of seven mothers and one father of LGBTQ+ children."
+    },
+    {
+      "term": "Loving Parents of LGBT Taiwan",
+      "aliases": [
+        "櫃父母同心協會",
+        "櫃父母"
+      ],
+      "explain": "Parents' organization founded in 2006 by members of the Hotline's family group."
+    },
+    {
+      "term": "coming out",
+      "aliases": [
+        "出櫃"
+      ],
+      "explain": "Telling others that one is LGBTQ+."
+    },
+    {
+      "term": "PFLAG",
+      "aliases": [],
+      "explain": "American organization of parents and friends of lesbians and gays, a model for the Hotline's family work."
+    },
+    {
+      "term": "GMFA",
+      "aliases": [
+        "Gay Men Fighting AIDS"
+      ],
+      "explain": "British gay men's health charity whose materials inspired the Hotline's 2005 safer-sex handbook."
+    },
+    {
+      "term": "男同志性愛達人",
+      "aliases": [],
+      "explain": "The Hotline's 2005 safer-sex handbook for gay men."
+    },
+    {
+      "term": "HIV",
+      "aliases": [
+        "愛滋",
+        "AIDS",
+        "愛滋病"
+      ],
+      "explain": "The virus that causes AIDS; the Hotline has run HIV prevention work among gay men since 2002."
+    },
+    {
+      "term": "Taiwan Pride",
+      "aliases": [
+        "台灣同志遊行",
+        "同志大遊行"
+      ],
+      "explain": "Annual Pride march in Taipei, first held on 1 November 2003."
+    },
+    {
+      "term": "Trans March",
+      "aliases": [
+        "台灣跨性別遊行",
+        "跨性別遊行"
+      ],
+      "explain": "March for transgender rights organized by the Hotline since 2019, described as the first in Asia."
+    },
+    {
+      "term": "ILGA Asia",
+      "aliases": [
+        "國際LGBTI聯合會亞洲區"
+      ],
+      "explain": "Asian regional body of the International Lesbian, Gay, Bisexual, Trans and Intersex Association; the Hotline hosted its conference in 2015."
+    },
+    {
+      "term": "Chi Chia-wei",
+      "aliases": [
+        "祁家威"
+      ],
+      "explain": "Taiwanese gay rights pioneer who petitioned for same-sex marriage from 1986 and brought the case decided in Interpretation No. 748."
+    },
+    {
+      "term": "Jacques Picoux",
+      "aliases": [
+        "畢安生"
+      ],
+      "explain": "French-born retired professor at National Taiwan University whose death in October 2016, after decades with his partner 曾敬超, moved many people to support marriage equality."
+    },
+    {
+      "term": "Marriage Equality Coalition",
+      "aliases": [
+        "婚姻平權大平台"
+      ],
+      "explain": "Coalition formed in 2017 by the Hotline, the Awakening Foundation and others; registered in 2020 as the Taiwan Equality Campaign."
+    },
+    {
+      "term": "Taiwan Equality Campaign",
+      "aliases": [
+        "台灣彩虹平權大平台協會",
+        "彩虹平權大平台"
+      ],
+      "explain": "Association registered in May 2020 from the Marriage Equality Coalition."
+    },
+    {
+      "term": "Awakening Foundation",
+      "aliases": [
+        "婦女新知基金會"
+      ],
+      "explain": "Taiwanese feminist advocacy foundation, covered in an earlier Monday lesson, and a founding member of the Marriage Equality Coalition."
+    },
+    {
+      "term": "Interpretation No. 748",
+      "aliases": [
+        "釋字第748號",
+        "司法院釋字第748號解釋",
+        "J.Y. Interpretation No. 748"
+      ],
+      "explain": "Constitutional Court ruling of 24 May 2017 that excluding same-sex couples from marriage was unconstitutional."
+    },
+    {
+      "term": "2018 referendums",
+      "aliases": [
+        "2018年公投",
+        "公投"
+      ],
+      "explain": "Votes held on 24 November 2018 in which proposals against same-sex marriage in the Civil Code and against LGBTQ+ school education passed."
+    },
+    {
+      "term": "Act for Implementation of J.Y. Interpretation No. 748",
+      "aliases": [
+        "司法院釋字第七四八號解釋施行法",
+        "748施行法"
+      ],
+      "explain": "Law passed on 17 May 2019 and in force from 24 May 2019 that allowed same-sex couples to marry in Taiwan."
+    },
+    {
+      "term": "suicidal ideation",
+      "aliases": [
+        "自殺意念"
+      ],
+      "explain": "Thinking about or planning suicide, the measure used in the 2019 referendum study."
+    },
+    {
+      "term": "陳凌",
+      "aliases": [
+        "Chen Ling"
+      ],
+      "explain": "Veterinarian and chairperson of the Hotline at the time of the 2025 annual report."
+    },
+    {
+      "term": "O-Bank",
+      "aliases": [
+        "王道銀行"
+      ],
+      "explain": "Taiwanese bank whose rainbow debit card donates 0.2 percent of spending to the Hotline."
+    },
+    {
+      "term": "Give2Asia",
+      "aliases": [],
+      "explain": "American charity that lets US donors give tax-deductibly to Asian organizations, including the Hotline."
+    },
+    {
+      "term": "NGOsource",
+      "aliases": [
+        "equivalency determination"
+      ],
+      "explain": "Service that certifies foreign charities as equivalent to US public charities so American foundations can fund them."
+    },
+    {
+      "term": "ICCPR",
+      "aliases": [
+        "公民與政治權利國際公約",
+        "International Covenant on Civil and Political Rights"
+      ],
+      "explain": "UN human rights treaty that Taiwan adopted into domestic law in 2009."
+    },
+    {
+      "term": "ICESCR",
+      "aliases": [
+        "經濟社會文化權利國際公約",
+        "International Covenant on Economic, Social and Cultural Rights"
+      ],
+      "explain": "UN treaty on economic, social and cultural rights, adopted into Taiwanese law with the ICCPR."
+    },
+    {
+      "term": "anti-discrimination law",
+      "aliases": [
+        "反歧視法",
+        "平等法"
+      ],
+      "explain": "A general law against discrimination that the Hotline and other groups are campaigning for."
+    },
+    {
+      "term": "The Trevor Project",
+      "aliases": [
+        "Trevor Lifeline"
+      ],
+      "explain": "American LGBTQ+ youth suicide prevention organization founded in 1998 after the short film Trevor."
+    },
+    {
+      "term": "Trevor",
+      "aliases": [],
+      "explain": "Oscar-winning 1994 short film about a gay teenager; its HBO broadcast in August 1998 launched the Trevor Lifeline."
+    },
+    {
+      "term": "Matthew Shepard",
+      "aliases": [],
+      "explain": "Gay American student murdered in Wyoming in October 1998; his death made anti-gay violence national news."
+    },
+    {
+      "term": "Switchboard",
+      "aliases": [
+        "London Lesbian and Gay Switchboard"
+      ],
+      "explain": "London LGBTQ+ helpline founded in 1974."
+    },
+    {
+      "term": "Garden of Hope Foundation",
+      "aliases": [
+        "勵馨基金會",
+        "Garden of Hope"
+      ],
+      "explain": "Large Taiwanese foundation for girls and women, covered in an earlier Monday lesson."
+    },
+    {
+      "term": "Taipei Women's Rescue Foundation",
+      "aliases": [
+        "婦女救援基金會",
+        "婦援會"
+      ],
+      "explain": "Taiwanese foundation covered in last week's Monday lesson."
+    },
+    {
+      "term": "cool dairy",
+      "aliases": [],
+      "explain": "Huiru's vintage shop, whose proceeds will go to Taiwan women's organizations."
+    }
+  ]
+}
