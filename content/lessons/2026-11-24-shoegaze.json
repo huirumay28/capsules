@@ -1,0 +1,706 @@
+{
+  "slug": "shoegaze",
+  "date": "2026-11-24",
+  "subject": "music",
+  "related": [
+    "indie-rock",
+    "post-punk",
+    "psychedelia",
+    "riot-grrrl",
+    "krautrock",
+    "glam-rock"
+  ],
+  "title": "Shoegaze and dream pop: The loudest quiet music in Britain (c. 1983–1995)",
+  "dek": "Around 1990 a group of young British and Irish bands stood almost still on stage, stared at their effects pedals and buried their voices under walls of guitar. The music press mocked them as shoegazers. This lesson follows the sound from Cocteau Twins and the Jesus and Mary Chain to My Bloody Valentine's Loveless, Ride, Slowdive and Lush, explains why grunge and Britpop swept it away, and why a generation that found it online decades later turned it into one of the most loved styles in indie music.",
+  "era": "About 1983 to 1995, mainly in London, the Thames Valley, Scotland and Dublin, with American dream pop alongside it and revivals from 2007 onward",
+  "reading_minutes": 20,
+  "honesty": "This lesson keeps to dates, names and events documented in the English Wikipedia articles Shoegaze, Dream pop, Glide guitar, My Bloody Valentine, Loveless, Cocteau Twins, Creation Records, Ride, Slowdive, Souvlaki, Lush, Madchester, Shibuya-kei, Flipper's Guitar and Spring Scream, and the Manic Sheep band page on Bandcamp. Figures that the sources themselves call disputed, such as the cost of Loveless, are labelled as disputed here. The analysis sections are my own summary, not claims from a single source.",
+  "timeline": [
+    {
+      "year": "1979–1981",
+      "label": "Cocteau Twins form",
+      "detail": "Robin Guthrie and Will Heggie form Cocteau Twins in Grangemouth, Scotland. Elizabeth Fraser joins as singer in 1981 after meeting Guthrie at a local disco where he was DJing."
+    },
+    {
+      "year": "1983",
+      "label": "Creation Records and My Bloody Valentine",
+      "detail": "Alan McGee, Dick Green and Joe Foster found Creation Records in London. In Dublin, Kevin Shields and Colm Ó Cíosóig form My Bloody Valentine."
+    },
+    {
+      "year": "1984",
+      "label": "Treasure",
+      "detail": "Cocteau Twins release Treasure on 4AD, their first UK Top 40 album and the crystallisation of their dream pop sound."
+    },
+    {
+      "year": "1985",
+      "label": "Psychocandy",
+      "detail": "The Jesus and Mary Chain release Psychocandy, sweet pop melodies drowned in feedback. It becomes a model for the bands that follow."
+    },
+    {
+      "year": "1987",
+      "label": "The word 'dreampop'",
+      "detail": "A.R. Kane release the Lollita EP on 4AD, produced by Robin Guthrie. The band call their sound 'dreampop', a word critic Simon Reynolds later adopts."
+    },
+    {
+      "year": "1988",
+      "label": "Glide guitar",
+      "detail": "My Bloody Valentine release the You Made Me Realise EP (August) and the album Isn't Anything (November), introducing Kevin Shields's glide guitar technique."
+    },
+    {
+      "year": "1989–1990",
+      "label": "The scene appears",
+      "detail": "Slowdive form in Reading in October 1989. In 1990 Ride release three EPs and the album Nowhere on Creation and become the scene's leading band."
+    },
+    {
+      "year": "1991",
+      "label": "The year of the name",
+      "detail": "NME first prints 'shoe-gazers' on 25 May; Melody Maker mocks 'The Scene That Celebrates Itself' on 8 June. Nirvana's Nevermind (September) shifts attention to America. Loveless is released on 4 November."
+    },
+    {
+      "year": "1992",
+      "label": "Decline begins",
+      "detail": "Lush release Spooky, Ride release Going Blank Again, and the British press starts to turn on the scene."
+    },
+    {
+      "year": "1993",
+      "label": "Souvlaki",
+      "detail": "Slowdive release Souvlaki on 1 June to tepid reviews. It peaks at number 51 in the UK and is now considered a classic."
+    },
+    {
+      "year": "1995–1997",
+      "label": "Endings",
+      "detail": "Slowdive release Pygmalion and break up. Ride break up in 1996, Cocteau Twins and My Bloody Valentine in 1997."
+    },
+    {
+      "year": "2007–2023",
+      "label": "Reunions",
+      "detail": "My Bloody Valentine return to the stage in 2007 and release m b v in 2013. Slowdive reunite in 2014 and release Everything Is Alive in 2023, their first top ten album anywhere."
+    }
+  ],
+  "read": [
+    {
+      "title": "Wikipedia — Shoegaze",
+      "url": "https://en.wikipedia.org/wiki/Shoegaze",
+      "note": "A long, detailed history, including the true story of how the name was coined and the year-by-year rise and fall of the scene."
+    },
+    {
+      "title": "Wikipedia — Dream pop",
+      "url": "https://en.wikipedia.org/wiki/Dream_pop",
+      "note": "The softer neighbour of shoegaze, from Cocteau Twins and A.R. Kane to Galaxie 500, Mazzy Star and Beach House."
+    },
+    {
+      "title": "Wikipedia — Loveless (album)",
+      "url": "https://en.wikipedia.org/wiki/Loveless_(album)",
+      "note": "The story of the most famous shoegaze record: nineteen studios, a disputed budget and a label that nearly broke."
+    },
+    {
+      "title": "Wikipedia — My Bloody Valentine",
+      "url": "https://en.wikipedia.org/wiki/My_Bloody_Valentine_(band)",
+      "note": "From a karate tournament in Dublin to m b v in 2013."
+    },
+    {
+      "title": "Wikipedia — Glide guitar",
+      "url": "https://en.wikipedia.org/wiki/Glide_guitar",
+      "note": "A short explanation of the playing technique at the centre of the sound."
+    },
+    {
+      "title": "Wikipedia — Cocteau Twins",
+      "url": "https://en.wikipedia.org/wiki/Cocteau_Twins",
+      "note": "The Scottish trio whose ethereal sound paved the way for everything else here."
+    },
+    {
+      "title": "Wikipedia — Slowdive",
+      "url": "https://en.wikipedia.org/wiki/Slowdive",
+      "note": "The band the press destroyed in 1993 and the internet rescued twenty years later."
+    },
+    {
+      "title": "Wikipedia — Souvlaki (album)",
+      "url": "https://en.wikipedia.org/wiki/Souvlaki_(album)",
+      "note": "Includes the story of the sessions with Brian Eno."
+    },
+    {
+      "title": "Wikipedia — Ride (band)",
+      "url": "https://en.wikipedia.org/wiki/Ride_(band)",
+      "note": "Oxford art students who became the scene's first stars."
+    },
+    {
+      "title": "Wikipedia — Lush (band)",
+      "url": "https://en.wikipedia.org/wiki/Lush_(band)",
+      "note": "A band fronted by two women, Miki Berenyi and Emma Anderson, who moved from shoegaze to Britpop."
+    },
+    {
+      "title": "Wikipedia — Creation Records",
+      "url": "https://en.wikipedia.org/wiki/Creation_Records",
+      "note": "The independent label behind the Jesus and Mary Chain, My Bloody Valentine, Ride, Slowdive and later Oasis."
+    }
+  ],
+  "watch": [],
+  "listen": [],
+  "fun_fact": {
+    "title": "The genre was named after a man reading his lyrics",
+    "text": "On 15 March 1991 Andy Ross, the head of Food Records, watched the band Moose open for Lush at the Venue in New Cross, London. The singer, Russell Yates, kept looking down at his shoes, and Ross jokingly called the band 'shoegazers'. Moose's guitarist Kevin McKillop later explained that Yates was not being moody at all: he was reading lyric sheets taped to the floor because he could not remember the words. A whole genre still carries the name of that small memory problem."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Before shoegaze: walls of sound, drones and feedback",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Shoegaze did not come from nowhere. Its deepest roots are in the 1960s. Phil Spector's Wall of Sound productions piled many instruments on top of each other until they blurred into one huge sound. The Velvet Underground showed that a band could stand almost still on stage and make a great deal of noise. Psychedelic pop taught musicians to use the studio to make sounds that seemed to float."
+        },
+        {
+          "type": "p",
+          "text": "In the early 1980s, after punk and post-punk, two Scottish bands pointed the way forward. Cocteau Twins were formed in Grangemouth on the Firth of Forth by guitarist Robin Guthrie and bassist Will Heggie, and in 1981 they added singer Elizabeth Fraser, whom Guthrie met at a local disco where he was the DJ. They signed to the London label 4AD in 1982. Guthrie covered his guitar in effects until it shimmered, and Fraser sang in a high soprano, often in words that belong to no recognisable language. Their 1984 album Treasure became their first UK Top 40 album, and their 1990 album Heaven or Las Vegas reached number 7."
+        },
+        {
+          "type": "p",
+          "text": "The second Scottish band was the Jesus and Mary Chain. Their 1985 debut album, Psychocandy, put sweet pop songs underneath screaming guitar feedback. Alan McGee, who had released their first single on his label Creation Records, later said that My Bloody Valentine 'changed their style because of The Jesus and Mary Chain.' At the same time, Spacemen 3 and Loop were reviving 1960s space rock with long, droning songs, and Siouxsie and the Banshees and the Cure were showing how much atmosphere a guitar band could create."
+        },
+        {
+          "type": "p",
+          "text": "In 1987 the London duo A.R. Kane released the Lollita EP on 4AD, produced by Robin Guthrie. They described their own music as 'dreampop'. The critic Simon Reynolds adopted the word, and in December 1991 he introduced the whole British shoegaze scene to American readers as 'dream pop' in The New York Times. That is why the two names are still used side by side."
+        }
+      ]
+    },
+    {
+      "id": "mbv",
+      "kicker": "Deep dive",
+      "title": "My Bloody Valentine, glide guitar and Loveless",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "My Bloody Valentine began in Dublin. Kevin Shields and Colm Ó Cíosóig met as boys at a karate tournament in South Dublin in 1978, played punk covers together, and formed My Bloody Valentine in early 1983. After several line-up changes the classic line-up was in place: Shields and Bilinda Butcher on guitars and vocals, Debbie Googe on bass, and Ó Cíosóig on drums. Two of the four members were women, and Butcher's soft, half-hidden voice became as important to the sound as Shields's guitar."
+        },
+        {
+          "type": "p",
+          "text": "In 1988 the band, now on Creation Records, released the You Made Me Realise EP in August and their first album, Isn't Anything, in November. These records introduced what came to be called glide guitar. Shields held the guitar's vibrato bar, sometimes called a whammy bar, while he strummed, so that every chord bent slightly up and down in pitch. He combined this with a reverse reverb effect from digital units such as the Yamaha SPX90 and with unusual tunings. The result sounds like a guitar that is melting and swelling at the same time."
+        },
+        {
+          "type": "p",
+          "text": "Live, the band became famous for volume. At the end of their concerts, in the closing song 'You Made Me Realise', they played an interlude of pure noise that could last up to half an hour and often reached about 130 decibels. Shields later said it was so loud it was like sensory deprivation. In 2000 the music magazine Mojo rated their late-1991 tour as the second loudest in history."
+        },
+        {
+          "type": "p",
+          "text": "Loveless, their second album, was recorded between February 1989 and September 1991. Creation had believed it could be made in five days. Instead the band worked in nineteen different studios with many engineers, often trying a studio for a single day before rejecting it. Shields experimented with sampling as well as guitar; the Tremolo EP of February 1991 showed this new direction, and the earlier Glider EP of 1990 included 'Soon', which Brian Eno called 'the vaguest music ever to have been a hit.' The album's cost was rumoured to be about £250,000, a figure Shields disputes."
+        },
+        {
+          "type": "p",
+          "text": "Loveless was released on 4 November 1991 by Creation in Britain and Sire in the United States. It reached number 24 on the UK Albums Chart and was praised for what one critic called Shields's 'virtual reinvention of the guitar'. It did not make anyone rich. Rolling Stone estimated in 2003 that it had sold about 225,000 copies. After its release Alan McGee dropped the band because he found Shields too difficult to work with, and the long, expensive recording is often said to have contributed to Creation having to sign a co-ownership deal with Sony Music to survive. Today Loveless is regularly listed among the greatest albums ever made. The band split in 1997, returned to the stage in 2007 and released their third album, m b v, in 2013."
+        }
+      ]
+    },
+    {
+      "id": "scene",
+      "kicker": "The scene",
+      "title": "Ride, Slowdive, Lush and 'The Scene That Celebrates Itself'",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Shoegaze became a visible scene in late 1989 and came into full view in 1990. Its core bands were concentrated in London and the Thames Valley west of it: Ride, Swervedriver, Slowdive, Chapterhouse, Lush and Moose, with others such as Pale Saints and the Boo Radleys nearby. They went to each other's concerts, shared producers, recorded for the same two labels, Creation and 4AD, and used similar abstract, blurred artwork on their record covers."
+        },
+        {
+          "type": "p",
+          "text": "Ride were the first stars. Andy Bell and Mark Gardener had been at school together in Oxford and moved to Banbury in 1988 to study art; the band formed that summer and played their first gig at their college Christmas party. Signed to Creation, they released three EPs in 1990 and then their debut album, Nowhere, mixed by Alan Moulder. Their 1992 single 'Leave Them All Behind' reached number 9 in the UK singles chart, and the album Going Blank Again reached number 5. Ride combined dense guitars with clear, melodic songs, which made them easier to love than My Bloody Valentine."
+        },
+        {
+          "type": "p",
+          "text": "Slowdive were formed in Reading in October 1989 by Neil Halstead and Rachel Goswell. The name came partly from a dream the bassist Nick Chaplin had and partly from 'Slowdive', a single by Siouxsie and the Banshees, one of Goswell's favourite bands. Their first EP won Melody Maker's 'Single of the Week', and so did the next two."
+        },
+        {
+          "type": "p",
+          "text": "Lush, formed in London in 1987, were led by two women, Miki Berenyi and Emma Anderson, who both sang, played guitar and wrote songs. They signed to 4AD in 1989 and released the albums Spooky (1992) and Split (1994). Together with Rachel Goswell of Slowdive, Bilinda Butcher and Debbie Googe of My Bloody Valentine and Elizabeth Fraser of Cocteau Twins, they gave this scene unusually many women in central roles, not just as singers but as guitarists, bassists and songwriters."
+        },
+        {
+          "type": "p",
+          "text": "The press gave the scene its names, and neither was kind. The earliest confirmed printed use of 'shoe-gazers' was by Steve Lamacq in NME on 25 May 1991, describing Slowdive. On 8 June 1991, in a live review of Moose, Steve Sutherland of Melody Maker called the bands 'The Scene That Celebrates Itself', mocking how the musicians turned up at each other's gigs. 'Shoegazing' implied that these bands were dull, shy and self-absorbed. Ride's Mark Gardener said it was an English label unknown in Japan and America, and Jim Reid of the Jesus and Mary Chain said shoegaze 'doesn't actually exist'."
+        }
+      ]
+    },
+    {
+      "id": "fall",
+      "kicker": "Decline",
+      "title": "Grunge, Britpop and the fall of Slowdive",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Shoegaze peaked in 1991, and it began falling in the very same year. In September 1991 Nirvana released Nevermind, and world attention moved abruptly to American grunge, which had loud guitars too but also anger, faces and stories. The same month Slowdive's debut album, Just for a Day, received lukewarm reviews, the first sign of decline. In January 1992 NME reviewed Lush's Spooky by saying the band were 'due for a good kicking' after a good run of press encouragement."
+        },
+        {
+          "type": "p",
+          "text": "Slowdive's story shows how harsh the turn was. After a 1992 American tour, the band asked Brian Eno, whom Halstead admired, to produce their second album. Eno declined but spent a few days recording with them, and two songs, 'Sing' and 'Here She Comes', came out of those sessions. Alan McGee rejected some of the early material but eventually gave the band full creative control. Souvlaki was released by Creation on 1 June 1993, peaked at only number 51 in the UK, and was greeted with tepid reviews. In 1994 the band paid for two small American tours by selling a live tape and a tour programme that mocked their own record label."
+        },
+        {
+          "type": "p",
+          "text": "Halstead moved the band towards minimal, ambient music on their third album, Pygmalion, released in 1995, by which time three members had already left. Slowdive broke up soon afterwards, and Halstead, Goswell and Ian McCutcheon continued as the folk and country-influenced Mojave 3. Ride broke up in 1996. Lush moved towards Britpop on their best-selling album Lovelife (1996), with the hit 'Ladykillers', but their drummer Chris Acland died in October 1996 and the band ended in 1998. Cocteau Twins broke up in 1997, partly because the romantic relationship between Fraser and Guthrie had ended. Creation Records, meanwhile, had found the band that would replace this whole sound in the British charts: Oasis."
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "kicker": "Analysis",
+      "title": "What shoegaze was really about",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Most rock music before shoegaze put the singer at the centre. The voice carried the words and the personality, and the band supported it. Shoegaze reversed this. The voices were mixed into the guitars until the words were often impossible to hear, and the guitars were treated as clouds of sound rather than riffs. That is why the musicians stood still: the point was not the performer's body or personality but the sound filling the room."
+        },
+        {
+          "type": "p",
+          "text": "This also explains why the press disliked it. British music journalism of the time loved bands with attitude, quotes and rivalries. Shoegaze bands, mostly polite middle-class young people who were friends with each other, gave the papers little to write about, so the papers wrote about that instead. Grunge and then Britpop gave the press exactly what shoegaze refused: personalities and conflict."
+        },
+        {
+          "type": "p",
+          "text": "Shoegaze was also unusually open to women in instrumental roles. In a scene where nobody was supposed to be the star, a woman playing bass or guitar was simply part of the sound. That is a quiet contrast with riot grrrl, which was happening at the same time in the United States: riot grrrl made women's voices loud and words impossible to ignore, while shoegaze made everybody's voice, men's and women's, part of the blur."
+        },
+        {
+          "type": "p",
+          "text": "Finally, shoegaze depended on technology. Cheap digital effects units, such as the reverb units Shields used, and later samplers made these huge textures possible for young bands with small budgets. In that sense it belongs with the other machine-driven music of the late 1980s, such as house and techno, even though it was played on guitars."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "What was happening elsewhere at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In Manchester, only a few hours north of London, the Madchester scene was at its height from about 1988 to 1990. The Stone Roses, Happy Mondays, Inspiral Carpets and the Charlatans mixed guitar pop with the rave culture of the Haçienda nightclub, which was co-owned by members of New Order. Where shoegaze bands looked down, Madchester bands danced. Factory Records' Tony Wilson popularised the name."
+        },
+        {
+          "type": "p",
+          "text": "In the United States, dream pop developed alongside shoegaze through bands such as Galaxie 500, Mazzy Star and the singer Julee Cruise. Galaxie 500's Dean Wareham described the difference well: shoegaze bands are 'more of an assault, a wall of sound', while dream pop leaves 'more room for melody and counter-melody'. From 1992 American shoegaze bands such as Drop Nineteens from Boston, Lilys, Medicine and Swirlies released their own debuts, just as the British scene was fading."
+        },
+        {
+          "type": "p",
+          "text": "In Tokyo, the Shibuya-kei scene was forming at the same moment. Flipper's Guitar, formed in 1987 by Keigo Oyamada and Kenji Ozawa among others, broke up in 1991, and Oyamada went on to record as Cornelius. Shibuya-kei drew on many of the same record-collector instincts as shoegaze, borrowing from 1960s pop, French film and British indie, but it was bright, playful and fashionable rather than hazy."
+        },
+        {
+          "type": "p",
+          "text": "In Taiwan, the years around 1990 were the early period of a free independent rock scene after the end of martial law in 1987. In 1995 two American expatriates, Wade Davis and Jimi Moe, started the Spring Scream (春天吶喊) festival, which became one of Taiwan's most important showcases for independent bands. Shoegaze itself arrived in Taiwan much later: Manic Sheep, a Taipei band formed in 2010, is one of the best-known Taiwanese groups mixing shoegaze, dream pop and post-rock."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "After shoegaze: from insult to inheritance",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the 2000s the word 'shoegaze' lost its insulting meaning. A new generation found the records on the internet, without the British press's opinions attached, and simply heard beautiful music. New bands borrowed the sound in what was called nu gaze, and metal bands mixed it with heavy music to create blackgaze and doomgaze."
+        },
+        {
+          "type": "p",
+          "text": "The original bands came back. My Bloody Valentine began a wave of reunions in 2007 and released m b v in 2013. Ride reunited in 2014 and released three more albums, including Interplay in 2024. Slowdive's 2014 reunion was the most triumphant of all: their 2017 album Slowdive was a success, and their 2023 album Everything Is Alive became the first Slowdive album to reach the top ten in any country, doing so in Belgium, Germany, the Netherlands, New Zealand and the United Kingdom. Lush reunited briefly in 2015–2016."
+        },
+        {
+          "type": "p",
+          "text": "Since around 2019 a new online wave, sometimes called zoomergaze, has been made mostly by solo artists recording at home, such as Weatherday, Asian Glow, Computerwife and Hotline TNT. The film Lost in Translation (2003), set in Tokyo, used My Bloody Valentine's 'Sometimes' on its soundtrack and the same font as Loveless's cover on its own front cover, which introduced the band to many new listeners."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "Think about it",
+      "title": "A question to take with you",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Shoegaze was mocked by critics in its own time and rediscovered by young people online twenty years later, when the records could be heard without the old reviews attached. Vintage clothing often works the same way: something unfashionable becomes beautiful once its old associations fade. For cool dairy, which stories from the past do you want to recover and retell for your customers, and which old judgements about women's clothes and women's taste do you want to leave behind?"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Shoegaze",
+      "aliases": [
+        "shoegazing",
+        "shoegazers"
+      ],
+      "explain": "A style of British and Irish indie rock from the late 1980s and early 1990s, with swirling, heavily effected guitars and soft, half-buried vocals. The name began as an insult from the music press."
+    },
+    {
+      "term": "dream pop",
+      "aliases": [
+        "dreampop"
+      ],
+      "explain": "A softer, more melodic relative of shoegaze, built on atmospheric guitars and dreamy vocals. The word was coined by A.R. Kane and adopted by critic Simon Reynolds."
+    },
+    {
+      "term": "glide guitar",
+      "aliases": [],
+      "explain": "Kevin Shields's technique of holding and moving the guitar's vibrato bar while strumming, so that chords bend and waver in pitch."
+    },
+    {
+      "term": "Wall of Sound",
+      "aliases": [],
+      "explain": "Phil Spector's 1960s production style, layering many instruments until they merge into one dense sound."
+    },
+    {
+      "term": "The Scene That Celebrates Itself",
+      "aliases": [],
+      "explain": "A mocking phrase from Melody Maker (8 June 1991) for the shoegaze bands, who often attended each other's concerts."
+    },
+    {
+      "term": "My Bloody Valentine",
+      "aliases": [
+        "MBV"
+      ],
+      "explain": "Irish band formed in Dublin in 1983; the most influential shoegaze band, known for glide guitar, extreme live volume and the album Loveless."
+    },
+    {
+      "term": "Kevin Shields",
+      "aliases": [
+        "Shields"
+      ],
+      "explain": "Guitarist, singer and leader of My Bloody Valentine, who developed the glide guitar technique and produced Loveless."
+    },
+    {
+      "term": "Bilinda Butcher",
+      "aliases": [
+        "Butcher"
+      ],
+      "explain": "Singer and guitarist of My Bloody Valentine from 1987."
+    },
+    {
+      "term": "Debbie Googe",
+      "aliases": [
+        "Googe"
+      ],
+      "explain": "Bassist of My Bloody Valentine from 1985."
+    },
+    {
+      "term": "Colm Ó Cíosóig",
+      "aliases": [
+        "Ó Cíosóig"
+      ],
+      "explain": "Drummer and co-founder of My Bloody Valentine."
+    },
+    {
+      "term": "Loveless",
+      "aliases": [],
+      "explain": "My Bloody Valentine's second album, released 4 November 1991 on Creation, recorded over more than two years in nineteen studios; now regarded as one of the greatest albums ever made."
+    },
+    {
+      "term": "Isn't Anything",
+      "aliases": [],
+      "explain": "My Bloody Valentine's first album, released in November 1988."
+    },
+    {
+      "term": "You Made Me Realise",
+      "aliases": [],
+      "explain": "My Bloody Valentine's 1988 EP, whose title song ends their concerts with a long burst of noise."
+    },
+    {
+      "term": "m b v",
+      "aliases": [],
+      "explain": "My Bloody Valentine's third album, released in 2013."
+    },
+    {
+      "term": "Cocteau Twins",
+      "aliases": [],
+      "explain": "Scottish band from Grangemouth (Robin Guthrie, Will Heggie, Elizabeth Fraser) whose ethereal 4AD records paved the way for dream pop and shoegaze."
+    },
+    {
+      "term": "Elizabeth Fraser",
+      "aliases": [
+        "Fraser"
+      ],
+      "explain": "Soprano singer of Cocteau Twins, known for lyrics that often use no recognisable language."
+    },
+    {
+      "term": "Robin Guthrie",
+      "aliases": [
+        "Guthrie"
+      ],
+      "explain": "Guitarist of Cocteau Twins and producer of A.R. Kane's Lollita EP."
+    },
+    {
+      "term": "Treasure",
+      "aliases": [],
+      "explain": "Cocteau Twins' 1984 album and first UK Top 40 album."
+    },
+    {
+      "term": "Heaven or Las Vegas",
+      "aliases": [],
+      "explain": "Cocteau Twins' 1990 album, their most successful in the UK, reaching number 7."
+    },
+    {
+      "term": "The Jesus and Mary Chain",
+      "aliases": [],
+      "explain": "Scottish band whose 1985 album Psychocandy mixed sweet pop with feedback and shaped shoegaze."
+    },
+    {
+      "term": "Psychocandy",
+      "aliases": [],
+      "explain": "The Jesus and Mary Chain's 1985 debut album."
+    },
+    {
+      "term": "Jim Reid",
+      "aliases": [],
+      "explain": "Singer of the Jesus and Mary Chain, who said shoegaze 'doesn't actually exist'."
+    },
+    {
+      "term": "A.R. Kane",
+      "aliases": [],
+      "explain": "London duo who called their sound 'dreampop' and released the Lollita EP on 4AD in 1987."
+    },
+    {
+      "term": "Spacemen 3",
+      "aliases": [],
+      "explain": "English band that revived droning 1960s space rock in the mid-1980s."
+    },
+    {
+      "term": "Creation Records",
+      "aliases": [
+        "Creation"
+      ],
+      "explain": "Independent London label founded in 1983 by Alan McGee, Dick Green and Joe Foster; home of My Bloody Valentine, Ride, Slowdive and later Oasis. It closed in 1999."
+    },
+    {
+      "term": "Alan McGee",
+      "aliases": [
+        "McGee"
+      ],
+      "explain": "Co-founder and head of Creation Records."
+    },
+    {
+      "term": "4AD",
+      "aliases": [],
+      "explain": "London independent label that released Cocteau Twins, A.R. Kane and Lush."
+    },
+    {
+      "term": "Ride",
+      "aliases": [],
+      "explain": "Band formed in 1988 by art students from Oxford; the first stars of shoegaze, with the albums Nowhere and Going Blank Again."
+    },
+    {
+      "term": "Nowhere",
+      "aliases": [],
+      "explain": "Ride's 1990 debut album, one of the defining shoegaze records."
+    },
+    {
+      "term": "Going Blank Again",
+      "aliases": [],
+      "explain": "Ride's 1992 album, which reached number 5 in the UK."
+    },
+    {
+      "term": "Leave Them All Behind",
+      "aliases": [],
+      "explain": "Ride's most successful single, number 9 in the UK in 1992."
+    },
+    {
+      "term": "Andy Bell",
+      "aliases": [],
+      "explain": "Guitarist and singer of Ride."
+    },
+    {
+      "term": "Mark Gardener",
+      "aliases": [
+        "Gardener"
+      ],
+      "explain": "Singer and guitarist of Ride."
+    },
+    {
+      "term": "Slowdive",
+      "aliases": [],
+      "explain": "Band formed in Reading in 1989 by Neil Halstead and Rachel Goswell; mocked in 1993, celebrated after their 2014 reunion."
+    },
+    {
+      "term": "Neil Halstead",
+      "aliases": [
+        "Halstead"
+      ],
+      "explain": "Singer, guitarist and main songwriter of Slowdive, later of Mojave 3."
+    },
+    {
+      "term": "Rachel Goswell",
+      "aliases": [
+        "Goswell"
+      ],
+      "explain": "Singer and guitarist of Slowdive."
+    },
+    {
+      "term": "Just for a Day",
+      "aliases": [],
+      "explain": "Slowdive's 1991 debut album."
+    },
+    {
+      "term": "Souvlaki",
+      "aliases": [],
+      "explain": "Slowdive's second album, released 1 June 1993, partly recorded with Brian Eno; poorly received then, a classic now."
+    },
+    {
+      "term": "Pygmalion",
+      "aliases": [],
+      "explain": "Slowdive's minimal, ambient third album of 1995."
+    },
+    {
+      "term": "Everything Is Alive",
+      "aliases": [],
+      "explain": "Slowdive's 2023 album, their first top ten album in any country."
+    },
+    {
+      "term": "Mojave 3",
+      "aliases": [],
+      "explain": "The folk and country-influenced band that Halstead, Goswell and McCutcheon formed after Slowdive."
+    },
+    {
+      "term": "Brian Eno",
+      "aliases": [
+        "Eno"
+      ],
+      "explain": "English musician and producer who recorded briefly with Slowdive and called My Bloody Valentine's 'Soon' 'the vaguest music ever to have been a hit'."
+    },
+    {
+      "term": "Lush",
+      "aliases": [],
+      "explain": "London band formed in 1987 and led by Miki Berenyi and Emma Anderson; signed to 4AD, later moved towards Britpop."
+    },
+    {
+      "term": "Miki Berenyi",
+      "aliases": [
+        "Berenyi"
+      ],
+      "explain": "Singer, guitarist and co-leader of Lush."
+    },
+    {
+      "term": "Emma Anderson",
+      "aliases": [
+        "Anderson"
+      ],
+      "explain": "Guitarist, singer and songwriter of Lush."
+    },
+    {
+      "term": "Spooky",
+      "aliases": [],
+      "explain": "Lush's 1992 debut album."
+    },
+    {
+      "term": "Lovelife",
+      "aliases": [],
+      "explain": "Lush's 1996 album, their best-selling, including 'Ladykillers'."
+    },
+    {
+      "term": "Moose",
+      "aliases": [],
+      "explain": "London band whose singer looked down at lyric sheets on stage, inspiring the word 'shoegazers'."
+    },
+    {
+      "term": "Andy Ross",
+      "aliases": [],
+      "explain": "Head of Food Records, who coined the word 'shoegazing' in 1991."
+    },
+    {
+      "term": "Steve Lamacq",
+      "aliases": [],
+      "explain": "NME journalist who made the earliest confirmed printed use of 'shoe-gazers' on 25 May 1991."
+    },
+    {
+      "term": "Simon Reynolds",
+      "aliases": [],
+      "explain": "Music critic who popularised the term 'dream pop' and introduced the scene to American readers in The New York Times in December 1991."
+    },
+    {
+      "term": "Swervedriver",
+      "aliases": [],
+      "explain": "Creation shoegaze band that later toured the US with Soundgarden and the Smashing Pumpkins."
+    },
+    {
+      "term": "Chapterhouse",
+      "aliases": [],
+      "explain": "Core shoegaze band from the Thames Valley scene."
+    },
+    {
+      "term": "Nevermind",
+      "aliases": [],
+      "explain": "Nirvana's September 1991 album, which shifted world attention to American grunge."
+    },
+    {
+      "term": "grunge",
+      "aliases": [],
+      "explain": "Heavy, angry American rock from Seattle that overshadowed shoegaze from late 1991."
+    },
+    {
+      "term": "Britpop",
+      "aliases": [],
+      "explain": "Mid-1990s British guitar pop led by bands such as Oasis and Blur, which replaced shoegaze in the British press and charts."
+    },
+    {
+      "term": "Oasis",
+      "aliases": [],
+      "explain": "Manchester band signed by Creation Records, the label's biggest success."
+    },
+    {
+      "term": "Madchester",
+      "aliases": [],
+      "explain": "Manchester's late-1980s scene mixing guitar pop and rave culture, with the Stone Roses and Happy Mondays."
+    },
+    {
+      "term": "Haçienda",
+      "aliases": [],
+      "explain": "Manchester nightclub opened in 1982 by Factory Records and co-owned by members of New Order."
+    },
+    {
+      "term": "Galaxie 500",
+      "aliases": [],
+      "explain": "American dream pop band; its founder Dean Wareham explained the difference between shoegaze and dream pop."
+    },
+    {
+      "term": "Mazzy Star",
+      "aliases": [],
+      "explain": "American dream pop band of the late 1980s and 1990s."
+    },
+    {
+      "term": "Shibuya-kei",
+      "aliases": [],
+      "explain": "Tokyo music scene of the late 1980s and 1990s, led by Flipper's Guitar and Pizzicato Five."
+    },
+    {
+      "term": "Flipper's Guitar",
+      "aliases": [],
+      "explain": "Tokyo band formed in 1987 by Keigo Oyamada and Kenji Ozawa among others; split in 1991."
+    },
+    {
+      "term": "Cornelius",
+      "aliases": [],
+      "explain": "Recording name of Keigo Oyamada after Flipper's Guitar."
+    },
+    {
+      "term": "Spring Scream",
+      "aliases": [
+        "春天吶喊"
+      ],
+      "explain": "Taiwanese independent music festival started in 1995 by Wade Davis and Jimi Moe."
+    },
+    {
+      "term": "Manic Sheep",
+      "aliases": [],
+      "explain": "Taipei band formed in 2010 mixing shoegaze, dream pop and post-rock."
+    },
+    {
+      "term": "nu gaze",
+      "aliases": [],
+      "explain": "The 2000s revival of shoegaze, also called second-wave shoegaze."
+    },
+    {
+      "term": "blackgaze",
+      "aliases": [],
+      "explain": "A fusion of shoegaze and black metal from the 2000s."
+    },
+    {
+      "term": "zoomergaze",
+      "aliases": [],
+      "explain": "A 2020s online wave of shoegaze-influenced music made mostly by young solo artists."
+    },
+    {
+      "term": "Lost in Translation",
+      "aliases": [],
+      "explain": "2003 film set in Tokyo whose soundtrack includes My Bloody Valentine's 'Sometimes'."
+    }
+  ]
+}
