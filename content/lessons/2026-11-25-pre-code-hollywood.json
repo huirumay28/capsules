@@ -1,0 +1,1028 @@
+{
+  "slug": "pre-code-hollywood",
+  "date": "2026-11-25",
+  "subject": "film",
+  "related": [
+    "film-noir",
+    "new-hollywood",
+    "feminist-film-theory",
+    "german-expressionism",
+    "soviet-montage",
+    "italian-neorealism",
+    "japanese-golden-age",
+    "french-new-wave",
+    "fifth-generation-chinese-cinema",
+    "taiwan-new-cinema"
+  ],
+  "title": "Pre-Code Hollywood, 1929 to 1934",
+  "dek": "For about four years after sound arrived, American studios made films in which women slept their way to the top floor of a bank, gangsters died in the rain as heroes, a chain-gang convict escaped into the dark with no happy ending, and Mae West joked about sex in nearly every line. A moral code for movies already existed on paper, but almost nobody enforced it. Then, in the summer of 1934, Catholic boycotts and a new office run by Joseph Breen made the code law inside the industry, and it shaped Hollywood for the next thirty-four years. This lesson covers why the code existed, what the pre-Code films did with their freedom, especially for women on screen, how the crackdown happened, and what was happening in Shanghai, Berlin, Tokyo and Taipei at the same time.",
+  "era": "c. 1929 to 1934: from the coming of sound and the writing of the Production Code to the creation of the Production Code Administration in July 1934, with a look at the years before and after",
+  "reading_minutes": 18,
+  "honesty": "This lesson keeps to facts documented in the English Wikipedia articles on pre-Code Hollywood, the Motion Picture Production Code, the films and the people named, in the text of the 1930 Code itself, and in standard histories such as Thomas Doherty's Pre-Code Hollywood (1999). Box-office and attendance figures from the period are estimates, so the lesson avoids exact numbers it could not check. There are no images today rather than risk pictures that do not match their captions.",
+  "timeline": [
+    {
+      "year": "1915",
+      "label": "Films are not free speech",
+      "detail": "In Mutual Film Corporation v. Industrial Commission of Ohio, the US Supreme Court rules that films are a business, not speech protected by the First Amendment, so states and cities may censor them."
+    },
+    {
+      "year": "1922",
+      "label": "Will Hays hired",
+      "detail": "After a run of Hollywood scandals, including the Roscoe 'Fatty' Arbuckle case, the studios form a trade group, later called the MPPDA, and hire the former Postmaster General Will H. Hays to clean up the industry's image."
+    },
+    {
+      "year": "1927",
+      "label": "Don'ts and Be Carefuls; The Jazz Singer",
+      "detail": "The Hays office issues a list of eleven things never to show and twenty-five to handle carefully. In October, The Jazz Singer brings synchronised dialogue and songs into a feature film."
+    },
+    {
+      "year": "1930",
+      "label": "The Production Code adopted",
+      "detail": "Written by the Jesuit priest Daniel Lord and the trade publisher Martin Quigley, the Code is adopted by the studios in 1930. Enforcement is left to a small Studio Relations Committee with little power."
+    },
+    {
+      "year": "1930",
+      "label": "Morocco and The Divorcee",
+      "detail": "Marlene Dietrich, in a man's tuxedo, kisses a woman in Josef von Sternberg's Morocco. Norma Shearer wins the Academy Award for Best Actress as a wife who answers her husband's affair with her own in The Divorcee."
+    },
+    {
+      "year": "1931",
+      "label": "Gangsters and monsters",
+      "detail": "Little Caesar, The Public Enemy, Dracula and Frankenstein are released. Barbara Stanwyck stars in Night Nurse."
+    },
+    {
+      "year": "1932",
+      "label": "Scarface, Freaks, I Am a Fugitive from a Chain Gang",
+      "detail": "Howard Hawks's Scarface reaches cinemas after a long fight with censors; Tod Browning's Freaks shocks audiences; Mervyn LeRoy's chain-gang film ends with its hero living as a hunted man."
+    },
+    {
+      "year": "1932",
+      "label": "Red-Headed Woman",
+      "detail": "Jean Harlow plays a secretary who breaks up her boss's marriage in a comedy written by Anita Loos, and is not punished for it."
+    },
+    {
+      "year": "1933",
+      "label": "Baby Face and She Done Him Wrong",
+      "detail": "Stanwyck climbs a bank's office building floor by floor in Baby Face. Mae West's She Done Him Wrong becomes a huge hit for Paramount, then in receivership, and is nominated for Best Picture."
+    },
+    {
+      "year": "1933",
+      "label": "Busby Berkeley and the Depression",
+      "detail": "42nd Street and Gold Diggers of 1933 mix chorus-girl spectacle with the Depression; the Payne Fund Studies and the book Our Movie Made Children claim films harm children."
+    },
+    {
+      "year": "1933",
+      "label": "Catholic campaign begins",
+      "detail": "In October the Apostolic Delegate Amleto Cicognani calls on American Catholics to fight immoral films. The bishops form the Legion of Decency, and millions of Catholics sign its pledge in 1934."
+    },
+    {
+      "year": "1934",
+      "label": "The Production Code Administration",
+      "detail": "In June 1934 the studios agree to a stronger system. From July, the new Production Code Administration under Joseph Breen must approve every film, and member companies face a $25,000 fine for releasing a film without its seal."
+    },
+    {
+      "year": "1934",
+      "label": "Shanghai: The Goddess",
+      "detail": "Ruan Lingyu plays a mother who sells sex to pay for her son's schooling in Wu Yonggang's silent film The Goddess."
+    },
+    {
+      "year": "1953–1966",
+      "label": "The Code weakens",
+      "detail": "Otto Preminger releases The Moon Is Blue (1953) without a seal and it still makes money; Some Like It Hot (1959) is also released without one. The Code is rewritten in 1966."
+    },
+    {
+      "year": "1968",
+      "label": "Ratings replace the Code",
+      "detail": "On 1 November 1968 the MPAA replaces the Production Code with a film rating system, the start of the G, M, R and X categories."
+    },
+    {
+      "year": "2004",
+      "label": "Baby Face uncut",
+      "detail": "A print of the original, uncensored version of Baby Face is found at the Library of Congress and screened at the London Film Festival."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Baby Face (1933) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baby_Face_(1933_film)",
+      "note": "Barbara Stanwyck as a woman who uses men to climb from a speakeasy to the top of a New York bank. The film most often used to show what the Code was written to stop. Look for the restored uncut version."
+    },
+    {
+      "title": "She Done Him Wrong (1933) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/She_Done_Him_Wrong",
+      "note": "Mae West's first starring film, with a young Cary Grant. Short, funny and entirely built around her."
+    },
+    {
+      "title": "I Am a Fugitive from a Chain Gang (1932) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/I_Am_a_Fugitive_from_a_Chain_Gang",
+      "note": "Paul Muni as a veteran crushed by a Southern chain-gang system. One of the darkest endings Hollywood ever allowed."
+    },
+    {
+      "title": "The Public Enemy (1931) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Public_Enemy",
+      "note": "James Cagney's breakthrough, including the famous grapefruit scene."
+    },
+    {
+      "title": "Christopher Strong (1933) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Strong",
+      "note": "Dorothy Arzner directs Katharine Hepburn as a record-breaking aviator who falls in love with a married man."
+    },
+    {
+      "title": "Trouble in Paradise (1932) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trouble_in_Paradise_(1932_film)",
+      "note": "Ernst Lubitsch's comedy about two elegant thieves, often called the most graceful film of the period. It was withheld from reissue after 1935."
+    },
+    {
+      "title": "The Goddess (1934) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Goddess_(1934_film)",
+      "note": "For comparison: Ruan Lingyu in the Shanghai silent film about a mother forced into sex work."
+    }
+  ],
+  "read": [
+    {
+      "title": "Wikipedia — Pre-Code Hollywood",
+      "url": "https://en.wikipedia.org/wiki/Pre-Code_Hollywood",
+      "note": "A long, well-sourced overview of the era, its genres, its stars and the 1934 crackdown."
+    },
+    {
+      "title": "Wikipedia — Hays Code",
+      "url": "https://en.wikipedia.org/wiki/Hays_Code",
+      "note": "The history of the Production Code from 1930 to 1968, with its main rules."
+    },
+    {
+      "title": "The Motion Picture Production Code of 1930 (full text)",
+      "url": "https://www.asu.edu/courses/fms200s/total-readings/MotionPictureProductionCode.pdf",
+      "note": "The Code in its own words. Read the 'General Principles' and the section on sex to see what the authors feared."
+    },
+    {
+      "title": "Wikipedia — Dorothy Arzner",
+      "url": "https://en.wikipedia.org/wiki/Dorothy_Arzner",
+      "note": "The only woman directing features in Hollywood through most of the 1930s."
+    },
+    {
+      "title": "Wikipedia — Joseph Breen",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Breen",
+      "note": "The man who enforced the Code from 1934 to 1954."
+    },
+    {
+      "title": "Wikipedia — Legion of Decency",
+      "url": "https://en.wikipedia.org/wiki/National_Legion_of_Decency",
+      "note": "How the Catholic campaign worked and how it rated films for decades afterwards."
+    }
+  ],
+  "fun_fact": {
+    "title": "Mae West never said the line everyone quotes",
+    "text": "The line people remember as 'Come up and see me sometime' is not quite what Mae West says in She Done Him Wrong. On screen she tells Cary Grant, 'Why don't you come up sometime and see me?' The shorter version spread through impressions, newspaper columns and later cartoons, and West herself began using the popular version afterwards because audiences expected it. Her real line is slower and more casual, which is exactly how she wanted it to sound."
+  },
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "Scandals, censors and a code nobody enforced",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "American films were censored long before Hollywood had a code. In 1915 the Supreme Court decided in Mutual Film Corporation v. Industrial Commission of Ohio that films were a business, 'pure and simple', and not speech protected by the First Amendment. That meant states and cities could set up their own censorship boards, and many did. A film might be cut one way in New York, another way in Pennsylvania, and banned in Kansas. For the studios this was expensive and unpredictable."
+        },
+        {
+          "type": "p",
+          "text": "In the early 1920s a series of scandals made it worse. The comedian Roscoe 'Fatty' Arbuckle was tried three times for manslaughter after a woman died following a party in 1921, and was acquitted, but his career was destroyed; the director William Desmond Taylor was murdered in 1922 and the case was never solved. Newspapers presented Hollywood as a place of drink, drugs and sex. To protect themselves from federal regulation, the studios formed a trade group, the Motion Picture Producers and Distributors of America (MPPDA), and in 1922 hired Will H. Hays, a Presbyterian elder and former Postmaster General, to run it. The press called it the Hays Office."
+        },
+        {
+          "type": "p",
+          "text": "Hays's first tools were soft. In 1927 his office issued a list known as the 'Don'ts and Be Carefuls': eleven subjects never to show, such as profanity, nudity and ridicule of the clergy, and twenty-five to handle with care, such as sympathy for criminals and 'excessive or lustful kissing'. In 1929 the Catholic publisher Martin Quigley and the Jesuit priest Daniel Lord drafted a fuller document, the Motion Picture Production Code, and the studios adopted it in 1930. Its general principle was that 'no picture shall be produced that will lower the moral standards of those who see it', and that the sympathy of the audience 'shall never be thrown to the side of crime, wrongdoing, evil or sin.'"
+        },
+        {
+          "type": "p",
+          "text": "The Code had rules about almost everything: adultery could not be shown as attractive, crime had to be punished, ministers could not be comic villains, and 'sex perversion or any inference to it' was forbidden, which meant gay and lesbian characters. It also banned 'miscegenation', meaning romantic relationships between white and Black characters, which tells you that the Code protected racial segregation as well as sexual morals. But in 1930 the Code had no teeth. It was administered by a small Studio Relations Committee, led first by Jason Joy and then James Wingate, which could advise and negotiate but could not stop a studio from releasing a film."
+        }
+      ]
+    },
+    {
+      "id": "sound-depression",
+      "kicker": "Why then",
+      "title": "Sound, the Depression and a struggle for audiences",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Two big changes explain why the films of 1930 to 1934 were so bold. The first was sound. After The Jazz Singer in October 1927, studios rushed to make talking pictures, and dialogue made everything sharper. A silent film could suggest sex with a look; a talkie could make a joke about it, and audiences heard the joke. Writers from Broadway and newspapers came to Hollywood and brought fast, cynical talk with them."
+        },
+        {
+          "type": "p",
+          "text": "The second change was the Great Depression. After the stock market crash of October 1929, cinema attendance at first held up, then fell sharply in the early 1930s. Paramount went into receivership in 1933, RKO and Fox were in serious trouble, and Warner Bros. lost money. Studios competed for a smaller audience with what sold: sex, crime, violence and stories about people who had lost faith in banks, police and government. Many critics have argued that the films were bold partly because the audience was angry, and the studios gave them heroes who broke rules that seemed to have failed anyway."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Fallen women and kept women. Stories about women who use sex to get money, jobs or status, often without being punished at the end.",
+            "Gangster films. Little Caesar (1931), The Public Enemy (1931) and Scarface (1932) made criminals into charismatic, modern heroes, even when they died at the end.",
+            "Social problem films. Warner Bros. made films about chain gangs, corrupt banks, homeless children and unemployed veterans, taken from the headlines.",
+            "Horror. Universal's Dracula and Frankenstein (both 1931) and Paramount's Island of Lost Souls (1932) showed violence and bodily horror that later films could only suggest.",
+            "Sophisticated comedy and musicals. Ernst Lubitsch's comedies and Busby Berkeley's dance numbers treated sex as something adult and funny."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "kicker": "Deep dive",
+      "title": "Complicated women: what pre-Code films let women do",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The most interesting thing about pre-Code Hollywood for a feminist history is how many films were about women who wanted money, work and sex, and said so. The critic Mick LaSalle called his 2000 book on the period Complicated Women, and his argument is that the women of 1930 to 1934 were allowed to be ambitious, angry, adulterous and funny in ways that would not return to American films for decades."
+        },
+        {
+          "type": "p",
+          "text": "Norma Shearer won the Academy Award for Best Actress for The Divorcee (1930). She plays a wife who discovers her husband's affair, and when he says it meant nothing, she has an affair of her own and tells him she has 'balanced their accounts'. The film still ends with a reconciliation, but it treats her anger and her desire as reasonable. In Night Nurse (1931), directed by William Wellman, Barbara Stanwyck and Joan Blondell play nurses who undress in front of the camera, joke with each other, and uncover a plot to starve two children for their inheritance, while the police are useless. In Female (1933), Ruth Chatterton runs a car company and treats her male employees the way male bosses in films treated secretaries."
+        },
+        {
+          "type": "p",
+          "text": "Baby Face (1933) is the clearest example. Stanwyck plays Lily Powers, whose father has made her serve men in his speakeasy in a Pennsylvania steel town since she was a teenager. After he dies, an old cobbler who reads Nietzsche to her tells her to use men instead of letting them use her. She goes to New York and sleeps her way upward through a bank, department by department, and the camera literally climbs the outside of the building as she rises. New York's state censors demanded changes before the film could be released, Warner Bros. reshot the ending and cut lines, and the softer version was the one most people saw for seventy years. In 2004 a print of the original version was found at the Library of Congress, and it is now the one usually shown."
+        },
+        {
+          "type": "p",
+          "text": "Jean Harlow, in Red-Headed Woman (1932), written by Anita Loos, plays a secretary who seduces her married boss, breaks up his marriage, and at the end is not punished but riding happily in a car with a new rich man and his chauffeur. Marlene Dietrich, working with Josef von Sternberg at Paramount, played singers and adventuresses who controlled their own desire: in Morocco (1930) she wears a man's tuxedo and kisses a woman in the audience, and in Shanghai Express (1932) she plays a famous courtesan who says, 'It took more than one man to change my name to Shanghai Lily.'"
+        },
+        {
+          "type": "p",
+          "text": "Mae West was something else. She had already been jailed in 1927 for her Broadway play Sex, sentenced to ten days and released after eight. In Hollywood she wrote most of her own dialogue. She Done Him Wrong (1933), adapted from her play Diamond Lil, and I'm No Angel (1933), both with Cary Grant, were among Paramount's biggest hits at a time when the studio was in receivership. West's characters are never punished for liking men; they are in charge of every scene. She was also one of the main reasons Catholic campaigners believed the Code had to be enforced."
+        },
+        {
+          "type": "p",
+          "text": "Behind the camera, women had less room than in the silent era, but they were there. Dorothy Arzner was the only woman directing features in Hollywood through most of the 1930s. Her pre-Code films include Working Girls (1931), Merrily We Go to Hell (1932), about a woman married to an alcoholic, and Christopher Strong (1933), with Katharine Hepburn as an aviator who must choose between her work and a married lover. Feminist critics in the 1970s, such as Claire Johnston and Pam Cook, returned to Arzner's films to show how a woman could work inside the studio system and still question it, which connects this lesson to the one on feminist film theory. Screenwriters such as Frances Marion, who won Academy Awards for The Big House (1930) and The Champ (1931), and Anita Loos also wrote many of the period's films."
+        },
+        {
+          "type": "p",
+          "text": "It is important not to romanticise these films. Many of them still end with the bold woman punished, married or dead, and the freedom they show is mostly for white women; Black actors were nearly always servants, and Chinese characters were usually played by white actors in makeup. Anna May Wong, the leading Chinese American actress, plays a courtesan beside Dietrich in Shanghai Express and has one of its strongest roles, but she was repeatedly passed over for leading Chinese parts that went to white actors. The pre-Code era was freer, not fair."
+        }
+      ]
+    },
+    {
+      "id": "men-crime",
+      "kicker": "Crime and despair",
+      "title": "Gangsters, chain gangs and forgotten men",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The gangster film was the other great pre-Code genre. Prohibition, which lasted from 1920 to 1933, had made bootleggers rich and famous, and newspapers covered Al Capone like a celebrity. In Little Caesar (1931), Edward G. Robinson plays Rico, a small-time hood who rises and falls; his last line is 'Mother of mercy, is this the end of Rico?' In The Public Enemy (1931), directed by William Wellman, James Cagney pushes half a grapefruit into Mae Clarke's face at breakfast, a scene that became famous because it was so casually cruel. Scarface (1932), produced by Howard Hughes and directed by Howard Hawks, with Paul Muni as a character based on Capone, was so violent that censors held up its release for about a year; the studio added the subtitle 'The Shame of the Nation', a prologue condemning gangsters, and an alternative ending."
+        },
+        {
+          "type": "p",
+          "text": "Warner Bros. also made social problem films. I Am a Fugitive from a Chain Gang (1932), directed by Mervyn LeRoy and based on Robert Elliott Burns's account of his own escape from a Georgia chain gang, follows a First World War veteran who is unjustly convicted, brutally treated, and escapes twice. In the last scene his girlfriend asks how he lives. He answers from the darkness, 'I steal', and disappears. Heroes for Sale and Wild Boys of the Road (both 1933, both directed by Wellman) followed veterans and teenagers riding freight trains in search of work."
+        },
+        {
+          "type": "p",
+          "text": "Even the musicals carried the Depression. In Gold Diggers of 1933, Busby Berkeley's last number, 'Remember My Forgotten Man', shows soldiers marching off to war and coming back to bread lines, with Joan Blondell singing for the veterans the country had abandoned. 42nd Street (1933) is about a Broadway show put together by people desperate for work. Berkeley's overhead shots of dozens of chorus girls forming patterns are also, of course, a festival of legs, which is part of why the Code's supporters disliked them."
+        }
+      ]
+    },
+    {
+      "id": "crackdown",
+      "kicker": "The break",
+      "title": "1933 to 1934: the Legion of Decency and Joseph Breen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "By 1933 pressure was building from several directions. The Payne Fund Studies, a group of social science studies of how films affected children, were published that year, and a popular summary by Henry James Forman, Our Movie Made Children, presented them as proof that films taught crime and sex. Women's clubs, Protestant groups and newspapers complained about Mae West and gangster films. But the decisive force was the Catholic Church."
+        },
+        {
+          "type": "p",
+          "text": "In October 1933 the Apostolic Delegate to the United States, Amleto Giovanni Cicognani, called on American Catholics, in a speech in New York, to unite against what he called the growing immorality of films. The American bishops formed the Legion of Decency, which asked Catholics to sign a pledge to stay away from immoral films; millions did. In June 1934 Cardinal Dennis Dougherty of Philadelphia told Catholics in his diocese to boycott all films. Studios that were already in financial trouble could not afford to lose a large part of their audience in big cities."
+        },
+        {
+          "type": "p",
+          "text": "The studios gave in. In June 1934 the MPPDA created the Production Code Administration (PCA), headed by Joseph Breen, a Catholic journalist and publicist who had worked on the Code's enforcement since 1933. From July 1934 every film made or distributed by member companies needed a PCA certificate, and a company that released a film without one faced a $25,000 fine. Because the big studios also owned most of the important cinemas, a film without a seal had almost nowhere to play. Breen read scripts before shooting, demanded changes, and checked the finished films. The Code that had existed since 1930 was now enforced."
+        },
+        {
+          "type": "p",
+          "text": "The effects were immediate. Married couples in films were now usually shown sleeping in separate twin beds. Mae West's films were rewritten until her jokes lost their edge. Tarzan and His Mate (1934) lost its underwater swimming scene with Maureen O'Sullivan's stand-in nude. Some earlier films were refused approval for reissue; Trouble in Paradise was not approved in 1935 and was not seen again until 1968. Betty Boop, the Fleischer studio's flirtatious cartoon character, got longer skirts and became a more homely career girl. Stories about adultery or crime now needed what Breen called 'compensating moral values': the sinner must suffer, the criminal must be caught."
+        },
+        {
+          "type": "question",
+          "text": "The Code did not stop Hollywood from making films about sex, crime and ambition. It changed how they had to be told: indirectly, with a punishment at the end. Film noir and screwball comedy both grew up under those rules, and many critics think the restrictions made writers cleverer. Others see mainly the loss: women's desire and anger, gay characters and honest stories about race disappeared or went underground for decades. Which side do you find more convincing? Think of a modern rule about what can be shown, such as platform content rules or advertising codes you work with. Does it make creative work sharper, or does it mostly make it narrower?"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "kicker": "Elsewhere",
+      "title": "What was happening in Shanghai, Berlin, Tokyo and Taipei",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Shanghai in the early 1930s had its own golden age of cinema, centred on the Lianhua and Mingxing studios and a left-wing film movement that made films about workers, poverty and women's lives. The Nationalist government also had a censorship board, which banned films it considered politically dangerous or superstitious. Ruan Lingyu, the biggest star of Chinese silent film, played a mother who sells sex to pay for her son's education in The Goddess (1934), directed by Wu Yonggang, and a writer pushed to suicide by gossip in Cai Chusheng's New Women (1935). The tabloids then attacked her private life, and Ruan killed herself on 8 March 1935, International Women's Day, at the age of twenty-four. So in the same years when Hollywood was punishing its bold women on screen, Shanghai cinema was showing women as victims of a cruel society, and the press destroyed its greatest actress. The Shanghai modernism lesson on Eileen Chang covers the same city a few years later."
+        },
+        {
+          "type": "p",
+          "text": "In Germany, the last years of the Weimar Republic produced Fritz Lang's M (1931), about a child murderer hunted by the police and the criminal underworld, and Leontine Sagan's Mädchen in Uniform (1931), a story of love between a schoolgirl and a teacher with an almost entirely female cast. After the Nazis took power in January 1933, Joseph Goebbels's ministry set up the Reich Film Chamber, Jewish filmmakers were pushed out, and many, including Lang, left for Hollywood, where some of them later helped create film noir. In the Soviet Union, socialist realism became the official doctrine in 1934, the same year as Hollywood's crackdown."
+        },
+        {
+          "type": "p",
+          "text": "In Japan, the early 1930s were the last years of silent film, with narrators called benshi still performing live beside the screen. Yasujirō Ozu made I Was Born, But... (1932), a gentle comedy about two boys who are ashamed that their father bows to his boss, and Kenji Mizoguchi was beginning his long series of films about women's suffering. In Taiwan under Japanese rule, films were also shown with live narrators, called 辯士 in Chinese. When the Shanghai film 桃花泣血記 (Peach Blossom Weeps Tears of Blood, 1931), starring Ruan Lingyu, opened in Taiwan in 1932, a promotional song with the same name, written by 詹天馬 and 王雲峰, became one of the first popular Taiwanese-language hit songs. Hollywood, Shanghai and Taipei were connected through the same films and stars."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Thirty-four years of the Code, and its return to view",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The enforced Code lasted much longer than the pre-Code years it replaced. Will Hays retired in 1945 and Joseph Breen in 1954. Two changes weakened the system. In 1948 the Supreme Court's Paramount decision forced the studios to sell their cinema chains, so a film without a seal could again find screens. In 1952 the Court ruled in Joseph Burstyn, Inc. v. Wilson, a case about Roberto Rossellini's The Miracle, that films were protected by the First Amendment after all, reversing the 1915 decision. Otto Preminger released The Moon Is Blue (1953) and The Man with the Golden Arm (1955) without seals, and Billy Wilder's Some Like It Hot (1959) was also released without one. All three made money."
+        },
+        {
+          "type": "p",
+          "text": "The Code was rewritten in 1966, and on 1 November 1968 the Motion Picture Association of America replaced it with a ratings system. That opened the door to the New Hollywood of the late 1960s and 1970s, which is covered in its own lesson."
+        },
+        {
+          "type": "p",
+          "text": "The phrase 'pre-Code' became common only much later, when television showings, repertory cinemas and, in the 1990s and 2000s, home-video collections such as Turner Classic Movies' Forbidden Hollywood series rediscovered the films. Thomas Doherty's 1999 book Pre-Code Hollywood and Mick LaSalle's Complicated Women made the case that this short period was one of the most honest in American film about sex, money and power. For a viewer today, the best way in is simple: watch Baby Face, Night Nurse and She Done Him Wrong, then watch a 1940s film with the same kind of heroine, and notice what the second one is no longer allowed to say."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Pre-Code Hollywood",
+      "aliases": [
+        "pre-Code",
+        "pre-Code era"
+      ],
+      "explain": "The period in American cinema from the arrival of sound, around 1929, to July 1934, when the Production Code existed but was not strictly enforced."
+    },
+    {
+      "term": "Motion Picture Production Code",
+      "aliases": [
+        "Production Code",
+        "the Code",
+        "Hays Code"
+      ],
+      "explain": "The set of moral rules for American films adopted by the studios in 1930, strictly enforced from 1934 and replaced by a ratings system in 1968."
+    },
+    {
+      "term": "Mutual Film Corporation v. Industrial Commission of Ohio",
+      "aliases": [
+        "Mutual Film"
+      ],
+      "explain": "The 1915 US Supreme Court decision that films were a business and not protected speech, allowing state and local censorship."
+    },
+    {
+      "term": "Roscoe 'Fatty' Arbuckle",
+      "aliases": [
+        "Arbuckle"
+      ],
+      "explain": "Silent comedy star (1887–1933) whose 1921 manslaughter trials, ending in acquittal, became one of Hollywood's first great scandals."
+    },
+    {
+      "term": "William Desmond Taylor",
+      "aliases": [],
+      "explain": "Film director whose unsolved murder in 1922 added to Hollywood's scandalous reputation."
+    },
+    {
+      "term": "MPPDA",
+      "aliases": [
+        "Motion Picture Producers and Distributors of America"
+      ],
+      "explain": "The studios' trade association, formed in 1922 and led by Will Hays; later renamed the Motion Picture Association of America (MPAA)."
+    },
+    {
+      "term": "Will H. Hays",
+      "aliases": [
+        "Will Hays",
+        "Hays"
+      ],
+      "explain": "Former US Postmaster General (1879–1954) who led the studios' trade association from 1922 to 1945; the Code was popularly named after him."
+    },
+    {
+      "term": "Hays Office",
+      "aliases": [],
+      "explain": "The popular name for the MPPDA and its censorship operations."
+    },
+    {
+      "term": "Don'ts and Be Carefuls",
+      "aliases": [],
+      "explain": "A 1927 list from the Hays office of eleven subjects films should never show and twenty-five to treat with care."
+    },
+    {
+      "term": "Martin Quigley",
+      "aliases": [
+        "Quigley"
+      ],
+      "explain": "Catholic publisher of the trade paper Motion Picture Herald who co-wrote the Production Code."
+    },
+    {
+      "term": "Daniel Lord",
+      "aliases": [],
+      "explain": "American Jesuit priest who drafted much of the Production Code's text in 1929."
+    },
+    {
+      "term": "Studio Relations Committee",
+      "aliases": [],
+      "explain": "The weak office that advised studios on the Code from 1930 to 1934, led by Jason Joy and then James Wingate."
+    },
+    {
+      "term": "Jason Joy",
+      "aliases": [],
+      "explain": "Head of the Studio Relations Committee in the early 1930s."
+    },
+    {
+      "term": "James Wingate",
+      "aliases": [],
+      "explain": "Former New York censor who succeeded Jason Joy at the Studio Relations Committee in 1932."
+    },
+    {
+      "term": "compensating moral values",
+      "aliases": [],
+      "explain": "Breen's principle that a film showing sin or crime must also show punishment, regret or reform."
+    },
+    {
+      "term": "The Jazz Singer",
+      "aliases": [],
+      "explain": "The 1927 Warner Bros. film with synchronised songs and dialogue that began the move to sound films."
+    },
+    {
+      "term": "Great Depression",
+      "aliases": [
+        "Depression"
+      ],
+      "explain": "The worldwide economic collapse that followed the 1929 stock market crash."
+    },
+    {
+      "term": "Prohibition",
+      "aliases": [],
+      "explain": "The national ban on alcohol in the United States from 1920 to 1933, which made organised crime rich."
+    },
+    {
+      "term": "Al Capone",
+      "aliases": [
+        "Capone"
+      ],
+      "explain": "Chicago gangster of the Prohibition era who inspired Scarface."
+    },
+    {
+      "term": "Paramount",
+      "aliases": [],
+      "explain": "Hollywood studio that went into receivership in 1933 and was home to Mae West, Marlene Dietrich and Ernst Lubitsch."
+    },
+    {
+      "term": "Warner Bros.",
+      "aliases": [],
+      "explain": "The studio of The Jazz Singer, gangster films, social problem films and Busby Berkeley musicals."
+    },
+    {
+      "term": "Universal",
+      "aliases": [],
+      "explain": "The studio behind the 1931 Dracula and Frankenstein."
+    },
+    {
+      "term": "Mick LaSalle",
+      "aliases": [
+        "LaSalle"
+      ],
+      "explain": "San Francisco Chronicle film critic, author of Complicated Women (2000), about the women of pre-Code films."
+    },
+    {
+      "term": "Complicated Women",
+      "aliases": [],
+      "explain": "Mick LaSalle's 2000 book arguing that pre-Code films gave women their freest roles in Hollywood history."
+    },
+    {
+      "term": "Thomas Doherty",
+      "aliases": [
+        "Doherty"
+      ],
+      "explain": "American film historian, author of Pre-Code Hollywood (1999) and a biography of Joseph Breen."
+    },
+    {
+      "term": "Norma Shearer",
+      "aliases": [
+        "Shearer"
+      ],
+      "explain": "MGM star (1902–1983) who won the Best Actress Academy Award for The Divorcee."
+    },
+    {
+      "term": "The Divorcee",
+      "aliases": [],
+      "explain": "1930 MGM film in which a wife answers her husband's affair with one of her own."
+    },
+    {
+      "term": "Night Nurse",
+      "aliases": [],
+      "explain": "1931 Warner Bros. film directed by William Wellman, with Barbara Stanwyck, Joan Blondell and Clark Gable."
+    },
+    {
+      "term": "William Wellman",
+      "aliases": [
+        "Wellman"
+      ],
+      "explain": "American director (1896–1975) of The Public Enemy, Night Nurse, Heroes for Sale and Wild Boys of the Road."
+    },
+    {
+      "term": "Barbara Stanwyck",
+      "aliases": [
+        "Stanwyck"
+      ],
+      "explain": "American actress (1907–1990), star of Night Nurse and Baby Face, later of Double Indemnity."
+    },
+    {
+      "term": "Joan Blondell",
+      "aliases": [
+        "Blondell"
+      ],
+      "explain": "Warner Bros. actress (1906–1979) of Night Nurse and Gold Diggers of 1933."
+    },
+    {
+      "term": "Female",
+      "aliases": [],
+      "explain": "1933 film in which Ruth Chatterton runs a car company."
+    },
+    {
+      "term": "Ruth Chatterton",
+      "aliases": [
+        "Chatterton"
+      ],
+      "explain": "American stage and screen actress (1892–1961), a leading star of early talkies."
+    },
+    {
+      "term": "Baby Face",
+      "aliases": [],
+      "explain": "1933 Warner Bros. film starring Barbara Stanwyck as a woman who uses men to climb a bank's hierarchy; its uncut version was rediscovered in 2004."
+    },
+    {
+      "term": "Library of Congress",
+      "aliases": [],
+      "explain": "The US national library, which holds a large film archive and where the uncut Baby Face was found."
+    },
+    {
+      "term": "Jean Harlow",
+      "aliases": [
+        "Harlow"
+      ],
+      "explain": "MGM star (1911–1937) of Red-Headed Woman and Red Dust."
+    },
+    {
+      "term": "Red-Headed Woman",
+      "aliases": [],
+      "explain": "1932 MGM comedy, written by Anita Loos, about a secretary who breaks up her boss's marriage and goes unpunished."
+    },
+    {
+      "term": "Anita Loos",
+      "aliases": [
+        "Loos"
+      ],
+      "explain": "American writer (1889–1981) of Gentlemen Prefer Blondes and the screenplay of Red-Headed Woman."
+    },
+    {
+      "term": "Marlene Dietrich",
+      "aliases": [
+        "Dietrich"
+      ],
+      "explain": "German-born star (1901–1992) of The Blue Angel, Morocco, Blonde Venus and Shanghai Express."
+    },
+    {
+      "term": "Josef von Sternberg",
+      "aliases": [
+        "von Sternberg",
+        "Sternberg"
+      ],
+      "explain": "Austrian-American director (1894–1969) who made seven films with Dietrich."
+    },
+    {
+      "term": "Morocco",
+      "aliases": [],
+      "explain": "1930 Paramount film in which Dietrich, in a tuxedo, kisses a woman."
+    },
+    {
+      "term": "Shanghai Express",
+      "aliases": [],
+      "explain": "1932 von Sternberg film with Dietrich as Shanghai Lily and Anna May Wong."
+    },
+    {
+      "term": "Anna May Wong",
+      "aliases": [],
+      "explain": "The first Chinese American film star (1905–1961), often denied leading roles because of Hollywood's racism."
+    },
+    {
+      "term": "Mae West",
+      "aliases": [
+        "West"
+      ],
+      "explain": "American playwright and star (1893–1980) who wrote and performed bold, comic sexual dialogue."
+    },
+    {
+      "term": "Sex",
+      "aliases": [],
+      "explain": "Mae West's 1926 Broadway play, for which she was jailed in 1927."
+    },
+    {
+      "term": "She Done Him Wrong",
+      "aliases": [],
+      "explain": "1933 Paramount film starring Mae West and Cary Grant, based on her play Diamond Lil, nominated for Best Picture."
+    },
+    {
+      "term": "I'm No Angel",
+      "aliases": [],
+      "explain": "Mae West's second 1933 hit with Cary Grant."
+    },
+    {
+      "term": "Diamond Lil",
+      "aliases": [],
+      "explain": "Mae West's 1928 Broadway play, the source of She Done Him Wrong."
+    },
+    {
+      "term": "Cary Grant",
+      "aliases": [
+        "Grant"
+      ],
+      "explain": "English-born American actor (1904–1986), whose early career included two Mae West films."
+    },
+    {
+      "term": "Dorothy Arzner",
+      "aliases": [
+        "Arzner"
+      ],
+      "explain": "American director (1897–1979), the only woman directing Hollywood features through most of the 1930s."
+    },
+    {
+      "term": "Working Girls",
+      "aliases": [],
+      "explain": "1931 Dorothy Arzner film about two sisters working in New York."
+    },
+    {
+      "term": "Merrily We Go to Hell",
+      "aliases": [],
+      "explain": "1932 Dorothy Arzner film about a woman married to an alcoholic writer."
+    },
+    {
+      "term": "Christopher Strong",
+      "aliases": [],
+      "explain": "1933 Dorothy Arzner film with Katharine Hepburn as an aviator."
+    },
+    {
+      "term": "Katharine Hepburn",
+      "aliases": [
+        "Hepburn"
+      ],
+      "explain": "American actress (1907–2003), in only her second film with Christopher Strong."
+    },
+    {
+      "term": "Claire Johnston",
+      "aliases": [],
+      "explain": "British feminist film critic (1940–1987) who wrote on Dorothy Arzner and women's cinema."
+    },
+    {
+      "term": "Pam Cook",
+      "aliases": [],
+      "explain": "British feminist film scholar who wrote on Arzner with Claire Johnston."
+    },
+    {
+      "term": "Frances Marion",
+      "aliases": [],
+      "explain": "American screenwriter (1888–1973), winner of Academy Awards for The Big House and The Champ."
+    },
+    {
+      "term": "Little Caesar",
+      "aliases": [],
+      "explain": "1931 Warner Bros. gangster film starring Edward G. Robinson."
+    },
+    {
+      "term": "Edward G. Robinson",
+      "aliases": [
+        "Robinson"
+      ],
+      "explain": "Romanian-born American actor (1893–1973), star of Little Caesar."
+    },
+    {
+      "term": "The Public Enemy",
+      "aliases": [],
+      "explain": "1931 gangster film directed by William Wellman, starring James Cagney."
+    },
+    {
+      "term": "James Cagney",
+      "aliases": [
+        "Cagney"
+      ],
+      "explain": "American actor (1899–1986) who became a star in The Public Enemy."
+    },
+    {
+      "term": "Mae Clarke",
+      "aliases": [],
+      "explain": "American actress (1910–1992), remembered for the grapefruit scene in The Public Enemy."
+    },
+    {
+      "term": "Scarface",
+      "aliases": [],
+      "explain": "1932 gangster film produced by Howard Hughes and directed by Howard Hawks, held back by censors."
+    },
+    {
+      "term": "Howard Hughes",
+      "aliases": [],
+      "explain": "American businessman, aviator and film producer (1905–1976) who produced Scarface."
+    },
+    {
+      "term": "Howard Hawks",
+      "aliases": [
+        "Hawks"
+      ],
+      "explain": "American director (1896–1977) of Scarface and many later comedies and westerns."
+    },
+    {
+      "term": "Paul Muni",
+      "aliases": [
+        "Muni"
+      ],
+      "explain": "American actor (1895–1967), star of Scarface and I Am a Fugitive from a Chain Gang."
+    },
+    {
+      "term": "I Am a Fugitive from a Chain Gang",
+      "aliases": [],
+      "explain": "1932 Warner Bros. film directed by Mervyn LeRoy, based on Robert Elliott Burns's account."
+    },
+    {
+      "term": "Mervyn LeRoy",
+      "aliases": [
+        "LeRoy"
+      ],
+      "explain": "American director (1900–1987) of Little Caesar and I Am a Fugitive from a Chain Gang."
+    },
+    {
+      "term": "Robert Elliott Burns",
+      "aliases": [],
+      "explain": "First World War veteran (1890–1955) who escaped a Georgia chain gang and wrote about it."
+    },
+    {
+      "term": "Heroes for Sale",
+      "aliases": [],
+      "explain": "1933 Wellman film about a wounded veteran in the Depression."
+    },
+    {
+      "term": "Wild Boys of the Road",
+      "aliases": [],
+      "explain": "1933 Wellman film about teenagers riding freight trains in search of work."
+    },
+    {
+      "term": "Dracula",
+      "aliases": [],
+      "explain": "1931 Universal horror film starring Bela Lugosi."
+    },
+    {
+      "term": "Frankenstein",
+      "aliases": [],
+      "explain": "1931 Universal horror film directed by James Whale, starring Boris Karloff."
+    },
+    {
+      "term": "Island of Lost Souls",
+      "aliases": [],
+      "explain": "1932 Paramount horror film based on H. G. Wells's The Island of Doctor Moreau."
+    },
+    {
+      "term": "Freaks",
+      "aliases": [],
+      "explain": "1932 MGM film directed by Tod Browning, cast with real circus performers."
+    },
+    {
+      "term": "Tod Browning",
+      "aliases": [],
+      "explain": "American director (1880–1962) of Dracula and Freaks."
+    },
+    {
+      "term": "Ernst Lubitsch",
+      "aliases": [
+        "Lubitsch"
+      ],
+      "explain": "German-born director (1892–1947) known for elegant, witty sex comedies."
+    },
+    {
+      "term": "Trouble in Paradise",
+      "aliases": [],
+      "explain": "1932 Lubitsch comedy about two thieves, withheld from reissue after the Code was enforced."
+    },
+    {
+      "term": "Busby Berkeley",
+      "aliases": [
+        "Berkeley"
+      ],
+      "explain": "American choreographer and director (1895–1976) famous for kaleidoscopic dance numbers."
+    },
+    {
+      "term": "42nd Street",
+      "aliases": [],
+      "explain": "1933 Warner Bros. backstage musical with Busby Berkeley dance numbers."
+    },
+    {
+      "term": "Gold Diggers of 1933",
+      "aliases": [],
+      "explain": "1933 Warner Bros. musical ending with the number 'Remember My Forgotten Man'."
+    },
+    {
+      "term": "Payne Fund Studies",
+      "aliases": [],
+      "explain": "Social science studies of films' effects on children, published in 1933."
+    },
+    {
+      "term": "Our Movie Made Children",
+      "aliases": [],
+      "explain": "Henry James Forman's 1933 popular summary of the Payne Fund Studies."
+    },
+    {
+      "term": "Henry James Forman",
+      "aliases": [],
+      "explain": "American writer who summarised the Payne Fund Studies for general readers."
+    },
+    {
+      "term": "Amleto Cicognani",
+      "aliases": [
+        "Cicognani"
+      ],
+      "explain": "Apostolic Delegate to the United States (1883–1973) whose 1933 speech launched the Catholic campaign."
+    },
+    {
+      "term": "Legion of Decency",
+      "aliases": [],
+      "explain": "Catholic organisation founded in 1933–1934 that asked Catholics to pledge to avoid immoral films and later rated films."
+    },
+    {
+      "term": "Dennis Dougherty",
+      "aliases": [
+        "Dougherty"
+      ],
+      "explain": "Cardinal Archbishop of Philadelphia (1865–1951), who called for a boycott of all films in 1934."
+    },
+    {
+      "term": "Production Code Administration",
+      "aliases": [
+        "PCA"
+      ],
+      "explain": "The office created in 1934 that approved every film before release and enforced the Code."
+    },
+    {
+      "term": "Joseph Breen",
+      "aliases": [
+        "Breen"
+      ],
+      "explain": "Catholic journalist and publicist (1888–1965) who headed the Production Code Administration from 1934 to 1954."
+    },
+    {
+      "term": "Tarzan and His Mate",
+      "aliases": [],
+      "explain": "1934 MGM film whose nude underwater swimming scene was cut under the enforced Code."
+    },
+    {
+      "term": "Betty Boop",
+      "aliases": [],
+      "explain": "Fleischer Studios cartoon character whose flirtatious image was toned down after 1934."
+    },
+    {
+      "term": "film noir",
+      "aliases": [
+        "noir"
+      ],
+      "explain": "The dark crime films of the 1940s and 1950s, which grew up under the Code."
+    },
+    {
+      "term": "Lianhua",
+      "aliases": [],
+      "explain": "Shanghai film studio founded in 1930, home of Ruan Lingyu and many left-wing films."
+    },
+    {
+      "term": "Ruan Lingyu",
+      "aliases": [
+        "阮玲玉",
+        "Ruan"
+      ],
+      "explain": "Chinese silent film star (1910–1935) of The Goddess and New Women."
+    },
+    {
+      "term": "The Goddess",
+      "aliases": [
+        "神女"
+      ],
+      "explain": "1934 Shanghai silent film directed by Wu Yonggang about a mother forced into sex work."
+    },
+    {
+      "term": "Wu Yonggang",
+      "aliases": [],
+      "explain": "Chinese director (1907–1982) of The Goddess."
+    },
+    {
+      "term": "New Women",
+      "aliases": [
+        "新女性"
+      ],
+      "explain": "1935 film directed by Cai Chusheng, starring Ruan Lingyu as a writer driven to suicide."
+    },
+    {
+      "term": "Cai Chusheng",
+      "aliases": [],
+      "explain": "Chinese left-wing director (1906–1968) of New Women."
+    },
+    {
+      "term": "M",
+      "aliases": [],
+      "explain": "Fritz Lang's 1931 German film about the hunt for a child murderer."
+    },
+    {
+      "term": "Fritz Lang",
+      "aliases": [
+        "Lang"
+      ],
+      "explain": "Austrian-German director (1890–1976) of Metropolis and M, who later worked in Hollywood."
+    },
+    {
+      "term": "Mädchen in Uniform",
+      "aliases": [],
+      "explain": "1931 German film directed by Leontine Sagan about love between a schoolgirl and her teacher."
+    },
+    {
+      "term": "Leontine Sagan",
+      "aliases": [],
+      "explain": "Austrian-born director (1889–1974) of Mädchen in Uniform."
+    },
+    {
+      "term": "Reich Film Chamber",
+      "aliases": [],
+      "explain": "The Nazi body set up in 1933 to control the German film industry."
+    },
+    {
+      "term": "socialist realism",
+      "aliases": [],
+      "explain": "The official Soviet artistic doctrine from 1934, requiring art to show socialist progress."
+    },
+    {
+      "term": "benshi",
+      "aliases": [
+        "辯士"
+      ],
+      "explain": "Live narrators who explained and voiced silent films in Japan and Taiwan."
+    },
+    {
+      "term": "Yasujirō Ozu",
+      "aliases": [
+        "Ozu"
+      ],
+      "explain": "Japanese director (1903–1963) of I Was Born, But... and Tokyo Story."
+    },
+    {
+      "term": "I Was Born, But...",
+      "aliases": [],
+      "explain": "Ozu's 1932 silent comedy about two boys and their father's boss."
+    },
+    {
+      "term": "Kenji Mizoguchi",
+      "aliases": [
+        "Mizoguchi"
+      ],
+      "explain": "Japanese director (1898–1956) known for films about women's suffering."
+    },
+    {
+      "term": "桃花泣血記",
+      "aliases": [
+        "Peach Blossom Weeps Tears of Blood"
+      ],
+      "explain": "A 1931 Shanghai film starring Ruan Lingyu whose 1932 Taiwanese promotional song became an early Taiwanese-language hit."
+    },
+    {
+      "term": "Paramount decision",
+      "aliases": [],
+      "explain": "The 1948 Supreme Court antitrust ruling that forced studios to sell their cinema chains."
+    },
+    {
+      "term": "Joseph Burstyn, Inc. v. Wilson",
+      "aliases": [
+        "Miracle decision"
+      ],
+      "explain": "The 1952 Supreme Court ruling that films are protected by the First Amendment."
+    },
+    {
+      "term": "Otto Preminger",
+      "aliases": [
+        "Preminger"
+      ],
+      "explain": "Austrian-American director (1905–1986) who released films without Code approval in the 1950s."
+    },
+    {
+      "term": "The Moon Is Blue",
+      "aliases": [],
+      "explain": "Preminger's 1953 comedy, released without a Code seal."
+    },
+    {
+      "term": "Some Like It Hot",
+      "aliases": [],
+      "explain": "Billy Wilder's 1959 comedy, released without a Code seal."
+    },
+    {
+      "term": "MPAA rating system",
+      "aliases": [
+        "ratings system"
+      ],
+      "explain": "The film rating system introduced on 1 November 1968 to replace the Production Code."
+    },
+    {
+      "term": "Forbidden Hollywood",
+      "aliases": [],
+      "explain": "Turner Classic Movies' home-video series of pre-Code films."
+    }
+  ]
+}
