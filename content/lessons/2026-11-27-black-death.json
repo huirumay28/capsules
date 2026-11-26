@@ -1,0 +1,890 @@
+{
+  "slug": "black-death",
+  "date": "2026-11-27",
+  "subject": "history",
+  "related": [
+    "an-lushan-rebellion",
+    "taiping-rebellion",
+    "paris-commune",
+    "russian-revolution-1917",
+    "heian-womens-writing",
+    "dutch-formosa-koxinga"
+  ],
+  "title": "The Black Death, 1346–1353: the great mortality and the world it left behind",
+  "dek": "In about seven years a single disease killed somewhere between a third and a half of the people of Europe, the Middle East and North Africa. This lesson follows the plague from Central Asia to the Atlantic and asks how the survivors rebuilt work, faith and power.",
+  "era": "1346–1353 (context: c. 1300–1400)",
+  "reading_minutes": 25,
+  "honesty": "Nobody counted the dead of the Black Death. Medieval chroniclers often gave round or exaggerated numbers, and modern estimates are built from tax records, manorial rolls, clergy lists and archaeology, so death rates in this lesson are given as ranges. Most of the detailed evidence comes from Europe and the Islamic Mediterranean; whether the plague also struck China and India in the 1340s is still uncertain, and the lesson says so rather than guessing. Some famous stories, such as the Mongols catapulting corpses into Caffa, come from writers who were not present and are flagged as such.",
+  "timeline": [
+    {
+      "year": "c. 1315–1322",
+      "label": "The Great Famine",
+      "detail": "Years of cold, wet weather ruin harvests across northern Europe. Millions die, and the population that the plague will meet is already poor and crowded."
+    },
+    {
+      "year": "1338–1339",
+      "label": "Graves near Lake Issyk-Kul",
+      "detail": "Gravestones in two Christian cemeteries in today's Kyrgyzstan record deaths from 'pestilence'. Ancient DNA published in 2022 shows the victims carried Yersinia pestis."
+    },
+    {
+      "year": "1346",
+      "label": "Siege of Caffa",
+      "detail": "The Golden Horde under Jani Beg besieges the Genoese trading port of Caffa in Crimea. Plague breaks out in the besieging army."
+    },
+    {
+      "year": "1347",
+      "label": "Constantinople and Messina",
+      "detail": "Plague reaches Constantinople in the spring and arrives at Messina in Sicily on Genoese galleys in the autumn, then Alexandria and Marseille."
+    },
+    {
+      "year": "1348",
+      "label": "Italy, France, Spain, England",
+      "detail": "Florence, Venice, Avignon, Paris and Barcelona are struck. Plague lands at Melcombe in Dorset in June and reaches London by the autumn. It also devastates Cairo, Damascus and Tunis."
+    },
+    {
+      "year": "1348",
+      "label": "Clement VI's bulls",
+      "detail": "In July and September Pope Clement VI, in Avignon, issues bulls condemning the killing of Jews, pointing out that Jews were dying of plague too."
+    },
+    {
+      "year": "14 Feb 1349",
+      "label": "Strasbourg massacre",
+      "detail": "The city council that tried to protect the Jews is overthrown, and the Jewish community is burned in its cemetery. Many other Rhineland and German communities are destroyed in 1349."
+    },
+    {
+      "year": "1349",
+      "label": "Flagellants and the north",
+      "detail": "Processions of flagellants march through German towns until Clement VI condemns them in October. Plague reaches Norway, Scotland and Ireland."
+    },
+    {
+      "year": "1349 and 1351",
+      "label": "English labour laws",
+      "detail": "The Ordinance of Labourers (1349) and the Statute of Labourers (1351) try to freeze wages at pre-plague levels."
+    },
+    {
+      "year": "1349–1353",
+      "label": "Boccaccio's Decameron",
+      "detail": "Giovanni Boccaccio writes his hundred stories framed by ten young Florentines escaping the plague."
+    },
+    {
+      "year": "1350",
+      "label": "A king dies",
+      "detail": "Alfonso XI of Castile dies of plague while besieging Gibraltar."
+    },
+    {
+      "year": "1351–1353",
+      "label": "Russia",
+      "detail": "The plague crosses into the Russian principalities. Grand Prince Simeon of Moscow dies of it in 1353."
+    },
+    {
+      "year": "1358",
+      "label": "The Jacquerie",
+      "detail": "A peasant revolt breaks out north of Paris during the Hundred Years' War and is crushed within weeks."
+    },
+    {
+      "year": "1361",
+      "label": "The second plague",
+      "detail": "Plague returns. Chroniclers note that it killed many children and young people born since 1348. Further outbreaks follow every decade or so."
+    },
+    {
+      "year": "1377",
+      "label": "Ragusa's isolation rule",
+      "detail": "The Adriatic city of Ragusa (Dubrovnik) orders arrivals from plague areas to wait thirty days before entering, an early form of quarantine."
+    },
+    {
+      "year": "1378",
+      "label": "Revolt of the Ciompi",
+      "detail": "Florence's wool workers seize the city government for several weeks."
+    },
+    {
+      "year": "1381",
+      "label": "The Peasants' Revolt",
+      "detail": "Triggered by a poll tax, rebels from Essex and Kent enter London. Wat Tyler is killed at Smithfield and the revolt collapses."
+    },
+    {
+      "year": "1423",
+      "label": "Venice's lazaretto",
+      "detail": "Venice opens a permanent plague hospital on an island in its lagoon, a model copied across Europe."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "A crowded, hungry world",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Around the year 1300 Europe was fuller than it had ever been. The population had perhaps doubled or more since 1000, forests had been cleared for farms, and new towns had been founded across the continent. Cities such as Florence, Venice, Paris and Ghent held tens of thousands of people. Most Europeans, however, were peasants who worked small plots of land and owed rent, labour or both to a lord. Many families lived close to the edge of survival."
+        },
+        {
+          "type": "p",
+          "text": "That margin was tested early in the century. From 1315 to about 1322 cold, wet weather ruined harvests across northern Europe in what historians call the Great Famine, and a cattle disease followed. Millions died. At the same time the long war between England and France, later called the Hundred Years' War, began in 1337, and the English victory at Crécy in 1346 came in the same year the plague first appeared on the edge of Europe."
+        },
+        {
+          "type": "p",
+          "text": "The thirteenth and early fourteenth centuries were also an age of connection. The Mongol conquests had created a chain of empires across Asia, and merchants from Genoa and Venice traded at ports on the Black Sea that linked the Mediterranean to the overland routes to Central Asia, Persia and China. Goods, soldiers, pilgrims and grain moved along these routes, and so did the rodents and fleas that carry plague."
+        }
+      ]
+    },
+    {
+      "id": "disease",
+      "kicker": "The disease",
+      "title": "What the plague was and how it spread",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Black Death was plague, a disease caused by the bacterium Yersinia pestis. This was argued for a century but is now settled: in 2011 a team led by Kirsten Bos and Johannes Krause published a reconstructed genome of the bacterium taken from skeletons in the East Smithfield plague cemetery in London, which was dug in 1348–1349. Plague normally lives among wild rodents such as marmots and gerbils, and passes between them through fleas. When it spills into rats living near people, or into people directly, it can cause an epidemic."
+        },
+        {
+          "type": "p",
+          "text": "Plague takes several forms. In bubonic plague the bacteria travel to the lymph nodes, which swell into painful lumps called buboes in the groin, armpit or neck; without modern antibiotics a large share of victims die within about a week. In pneumonic plague the lungs are infected, and the disease can pass from person to person through coughing; it is almost always fatal. Septicaemic plague, an infection of the blood, kills very quickly. The papal physician Guy de Chauliac, who caught the disease in Avignon and survived, described two forms in 1348: one with continuous fever and spitting of blood that killed in about three days, and one with swellings that killed in about five."
+        },
+        {
+          "type": "p",
+          "text": "Where the plague began is still being studied. In 2022 a team led by Maria Spyrou and Johannes Krause published DNA from people buried in 1338 and 1339 in two cemeteries near Lake Issyk-Kul in today's Kyrgyzstan, whose gravestones mention 'pestilence'. Their bacteria sit at the root of the strains that later spread across Europe, which suggests the Black Death's ancestor came from this region of the Tian Shan mountains."
+        },
+        {
+          "type": "p",
+          "text": "How it moved so fast is also debated. The traditional explanation is black rats and their fleas travelling on ships and in grain stores. Some researchers have argued that human fleas and body lice also passed the disease directly between people, which would help explain how it spread through cities so quickly. Most historians now think several routes worked at once, and that the plague moved along the same roads, rivers and sea lanes that carried trade."
+        }
+      ]
+    },
+    {
+      "id": "spread",
+      "kicker": "1346–1353",
+      "title": "From Caffa to the Atlantic",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1346 the army of the Golden Horde, the Mongol state that ruled the steppe north of the Black Sea, was besieging the Genoese port of Caffa (today Feodosia in Crimea) when plague broke out among the soldiers. The Italian notary Gabriele de' Mussi later wrote that the Mongols catapulted dead bodies over the walls to infect the town. De' Mussi was in Piacenza, not Caffa, and historians treat his story with caution. Whatever happened at the walls, Italian ships leaving the Black Sea carried plague with them."
+        },
+        {
+          "type": "p",
+          "text": "By the spring of 1347 the plague was in Constantinople. In October Genoese galleys brought it to Messina in Sicily, and over the winter it reached Alexandria, Genoa, Pisa, Venice and Marseille. In 1348 it swept through Italy, southern France, Spain and the Islamic Mediterranean, and moved north to Paris, the Low Countries and England, where it landed at the Dorset port of Melcombe in June. In 1349 it crossed to Ireland, Scotland and Norway, where a ship from England is said to have brought it to Bergen. By 1351 it had reached the Russian principalities, and it was still killing in Moscow in 1353."
+        },
+        {
+          "type": "p",
+          "text": "The death toll was enormous but uneven. Most historians now put European mortality between about 30 and 50 percent, and the Norwegian historian Ole Benedictow has argued for around 60 percent. Florence, Siena, Venice and Paris probably lost about half their people. Some places, such as parts of Poland and Milan, were long thought to have escaped lightly, though newer research questions how lightly. Villages disappeared, and some were never resettled. In England, records of the clergy show that many parishes needed new priests two or three times in a single year."
+        },
+        {
+          "type": "p",
+          "text": "Rich and poor both died. Joan, the young daughter of Edward III of England, died of plague near Bordeaux in 1348 on her way to marry the heir to the throne of Castile. Her intended father-in-law, Alfonso XI of Castile, died of plague in 1350 while besieging Gibraltar, the only reigning European king to die of it in the first outbreak. The painter Ambrogio Lorenzetti of Siena is believed to have died in 1348, and so did Laura, the woman to whom the poet Petrarch addressed his love poems."
+        }
+      ]
+    },
+    {
+      "id": "living",
+      "kicker": "Living through it",
+      "title": "Doctors, flagellants and the search for blame",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "People in 1348 had no idea of bacteria. In October 1348 the medical faculty of the University of Paris, asked by King Philip VI for an explanation, reported that a conjunction of Saturn, Jupiter and Mars in 1345 had corrupted the air, and that the bad air, or miasma, then caused disease in bodies already out of balance. Doctors advised fleeing, burning aromatic wood, avoiding baths and strong emotions, and eating a moderate diet. Clement VI's doctors kept him between two great fires in his palace in Avignon. Many cities closed their gates, burned the belongings of the dead, and appointed health officials, and several Italian cities began to create permanent health boards."
+        },
+        {
+          "type": "p",
+          "text": "Many Christians understood the plague as God's punishment for sin. In 1348 and 1349 groups of flagellants marched from town to town in the German lands and the Low Countries, whipping themselves in public to win God's mercy. Their processions often stirred hostility against the clergy and against Jews, and Clement VI condemned the movement in October 1349."
+        },
+        {
+          "type": "p",
+          "text": "The worst violence fell on Jewish communities. Rumours spread that Jews were poisoning wells. In 1348 Jews in Savoy were tortured into confessions, which were circulated to other cities. Clement VI issued bulls in July and September 1348 forbidding attacks and pointing out that Jews were dying of plague like everyone else and that the plague was raging where there were no Jews at all. In many places this made no difference. In Basel in January 1349 Jews were burned on an island in the Rhine. In Strasbourg the city council tried to protect them and was overthrown; on 14 February 1349 the Jewish community was burned in its cemetery, and chroniclers gave the number of dead as around two thousand. Communities in Mainz, Cologne, Erfurt and scores of other towns were destroyed in 1349, often before the plague had even arrived. Many survivors moved east, especially into the kingdom of Poland."
+        },
+        {
+          "type": "p",
+          "text": "In the Islamic world the response was different in tone. Muslim scholars generally taught that plague was a mercy and a martyrdom for believers sent by God, and that the faithful should neither flee nor fear it. There were no pogroms against minorities on the European scale. Communal prayers and processions were held, and in Damascus in 1348 Muslims, Christians and Jews are reported to have prayed together. The Granadan scholar Ibn al-Khatib argued from observation that the disease was contagious, a view that was unusual among theologians of the time."
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "kicker": "People",
+      "title": "Writers, doctors and rulers of the plague years",
+      "blocks": [
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Giovanni Boccaccio",
+              "dates": "1313–1375",
+              "text": "A Florentine writer whose Decameron opens with a vivid and grim description of Florence in 1348: the swellings, the mass graves, and neighbours and relatives abandoning one another. The rest of the book is a hundred stories told by ten young people who leave the city for the countryside."
+            },
+            {
+              "name": "Francesco Petrarca (Petrarch)",
+              "dates": "1304–1374",
+              "text": "The poet and scholar who lost Laura, the woman of his poems, and many friends in 1348. His letters from the plague years ask whether future generations will even believe what happened."
+            },
+            {
+              "name": "Guy de Chauliac",
+              "dates": "c. 1300–1368",
+              "text": "Physician to the popes in Avignon. He stayed in the city through the plague, caught it and recovered, and his medical textbook gives one of the clearest contemporary descriptions of the disease."
+            },
+            {
+              "name": "Pope Clement VI",
+              "dates": "1291–1352",
+              "text": "Pope in Avignon from 1342. He paid for burial grounds, protected Jews in Avignon, issued bulls against the pogroms and condemned the flagellants."
+            },
+            {
+              "name": "Agnolo di Tura",
+              "dates": "fl. 1348",
+              "text": "A shoemaker and chronicler of Siena who wrote that he buried his five children with his own hands, one of the most quoted personal records of the plague."
+            },
+            {
+              "name": "Gabriele de' Mussi",
+              "dates": "c. 1280–c. 1356",
+              "text": "A notary from Piacenza whose account of the plague includes the story of corpses thrown into Caffa. He was not an eyewitness to the siege."
+            },
+            {
+              "name": "Jani Beg",
+              "dates": "died 1357",
+              "text": "Khan of the Golden Horde, whose army was besieging Caffa when plague struck it in 1346."
+            },
+            {
+              "name": "Ibn al-Wardi",
+              "dates": "c. 1290–1349",
+              "text": "A Syrian scholar who wrote an essay on the plague as it approached Aleppo, describing its path from the east. He died of it in 1349."
+            },
+            {
+              "name": "Ibn Battuta",
+              "dates": "1304–c. 1368",
+              "text": "The Moroccan traveller, who was in Syria and Egypt in 1348 on his way home and recorded the plague in Damascus and Cairo. His mother died of it in Tangier."
+            },
+            {
+              "name": "Ibn al-Khatib",
+              "dates": "1313–1374",
+              "text": "A poet, historian and minister in Granada who argued that plague spread by contact with the sick and their belongings."
+            },
+            {
+              "name": "Ibn Khaldun",
+              "dates": "1332–1406",
+              "text": "The North African historian, who lost both parents and many teachers to the plague in Tunis as a teenager. His Muqaddimah describes how the plague emptied cities and weakened dynasties."
+            },
+            {
+              "name": "Julian of Norwich",
+              "dates": "1343–after 1416",
+              "text": "An English anchoress born just before the plague reached England. Her Revelations of Divine Love, the earliest surviving book in English known to be written by a woman, includes the line 'all shall be well, and all manner of thing shall be well'."
+            },
+            {
+              "name": "Edward III",
+              "dates": "1312–1377",
+              "text": "King of England during the plague. His government issued the Ordinance of Labourers in 1349 to stop wages rising."
+            },
+            {
+              "name": "Alfonso XI of Castile",
+              "dates": "1311–1350",
+              "text": "King of Castile who died of plague during the siege of Gibraltar in 1350."
+            },
+            {
+              "name": "Wat Tyler",
+              "dates": "died 1381",
+              "text": "A leader of the English Peasants' Revolt of 1381, killed at Smithfield during a meeting with the fourteen-year-old Richard II."
+            },
+            {
+              "name": "John Ball",
+              "dates": "c. 1338–1381",
+              "text": "A radical priest who preached to the 1381 rebels, asking, 'When Adam delved and Eve span, who was then the gentleman?' He was executed after the revolt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "Fewer people, higher wages, angrier lords",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The plague did not leave after 1353. It returned in 1361, in an outbreak that chroniclers said fell especially on children and young people born since the first wave, and again in 1369, 1375 and roughly every decade afterwards. Because of these repeated outbreaks the population of Europe kept falling or stayed low for more than a century; England did not regain its pre-plague population until the sixteenth century. Plague remained a recurring threat in Europe until the eighteenth century, with the last major Western European outbreak in Marseille in 1720."
+        },
+        {
+          "type": "p",
+          "text": "With so many people dead, land was plentiful and workers were scarce. Labourers and tenants could demand higher wages or lower rents, or simply move to a lord who offered better terms. Lords and governments tried to stop this. In England the Ordinance of Labourers of 1349 and the Statute of Labourers of 1351 ordered workers to accept the wages paid before the plague and punished those who left their employers. Similar laws were passed in France, Castile, Aragon and Italian cities. They slowed the change but could not stop it, and in England real wages for ordinary workers rose substantially over the following century."
+        },
+        {
+          "type": "p",
+          "text": "The tension between workers and lords helped produce a wave of revolts. The Jacquerie of 1358 in northern France, the revolt of the Ciompi wool workers in Florence in 1378 and the English Peasants' Revolt of 1381 all had different immediate causes, such as war taxes or exclusion from city government. But all of them took place in societies where ordinary people expected more than the old order wanted to give. The English rising was crushed, yet over the next century serfdom faded away in England. In much of Eastern Europe the opposite happened in later centuries, as lords tied peasants more tightly to the land."
+        },
+        {
+          "type": "p",
+          "text": "The plague also changed culture and institutions. The Church lost many of its most dedicated priests, who died caring for the sick, and had to ordain younger and less trained replacements. Bishop William Bateman of Norwich founded Trinity Hall at Cambridge in 1350 partly to train new clergy, and Corpus Christi College followed in 1352. Images of death became common in art: the Dance of Death, in which skeletons lead people of every rank away, and tombs that show the dead person as a rotting corpse. Italian cities developed permanent health boards, and Ragusa's thirty-day isolation rule of 1377, later extended to forty days, gave us the word quarantine, from the Italian quaranta giorni."
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "kicker": "Women and the plague",
+      "title": "A golden age for women's work?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Because workers were scarce, some historians have argued that the generations after the plague were a relatively good time for women in parts of northwestern Europe. In England, records from towns such as York show women working as servants, brewers, spinners and in other trades, and the historian Jeremy Goldberg argued that young women had more chance to earn their own money and to marry later and by choice."
+        },
+        {
+          "type": "p",
+          "text": "Other historians, notably Judith Bennett in her study of English brewing, Ale, Beer, and Brewsters in England (1996), have pushed back. Bennett showed that women dominated small-scale brewing in the fourteenth century but were pushed out as the trade became larger, more profitable and more regulated in the fifteenth and sixteenth centuries, and she argued that women's work remained low-status and low-paid throughout. Economists have since linked the plague to the 'European marriage pattern', in which women married in their mid-twenties rather than their teens, though how strong that link is remains debated. The question is a useful example of how a disaster can open opportunities without changing the underlying rules about who holds power."
+        },
+        {
+          "type": "p",
+          "text": "Women's voices also survive from these years. Julian of Norwich was a small child when plague reached England and lived through several later outbreaks. Her book of visions, written in English in the late fourteenth century, returns again and again to suffering and to God's love. A generation later, the writer Christine de Pizan, born in Venice in 1364 and raised at the French royal court, became one of the first women in Europe to earn her living by writing, and her Book of the City of Ladies (1405) argued against the low opinion of women common in her time."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "kicker": "A story",
+      "title": "The shoemaker of Siena",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In 1348 Siena was one of the great cities of Tuscany. It had begun to build an enormous new cathedral, planned to make the existing one merely the transept of a far larger church. Then the plague arrived in the spring."
+        },
+        {
+          "type": "p",
+          "text": "The shoemaker and tax official Agnolo di Tura kept a chronicle of the city. He wrote that the dead were thrown into great ditches and covered with a little earth, and that some were so lightly buried that dogs dragged them out. He wrote that fathers abandoned children and husbands abandoned wives, because the illness seemed to pass through breath and sight. And he wrote: 'I, Agnolo di Tura, called the Fat, buried my five children with my own hands.' He added that so many died that everyone believed it was the end of the world."
+        },
+        {
+          "type": "p",
+          "text": "Siena never recovered its earlier size or power. Work on the giant new cathedral stopped, and it was never finished. The unfinished walls and the huge empty arch of its facade still stand beside the cathedral today, and visitors can climb them. They are one of the most visible marks the Black Death left on any European city."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "The 1340s around the world",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "The Middle East and North Africa: The plague struck Egypt and Syria in 1347–1349 as hard as it struck Europe. Cairo, then the largest city west of China, lost a very large share of its people, and the irrigation system of the Nile valley suffered because there were too few villagers to maintain it. The Mamluk sultanate survived, but historians see the plague as a turning point in its long decline.",
+            "China: The Yuan dynasty suffered floods, famine and epidemics in the 1330s–1350s, and the Yellow River broke its banks in 1344. Whether any of these epidemics was plague is uncertain, because Chinese records do not describe the symptoms clearly. The Red Turban rebellions began in 1351, and in 1368 Zhu Yuanzhang founded the Ming dynasty.",
+            "Japan: The country was split between rival Northern and Southern courts after 1336 (the Nanbokuchō period). There is no clear evidence that the Black Death reached Japan, which may have been protected by its distance from the main overland and maritime routes.",
+            "Taiwan: In the fourteenth century Taiwan was home to Austronesian Indigenous peoples and was not part of any state. The Yuan government did set up an office in the Penghu islands, and the traveller Wang Dayuan described a land called Liuqiu, which may have been Taiwan, in his Daoyi zhilüe of 1349.",
+            "West Africa: The Mali Empire was at its height after the famous pilgrimage of Mansa Musa to Mecca in 1324–1325. Whether plague crossed the Sahara in the 1340s is debated; some archaeologists and historians, including Monica Green, have argued that it did.",
+            "Western Europe at war: The Hundred Years' War continued through the plague. The English won at Crécy in 1346 and Poitiers in 1356, where they captured the French king John II, and the French ransom and war taxes fed the anger behind the Jacquerie."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "kicker": "Analysis",
+      "title": "Did the plague make the modern world?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Some historians see the Black Death as the event that ended the Middle Ages. In this view, the labour shortage broke serfdom in Western Europe, raised wages, encouraged labour-saving technology, weakened the authority of the Church and set the stage for the Renaissance. The historian Walter Scheidel, in The Great Leveler (2017), lists mass-mortality pandemics as one of four forces, along with war, revolution and state collapse, that have reduced economic inequality in history, and uses the Black Death as a central example. Guido Alfani's work on Italian tax records also shows wealth becoming less concentrated after 1348, then becoming more concentrated again from the fifteenth century."
+        },
+        {
+          "type": "p",
+          "text": "Other historians warn against making the plague explain everything. Many of the changes it is credited with, such as the decline of serfdom in England, were already under way before 1348, and in Eastern Europe the same shock was followed by stronger serfdom, not weaker. What the plague did depended on what each society already looked like: who controlled land, how strong the state was and whether workers could organise. Recently Monica Green and others have also argued that the Black Death should be studied as a global event across Eurasia and Africa, not mainly as a European one, and that its genetic history reaches back to an earlier spread of plague lineages in the thirteenth century."
+        },
+        {
+          "type": "p",
+          "text": "The plague also shows how people respond to disasters they cannot explain. Medieval authorities did some things that worked, such as isolation and health boards, and some that did enormous harm, such as blaming Jews. Both responses came from the same fear, and both left long-lasting institutions."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "Who wins after a disaster?",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "After the Black Death, workers in England gained higher wages despite laws designed to stop them, while peasants in much of Eastern Europe eventually lost freedom. Thinking about land, laws and who could organise, what do you think decided whether a great disaster helped or hurt ordinary people? Can you think of a modern crisis where the same question applies?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "Black Death (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Black_Death",
+      "note": "A detailed overview of the pandemic, its spread, death toll and consequences."
+    },
+    {
+      "title": "Spyrou et al., 'The source of the Black Death in fourteenth-century central Eurasia' (Nature, 2022)",
+      "url": "https://www.nature.com/articles/s41586-022-04800-3",
+      "note": "The ancient DNA study of the Issyk-Kul graves from 1338–1339."
+    },
+    {
+      "title": "Persecution of Jews during the Black Death (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Black_Death_Jewish_persecutions",
+      "note": "The well-poisoning accusations, Clement VI's bulls and the massacres of 1348–1351."
+    },
+    {
+      "title": "Strasbourg massacre (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Strasbourg_massacre",
+      "note": "The burning of Strasbourg's Jewish community on 14 February 1349."
+    },
+    {
+      "title": "The Decameron (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Decameron",
+      "note": "Boccaccio's plague-framed collection of a hundred stories."
+    },
+    {
+      "title": "Statute of Labourers 1351 (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Statute_of_Labourers_1351",
+      "note": "England's attempt to freeze wages after the plague."
+    },
+    {
+      "title": "Peasants' Revolt (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Peasants%27_Revolt",
+      "note": "The English rising of 1381, Wat Tyler and John Ball."
+    },
+    {
+      "title": "Quarantine (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Quarantine",
+      "note": "The history of isolation rules, including Ragusa in 1377 and the Venetian lazaretto."
+    },
+    {
+      "title": "Julian of Norwich (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Julian_of_Norwich",
+      "note": "The anchoress and author of Revelations of Divine Love."
+    }
+  ],
+  "listen": [],
+  "watch": [
+    {
+      "title": "The Seventh Seal (1957, Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Seventh_Seal",
+      "note": "Ingmar Bergman's film about a knight returning from the Crusades to a plague-stricken Sweden, who plays chess with Death."
+    }
+  ],
+  "fun_fact": {
+    "title": "Nobody at the time called it the Black Death",
+    "text": "People who lived through it called it 'the great mortality' or simply 'the pestilence'. The name Black Death became common in English only centuries later, probably from a Latin phrase, atra mors, in which atra can mean both 'black' and 'terrible'. It has nothing to do with the colour of the victims' skin, despite a popular belief."
+  },
+  "glossary": [
+    {
+      "term": "Giovanni Boccaccio",
+      "aliases": [],
+      "explain": "A Florentine writer whose Decameron opens with a vivid and grim description of Florence in 1348: the swellings, the mass graves, and neighbours and relatives abandoning one another."
+    },
+    {
+      "term": "Francesco Petrarca (Petrarch)",
+      "aliases": [
+        "Petrarch"
+      ],
+      "explain": "The poet and scholar who lost Laura, the woman of his poems, and many friends in 1348."
+    },
+    {
+      "term": "Guy de Chauliac",
+      "aliases": [],
+      "explain": "Physician to the popes in Avignon."
+    },
+    {
+      "term": "Pope Clement VI",
+      "aliases": [],
+      "explain": "Pope in Avignon from 1342."
+    },
+    {
+      "term": "Agnolo di Tura",
+      "aliases": [],
+      "explain": "A shoemaker and chronicler of Siena who wrote that he buried his five children with his own hands, one of the most quoted personal records of the plague."
+    },
+    {
+      "term": "Gabriele de' Mussi",
+      "aliases": [],
+      "explain": "A notary from Piacenza whose account of the plague includes the story of corpses thrown into Caffa."
+    },
+    {
+      "term": "Jani Beg",
+      "aliases": [],
+      "explain": "Khan of the Golden Horde, whose army was besieging Caffa when plague struck it in 1346."
+    },
+    {
+      "term": "Ibn al-Wardi",
+      "aliases": [],
+      "explain": "A Syrian scholar who wrote an essay on the plague as it approached Aleppo, describing its path from the east."
+    },
+    {
+      "term": "Ibn Battuta",
+      "aliases": [],
+      "explain": "The Moroccan traveller, who was in Syria and Egypt in 1348 on his way home and recorded the plague in Damascus and Cairo."
+    },
+    {
+      "term": "Ibn al-Khatib",
+      "aliases": [],
+      "explain": "A poet, historian and minister in Granada who argued that plague spread by contact with the sick and their belongings."
+    },
+    {
+      "term": "Ibn Khaldun",
+      "aliases": [],
+      "explain": "The North African historian, who lost both parents and many teachers to the plague in Tunis as a teenager."
+    },
+    {
+      "term": "Julian of Norwich",
+      "aliases": [],
+      "explain": "An English anchoress born just before the plague reached England."
+    },
+    {
+      "term": "Edward III",
+      "aliases": [],
+      "explain": "King of England during the plague."
+    },
+    {
+      "term": "Alfonso XI of Castile",
+      "aliases": [],
+      "explain": "King of Castile who died of plague during the siege of Gibraltar in 1350."
+    },
+    {
+      "term": "Wat Tyler",
+      "aliases": [],
+      "explain": "A leader of the English Peasants' Revolt of 1381, killed at Smithfield during a meeting with the fourteen-year-old Richard II."
+    },
+    {
+      "term": "John Ball",
+      "aliases": [],
+      "explain": "A radical priest who preached to the 1381 rebels, asking, 'When Adam delved and Eve span, who was then the gentleman?' He was executed after the revolt."
+    },
+    {
+      "term": "Kirsten Bos",
+      "aliases": [],
+      "explain": "Geneticist who led the 2011 study reconstructing the Black Death plague genome from London skeletons."
+    },
+    {
+      "term": "Johannes Krause",
+      "aliases": [],
+      "explain": "Geneticist and co-author of the 2011 and 2022 Black Death ancient DNA studies."
+    },
+    {
+      "term": "Maria Spyrou",
+      "aliases": [],
+      "explain": "Archaeogeneticist who led the 2022 study tracing the Black Death to the Issyk-Kul region."
+    },
+    {
+      "term": "Ole Benedictow",
+      "aliases": [],
+      "explain": "Norwegian historian whose 2004 history of the Black Death argued for mortality of about 60 percent in Europe."
+    },
+    {
+      "term": "Philip VI of France",
+      "aliases": [],
+      "explain": "King of France who asked the Paris medical faculty to explain the plague in 1348."
+    },
+    {
+      "term": "Ambrogio Lorenzetti",
+      "aliases": [],
+      "explain": "Sienese painter of the Allegory of Good and Bad Government, believed to have died in the plague of 1348."
+    },
+    {
+      "term": "Laura",
+      "aliases": [],
+      "explain": "The woman celebrated in Petrarch's poems, who died in 1348."
+    },
+    {
+      "term": "Joan of England",
+      "aliases": [],
+      "explain": "Daughter of Edward III who died of plague near Bordeaux in 1348 on her way to marry the heir of Castile."
+    },
+    {
+      "term": "Simeon of Moscow",
+      "aliases": [],
+      "explain": "Grand Prince of Moscow, called the Proud, who died of plague in 1353."
+    },
+    {
+      "term": "William Bateman",
+      "aliases": [],
+      "explain": "Bishop of Norwich who founded Trinity Hall, Cambridge, in 1350."
+    },
+    {
+      "term": "Jeremy Goldberg",
+      "aliases": [],
+      "explain": "Historian of medieval York who argued that women gained economic opportunities after the plague."
+    },
+    {
+      "term": "Judith Bennett",
+      "aliases": [],
+      "explain": "Historian who argued that women's work stayed low-status after the plague, notably in brewing."
+    },
+    {
+      "term": "Christine de Pizan",
+      "aliases": [],
+      "explain": "Writer born in Venice in 1364, one of the first European women to earn a living by writing."
+    },
+    {
+      "term": "Walter Scheidel",
+      "aliases": [],
+      "explain": "Historian and author of The Great Leveler (2017)."
+    },
+    {
+      "term": "Guido Alfani",
+      "aliases": [],
+      "explain": "Economic historian who traced wealth inequality in Italy before and after the plague."
+    },
+    {
+      "term": "Monica Green",
+      "aliases": [],
+      "explain": "Historian of medicine who argues for studying the Black Death as a global event."
+    },
+    {
+      "term": "Ingmar Bergman",
+      "aliases": [],
+      "explain": "Swedish director of The Seventh Seal (1957)."
+    },
+    {
+      "term": "Wang Dayuan",
+      "aliases": [],
+      "explain": "Yuan-era traveller whose 1349 Daoyi zhilüe described a land called Liuqiu, possibly Taiwan."
+    },
+    {
+      "term": "Zhu Yuanzhang",
+      "aliases": [],
+      "explain": "Founder of the Ming dynasty in 1368."
+    },
+    {
+      "term": "Mansa Musa",
+      "aliases": [],
+      "explain": "Ruler of the Mali Empire famous for his pilgrimage to Mecca in 1324–1325."
+    },
+    {
+      "term": "Richard II",
+      "aliases": [],
+      "explain": "King of England who faced the Peasants' Revolt at the age of fourteen."
+    },
+    {
+      "term": "John II of France",
+      "aliases": [],
+      "explain": "French king captured by the English at Poitiers in 1356."
+    },
+    {
+      "term": "Black Death",
+      "aliases": [
+        "great mortality",
+        "the pestilence"
+      ],
+      "explain": "The plague pandemic that swept across western Eurasia and North Africa from 1346 to 1353, killing perhaps a third to a half of the population."
+    },
+    {
+      "term": "Yersinia pestis",
+      "aliases": [],
+      "explain": "The bacterium that causes plague. Ancient DNA from plague cemeteries confirmed it as the cause of the Black Death."
+    },
+    {
+      "term": "Bubonic plague",
+      "aliases": [
+        "buboes"
+      ],
+      "explain": "The most common form of plague, in which bacteria infect the lymph nodes and cause painful swellings called buboes."
+    },
+    {
+      "term": "Pneumonic plague",
+      "aliases": [],
+      "explain": "Plague infection of the lungs, which can pass between people through coughing and was almost always fatal before antibiotics."
+    },
+    {
+      "term": "Septicaemic plague",
+      "aliases": [],
+      "explain": "Plague infection of the blood, which kills very quickly."
+    },
+    {
+      "term": "Great Famine",
+      "aliases": [],
+      "explain": "The years of failed harvests in northern Europe from 1315 to about 1322, which killed millions before the plague."
+    },
+    {
+      "term": "Hundred Years' War",
+      "aliases": [],
+      "explain": "The series of wars between England and France from 1337 to 1453."
+    },
+    {
+      "term": "Golden Horde",
+      "aliases": [],
+      "explain": "The Mongol state that ruled the steppe north of the Black Sea and the Caspian, whose army was besieging Caffa in 1346."
+    },
+    {
+      "term": "Caffa",
+      "aliases": [
+        "Feodosia"
+      ],
+      "explain": "A Genoese trading port in Crimea, besieged by the Golden Horde in 1346."
+    },
+    {
+      "term": "Issyk-Kul",
+      "aliases": [
+        "Lake Issyk-Kul"
+      ],
+      "explain": "A lake in today's Kyrgyzstan near which graves of 1338–1339 contained the earliest known Black Death plague DNA."
+    },
+    {
+      "term": "Miasma",
+      "aliases": [
+        "bad air"
+      ],
+      "explain": "The medieval and early modern theory that disease was caused by corrupted, foul-smelling air."
+    },
+    {
+      "term": "Flagellants",
+      "aliases": [],
+      "explain": "Groups who marched from town to town whipping themselves in public as penance, especially in 1348–1349."
+    },
+    {
+      "term": "Strasbourg massacre",
+      "aliases": [],
+      "explain": "The burning of the Jewish community of Strasbourg on 14 February 1349, after well-poisoning accusations."
+    },
+    {
+      "term": "Well-poisoning accusation",
+      "aliases": [],
+      "explain": "The false claim that Jews caused the plague by poisoning wells, used to justify massacres in 1348–1351."
+    },
+    {
+      "term": "Ordinance of Labourers",
+      "aliases": [],
+      "explain": "The English royal order of 1349 that tried to hold wages at pre-plague levels."
+    },
+    {
+      "term": "Statute of Labourers",
+      "aliases": [],
+      "explain": "The English law of 1351 that confirmed and enforced the 1349 wage controls."
+    },
+    {
+      "term": "Jacquerie",
+      "aliases": [],
+      "explain": "The peasant revolt in northern France in 1358, named after 'Jacques', a nickname for a peasant."
+    },
+    {
+      "term": "Revolt of the Ciompi",
+      "aliases": [
+        "Ciompi"
+      ],
+      "explain": "The uprising of Florentine wool workers in 1378, who briefly took over the city government."
+    },
+    {
+      "term": "Peasants' Revolt",
+      "aliases": [],
+      "explain": "The English rising of 1381 against the poll tax and the burdens of serfdom."
+    },
+    {
+      "term": "Serfdom",
+      "aliases": [
+        "serfs"
+      ],
+      "explain": "A system in which peasants were legally bound to a lord's land and owed him labour and dues."
+    },
+    {
+      "term": "Quarantine",
+      "aliases": [
+        "trentino"
+      ],
+      "explain": "Isolating people or goods from infected places for a fixed period, from the Italian quaranta giorni, forty days. Ragusa's 1377 rule used thirty days."
+    },
+    {
+      "term": "Lazaretto",
+      "aliases": [],
+      "explain": "A plague hospital or quarantine station; Venice opened a permanent one on a lagoon island in 1423."
+    },
+    {
+      "term": "Dance of Death",
+      "aliases": [
+        "danse macabre"
+      ],
+      "explain": "An artistic theme in which skeletons lead people of every rank, from pope to peasant, to the grave."
+    },
+    {
+      "term": "Transi tomb",
+      "aliases": [
+        "cadaver tomb"
+      ],
+      "explain": "A late medieval tomb showing the dead person as a decaying corpse."
+    },
+    {
+      "term": "European marriage pattern",
+      "aliases": [],
+      "explain": "The northwestern European custom of late marriage, often in the mid-twenties, with many people never marrying."
+    },
+    {
+      "term": "Mamluk sultanate",
+      "aliases": [
+        "Mamluks"
+      ],
+      "explain": "The state that ruled Egypt and Syria from 1250 to 1517 and suffered heavily from the plague."
+    },
+    {
+      "term": "Yuan dynasty",
+      "aliases": [],
+      "explain": "The Mongol-ruled dynasty in China, 1271–1368."
+    },
+    {
+      "term": "Red Turban rebellions",
+      "aliases": [
+        "Red Turbans"
+      ],
+      "explain": "Rebellions in China beginning in 1351 that helped bring down the Yuan dynasty."
+    },
+    {
+      "term": "Ming dynasty",
+      "aliases": [],
+      "explain": "The Chinese dynasty founded by Zhu Yuanzhang in 1368."
+    },
+    {
+      "term": "Nanbokuchō period",
+      "aliases": [
+        "Northern and Southern Courts"
+      ],
+      "explain": "The period in Japan from 1336 to 1392 when rival imperial courts competed for power."
+    },
+    {
+      "term": "Mali Empire",
+      "aliases": [],
+      "explain": "The West African empire at its height in the fourteenth century under rulers such as Mansa Musa."
+    },
+    {
+      "term": "Decameron",
+      "aliases": [
+        "The Decameron"
+      ],
+      "explain": "Boccaccio's collection of a hundred stories told by ten young Florentines escaping the plague, written around 1349–1353."
+    },
+    {
+      "term": "Revelations of Divine Love",
+      "aliases": [],
+      "explain": "Julian of Norwich's book of visions, the earliest surviving book in English known to be by a woman."
+    },
+    {
+      "term": "The Book of the City of Ladies",
+      "aliases": [],
+      "explain": "Christine de Pizan's 1405 defence of women's abilities and history."
+    },
+    {
+      "term": "Ale, Beer, and Brewsters in England",
+      "aliases": [],
+      "explain": "Judith Bennett's 1996 study of women in English brewing from 1300 to 1600."
+    },
+    {
+      "term": "The Great Leveler",
+      "aliases": [],
+      "explain": "Walter Scheidel's 2017 book arguing that inequality has mainly been reduced by violent shocks, including pandemics."
+    },
+    {
+      "term": "The Seventh Seal",
+      "aliases": [],
+      "explain": "Ingmar Bergman's 1957 film set during a plague, in which a knight plays chess with Death."
+    },
+    {
+      "term": "Muqaddimah",
+      "aliases": [],
+      "explain": "Ibn Khaldun's introduction to world history, completed in 1377."
+    },
+    {
+      "term": "Trinity Hall",
+      "aliases": [],
+      "explain": "A Cambridge college founded in 1350 by Bishop William Bateman, partly to train clergy after the plague."
+    },
+    {
+      "term": "Siena Cathedral",
+      "aliases": [
+        "Duomo Nuovo"
+      ],
+      "explain": "Siena's cathedral, whose planned enormous extension was abandoned after the plague; its unfinished walls still stand."
+    },
+    {
+      "term": "Atra mors",
+      "aliases": [],
+      "explain": "A Latin phrase meaning 'black' or 'terrible death', the likely source of the later name Black Death."
+    }
+  ]
+}
