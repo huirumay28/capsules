@@ -1,0 +1,528 @@
+{
+  "slug": "experience-economy",
+  "date": "2026-11-28",
+  "subject": "business",
+  "related": [
+    "growth-share-matrix",
+    "good-strategy-bad-strategy",
+    "value-chain",
+    "core-competence",
+    "blue-ocean-strategy",
+    "jobs-to-be-done"
+  ],
+  "title": "The Experience Economy: when the memory is the product",
+  "dek": "In the July–August 1998 issue of Harvard Business Review, B. Joseph Pine II and James H. Gilmore argued that experiences are a fourth kind of economic offering, as different from services as services are from goods. A company that sells goods competes on features, a company that sells services competes on benefits, but a company that stages an experience sells a memory, and customers will pay a premium for it. This lesson explains the framework first: the progression of economic value, the four realms of an experience and the five design principles. It then follows how Starbucks, Apple, Build-A-Bear Workshop and J.C. Penney used, lost or misjudged experience strategy, and ends with what the idea means for a small vintage shop.",
+  "era": "1998 HBR article and 1999 book; cases from 1955 to 2013",
+  "reading_minutes": 15,
+  "honesty": "The birthday-cake progression, the four realms, the five design principles and the Rainforest Cafe, Standard Parking, Geek Squad and Star theater examples come from Pine and Gilmore's 1998 HBR article 'Welcome to the Experience Economy'. Quotations from Howard Schultz come from his memo of 14 February 2007 as it was published online. The Starbucks retraining figures come from Seattle Times and New York Times reports of February 2008. J.C. Penney's results come from the company's own earnings release of 27 February 2013. The Starbucks, Apple, Build-A-Bear and J.C. Penney cases are examples of experience strategy as I read them; except where stated, these companies did not say they were following Pine and Gilmore. The lesson is text only.",
+  "timeline": [
+    {
+      "year": "1955",
+      "label": "Disneyland opens",
+      "detail": "Walt Disney's park in Anaheim, California treats visitors as 'guests' and staff as performers, the model Pine and Gilmore later point to as the pioneer of staged experiences."
+    },
+    {
+      "year": "1989",
+      "label": "The Great Good Place",
+      "detail": "Sociologist Ray Oldenburg publishes the book that names the 'third place', a social setting between home and work. Howard Schultz later borrows the term for Starbucks."
+    },
+    {
+      "year": "1989",
+      "label": "Eslite in Taipei",
+      "detail": "吳清友 (Robert Wu) opens the first 誠品書店 Eslite bookstore in Taipei. In 1999 its Dunhua South Road store begins opening 24 hours a day."
+    },
+    {
+      "year": "July–August 1998",
+      "label": "'Welcome to the Experience Economy'",
+      "detail": "Pine and Gilmore's HBR article sets out the progression of economic value, the four realms and five design principles."
+    },
+    {
+      "year": "April 1999",
+      "label": "The book",
+      "detail": "Harvard Business School Press publishes The Experience Economy: Work Is Theatre and Every Business a Stage."
+    },
+    {
+      "year": "October 1999",
+      "label": "Planet Hollywood files for bankruptcy",
+      "detail": "One of the 'eatertainment' chains the article names files for Chapter 11 protection on 12 October 1999."
+    },
+    {
+      "year": "19 May 2001",
+      "label": "First Apple Stores",
+      "detail": "Apple opens its first two stores, at Tysons Corner in Virginia and Glendale Galleria in California."
+    },
+    {
+      "year": "14 February 2007",
+      "label": "Schultz's memo",
+      "detail": "Howard Schultz writes 'The Commoditization of the Starbucks Experience' to Starbucks executives."
+    },
+    {
+      "year": "26 February 2008",
+      "label": "Starbucks closes for three hours",
+      "detail": "About 7,100 US company-operated stores close in the evening so that baristas can be retrained in making espresso."
+    },
+    {
+      "year": "Nov 2011 – Apr 2013",
+      "label": "Ron Johnson at J.C. Penney",
+      "detail": "The former head of Apple retail becomes J.C. Penney's chief executive, writes about the Apple Store in HBR, and is removed after sales fall by about a quarter."
+    }
+  ],
+  "sections": [
+    {
+      "id": "before",
+      "kicker": "Before",
+      "title": "From goods to services, and the problem of commoditization",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "For most of the twentieth century, business thinking divided the economy into three kinds of output. Agriculture and mining extracted commodities such as wheat, coffee beans and iron ore. Industry turned commodities into goods, standardized products that could be stored in a warehouse and sold later. From the 1950s onward, rich countries moved into a service economy, in which a growing share of spending went to activities performed for the customer, such as banking, repair, cleaning and restaurants."
+        },
+        {
+          "type": "p",
+          "text": "Each step up this ladder allowed firms to charge more, because the offering was more closely tailored to what the customer needed. Each step also had the same weakness. Once many firms could make a good or deliver a service to the same standard, customers began to choose on price alone. Economists and managers call this commoditization. By the 1990s Pine and Gilmore saw it happening to services: long-distance telephone calls, for example, were sold mainly on the price per minute."
+        },
+        {
+          "type": "p",
+          "text": "B. Joseph Pine II had already written about mass customization, the idea that a firm can tailor products to individual customers at close to mass-production cost. With James H. Gilmore he founded Strategic Horizons LLP, a small consultancy in Cleveland, Ohio. Their 1998 article asked what lies beyond customized services. Their answer was that when a company uses services as the stage and goods as props to engage a person in a memorable way, it is selling something new."
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "kicker": "The framework",
+      "title": "The progression of economic value, four realms and five principles",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pine and Gilmore open the article with the history of the birthday cake. In the agrarian economy, mothers baked cakes from farm commodities, flour, sugar, butter and eggs, that cost mere dimes. In the industrial economy, parents paid a dollar or two to Betty Crocker for a premixed box. In the service economy, busy parents ordered a cake from a bakery or grocery store for 10 or 15 dollars, about ten times the price of the packaged ingredients. In the 1990s, the authors wrote, parents neither made the cake nor threw the party. They spent 100 dollars or more to outsource the whole event to Chuck E. Cheese's or the Discovery Zone, which staged a memorable afternoon for the children and often threw in the cake for free."
+        },
+        {
+          "type": "p",
+          "text": "The point of the story is that each stage is a different economic offering with a different logic. The article summarizes the differences in a table:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Commodities belong to the agrarian economy. The economic function is to extract them, they are fungible, they are stored in bulk, the seller is a trader and the buyer is a market.",
+            "Goods belong to the industrial economy. The function is to make them, they are tangible and standardized, they are inventoried after production, the seller is a manufacturer and the buyer is a user who values features.",
+            "Services belong to the service economy. The function is to deliver them, they are intangible and customized, they are delivered on demand, the seller is a provider and the buyer is a client who values benefits.",
+            "Experiences belong to the experience economy. The function is to stage them, they are memorable and personal, they are revealed over a duration of time, the seller is a stager and the buyer is a guest who values sensations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The word 'guest' is borrowed from Walt Disney. Pine and Gilmore stress that an experience exists only in the mind of the person who has it, so no two people have exactly the same experience. They also insist that an experience is not just a marketing layer on top of a product. Their test is admission: a company has truly moved into the experience business when customers would pay to enter. They point to the Star theater complex in Southfield, Michigan, which charged about 25 per cent more for a film than a local competitor because of the fun-house experience inside, and they suggest that managers ask what they would change if they had to charge admission."
+        },
+        {
+          "type": "p",
+          "text": "To describe the range of possible experiences, the authors use two dimensions. The first is participation: at one end, passive guests such as a symphony audience do not affect the performance; at the other, active guests such as skiers create it. The second is connection: at one end, guests absorb an event from a distance, like spectators in the grandstand at the Kentucky Derby; at the other, they are immersed in it, like the crowd standing in the infield among the sights, sounds and smells. Crossing the two dimensions gives four realms:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Entertainment: passive and absorbing, such as watching a show.",
+            "Educational: active and absorbing, such as taking a class or a ski lesson, where the guest must engage the mind or body.",
+            "Escapist: active and immersive, such as playing in a casino or acting in a role-play, where the guest helps shape the event.",
+            "Esthetic: passive and immersive, such as standing in a gallery or a beautiful landscape, where the guest takes in the setting but does not change it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The richest experiences, such as a trip to Disney World or an evening in a Las Vegas casino, combine all four realms. Pine and Gilmore call that overlap the 'sweet spot'."
+        },
+        {
+          "type": "p",
+          "text": "Finally, the article sets out five design principles, drawn from companies that were already staging experiences:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Theme the experience. A clear theme, like those of the Hard Rock Cafe, Planet Hollywood or the Rainforest Cafe, tells guests what to expect. Without one, the authors quote Gertrude Stein on Oakland: 'There is no there there.' Their positive example is the Forum Shops in Las Vegas, a mall built as an ancient Roman marketplace.",
+            "Harmonize impressions with positive cues. Every detail should support the theme. The Barista Brava coffee chain in Washington, D.C. laid out its floor tiles and counters so that customers formed a line without ropes or signs. Standard Parking decorated each floor of its O'Hare Airport garage in Chicago with a different local sports team and its own song, so that travellers would never forget where they parked.",
+            "Eliminate negative cues. Anything that contradicts the theme should go. The authors' example is the 'Thank You' sign on fast-food trash bins, which really says 'no service here'.",
+            "Mix in memorabilia. People pay a premium for objects that remind them of an experience, like an official concert T-shirt printed with the date and the city. The price depends less on the cost of the shirt than on the value of the memory.",
+            "Engage all five senses. At the Rainforest Cafe, the mist rising from the rocks is first heard, then seen, then felt on the skin, then smelled and, in a sense, tasted."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "In the book that followed in April 1999, the subtitle 'Work Is Theatre and Every Business a Stage' made the metaphor explicit: employees are performers, the store is a stage, and work should be scripted and rehearsed. The authors also named a fifth offering beyond experiences, transformations, in which the customer pays to be changed, as with a fitness programme or a course of study. Later editions of the book were published in 2011 and 2019."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "B. Joseph Pine II",
+              "text": "American author and consultant, known first for Mass Customization (1993) and then as co-author of the 1998 HBR article and the 1999 book The Experience Economy."
+            },
+            {
+              "name": "James H. Gilmore",
+              "text": "American consultant and co-founder, with Pine, of Strategic Horizons LLP in Cleveland, Ohio; co-author of The Experience Economy."
+            },
+            {
+              "name": "Walt Disney",
+              "text": "Film producer and founder of Disneyland (1955), whom Pine and Gilmore call an experience-economy pioneer and from whom they take the word 'guest'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cases",
+      "kicker": "Cases",
+      "title": "Starbucks, Apple, Build-A-Bear and J.C. Penney",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Starbucks is the best-known example of a company charging an experience price for a commodity. Howard Schultz described the stores as a 'third place' between home and work, a term he borrowed from Ray Oldenburg's 1989 book The Great Good Place, and the theatre of the barista grinding beans and pulling shots was part of what customers paid for. As the company grew, efficiency decisions slowly removed that theatre. On 14 February 2007 Schultz, then chairman, sent a memo to chief executive Jim Donald and other executives titled 'The Commoditization of the Starbucks Experience'. He wrote that the growth from fewer than 1,000 stores to 13,000 had required 'a series of decisions that, in retrospect, have lead to the watering down of the Starbucks experience'."
+        },
+        {
+          "type": "p",
+          "text": "The memo reads almost like a checklist of Pine and Gilmore's principles being broken. Tall automatic espresso machines had solved a problem of speed, but they blocked the customer's view of the drink being made and removed what Schultz called 'the romance and theatre'. Flavour-locked bagged coffee kept beans fresh, but cost the stores their aroma, 'perhaps the most powerful non-verbal signal we had'. Streamlined store designs met investment targets but produced stores that some people called 'sterile, cookie cutter'. Schultz returned as chief executive in January 2008. On 26 February 2008 Starbucks closed about 7,100 company-operated US stores for roughly three hours in the evening to retrain baristas in making espresso, a public admission that the experience, not the coffee bean, was the product."
+        },
+        {
+          "type": "p",
+          "text": "Apple applied the same idea to computers. When its first two stores opened on 19 May 2001, at Tysons Corner in Virginia and Glendale Galleria in California, most computers were sold in warehouse-style electronics stores of the kind Pine and Gilmore had criticized for their rows of identical appliances. Ron Johnson, who came from Target to run Apple retail, built stores where customers could use every product, staff were not paid on commission, and the Genius Bar offered face-to-face help. In his November 2011 HBR blog post 'What I Learned Building the Apple Store' and the December 2011 HBR interview 'Retail Isn't Broken. Stores Are', Johnson argued that a store should exist to enrich customers' lives rather than simply to move products, which is close to Pine and Gilmore's language of guests and staging."
+        },
+        {
+          "type": "p",
+          "text": "Build-A-Bear Workshop, founded by Maxine Clark, opened its first store in the St. Louis Galleria in October 1997. Customers do not buy a finished teddy bear. They choose a skin, help stuff it, place a small heart inside and dress it, and the finished bear is the souvenir of the visit. In Pine and Gilmore's terms the store moves a goods business into the escapist realm, because the child actively takes part in making the product, and it uses memorabilia as the core of the sale."
+        },
+        {
+          "type": "p",
+          "text": "J.C. Penney shows the risk of importing an experience strategy into the wrong setting. Johnson became chief executive in November 2011 and set out to turn the department store into a street of small branded shops, while ending most coupons and sales in favour of everyday prices. Many of Penney's customers had valued the thrill of finding a bargain, which was part of their experience of the store. According to the company's release of 27 February 2013, sales for the fiscal year ended 2 February 2013 fell by about a quarter and the company reported a net loss of 985 million dollars. The board removed Johnson in April 2013 and brought back his predecessor, Myron Ullman."
+        },
+        {
+          "type": "people",
+          "people": [
+            {
+              "name": "Howard Schultz",
+              "text": "Built Starbucks into a global chain; chairman when he wrote the February 2007 memo, and chief executive again from January 2008."
+            },
+            {
+              "name": "Ray Oldenburg",
+              "text": "American sociologist whose 1989 book The Great Good Place named the 'third place'."
+            },
+            {
+              "name": "Ron Johnson",
+              "text": "Head of Apple's retail stores from 2000, then chief executive of J.C. Penney from November 2011 to April 2013."
+            },
+            {
+              "name": "Maxine Clark",
+              "text": "Former retail executive who founded Build-A-Bear Workshop and opened its first store in St. Louis in 1997."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limits",
+      "kicker": "Limits",
+      "title": "When staging goes wrong",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The first limit is novelty. A theme that delights on the first visit can feel repetitive on the fifth. Planet Hollywood, one of the restaurants the 1998 article named as an example of 'eatertainment', filed for Chapter 11 bankruptcy protection on 12 October 1999, little more than a year after the article appeared. A themed setting cannot rescue an offering that customers do not want to repeat."
+        },
+        {
+          "type": "p",
+          "text": "The second limit is cost and scale, which is the lesson of Schultz's memo. Experiences depend on people, time and small sensory details, exactly the things that efficiency programmes remove. Each of Starbucks' decisions was reasonable on its own; together they turned a staged experience back into a service sold on convenience."
+        },
+        {
+          "type": "p",
+          "text": "The third limit is fit. Johnson's Apple experience assumed customers who wanted to spend time in a beautiful store. Penney's core customers wanted a different experience, the hunt for a deal, and the redesign removed it. The framework tells a company to design a memorable experience, but it cannot tell the company which experience its own guests value. That still requires the kind of diagnosis covered in the lesson on good and bad strategy."
+        },
+        {
+          "type": "p",
+          "text": "Finally, many critics and some practitioners use 'experience' loosely to mean any pleasant customer service. Pine and Gilmore themselves draw a sharper line: if an event exists only to make customers prefer a commoditized product, it is marketing, not an economic offering. The admission test remains the most useful check."
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "kicker": "Elsewhere",
+      "title": "Taipei and Tokyo at the same time",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Asian retailers were building experience businesses in the same years without using the label. In Taipei, 吳清友 (Robert Wu) opened the first Eslite (誠品) bookstore in 1989 and kept it running at a loss for many years while it built a reputation for curated books, reading space and events. In March 1999, a few months after the HBR article, Eslite's Dunhua South Road store began opening 24 hours a day, and late-night browsing there became part of Taipei life until the store closed in 2020. In Japan, Tokyo Disneyland, which opened in 1983 under licence from Disney, applied the 'guest' and 'cast' model to a new market and showed that the Disney experience could be exported."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "kicker": "After",
+      "title": "What the idea became",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The phrase 'experience economy' passed into everyday business language. Pop-up shops, flagship stores, immersive exhibitions, brand cafés and ticketed museum-style installations all follow the logic that customers will pay for time well spent and for something to remember. In e-commerce, where goods and delivery are easily compared on price, many physical shops now justify themselves by what can only happen in person."
+        },
+        {
+          "type": "p",
+          "text": "For a business like a vintage shop, the framework offers a useful reminder. The garment is a good, and finding, cleaning and pricing it is a service, but the reason people keep coming back may be the experience of the hunt, the story of where a piece came from and the feeling of the place. That experience can be designed, and like Starbucks' aroma, it can be lost by small decisions made for efficiency."
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "kicker": "One question",
+      "title": "For cool dairy",
+      "blocks": [
+        {
+          "type": "question",
+          "text": "Imagine cool dairy holds a one-day pop-up and charges a small admission fee that goes straight to a Taiwan women's organization. Using the five principles, what is the theme (for example, a 2008 indie-sleaze bedroom or a 1970s Taipei record shop)? Which cues would support it, which negative cues would you remove (for example price stickers or bare racks), what memorabilia would visitors take home, and how would you engage each of the five senses? Which of the four realms would the day mainly sit in, and could it reach the sweet spot?"
+        }
+      ]
+    }
+  ],
+  "read": [
+    {
+      "title": "B. Joseph Pine II and James H. Gilmore, 'Welcome to the Experience Economy' (Harvard Business Review, July–August 1998)",
+      "url": "https://hbr.org/1998/07/welcome-to-the-experience-economy",
+      "note": "The original article with the birthday cake, the four realms and the five design principles."
+    },
+    {
+      "title": "Strategic Horizons, 'The History of the Experience Economy'",
+      "url": "https://strategichorizons.com/the-history-of-the-experience-economy/",
+      "note": "The authors' own account of how the idea developed."
+    },
+    {
+      "title": "Howard Schultz, 'The Commoditization of the Starbucks Experience' (memo, 14 February 2007)",
+      "url": "https://www.squawkpoint.com/wp-content/uploads/2015/10/Howard-Schultz-memo-2007.pdf",
+      "note": "The full text of the leaked memo."
+    },
+    {
+      "title": "'Starbucks Takes a 3-Hour Coffee Break' (The New York Times, 27 February 2008)",
+      "url": "https://www.nytimes.com/2008/02/27/business/27sbux.html",
+      "note": "Report on the evening when US stores closed for espresso retraining."
+    },
+    {
+      "title": "'Starbucks stores to shut 3 hours on Feb. 26 for retraining baristas' (The Seattle Times, 2008)",
+      "url": "https://www.seattletimes.com/business/starbucks-stores-to-shut-3-hours-on-feb-26-for-retraining-baristas/",
+      "note": "The hometown paper's announcement of the closure."
+    },
+    {
+      "title": "Ron Johnson, 'What I Learned Building the Apple Store' (HBR.org, 21 November 2011)",
+      "url": "https://hbr.org/2011/11/what-i-learned-building-the-ap",
+      "note": "Johnson's own account of the Apple Store, written as he started at J.C. Penney."
+    },
+    {
+      "title": "Ron Johnson, 'Retail Isn't Broken. Stores Are' (Harvard Business Review, December 2011)",
+      "url": "https://hbr.org/2011/12/retail-isnt-broken-stores-are",
+      "note": "Interview on stores as places that enrich customers' lives."
+    },
+    {
+      "title": "J.C. Penney, 2012 fourth-quarter and full-year results (27 February 2013)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1166126/000116612613000009/exhibit99feb2013.htm",
+      "note": "The company's own figures for the year of the redesign."
+    }
+  ],
+  "listen": [],
+  "watch": [],
+  "fun_fact": {
+    "title": "The café Venice has run since 1720",
+    "text": "Caffè Florian on Piazza San Marco in Venice opened on 29 December 1720 under the name 'Alla Venezia Trionfante' and is the oldest coffee house in Italy still operating. It is a good place to picture this lesson's ladder of value: the beans in a cup cost very little, and guests at Florian pay many times more for the music, the square and three centuries of history."
+  },
+  "glossary": [
+    {
+      "term": "Experience economy",
+      "aliases": [
+        "experience economy"
+      ],
+      "explain": "Pine and Gilmore's term for an economy in which companies stage memorable events and charge for the experience itself."
+    },
+    {
+      "term": "Progression of economic value",
+      "aliases": [],
+      "explain": "The ladder from commodities to goods, services and experiences, each more differentiated and able to command a higher price."
+    },
+    {
+      "term": "Commoditization",
+      "aliases": [
+        "commoditized"
+      ],
+      "explain": "The process by which an offering becomes so similar across sellers that customers choose on price alone."
+    },
+    {
+      "term": "Four realms of an experience",
+      "aliases": [
+        "four realms"
+      ],
+      "explain": "Entertainment, educational, escapist and esthetic, defined by passive or active participation and absorption or immersion."
+    },
+    {
+      "term": "Sweet spot",
+      "aliases": [],
+      "explain": "Pine and Gilmore's name for an experience that combines all four realms."
+    },
+    {
+      "term": "Third place",
+      "aliases": [
+        "third places"
+      ],
+      "explain": "Ray Oldenburg's term for a social setting between home and work, later used by Starbucks."
+    },
+    {
+      "term": "Transformations",
+      "aliases": [
+        "transformation"
+      ],
+      "explain": "The fifth economic offering in Pine and Gilmore's book, in which the customer pays to be changed."
+    },
+    {
+      "term": "Eatertainment",
+      "aliases": [],
+      "explain": "Themed restaurants where, in the article's words, the food is just a prop for the entertainment."
+    },
+    {
+      "term": "Memorabilia",
+      "aliases": [],
+      "explain": "Goods bought mainly as reminders of an experience, which sell at a premium for that reason."
+    },
+    {
+      "term": "B. Joseph Pine II",
+      "aliases": [
+        "Pine",
+        "Joseph Pine"
+      ],
+      "explain": "Co-author of 'Welcome to the Experience Economy' (1998) and The Experience Economy (1999)."
+    },
+    {
+      "term": "James H. Gilmore",
+      "aliases": [
+        "Gilmore"
+      ],
+      "explain": "Co-author with Pine and co-founder of Strategic Horizons LLP."
+    },
+    {
+      "term": "Strategic Horizons LLP",
+      "aliases": [
+        "Strategic Horizons"
+      ],
+      "explain": "The Cleveland consultancy founded by Pine and Gilmore."
+    },
+    {
+      "term": "Welcome to the Experience Economy",
+      "aliases": [],
+      "explain": "Pine and Gilmore's HBR article of July–August 1998."
+    },
+    {
+      "term": "The Experience Economy",
+      "aliases": [],
+      "explain": "Pine and Gilmore's 1999 book, subtitled 'Work Is Theatre and Every Business a Stage'."
+    },
+    {
+      "term": "Walt Disney",
+      "aliases": [
+        "Disney"
+      ],
+      "explain": "Founder of Disneyland (1955), from whom Pine and Gilmore borrow the word 'guest'."
+    },
+    {
+      "term": "Rainforest Cafe",
+      "aliases": [],
+      "explain": "Themed restaurant chain whose rock mist is the article's example of engaging all five senses."
+    },
+    {
+      "term": "Planet Hollywood",
+      "aliases": [],
+      "explain": "Film-themed restaurant chain named in the article; it filed for Chapter 11 in October 1999."
+    },
+    {
+      "term": "Howard Schultz",
+      "aliases": [
+        "Schultz"
+      ],
+      "explain": "Starbucks leader who wrote the 2007 memo on the commoditization of the Starbucks experience."
+    },
+    {
+      "term": "The Commoditization of the Starbucks Experience",
+      "aliases": [],
+      "explain": "Schultz's memo of 14 February 2007."
+    },
+    {
+      "term": "Ray Oldenburg",
+      "aliases": [
+        "Oldenburg"
+      ],
+      "explain": "Sociologist who coined 'third place' in The Great Good Place (1989)."
+    },
+    {
+      "term": "The Great Good Place",
+      "aliases": [],
+      "explain": "Oldenburg's 1989 book on cafés, bars and other third places."
+    },
+    {
+      "term": "Ron Johnson",
+      "aliases": [
+        "Johnson"
+      ],
+      "explain": "Builder of the Apple Store and J.C. Penney chief executive from 2011 to 2013."
+    },
+    {
+      "term": "Genius Bar",
+      "aliases": [],
+      "explain": "The face-to-face support counter in Apple Stores."
+    },
+    {
+      "term": "Retail Isn't Broken. Stores Are",
+      "aliases": [],
+      "explain": "Ron Johnson's December 2011 HBR interview."
+    },
+    {
+      "term": "J.C. Penney",
+      "aliases": [
+        "Penney",
+        "JCPenney"
+      ],
+      "explain": "American department store chain whose 2012 redesign under Johnson led to a fall of about a quarter in sales."
+    },
+    {
+      "term": "Myron Ullman",
+      "aliases": [
+        "Ullman"
+      ],
+      "explain": "J.C. Penney chief executive before and after Johnson."
+    },
+    {
+      "term": "Build-A-Bear Workshop",
+      "aliases": [
+        "Build-A-Bear"
+      ],
+      "explain": "Retailer founded in 1997 where customers make their own stuffed animals."
+    },
+    {
+      "term": "Maxine Clark",
+      "aliases": [],
+      "explain": "Founder of Build-A-Bear Workshop."
+    },
+    {
+      "term": "Eslite",
+      "aliases": [
+        "誠品",
+        "誠品書店"
+      ],
+      "explain": "Taiwanese bookstore chain founded by 吳清友 in 1989; its Dunhua store opened 24 hours a day from 1999 to 2020."
+    },
+    {
+      "term": "吳清友",
+      "aliases": [
+        "Robert Wu"
+      ],
+      "explain": "Founder of Eslite."
+    },
+    {
+      "term": "Tokyo Disneyland",
+      "aliases": [],
+      "explain": "Disney theme park in Japan, opened in 1983 under licence."
+    },
+    {
+      "term": "Caffè Florian",
+      "aliases": [
+        "Florian"
+      ],
+      "explain": "Venice café on Piazza San Marco, open since 1720."
+    }
+  ]
+}
